@@ -1,565 +1,1167 @@
 [
   {
     "id": 1,
-    "category": "Sinonim",
-    "question": "Apa persamaan kata dari kesahihan?",
+    "category": "Logika Diagram",
+    "question": "Jika semua buku di rak adalah novel, dan Harry Potter adalah sebuah buku, maka apa kesimpulan yang dapat ditarik?",
     "options": {
-      "A": "Kebenaran",
-      "B": "Kemantapan",
-      "C": "Keberlakuan",
-      "D": "Kesalahan",
-      "E": "Kematangan"
+      "A": "Semua buku adalah Harry Potter",
+      "B": "Semua novel adalah Harry Potter",
+      "C": "Semua novel adalah buku",
+      "D": "Semua Harry Potter adalah novel",
+      "E": "Semua buku di rak adalah Harry Potter"
     },
-    "answer": "A",
-    "explanation": "Kesahihan berarti kebenaran atau keabsahan."
+    "answer": "D",
+    "explanation": "Jika semua buku di rak adalah novel dan Harry Potter termasuk buku, maka Harry Potter termasuk dalam kategori novel."
   },
   {
     "id": 2,
-    "category": "Sinonim",
-    "question": "Apa persamaan kata dari debat?",
+    "category": "Logika Diagram",
+    "question": "Jika semua pensil di dalam kotak berwarna biru, dan pensil yang diambil dari kotak tersebut adalah biru, maka apa kesimpulan yang bisa diambil?",
     "options": {
-      "A": "Perbantahan",
-      "B": "Diskusi",
-      "C": "Komentar",
-      "D": "Permasalahan",
-      "E": "Pembicaraan"
+      "A": "Semua pensil di dunia berwarna biru",
+      "B": "Semua pensil yang diambil dari kotak tersebut berwarna biru",
+      "C": "Semua benda berwarna biru adalah pensil",
+      "D": "Semua pensil di dalam kotak tersebut berwarna biru",
+      "E": "Semua pensil berwarna biru diambil dari kotak tersebut"
     },
-    "answer": "A",
-    "explanation": "Debat identik dengan perbantahan atau adu pendapat."
+    "answer": "D",
+    "explanation": "Premis menyatakan semua pensil di dalam kotak berwarna biru, sehingga kesimpulan yang tepat adalah semua pensil dalam kotak tersebut biru."
   },
   {
     "id": 3,
-    "category": "Sinonim",
-    "question": "Sinonim dari kata terkenal adalah...",
+    "category": "Logika Diagram",
+    "question": "Semua manusia adalah makhluk hidup. Bunga adalah makhluk hidup. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Kaya",
-      "B": "Terhormat",
-      "C": "Populer",
-      "D": "Berani",
-      "E": "Terkemuka"
+      "A": "Semua bunga adalah manusia",
+      "B": "Beberapa bunga adalah manusia",
+      "C": "Bunga adalah makhluk hidup",
+      "D": "Tidak ada kesimpulan",
+      "E": "Semua salah"
     },
     "answer": "C",
-    "explanation": "Terkenal berarti populer di kalangan luas."
+    "explanation": "Diketahui bunga termasuk makhluk hidup, sehingga kesimpulan yang benar adalah bunga adalah makhluk hidup."
   },
+
   {
     "id": 4,
-    "category": "Sinonim",
-    "question": "Sinonim dari membenci adalah...",
+    "category": "Logika Cerita",
+    "question": "Jika semua kucing suka susu, dan Tom adalah seekor kucing, maka apa kesimpulan yang dapat ditarik?",
     "options": {
-      "A": "Menyukai",
-      "B": "Mengagumi",
-      "C": "Menjijikkan",
-      "D": "Mengejek",
-      "E": "Mengabaikan"
+      "A": "Tom suka susu",
+      "B": "Semua kucing adalah Tom",
+      "C": "Semua hewan suka susu",
+      "D": "Semua hewan adalah kucing",
+      "E": "Tom adalah manusia"
     },
-    "answer": "C",
-    "explanation": "Membenci berarti merasa sangat tidak suka atau jijik."
+    "answer": "A",
+    "explanation": "Karena Tom adalah kucing dan semua kucing suka susu, maka Tom suka susu."
   },
   {
     "id": 5,
-    "category": "Sinonim",
-    "question": "Sinonim dari cerah adalah...",
+    "category": "Logika Cerita",
+    "question": "Semua ikan hidup di air. Piranha adalah ikan. Apakah piranha hidup di air?",
     "options": {
-      "A": "Gelap",
-      "B": "Terang",
-      "C": "Suram",
-      "D": "Mendung",
-      "E": "Redup"
+      "A": "Ya",
+      "B": "Tidak",
+      "C": "Kadang-kadang",
+      "D": "Hanya saat kecil",
+      "E": "Tidak dapat dipastikan"
     },
-    "answer": "B",
-    "explanation": "Cerah berarti terang atau tidak gelap."
+    "answer": "A",
+    "explanation": "Karena piranha adalah ikan dan semua ikan hidup di air, maka piranha hidup di air."
   },
   {
     "id": 6,
-    "category": "Sinonim",
-    "question": "Sinonim dari abstrak adalah...",
+    "category": "Logika Cerita",
+    "question": "Semua mamalia bernapas dengan paru-paru. Paus adalah mamalia. Apakah paus bernapas dengan paru-paru?",
     "options": {
-      "A": "Nyata",
-      "B": "Kabur",
-      "C": "Konkrit",
-      "D": "Teoretis",
-      "E": ""
-    },
-    "answer": "D",
-    "explanation": "Abstrak berkaitan dengan konsep teoritis, bukan konkret."
-  },
-  {
-    "id": 7,
-    "category": "Sinonim",
-    "question": "Sinonim dari vital adalah...",
-    "options": {
-      "A": "Penting",
-      "B": "Mati",
-      "C": "Sepele",
-      "D": "Biasa",
-      "E": ""
+      "A": "Ya",
+      "B": "Tidak",
+      "C": "Dengan insang",
+      "D": "Dengan kulit",
+      "E": "Hanya saat di darat"
     },
     "answer": "A",
-    "explanation": "Vital berarti sangat penting."
+    "explanation": "Paus adalah mamalia, sehingga bernapas dengan paru-paru."
+  },
+
+  {
+    "id": 7,
+    "category": "Silogisme",
+    "question": "Semua mamalia menyusui anaknya. Kucing adalah mamalia. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Tidak ada kesimpulan",
+      "B": "Kucing menyusui anaknya",
+      "C": "Semua kucing menyusui anaknya",
+      "D": "Beberapa kucing menyusui anaknya",
+      "E": "Semua salah"
+    },
+    "answer": "B",
+    "explanation": "Jika semua mamalia menyusui anaknya dan kucing adalah mamalia, maka kucing menyusui anaknya."
   },
   {
     "id": 8,
-    "category": "Sinonim",
-    "question": "Sinonim dari resesi adalah...",
+    "category": "Silogisme",
+    "question": "Semua burung bisa terbang. Sebagian hewan yang bisa terbang adalah burung. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Kemajuan",
-      "B": "Pemulihan",
-      "C": "Krisis",
-      "D": "Perkembangan",
-      "E": ""
+      "A": "Semua hewan yang bisa terbang adalah burung",
+      "B": "Sebagian burung adalah hewan yang bisa terbang",
+      "C": "Hewan yang tidak bisa terbang bukan burung",
+      "D": "Sebagian hewan yang bisa terbang bukan burung",
+      "E": "Semua hewan adalah burung yang bisa terbang"
     },
-    "answer": "C",
-    "explanation": "Resesi adalah kondisi krisis ekonomi."
+    "answer": "A",
+    "explanation": "Dari premis yang diberikan, disimpulkan bahwa hewan yang bisa terbang adalah burung."
   },
+
   {
     "id": 9,
-    "category": "Sinonim",
-    "question": "Sinonim dari intensif adalah...",
+    "category": "Logika Umum",
+    "question": "Jika hujan turun, maka jalanan basah. Hari ini hujan turun. Apa kesimpulannya?",
     "options": {
-      "A": "Cepat",
-      "B": "Ringan",
-      "C": "Mendalam",
-      "D": "Sederhana",
-      "E": ""
+      "A": "Jalanan tetap kering",
+      "B": "Jalanan basah",
+      "C": "Tidak ada hubungan hujan dan jalanan",
+      "D": "Semua jalanan pasti banjir",
+      "E": "Tidak dapat dipastikan"
     },
-    "answer": "C",
-    "explanation": "Intensif berarti dilakukan secara mendalam."
+    "answer": "B",
+    "explanation": "Jika hujan turun maka jalan basah, dan hujan benar terjadi, maka jalanan basah."
   },
   {
     "id": 10,
-    "category": "Sinonim",
-    "question": "Sinonim dari global adalah...",
+    "category": "Logika Umum",
+    "question": "Semua orang yang rajin belajar akan lulus ujian. Andi rajin belajar. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Luas",
-      "B": "Umum",
-      "C": "Internasional",
-      "D": "Lokal",
-      "E": ""
+      "A": "Andi pasti lulus ujian",
+      "B": "Andi tidak lulus ujian",
+      "C": "Semua orang pasti lulus ujian",
+      "D": "Hanya sebagian orang lulus ujian",
+      "E": "Tidak ada kesimpulan"
     },
-    "answer": "C",
-    "explanation": "Global berarti mencakup seluruh dunia atau internasional."
+    "answer": "A",
+    "explanation": "Jika semua yang rajin belajar lulus ujian dan Andi rajin belajar, maka Andi lulus ujian."
   },
 
   {
     "id": 11,
-    "category": "Antonim",
-    "question": "Antonim dari tenggelam adalah...",
+    "category": "Silogisme",
+    "question": "Semua mahasiswa cerdas. Budi bukan mahasiswa. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Melayang",
-      "B": "Terombang",
-      "C": "Terkatung",
-      "D": "Tertentu",
-      "E": "Terapung"
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "E",
-    "explanation": "Tenggelam berlawanan dengan terapung."
+    "answer": "B",
+    "explanation": "Tidak bisa disimpulkan bahwa Budi tidak cerdas hanya karena bukan mahasiswa."
   },
   {
     "id": 12,
-    "category": "Antonim",
-    "question": "Antonim dari keseragaman adalah...",
+    "category": "Silogisme",
+    "question": "Semua kucing adalah hewan. Beberapa hewan adalah mamalia. Kesimpulan: Beberapa kucing adalah mamalia.",
     "options": {
-      "A": "Monopoli",
-      "B": "Disparitas",
-      "C": "Tinggi rendah",
-      "D": "Berdua",
-      "E": "Uni"
+      "A": "Benar",
+      "B": "Salah"
     },
     "answer": "B",
-    "explanation": "Keseragaman berlawanan dengan perbedaan (disparitas)."
+    "explanation": "Tidak ada hubungan langsung antara kucing dan mamalia dalam premis kedua."
   },
   {
     "id": 13,
-    "category": "Antonim",
-    "question": "Antonim dari ekstrovert adalah...",
+    "category": "Silogisme",
+    "question": "Tidak ada burung yang bisa berenang. Angsa adalah burung. Kesimpulan: Angsa tidak bisa berenang.",
     "options": {
-      "A": "Terisolasi",
-      "B": "Introvert",
-      "C": "Pendiam",
-      "D": "Penyendiri",
-      "E": "Pemalu"
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "B",
-    "explanation": "Ekstrovert berlawanan dengan introvert."
+    "answer": "A",
+    "explanation": "Jika semua burung tidak bisa berenang dan angsa burung, maka angsa tidak bisa berenang."
   },
   {
     "id": 14,
-    "category": "Antonim",
-    "question": "Kendala >< ...",
+    "category": "Silogisme",
+    "question": "Semua pegawai memakai seragam. Rina adalah pegawai. Kesimpulan: Rina memakai seragam.",
     "options": {
-      "A": "Hambatan",
-      "B": "Rintangan",
-      "C": "Pendukung",
-      "D": "Ujian",
-      "E": "Halangan"
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "C",
-    "explanation": "Kendala berlawanan dengan pendukung."
+    "answer": "A",
+    "explanation": "Rina sebagai pegawai pasti memakai seragam."
   },
   {
     "id": 15,
-    "category": "Antonim",
-    "question": "Lazim >< ...",
+    "category": "Silogisme",
+    "question": "Sebagian dokter adalah perokok. Andi adalah dokter. Kesimpulan: Andi perokok.",
     "options": {
-      "A": "Zakat",
-      "B": "Beda",
-      "C": "Benci",
-      "D": "Jujur",
-      "E": "Lumrah"
+      "A": "Benar",
+      "B": "Salah"
     },
     "answer": "B",
-    "explanation": "Lazim berarti umum, lawannya tidak biasa atau beda."
+    "explanation": "Sebagian tidak berarti semua dokter perokok."
   },
   {
     "id": 16,
-    "category": "Antonim",
-    "question": "Antonim dari objektif adalah...",
+    "category": "Silogisme",
+    "question": "Semua ikan hidup di air. Paus tidak hidup di air tawar. Kesimpulan: Paus bukan ikan.",
     "options": {
-      "A": "Netral",
-      "B": "Adil",
-      "C": "Subjektif",
-      "D": "Rasional",
-      "E": ""
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "C",
-    "explanation": "Objektif berlawanan dengan subjektif."
+    "answer": "B",
+    "explanation": "Tidak hidup di air tawar tidak berarti bukan ikan, sehingga kesimpulan tidak valid."
   },
   {
     "id": 17,
-    "category": "Antonim",
-    "question": "Antonim dari ekspansif adalah...",
+    "category": "Silogisme",
+    "question": "Tidak ada siswa kelas A yang terlambat. Dodi bukan siswa kelas A. Kesimpulan: Dodi terlambat.",
     "options": {
-      "A": "Meluas",
-      "B": "Kaku",
-      "C": "Terbatas",
-      "D": "Terbuka",
-      "E": ""
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "C",
-    "explanation": "Ekspansif berarti meluas, lawannya terbatas."
+    "answer": "B",
+    "explanation": "Tidak ada informasi bahwa selain kelas A pasti terlambat."
   },
   {
     "id": 18,
-    "category": "Antonim",
-    "question": "Antonim dari progresif adalah...",
+    "category": "Silogisme",
+    "question": "Semua bunga membutuhkan cahaya. Mawar adalah bunga. Kesimpulan: Mawar membutuhkan cahaya.",
     "options": {
-      "A": "Inovatif",
-      "B": "Stagnan",
-      "C": "Aktif",
-      "D": "Cepat",
-      "E": ""
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "B",
-    "explanation": "Progresif berlawanan dengan stagnan."
+    "answer": "A",
+    "explanation": "Jika semua bunga membutuhkan cahaya dan mawar adalah bunga, maka mawar membutuhkan cahaya."
   },
   {
     "id": 19,
-    "category": "Antonim",
-    "question": "Antonim dari loyal adalah...",
+    "category": "Silogisme",
+    "question": "Sebagian guru adalah wanita. Sinta adalah wanita. Kesimpulan: Sinta adalah guru.",
     "options": {
-      "A": "Taat",
-      "B": "Setia",
-      "C": "Khianat",
-      "D": "Jujur",
-      "E": ""
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "C",
-    "explanation": "Loyal berarti setia, lawannya khianat."
+    "answer": "B",
+    "explanation": "Tidak semua wanita adalah guru, sehingga tidak bisa disimpulkan Sinta guru."
   },
   {
     "id": 20,
-    "category": "Antonim",
-    "question": "Antonim dari minimal adalah...",
+    "category": "Silogisme",
+    "question": "Semua pemain bola suka olahraga. Semua yang suka olahraga sehat. Kesimpulan: Semua pemain bola sehat.",
     "options": {
-      "A": "Sedikit",
-      "B": "Sederhana",
-      "C": "Maksimal",
-      "D": "Lumayan",
-      "E": ""
+      "A": "Benar",
+      "B": "Salah"
     },
-    "answer": "C",
-    "explanation": "Minimal berlawanan dengan maksimal."
+    "answer": "A",
+    "explanation": "Pemain bola → suka olahraga → sehat, sehingga kesimpulan valid."
   },
 
   {
     "id": 21,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok negara adalah...",
+    "category": "Logika Umum",
+    "question": "Jika hujan turun maka jalan licin. Jika jalan licin maka terjadi kecelakaan. Tidak ada kecelakaan hari ini. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Kenya",
-      "B": "Bangladesh",
-      "C": "Kuala Lumpur",
-      "D": "Cile",
-      "E": "Brunei Darussalam"
+      "A": "Hujan turun",
+      "B": "Hujan tidak turun",
+      "C": "Jalan licin",
+      "D": "Tidak dapat disimpulkan"
     },
-    "answer": "C",
-    "explanation": "Kuala Lumpur adalah kota, bukan negara."
+    "answer": "D",
+    "explanation": "Tidak ada kecelakaan tidak cukup untuk memastikan kondisi hujan atau jalan."
   },
   {
     "id": 22,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok mata uang adalah...",
+    "category": "Logika Umum",
+    "question": "Jika A benar maka B salah. Jika B salah maka C benar. C salah. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Rabat",
-      "B": "Dolar",
-      "C": "Rupee",
-      "D": "Bath",
-      "E": "Dinar"
+      "A": "A benar",
+      "B": "A salah",
+      "C": "B salah",
+      "D": "A dan B tidak berhubungan"
     },
-    "answer": "A",
-    "explanation": "Rabat adalah kota, bukan mata uang."
+    "answer": "B",
+    "explanation": "Jika C salah maka B tidak benar, sehingga A juga salah."
   },
   {
     "id": 23,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok adalah...",
+    "category": "Logika Umum",
+    "question": "Jika ada diskon maka pembeli banyak. Jika pembeli banyak maka toko untung. Toko tidak untung. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Eksponensial",
-      "B": "Logaritma",
-      "C": "Geofisika",
-      "D": "Fungsi Invers",
-      "E": "Transformasi"
+      "A": "Ada diskon",
+      "B": "Tidak ada diskon",
+      "C": "Pembeli banyak",
+      "D": "Tidak dapat disimpulkan"
     },
-    "answer": "C",
-    "explanation": "Geofisika adalah bidang ilmu, bukan konsep matematika."
+    "answer": "B",
+    "explanation": "Jika toko tidak untung maka pembeli tidak banyak sehingga tidak ada diskon."
   },
   {
     "id": 24,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok adalah...",
+    "category": "Logika Umum",
+    "question": "Tidak semua pegawai rajin. Semua pegawai rajin dipromosikan. Beni dipromosikan. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Dikotil",
-      "B": "Dikotomi",
-      "C": "Ekosistem",
-      "D": "Hibernasi",
-      "E": "Kontur"
+      "A": "Beni rajin",
+      "B": "Beni malas",
+      "C": "Beni mungkin rajin",
+      "D": "Tidak dapat ditentukan"
     },
-    "answer": "E",
-    "explanation": "Kontur berkaitan dengan peta, bukan biologi."
+    "answer": "A",
+    "explanation": "Jika dipromosikan berarti termasuk pegawai rajin."
   },
   {
     "id": 25,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok makanan susu adalah...",
+    "category": "Logika Umum",
+    "question": "Semua X adalah Y. Sebagian Y adalah Z. Tidak ada Z adalah X. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Pillow",
-      "B": "Puding",
-      "C": "Keju",
-      "D": "Krim",
-      "E": "Mentega"
+      "A": "Premis bertentangan",
+      "B": "Premis konsisten",
+      "C": "X = Z",
+      "D": "Kesimpulan tidak dapat dibuat"
     },
     "answer": "B",
-    "explanation": "Puding tidak selalu berbahan dasar susu seperti lainnya."
+    "explanation": "Tidak ada kontradiksi antara himpunan yang diberikan."
   },
   {
     "id": 26,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok makanan adalah...",
+    "category": "Logika Umum",
+    "question": "Jika toko buka maka ada penjaga. Jika ada penjaga maka lampu menyala. Lampu tidak menyala. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Hotdog",
-      "B": "Burger",
-      "C": "Pizza",
-      "D": "Tiramisu",
-      "E": "French Fries"
+      "A": "Toko buka",
+      "B": "Toko tutup",
+      "C": "Penjaga ada",
+      "D": "Penjaga tidak ada"
     },
-    "answer": "D",
-    "explanation": "Tiramisu adalah dessert, berbeda dari fast food lainnya."
+    "answer": "B",
+    "explanation": "Lampu tidak menyala berarti penjaga tidak ada sehingga toko tidak buka."
   },
   {
     "id": 27,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok kerajaan adalah...",
+    "category": "Logika Umum",
+    "question": "Semua orang sukses disiplin. Sebagian orang sukses kaya. Tidak semua orang kaya sukses. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Majapahit",
-      "B": "Kalingga",
-      "C": "Kudungga",
-      "D": "Tarumanegara",
-      "E": "Kutai"
+      "A": "Orang kaya disiplin",
+      "B": "Semua orang sukses kaya",
+      "C": "Sebagian orang disiplin kaya",
+      "D": "Tidak ada kesimpulan valid"
     },
     "answer": "C",
-    "explanation": "Kudungga adalah tokoh, bukan nama kerajaan."
+    "explanation": "Sebagian orang sukses kaya → sebagian disiplin kaya."
   },
   {
     "id": 28,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok susu adalah...",
+    "category": "Logika Umum",
+    "question": "Semua pemain hebat berlatih keras. Beberapa yang berlatih keras cedera. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Yoghurt",
-      "B": "Puding",
-      "C": "Keju",
-      "D": "Krim",
-      "E": "Mentega"
+      "A": "Pemain hebat pasti cedera",
+      "B": "Beberapa pemain hebat mungkin cedera",
+      "C": "Semua pemain cedera hebat",
+      "D": "Tidak ada pemain cedera"
     },
     "answer": "B",
-    "explanation": "Puding tidak selalu berbasis susu."
+    "explanation": "Karena sebagian yang berlatih keras cedera, maka pemain hebat mungkin termasuk."
   },
   {
     "id": 29,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok profesi adalah...",
+    "category": "Logika Umum",
+    "question": "Semua orang sukses disiplin. Sebagian orang sukses kaya. Tidak semua orang kaya sukses. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Arkeologi",
-      "B": "Pengusaha",
-      "C": "Dokter",
-      "D": "Guru",
-      "E": "Perawat"
+      "A": "Orang kaya disiplin",
+      "B": "Semua orang sukses kaya",
+      "C": "Sebagian orang disiplin kaya",
+      "D": "Tidak ada kesimpulan valid"
     },
-    "answer": "A",
-    "explanation": "Arkeologi adalah bidang ilmu, bukan profesi."
+    "answer": "C",
+    "explanation": "Sebagian sukses kaya → sebagian disiplin kaya."
   },
   {
     "id": 30,
-    "category": "Klasifikasi",
-    "question": "Yang tidak masuk kelompok peristiwa sejarah Indonesia adalah...",
+    "category": "Logika Umum",
+    "question": "Jika nilai > 80 maka lulus A. Jika nilai > 90 maka mendapat bonus. Rita tidak mendapat bonus. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Pertempuran Surabaya",
-      "B": "Puputan Margarana",
-      "C": "Bandung Lautan Api",
-      "D": "Perang Tujuh Tahun",
-      "E": "Padri"
+      "A": "Nilai Rita = 90",
+      "B": "Nilai Rita < 90",
+      "C": "Nilai Rita > 80",
+      "D": "Rita mendapat bonus"
     },
-    "answer": "D",
-    "explanation": "Perang Tujuh Tahun terjadi di luar Indonesia."
+    "answer": "B",
+    "explanation": "Tidak mendapat bonus berarti nilai Rita tidak lebih dari 90."
   },
-
   {
     "id": 31,
-    "category": "Analogi",
-    "question": "Gerbong : Lokomotif = ... : ...",
+    "category": "Logika Umum",
+    "question": "Tidak semua dosen mengajar pagi. Semua dosen mengajar minimal satu kelas. Sebagian dosen mengajar sore. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Taksi:Pengemudi",
-      "B": "Kereta:Masinis",
-      "C": "Pedati:Andong",
-      "D": "Trem:Rel",
-      "E": "Delman:Kuda"
+      "A": "Semua dosen mengajar sore",
+      "B": "Sebagian dosen tidak mengajar pagi",
+      "C": "Semua dosen mengajar pagi",
+      "D": "Tidak ada dosen mengajar sore"
     },
-    "answer": "E",
-    "explanation": "Gerbong ditarik lokomotif, seperti delman ditarik kuda."
+    "answer": "B",
+    "explanation": "Karena tidak semua mengajar pagi, maka sebagian dosen tidak mengajar pagi."
   },
   {
     "id": 32,
-    "category": "Analogi",
-    "question": "Modern : Tradisional = ... : ...",
+    "category": "Logika Umum",
+    "question": "Semua A adalah B. Tidak ada B adalah C. Sebagian C adalah D. Kesimpulan yang valid adalah...",
     "options": {
-      "A": "Roket:Scud",
-      "B": "Mobil:Pedati",
-      "C": "Pesawat:Sepeda Motor",
-      "D": "Ferrari:Fiat",
-      "E": "TV:VCD Player"
+      "A": "Tidak ada A yang C",
+      "B": "Sebagian A adalah D",
+      "C": "Semua D adalah A",
+      "D": "Semua A adalah C"
     },
-    "answer": "B",
-    "explanation": "Modern berlawanan dengan tradisional seperti mobil dan pedati."
+    "answer": "A",
+    "explanation": "Jika A ⊂ B dan tidak ada B yang C, maka A tidak mungkin C."
   },
   {
     "id": 33,
-    "category": "Analogi",
-    "question": "Gitar : Senar = ... : ...",
+    "category": "Logika Umum",
+    "question": "Jika P maka Q. Jika Q maka R. Tidak benar bahwa R. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Piano:Tuts",
-      "B": "Drum:Palu",
-      "C": "Flute:Lubang",
-      "D": "Biola:Busur",
-      "E": "Trompet:Katup"
+      "A": "P benar",
+      "B": "Q benar",
+      "C": "P salah",
+      "D": "Tidak ada hubungan"
     },
-    "answer": "A",
-    "explanation": "Gitar menggunakan senar, piano menggunakan tuts."
+    "answer": "C",
+    "explanation": "Jika R salah, maka Q salah, sehingga P juga salah (modus tollens berantai)."
   },
   {
     "id": 34,
-    "category": "Analogi",
-    "question": "Dokter : Pasien = Guru : ...",
+    "category": "Logika Umum",
+    "question": "Semua penulis membaca buku. Ada penulis yang tidak menggunakan laptop. Sebagian pembaca buku adalah mahasiswa. Kesimpulan yang paling kuat adalah...",
     "options": {
-      "A": "Murid",
-      "B": "Buku",
-      "C": "Sekolah",
-      "D": "Pelajaran",
-      "E": ""
+      "A": "Semua penulis adalah mahasiswa",
+      "B": "Sebagian penulis mungkin mahasiswa",
+      "C": "Semua penulis menggunakan laptop",
+      "D": "Penulis bukan mahasiswa"
     },
-    "answer": "A",
-    "explanation": "Dokter menangani pasien, guru mengajar murid."
+    "answer": "B",
+    "explanation": "Tidak ada kepastian semua penulis mahasiswa, tetapi kemungkinan ada sebagian."
   },
   {
     "id": 35,
-    "category": "Analogi",
-    "question": "Pisau : Tajam = Kapas : ...",
+    "category": "Logika Umum",
+    "question": "Jika hujan turun maka jalan licin. Jika jalan licin maka terjadi kecelakaan. Tidak ada kecelakaan hari ini. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Putih",
-      "B": "Lembut",
-      "C": "Ringan",
-      "D": "Kecil",
-      "E": ""
+      "A": "Hujan turun",
+      "B": "Hujan tidak turun",
+      "C": "Jalan licin",
+      "D": "Tidak dapat disimpulkan"
     },
-    "answer": "B",
-    "explanation": "Pisau bersifat tajam, kapas bersifat lembut."
+    "answer": "D",
+    "explanation": "Tidak adanya kecelakaan tidak cukup memastikan hujan atau tidak hujan."
   },
   {
     "id": 36,
-    "category": "Analogi",
-    "question": "Mobil : Jalan = Kapal : ...",
+    "category": "Logika Umum",
+    "question": "Semua mobil merah adalah cepat. Beberapa mobil cepat bukan mobil sport. Semua mobil sport mahal. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Darat",
-      "B": "Sungai",
-      "C": "Laut",
-      "D": "Dermaga",
-      "E": ""
+      "A": "Semua mobil merah mahal",
+      "B": "Mobil cepat pasti mobil merah",
+      "C": "Ada mobil cepat yang tidak mahal",
+      "D": "Tidak dapat disimpulkan"
     },
     "answer": "C",
-    "explanation": "Mobil di jalan, kapal di laut."
+    "explanation": "Mobil cepat yang bukan sport berarti tidak mahal, sehingga ada mobil cepat tidak mahal."
   },
   {
     "id": 37,
-    "category": "Analogi",
-    "question": "Api : Panas = Es : ...",
+    "category": "Logika Umum",
+    "question": "Jika ada diskon maka pembeli banyak. Jika pembeli banyak maka toko untung. Toko tidak untung. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Dingin",
-      "B": "Beku",
-      "C": "Cair",
-      "D": "Air",
-      "E": ""
+      "A": "Ada diskon",
+      "B": "Tidak ada diskon",
+      "C": "Pembeli banyak",
+      "D": "Tidak dapat disimpulkan"
     },
-    "answer": "A",
-    "explanation": "Api menghasilkan panas, es menghasilkan dingin."
+    "answer": "B",
+    "explanation": "Jika tidak untung maka pembeli tidak banyak, sehingga tidak ada diskon."
   },
   {
     "id": 38,
-    "category": "Analogi",
-    "question": "Matahari : Siang = Bulan : ...",
+    "category": "Logika Umum",
+    "question": "Semua pegawai rajin dipromosikan. Beni dipromosikan. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Terang",
-      "B": "Malam",
-      "C": "Bintang",
-      "D": "Awan",
-      "E": ""
+      "A": "Beni rajin",
+      "B": "Beni malas",
+      "C": "Beni mungkin rajin",
+      "D": "Tidak dapat ditentukan"
     },
-    "answer": "B",
-    "explanation": "Matahari identik dengan siang, bulan dengan malam."
+    "answer": "C",
+    "explanation": "Beni dipromosikan bisa jadi termasuk pegawai rajin, tetapi tidak pasti."
   },
   {
     "id": 39,
-    "category": "Analogi",
-    "question": "Melati : Putih = Mawar : ...",
+    "category": "Logika Umum",
+    "question": "Semua X adalah Y. Sebagian Y adalah Z. Tidak ada Z adalah X. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Merah",
-      "B": "Harum",
-      "C": "Tajam",
-      "D": "Indah",
-      "E": ""
+      "A": "Premis bertentangan",
+      "B": "Premis konsisten",
+      "C": "X = Z",
+      "D": "Kesimpulan tidak dapat dibuat"
     },
-    "answer": "A",
-    "explanation": "Melati umumnya putih, mawar sering merah."
+    "answer": "B",
+    "explanation": "Tidak ada kontradiksi dalam hubungan himpunan yang diberikan."
   },
   {
     "id": 40,
-    "category": "Analogi",
-    "question": "Pensil : Tulis = Gunting : ...",
+    "category": "Logika Umum",
+    "question": "Jika toko buka maka ada penjaga. Jika ada penjaga maka lampu menyala. Lampu tidak menyala. Kesimpulan yang tepat adalah...",
     "options": {
-      "A": "Kertas",
-      "B": "Gunting",
-      "C": "Potong",
-      "D": "Tajam",
-      "E": ""
+      "A": "Toko buka",
+      "B": "Toko tutup",
+      "C": "Penjaga ada",
+      "D": "Penjaga tidak ada"
+    },
+    "answer": "B",
+    "explanation": "Lampu tidak menyala → tidak ada penjaga → toko tidak buka."
+  },
+  {
+    "id": 41,
+    "category": "Logika Umum",
+    "question": "Semua pemain hebat berlatih keras. Beberapa yang berlatih keras cedera. Kesimpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Pemain hebat pasti cedera",
+      "B": "Beberapa pemain hebat mungkin cedera",
+      "C": "Semua pemain cedera hebat",
+      "D": "Tidak ada pemain yang cedera"
+    },
+    "answer": "B",
+    "explanation": "Karena sebagian yang berlatih keras cedera, maka pemain hebat (yang termasuk berlatih keras) mungkin cedera."
+  },
+  {
+    "id": 42,
+    "category": "Logika Umum",
+    "question": "Jika toko buka maka ada penjaga. Jika ada penjaga maka lampu menyala. Lampu tidak menyala. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Toko buka",
+      "B": "Toko tutup",
+      "C": "Penjaga ada",
+      "D": "Penjaga tidak ada"
+    },
+    "answer": "B",
+    "explanation": "Lampu tidak menyala → tidak ada penjaga → toko tidak buka."
+  },
+  {
+    "id": 43,
+    "category": "Logika Umum",
+    "question": "Semua orang sukses disiplin. Sebagian orang sukses kaya. Tidak semua orang kaya sukses. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Orang kaya disiplin",
+      "B": "Semua orang sukses kaya",
+      "C": "Sebagian orang disiplin kaya",
+      "D": "Tidak ada kesimpulan valid"
     },
     "answer": "C",
-    "explanation": "Pensil digunakan untuk menulis, gunting untuk memotong."
+    "explanation": "Sebagian orang sukses kaya → sebagian orang disiplin juga kaya."
+  },
+  {
+    "id": 44,
+    "category": "Logika Umum",
+    "question": "Beberapa ilmuwan adalah penulis. Semua penulis membaca. Tidak semua pembaca adalah ilmuwan. Kesimpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Semua ilmuwan membaca",
+      "B": "Semua pembaca ilmuwan",
+      "C": "Beberapa ilmuwan membaca",
+      "D": "Tidak ada ilmuwan membaca"
+    },
+    "answer": "C",
+    "explanation": "Karena beberapa ilmuwan adalah penulis dan semua penulis membaca, maka beberapa ilmuwan membaca."
+  },
+  {
+    "id": 45,
+    "category": "Logika Umum",
+    "question": "Semua buah berbiji memiliki kulit. Jeruk memiliki kulit. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Jeruk berbiji",
+      "B": "Jeruk bukan berbiji",
+      "C": "Tidak dapat disimpulkan",
+      "D": "Jeruk pasti tidak berbiji"
+    },
+    "answer": "C",
+    "explanation": "Memiliki kulit tidak cukup untuk menyimpulkan berbiji."
+  },
+  {
+    "id": 46,
+    "category": "Logika Umum",
+    "question": "Jika Rina datang maka rapat dimulai. Jika rapat dimulai maka pintu ditutup. Pintu terbuka. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Rina datang",
+      "B": "Rina tidak datang",
+      "C": "Rapat sudah mulai",
+      "D": "Tidak dapat ditentukan"
+    },
+    "answer": "B",
+    "explanation": "Pintu terbuka → rapat tidak dimulai → Rina tidak datang."
+  },
+  {
+    "id": 47,
+    "category": "Logika Umum",
+    "question": "Tidak ada guru yang malas. Beberapa staf malas. Semua guru adalah staf. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua staf tidak malas",
+      "B": "Ada staf tidak malas",
+      "C": "Guru bukan staf",
+      "D": "Sebagian staf malas bukan guru"
+    },
+    "answer": "D",
+    "explanation": "Karena guru tidak malas, maka staf yang malas pasti bukan guru."
+  },
+  {
+    "id": 48,
+    "category": "Logika Umum",
+    "question": "Semua tanaman butuh air. Kaktus adalah tanaman. Kesimpulan yang paling kuat adalah...",
+    "options": {
+      "A": "Kaktus berdaun",
+      "B": "Kaktus tidak berdaun",
+      "C": "Kaktus membutuhkan air",
+      "D": "Kaktus tidak perlu air"
+    },
+    "answer": "C",
+    "explanation": "Kaktus adalah tanaman, dan semua tanaman membutuhkan air."
+  },
+  {
+    "id": 49,
+    "category": "Logika Umum",
+    "question": "Jika nilai > 80 maka lulus A. Jika nilai > 90 maka mendapat bonus. Rita tidak mendapat bonus. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Nilai Rita = 90",
+      "B": "Nilai Rita < 90",
+      "C": "Nilai Rita > 80",
+      "D": "Rita mendapat bonus"
+    },
+    "answer": "B",
+    "explanation": "Tidak mendapat bonus berarti nilai Rita tidak lebih dari 90."
+  },
+  {
+    "id": 50,
+    "category": "Logika Umum",
+    "question": "Semua dosen mengajar minimal satu kelas. Tidak semua dosen mengajar pagi. Sebagian dosen mengajar sore. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua dosen mengajar sore",
+      "B": "Sebagian dosen tidak mengajar pagi",
+      "C": "Semua dosen mengajar pagi",
+      "D": "Tidak ada dosen mengajar sore"
+    },
+    "answer": "B",
+    "explanation": "Karena tidak semua mengajar pagi, maka sebagian dosen tidak mengajar pagi."
+  },
+  {
+    "id": 51,
+    "category": "Logika Umum",
+    "question": "Semua A adalah B. Tidak ada B adalah C. Sebagian C adalah D. Kesimpulan yang valid adalah...",
+    "options": {
+      "A": "Tidak ada A yang C",
+      "B": "Sebagian A adalah D",
+      "C": "Semua D adalah A",
+      "D": "Semua A adalah C"
+    },
+    "answer": "A",
+    "explanation": "Karena A ⊂ B dan tidak ada B yang C, maka A tidak mungkin C."
+  },
+  {
+    "id": 52,
+    "category": "Logika Umum",
+    "question": "Jika P maka Q. Jika Q maka R. Tidak benar bahwa R. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "P benar",
+      "B": "Q benar",
+      "C": "P salah",
+      "D": "Tidak ada hubungan"
+    },
+    "answer": "C",
+    "explanation": "Jika R salah → Q salah → P salah (modus tollens berantai)."
+  },
+  {
+    "id": 53,
+    "category": "Logika Umum",
+    "question": "Semua penulis membaca buku. Ada penulis yang tidak menggunakan laptop. Sebagian pembaca buku adalah mahasiswa. Kesimpulan yang paling kuat adalah...",
+    "options": {
+      "A": "Semua penulis adalah mahasiswa",
+      "B": "Sebagian penulis mungkin mahasiswa",
+      "C": "Semua penulis menggunakan laptop",
+      "D": "Penulis bukan mahasiswa"
+    },
+    "answer": "B",
+    "explanation": "Tidak ada kepastian semua penulis mahasiswa, tetapi kemungkinan sebagian."
+  },
+  {
+    "id": 54,
+    "category": "Logika Umum",
+    "question": "Semua mobil merah adalah cepat. Beberapa mobil cepat bukan mobil sport. Semua mobil sport mahal. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua mobil merah mahal",
+      "B": "Mobil cepat pasti mobil merah",
+      "C": "Ada mobil cepat yang tidak mahal",
+      "D": "Tidak dapat disimpulkan"
+    },
+    "answer": "C",
+    "explanation": "Mobil cepat yang bukan sport berarti tidak mahal, jadi ada mobil cepat yang tidak mahal."
+  },
+  {
+    "id": 55,
+    "category": "Logika Umum",
+    "question": "Jika ada diskon maka pembeli banyak. Jika pembeli banyak maka toko untung. Toko tidak untung. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Ada diskon",
+      "B": "Tidak ada diskon",
+      "C": "Pembeli banyak",
+      "D": "Tidak dapat disimpulkan"
+    },
+    "answer": "B",
+    "explanation": "Jika tidak untung → pembeli tidak banyak → tidak ada diskon."
+  },
+  {
+    "id": 56,
+    "category": "Logika Umum",
+    "question": "Semua pegawai rajin dipromosikan. Beni dipromosikan. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Beni rajin",
+      "B": "Beni malas",
+      "C": "Beni mungkin rajin",
+      "D": "Tidak dapat ditentukan"
+    },
+    "answer": "C",
+    "explanation": "Dipromosikan bisa berarti rajin, tetapi tidak pasti."
+  },
+  {
+    "id": 57,
+    "category": "Logika Umum",
+    "question": "Semua X adalah Y. Sebagian Y adalah Z. Tidak ada Z adalah X. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Premis bertentangan",
+      "B": "Premis konsisten",
+      "C": "X = Z",
+      "D": "Kesimpulan tidak dapat dibuat"
+    },
+    "answer": "B",
+    "explanation": "Tidak ada kontradiksi dalam hubungan himpunan tersebut."
+  },
+  {
+    "id": 58,
+    "category": "Logika Umum",
+    "question": "Jika toko buka maka ada penjaga. Jika ada penjaga maka lampu menyala. Lampu tidak menyala. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Toko buka",
+      "B": "Toko tutup",
+      "C": "Penjaga ada",
+      "D": "Penjaga tidak ada"
+    },
+    "answer": "B",
+    "explanation": "Lampu tidak menyala → tidak ada penjaga → toko tidak buka."
+  },
+  {
+    "id": 59,
+    "category": "Logika Umum",
+    "question": "Semua pemain hebat berlatih keras. Beberapa yang berlatih keras cedera. Kesimpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Pemain hebat pasti cedera",
+      "B": "Beberapa pemain hebat mungkin cedera",
+      "C": "Semua pemain cedera hebat",
+      "D": "Tidak ada pemain yang cedera"
+    },
+    "answer": "B",
+    "explanation": "Sebagian yang berlatih keras cedera, sehingga pemain hebat mungkin termasuk."
+  },
+  {
+    "id": 60,
+    "category": "Logika Umum",
+    "question": "Jika Rina datang maka rapat dimulai. Jika rapat dimulai maka pintu ditutup. Pintu terbuka. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Rina datang",
+      "B": "Rina tidak datang",
+      "C": "Rapat sudah mulai",
+      "D": "Tidak dapat ditentukan"
+    },
+    "answer": "B",
+    "explanation": "Pintu terbuka → rapat tidak dimulai → Rina tidak datang."
+  },
+  {
+    "id": 61,
+    "category": "Silogisme",
+    "question": "Semua siswa yang rajin belajar akan lulus ujian. Andi rajin belajar. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Andi tidak lulus ujian",
+      "B": "Andi pasti lulus ujian",
+      "C": "Semua orang lulus ujian",
+      "D": "Andi bukan siswa"
+    },
+    "answer": "B",
+    "explanation": "Jika semua yang rajin belajar lulus ujian dan Andi rajin belajar, maka Andi lulus ujian."
+  },
+  {
+    "id": 62,
+    "category": "Silogisme",
+    "question": "Semua burung memiliki sayap. Elang adalah burung. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Elang tidak memiliki sayap",
+      "B": "Elang memiliki sayap",
+      "C": "Semua hewan memiliki sayap",
+      "D": "Elang bukan burung"
+    },
+    "answer": "B",
+    "explanation": "Elang termasuk burung, dan semua burung memiliki sayap."
+  },
+  {
+    "id": 63,
+    "category": "Silogisme",
+    "question": "Semua dokter adalah pekerja keras. Sebagian pekerja keras adalah penulis. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua dokter adalah penulis",
+      "B": "Sebagian dokter adalah penulis",
+      "C": "Tidak ada dokter yang penulis",
+      "D": "Tidak dapat disimpulkan hubungan dokter dan penulis"
+    },
+    "answer": "D",
+    "explanation": "Tidak ada hubungan langsung antara dokter dan penulis dalam premis."
+  },
+  {
+    "id": 64,
+    "category": "Silogisme",
+    "question": "Tidak ada ikan yang hidup di darat. Lele adalah ikan. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Lele hidup di darat",
+      "B": "Lele tidak hidup di darat",
+      "C": "Semua hewan hidup di darat",
+      "D": "Lele bukan ikan"
+    },
+    "answer": "B",
+    "explanation": "Jika tidak ada ikan hidup di darat dan lele adalah ikan, maka lele tidak hidup di darat."
+  },
+  {
+    "id": 65,
+    "category": "Silogisme",
+    "question": "Semua mahasiswa wajib mengikuti ujian. Budi adalah mahasiswa. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Budi tidak wajib ujian",
+      "B": "Budi wajib mengikuti ujian",
+      "C": "Semua orang wajib ujian",
+      "D": "Budi bukan mahasiswa"
+    },
+    "answer": "B",
+    "explanation": "Mahasiswa wajib ujian, dan Budi adalah mahasiswa."
+  },
+  {
+    "id": 66,
+    "category": "Silogisme",
+    "question": "Sebagian guru adalah dosen. Semua dosen mengajar di perguruan tinggi. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Sebagian guru mengajar di perguruan tinggi",
+      "B": "Semua guru mengajar di perguruan tinggi",
+      "C": "Tidak ada guru yang mengajar",
+      "D": "Semua dosen adalah guru"
+    },
+    "answer": "A",
+    "explanation": "Karena sebagian guru adalah dosen, maka sebagian guru mengajar di perguruan tinggi."
+  },
+  {
+    "id": 67,
+    "category": "Silogisme",
+    "question": "Semua kucing adalah hewan. Semua hewan membutuhkan makan. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua kucing membutuhkan makan",
+      "B": "Semua yang makan adalah kucing",
+      "C": "Sebagian kucing tidak makan",
+      "D": "Tidak ada kucing yang hewan"
+    },
+    "answer": "A",
+    "explanation": "Kucing adalah hewan dan semua hewan membutuhkan makan."
+  },
+  {
+    "id": 68,
+    "category": "Silogisme",
+    "question": "Semua pelari cepat adalah atlet. Sebagian atlet adalah pelajar. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua pelari cepat adalah pelajar",
+      "B": "Sebagian pelari cepat adalah pelajar",
+      "C": "Tidak ada pelari cepat yang pelajar",
+      "D": "Tidak dapat disimpulkan hubungan pelari cepat dan pelajar"
+    },
+    "answer": "D",
+    "explanation": "Tidak ada hubungan langsung antara pelari cepat dan pelajar."
+  },
+  {
+    "id": 69,
+    "category": "Silogisme",
+    "question": "Semua bunga membutuhkan air. Mawar adalah bunga. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Mawar tidak butuh air",
+      "B": "Mawar membutuhkan air",
+      "C": "Semua air adalah bunga",
+      "D": "Mawar bukan bunga"
+    },
+    "answer": "B",
+    "explanation": "Mawar adalah bunga, dan semua bunga membutuhkan air."
+  },
+  {
+    "id": 70,
+    "category": "Silogisme",
+    "question": "Tidak semua siswa rajin. Semua siswa yang rajin mendapatkan nilai baik. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua siswa mendapat nilai baik",
+      "B": "Sebagian siswa mungkin mendapat nilai baik",
+      "C": "Tidak ada siswa yang rajin",
+      "D": "Semua siswa malas"
+    },
+    "answer": "B",
+    "explanation": "Karena hanya siswa rajin yang mendapat nilai baik, maka sebagian siswa mungkin mendapat nilai baik."
+  },
+  {
+    "id": 71,
+    "category": "Silogisme",
+    "question": "Semua mamalia bernapas dengan paru-paru. Paus adalah mamalia. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Paus tidak bernapas dengan paru-paru",
+      "B": "Paus bernapas dengan paru-paru",
+      "C": "Semua paus adalah ikan",
+      "D": "Paus bernapas dengan insang"
+    },
+    "answer": "B",
+    "explanation": "Paus termasuk mamalia, sehingga bernapas dengan paru-paru."
+  },
+  {
+    "id": 72,
+    "category": "Silogisme",
+    "question": "Semua burung bertelur. Ayam adalah burung. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Ayam tidak bertelur",
+      "B": "Ayam bertelur",
+      "C": "Semua hewan bertelur",
+      "D": "Ayam bukan burung"
+    },
+    "answer": "B",
+    "explanation": "Ayam termasuk burung, dan semua burung bertelur."
+  },
+  {
+    "id": 73,
+    "category": "Silogisme",
+    "question": "Sebagian guru adalah penulis. Semua penulis suka membaca. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua guru suka membaca",
+      "B": "Sebagian guru suka membaca",
+      "C": "Tidak ada guru yang suka membaca",
+      "D": "Semua penulis adalah guru"
+    },
+    "answer": "B",
+    "explanation": "Karena sebagian guru adalah penulis dan semua penulis suka membaca, maka sebagian guru suka membaca."
+  },
+  {
+    "id": 74,
+    "category": "Silogisme",
+    "question": "Tidak ada kucing yang bisa terbang. Milo adalah kucing. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Milo bisa terbang",
+      "B": "Milo tidak bisa terbang",
+      "C": "Semua hewan bisa terbang",
+      "D": "Milo bukan kucing"
+    },
+    "answer": "B",
+    "explanation": "Jika tidak ada kucing yang bisa terbang dan Milo adalah kucing, maka Milo tidak bisa terbang."
+  },
+  {
+    "id": 75,
+    "category": "Silogisme",
+    "question": "Semua siswa yang rajin akan lulus ujian. Beberapa siswa tidak rajin. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua siswa lulus ujian",
+      "B": "Sebagian siswa mungkin tidak lulus",
+      "C": "Semua siswa tidak lulus",
+      "D": "Tidak ada siswa yang lulus"
+    },
+    "answer": "B",
+    "explanation": "Karena hanya siswa rajin yang pasti lulus, siswa tidak rajin mungkin tidak lulus."
+  },
+  {
+    "id": 76,
+    "category": "Silogisme",
+    "question": "Semua dokter adalah pekerja. Sebagian pekerja adalah petani. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua dokter adalah petani",
+      "B": "Sebagian dokter adalah petani",
+      "C": "Tidak ada dokter yang petani",
+      "D": "Tidak dapat disimpulkan hubungan dokter dan petani"
+    },
+    "answer": "D",
+    "explanation": "Tidak ada hubungan langsung antara dokter dan petani."
+  },
+  {
+    "id": 77,
+    "category": "Silogisme",
+    "question": "Semua mahasiswa wajib belajar. Andi adalah mahasiswa. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Andi tidak wajib belajar",
+      "B": "Andi wajib belajar",
+      "C": "Semua orang wajib belajar",
+      "D": "Andi bukan mahasiswa"
+    },
+    "answer": "B",
+    "explanation": "Karena Andi adalah mahasiswa, maka ia wajib belajar."
+  },
+  {
+    "id": 78,
+    "category": "Silogisme",
+    "question": "Semua bunga membutuhkan air. Sebagian tanaman adalah bunga. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua tanaman membutuhkan air",
+      "B": "Sebagian tanaman membutuhkan air",
+      "C": "Tidak ada tanaman yang membutuhkan air",
+      "D": "Semua bunga adalah tanaman"
+    },
+    "answer": "B",
+    "explanation": "Karena sebagian tanaman adalah bunga, maka sebagian tanaman membutuhkan air."
+  },
+  {
+    "id": 79,
+    "category": "Silogisme",
+    "question": "Semua siswa disiplin memakai seragam. Budi tidak memakai seragam. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Budi disiplin",
+      "B": "Budi tidak disiplin",
+      "C": "Budi siswa",
+      "D": "Tidak dapat disimpulkan"
+    },
+    "answer": "B",
+    "explanation": "Jika semua siswa disiplin memakai seragam dan Budi tidak memakai seragam, maka Budi tidak disiplin."
+  },
+  {
+    "id": 80,
+    "category": "Silogisme",
+    "question": "Semua hewan membutuhkan makanan. Kelinci adalah hewan. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Kelinci tidak butuh makanan",
+      "B": "Kelinci membutuhkan makanan",
+      "C": "Semua makanan adalah hewan",
+      "C": "Kelinci bukan hewan"
+    },
+    "answer": "B",
+    "explanation": "Kelinci adalah hewan, dan semua hewan membutuhkan makanan."
+  },
+  {
+    "id": 81,
+    "category": "Silogisme",
+    "question": "Semua mahasiswa yang rajin akan lulus ujian. Budi adalah mahasiswa. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Budi pasti lulus ujian",
+      "B": "Budi mungkin lulus ujian jika rajin",
+      "C": "Budi tidak akan lulus ujian",
+      "D": "Budi bukan mahasiswa"
+    },
+    "answer": "B",
+    "explanation": "Karena hanya mahasiswa yang rajin yang pasti lulus, maka Budi hanya mungkin lulus jika ia rajin."
+  },
+  {
+    "id": 82,
+    "category": "Silogisme",
+    "question": "Semua burung memiliki sayap. Semua hewan yang memiliki sayap dapat terbang (tidak selalu benar secara mutlak). Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua burung pasti terbang",
+      "B": "Semua hewan bersayap pasti burung",
+      "C": "Burung memiliki sayap dan mungkin dapat terbang",
+      "D": "Tidak ada burung yang bisa terbang"
+    },
+    "answer": "C",
+    "explanation": "Dari premis hanya dapat dipastikan burung bersayap, tidak semua burung pasti terbang."
+  },
+  {
+    "id": 83,
+    "category": "Silogisme",
+    "question": "Sebagian siswa adalah atlet. Semua atlet berlatih keras. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua siswa berlatih keras",
+      "B": "Sebagian siswa berlatih keras",
+      "C": "Tidak ada siswa yang berlatih keras",
+      "D": "Semua atlet adalah siswa"
+    },
+    "answer": "B",
+    "explanation": "Karena sebagian siswa adalah atlet dan semua atlet berlatih keras, maka sebagian siswa berlatih keras."
+  },
+  {
+    "id": 84,
+    "category": "Silogisme",
+    "question": "Semua kucing adalah hewan. Semua hewan membutuhkan oksigen. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua kucing membutuhkan oksigen",
+      "B": "Sebagian kucing tidak membutuhkan oksigen",
+      "C": "Semua hewan adalah kucing",
+      "D": "Tidak ada kucing yang hewan"
+    },
+    "answer": "A",
+    "explanation": "Kucing adalah hewan, dan semua hewan membutuhkan oksigen."
+  },
+  {
+    "id": 85,
+    "category": "Silogisme",
+    "question": "Tidak ada siswa malas yang lulus ujian. Rina lulus ujian. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Rina malas",
+      "B": "Rina tidak malas",
+      "C": "Rina tidak siswa",
+      "D": "Tidak dapat disimpulkan"
+    },
+    "answer": "B",
+    "explanation": "Jika tidak ada siswa malas yang lulus, maka yang lulus tidak malas."
+  },
+  {
+    "id": 86,
+    "category": "Silogisme",
+    "question": "Semua dokter adalah pekerja keras. Sebagian pekerja keras adalah dosen. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua dokter adalah dosen",
+      "B": "Sebagian dokter adalah dosen",
+      "C": "Tidak ada dokter yang dosen",
+      "D": "Tidak dapat disimpulkan hubungan dokter dan dosen"
+    },
+    "answer": "D",
+    "explanation": "Tidak ada hubungan langsung antara dokter dan dosen dalam premis."
+  },
+  {
+    "id": 87,
+    "category": "Silogisme",
+    "question": "Semua siswa wajib mengikuti ujian. Andi adalah siswa. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Andi tidak wajib ujian",
+      "B": "Andi wajib mengikuti ujian",
+      "C": "Semua orang wajib ujian",
+      "D": "Andi bukan siswa"
+    },
+    "answer": "B",
+    "explanation": "Karena Andi adalah siswa, maka ia wajib mengikuti ujian."
+  },
+  {
+    "id": 88,
+    "category": "Silogisme",
+    "question": "Semua bunga membutuhkan air. Sebagian tanaman adalah bunga. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua tanaman membutuhkan air",
+      "B": "Sebagian tanaman membutuhkan air",
+      "C": "Tidak ada tanaman yang membutuhkan air",
+      "D": "Semua bunga bukan tanaman"
+    },
+    "answer": "B",
+    "explanation": "Karena sebagian tanaman adalah bunga, maka sebagian tanaman membutuhkan air."
+  },
+  {
+    "id": 89,
+    "category": "Silogisme",
+    "question": "Semua siswa disiplin memakai seragam. Dodi tidak memakai seragam. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Dodi disiplin",
+      "B": "Dodi tidak disiplin",
+      "C": "Dodi siswa",
+      "D": "Tidak dapat disimpulkan"
+    },
+    "answer": "B",
+    "explanation": "Jika semua siswa disiplin memakai seragam dan Dodi tidak memakai seragam, maka Dodi tidak disiplin."
+  },
+  {
+    "id": 90,
+    "category": "Silogisme",
+    "question": "Semua hewan membutuhkan makanan. Kelinci adalah hewan. Kesimpulan yang tepat adalah...",
+    "options": {
+      "A": "Kelinci tidak membutuhkan makanan",
+      "B": "Kelinci membutuhkan makanan",
+      "C": "Semua makanan adalah hewan",
+      "D": "Kelinci bukan hewan"
+    },
+    "answer": "B",
+    "explanation": "Kelinci adalah hewan, dan semua hewan membutuhkan makanan."
   }
 ]
