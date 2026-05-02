@@ -1,1 +1,565 @@
+[
+  {
+    "id": 1,
+    "category": "Sinonim",
+    "question": "Apa persamaan kata dari kesahihan?",
+    "options": {
+      "A": "Kebenaran",
+      "B": "Kemantapan",
+      "C": "Keberlakuan",
+      "D": "Kesalahan",
+      "E": "Kematangan"
+    },
+    "answer": "A",
+    "explanation": "Kesahihan berarti kebenaran atau keabsahan."
+  },
+  {
+    "id": 2,
+    "category": "Sinonim",
+    "question": "Apa persamaan kata dari debat?",
+    "options": {
+      "A": "Perbantahan",
+      "B": "Diskusi",
+      "C": "Komentar",
+      "D": "Permasalahan",
+      "E": "Pembicaraan"
+    },
+    "answer": "A",
+    "explanation": "Debat identik dengan perbantahan atau adu pendapat."
+  },
+  {
+    "id": 3,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata terkenal adalah...",
+    "options": {
+      "A": "Kaya",
+      "B": "Terhormat",
+      "C": "Populer",
+      "D": "Berani",
+      "E": "Terkemuka"
+    },
+    "answer": "C",
+    "explanation": "Terkenal berarti populer di kalangan luas."
+  },
+  {
+    "id": 4,
+    "category": "Sinonim",
+    "question": "Sinonim dari membenci adalah...",
+    "options": {
+      "A": "Menyukai",
+      "B": "Mengagumi",
+      "C": "Menjijikkan",
+      "D": "Mengejek",
+      "E": "Mengabaikan"
+    },
+    "answer": "C",
+    "explanation": "Membenci berarti merasa sangat tidak suka atau jijik."
+  },
+  {
+    "id": 5,
+    "category": "Sinonim",
+    "question": "Sinonim dari cerah adalah...",
+    "options": {
+      "A": "Gelap",
+      "B": "Terang",
+      "C": "Suram",
+      "D": "Mendung",
+      "E": "Redup"
+    },
+    "answer": "B",
+    "explanation": "Cerah berarti terang atau tidak gelap."
+  },
+  {
+    "id": 6,
+    "category": "Sinonim",
+    "question": "Sinonim dari abstrak adalah...",
+    "options": {
+      "A": "Nyata",
+      "B": "Kabur",
+      "C": "Konkrit",
+      "D": "Teoretis",
+      "E": ""
+    },
+    "answer": "D",
+    "explanation": "Abstrak berkaitan dengan konsep teoritis, bukan konkret."
+  },
+  {
+    "id": 7,
+    "category": "Sinonim",
+    "question": "Sinonim dari vital adalah...",
+    "options": {
+      "A": "Penting",
+      "B": "Mati",
+      "C": "Sepele",
+      "D": "Biasa",
+      "E": ""
+    },
+    "answer": "A",
+    "explanation": "Vital berarti sangat penting."
+  },
+  {
+    "id": 8,
+    "category": "Sinonim",
+    "question": "Sinonim dari resesi adalah...",
+    "options": {
+      "A": "Kemajuan",
+      "B": "Pemulihan",
+      "C": "Krisis",
+      "D": "Perkembangan",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Resesi adalah kondisi krisis ekonomi."
+  },
+  {
+    "id": 9,
+    "category": "Sinonim",
+    "question": "Sinonim dari intensif adalah...",
+    "options": {
+      "A": "Cepat",
+      "B": "Ringan",
+      "C": "Mendalam",
+      "D": "Sederhana",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Intensif berarti dilakukan secara mendalam."
+  },
+  {
+    "id": 10,
+    "category": "Sinonim",
+    "question": "Sinonim dari global adalah...",
+    "options": {
+      "A": "Luas",
+      "B": "Umum",
+      "C": "Internasional",
+      "D": "Lokal",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Global berarti mencakup seluruh dunia atau internasional."
+  },
 
+  {
+    "id": 11,
+    "category": "Antonim",
+    "question": "Antonim dari tenggelam adalah...",
+    "options": {
+      "A": "Melayang",
+      "B": "Terombang",
+      "C": "Terkatung",
+      "D": "Tertentu",
+      "E": "Terapung"
+    },
+    "answer": "E",
+    "explanation": "Tenggelam berlawanan dengan terapung."
+  },
+  {
+    "id": 12,
+    "category": "Antonim",
+    "question": "Antonim dari keseragaman adalah...",
+    "options": {
+      "A": "Monopoli",
+      "B": "Disparitas",
+      "C": "Tinggi rendah",
+      "D": "Berdua",
+      "E": "Uni"
+    },
+    "answer": "B",
+    "explanation": "Keseragaman berlawanan dengan perbedaan (disparitas)."
+  },
+  {
+    "id": 13,
+    "category": "Antonim",
+    "question": "Antonim dari ekstrovert adalah...",
+    "options": {
+      "A": "Terisolasi",
+      "B": "Introvert",
+      "C": "Pendiam",
+      "D": "Penyendiri",
+      "E": "Pemalu"
+    },
+    "answer": "B",
+    "explanation": "Ekstrovert berlawanan dengan introvert."
+  },
+  {
+    "id": 14,
+    "category": "Antonim",
+    "question": "Kendala >< ...",
+    "options": {
+      "A": "Hambatan",
+      "B": "Rintangan",
+      "C": "Pendukung",
+      "D": "Ujian",
+      "E": "Halangan"
+    },
+    "answer": "C",
+    "explanation": "Kendala berlawanan dengan pendukung."
+  },
+  {
+    "id": 15,
+    "category": "Antonim",
+    "question": "Lazim >< ...",
+    "options": {
+      "A": "Zakat",
+      "B": "Beda",
+      "C": "Benci",
+      "D": "Jujur",
+      "E": "Lumrah"
+    },
+    "answer": "B",
+    "explanation": "Lazim berarti umum, lawannya tidak biasa atau beda."
+  },
+  {
+    "id": 16,
+    "category": "Antonim",
+    "question": "Antonim dari objektif adalah...",
+    "options": {
+      "A": "Netral",
+      "B": "Adil",
+      "C": "Subjektif",
+      "D": "Rasional",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Objektif berlawanan dengan subjektif."
+  },
+  {
+    "id": 17,
+    "category": "Antonim",
+    "question": "Antonim dari ekspansif adalah...",
+    "options": {
+      "A": "Meluas",
+      "B": "Kaku",
+      "C": "Terbatas",
+      "D": "Terbuka",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Ekspansif berarti meluas, lawannya terbatas."
+  },
+  {
+    "id": 18,
+    "category": "Antonim",
+    "question": "Antonim dari progresif adalah...",
+    "options": {
+      "A": "Inovatif",
+      "B": "Stagnan",
+      "C": "Aktif",
+      "D": "Cepat",
+      "E": ""
+    },
+    "answer": "B",
+    "explanation": "Progresif berlawanan dengan stagnan."
+  },
+  {
+    "id": 19,
+    "category": "Antonim",
+    "question": "Antonim dari loyal adalah...",
+    "options": {
+      "A": "Taat",
+      "B": "Setia",
+      "C": "Khianat",
+      "D": "Jujur",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Loyal berarti setia, lawannya khianat."
+  },
+  {
+    "id": 20,
+    "category": "Antonim",
+    "question": "Antonim dari minimal adalah...",
+    "options": {
+      "A": "Sedikit",
+      "B": "Sederhana",
+      "C": "Maksimal",
+      "D": "Lumayan",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Minimal berlawanan dengan maksimal."
+  },
+
+  {
+    "id": 21,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok negara adalah...",
+    "options": {
+      "A": "Kenya",
+      "B": "Bangladesh",
+      "C": "Kuala Lumpur",
+      "D": "Cile",
+      "E": "Brunei Darussalam"
+    },
+    "answer": "C",
+    "explanation": "Kuala Lumpur adalah kota, bukan negara."
+  },
+  {
+    "id": 22,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok mata uang adalah...",
+    "options": {
+      "A": "Rabat",
+      "B": "Dolar",
+      "C": "Rupee",
+      "D": "Bath",
+      "E": "Dinar"
+    },
+    "answer": "A",
+    "explanation": "Rabat adalah kota, bukan mata uang."
+  },
+  {
+    "id": 23,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok adalah...",
+    "options": {
+      "A": "Eksponensial",
+      "B": "Logaritma",
+      "C": "Geofisika",
+      "D": "Fungsi Invers",
+      "E": "Transformasi"
+    },
+    "answer": "C",
+    "explanation": "Geofisika adalah bidang ilmu, bukan konsep matematika."
+  },
+  {
+    "id": 24,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok adalah...",
+    "options": {
+      "A": "Dikotil",
+      "B": "Dikotomi",
+      "C": "Ekosistem",
+      "D": "Hibernasi",
+      "E": "Kontur"
+    },
+    "answer": "E",
+    "explanation": "Kontur berkaitan dengan peta, bukan biologi."
+  },
+  {
+    "id": 25,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok makanan susu adalah...",
+    "options": {
+      "A": "Pillow",
+      "B": "Puding",
+      "C": "Keju",
+      "D": "Krim",
+      "E": "Mentega"
+    },
+    "answer": "B",
+    "explanation": "Puding tidak selalu berbahan dasar susu seperti lainnya."
+  },
+  {
+    "id": 26,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok makanan adalah...",
+    "options": {
+      "A": "Hotdog",
+      "B": "Burger",
+      "C": "Pizza",
+      "D": "Tiramisu",
+      "E": "French Fries"
+    },
+    "answer": "D",
+    "explanation": "Tiramisu adalah dessert, berbeda dari fast food lainnya."
+  },
+  {
+    "id": 27,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok kerajaan adalah...",
+    "options": {
+      "A": "Majapahit",
+      "B": "Kalingga",
+      "C": "Kudungga",
+      "D": "Tarumanegara",
+      "E": "Kutai"
+    },
+    "answer": "C",
+    "explanation": "Kudungga adalah tokoh, bukan nama kerajaan."
+  },
+  {
+    "id": 28,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok susu adalah...",
+    "options": {
+      "A": "Yoghurt",
+      "B": "Puding",
+      "C": "Keju",
+      "D": "Krim",
+      "E": "Mentega"
+    },
+    "answer": "B",
+    "explanation": "Puding tidak selalu berbasis susu."
+  },
+  {
+    "id": 29,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok profesi adalah...",
+    "options": {
+      "A": "Arkeologi",
+      "B": "Pengusaha",
+      "C": "Dokter",
+      "D": "Guru",
+      "E": "Perawat"
+    },
+    "answer": "A",
+    "explanation": "Arkeologi adalah bidang ilmu, bukan profesi."
+  },
+  {
+    "id": 30,
+    "category": "Klasifikasi",
+    "question": "Yang tidak masuk kelompok peristiwa sejarah Indonesia adalah...",
+    "options": {
+      "A": "Pertempuran Surabaya",
+      "B": "Puputan Margarana",
+      "C": "Bandung Lautan Api",
+      "D": "Perang Tujuh Tahun",
+      "E": "Padri"
+    },
+    "answer": "D",
+    "explanation": "Perang Tujuh Tahun terjadi di luar Indonesia."
+  },
+
+  {
+    "id": 31,
+    "category": "Analogi",
+    "question": "Gerbong : Lokomotif = ... : ...",
+    "options": {
+      "A": "Taksi:Pengemudi",
+      "B": "Kereta:Masinis",
+      "C": "Pedati:Andong",
+      "D": "Trem:Rel",
+      "E": "Delman:Kuda"
+    },
+    "answer": "E",
+    "explanation": "Gerbong ditarik lokomotif, seperti delman ditarik kuda."
+  },
+  {
+    "id": 32,
+    "category": "Analogi",
+    "question": "Modern : Tradisional = ... : ...",
+    "options": {
+      "A": "Roket:Scud",
+      "B": "Mobil:Pedati",
+      "C": "Pesawat:Sepeda Motor",
+      "D": "Ferrari:Fiat",
+      "E": "TV:VCD Player"
+    },
+    "answer": "B",
+    "explanation": "Modern berlawanan dengan tradisional seperti mobil dan pedati."
+  },
+  {
+    "id": 33,
+    "category": "Analogi",
+    "question": "Gitar : Senar = ... : ...",
+    "options": {
+      "A": "Piano:Tuts",
+      "B": "Drum:Palu",
+      "C": "Flute:Lubang",
+      "D": "Biola:Busur",
+      "E": "Trompet:Katup"
+    },
+    "answer": "A",
+    "explanation": "Gitar menggunakan senar, piano menggunakan tuts."
+  },
+  {
+    "id": 34,
+    "category": "Analogi",
+    "question": "Dokter : Pasien = Guru : ...",
+    "options": {
+      "A": "Murid",
+      "B": "Buku",
+      "C": "Sekolah",
+      "D": "Pelajaran",
+      "E": ""
+    },
+    "answer": "A",
+    "explanation": "Dokter menangani pasien, guru mengajar murid."
+  },
+  {
+    "id": 35,
+    "category": "Analogi",
+    "question": "Pisau : Tajam = Kapas : ...",
+    "options": {
+      "A": "Putih",
+      "B": "Lembut",
+      "C": "Ringan",
+      "D": "Kecil",
+      "E": ""
+    },
+    "answer": "B",
+    "explanation": "Pisau bersifat tajam, kapas bersifat lembut."
+  },
+  {
+    "id": 36,
+    "category": "Analogi",
+    "question": "Mobil : Jalan = Kapal : ...",
+    "options": {
+      "A": "Darat",
+      "B": "Sungai",
+      "C": "Laut",
+      "D": "Dermaga",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Mobil di jalan, kapal di laut."
+  },
+  {
+    "id": 37,
+    "category": "Analogi",
+    "question": "Api : Panas = Es : ...",
+    "options": {
+      "A": "Dingin",
+      "B": "Beku",
+      "C": "Cair",
+      "D": "Air",
+      "E": ""
+    },
+    "answer": "A",
+    "explanation": "Api menghasilkan panas, es menghasilkan dingin."
+  },
+  {
+    "id": 38,
+    "category": "Analogi",
+    "question": "Matahari : Siang = Bulan : ...",
+    "options": {
+      "A": "Terang",
+      "B": "Malam",
+      "C": "Bintang",
+      "D": "Awan",
+      "E": ""
+    },
+    "answer": "B",
+    "explanation": "Matahari identik dengan siang, bulan dengan malam."
+  },
+  {
+    "id": 39,
+    "category": "Analogi",
+    "question": "Melati : Putih = Mawar : ...",
+    "options": {
+      "A": "Merah",
+      "B": "Harum",
+      "C": "Tajam",
+      "D": "Indah",
+      "E": ""
+    },
+    "answer": "A",
+    "explanation": "Melati umumnya putih, mawar sering merah."
+  },
+  {
+    "id": 40,
+    "category": "Analogi",
+    "question": "Pensil : Tulis = Gunting : ...",
+    "options": {
+      "A": "Kertas",
+      "B": "Gunting",
+      "C": "Potong",
+      "D": "Tajam",
+      "E": ""
+    },
+    "answer": "C",
+    "explanation": "Pensil digunakan untuk menulis, gunting untuk memotong."
+  }
+]
