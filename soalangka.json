@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "category": "Matematika - Aritmetika Sosial",
+    "question": "Harga daging bebek hidup per ons adalah Rp1.200,00, sedangkan harga daging bebek goreng per ons adalah Rp2.500,00. Seekor bebek mengalami penyusutan berat 35% setelah digoreng. Jika keuntungan total Rp88.200 dan keuntungan per ekor Rp2.100, berapa jumlah bebek yang dijual?",
+    "options": {
+      "A": "32 ekor",
+      "B": "40 ekor",
+      "C": "42 ekor",
+      "D": "46 ekor",
+      "E": "52 ekor"
+    },
+    "answer": "C",
+    "explanation": "Jumlah bebek = 88.200 ÷ 2.100 = 42 ekor."
+  },
+  {
+    "id": 2,
+    "category": "Matematika - Keuangan",
+    "question": "Pak Bambang meminjam Rp2.000.000 dengan bunga 7,5%. Ia menjual barang seharga Rp2.250.000 dan membayar pinjaman + bunga. Setelah biaya lain Rp32.500, berapa sisa uang?",
+    "options": {
+      "A": "Rp67.000",
+      "B": "Rp67.500",
+      "C": "Rp68.000",
+      "D": "Rp68.500",
+      "E": "Rp66.500"
+    },
+    "answer": "B",
+    "explanation": "Sisa uang = 100.000 - 32.500 = 67.500."
+  },
+  {
+    "id": 3,
+    "category": "Perbandingan",
+    "question": "Perbandingan uang Suci dan Murni adalah 3:7. Jika Murni Rp210.000, selisih uang keduanya adalah...",
+    "options": {
+      "A": "Rp90.000",
+      "B": "Rp190.000",
+      "C": "Rp120.000",
+      "D": "Rp130.000",
+      "E": "Rp150.000"
+    },
+    "answer": "C",
+    "explanation": "Suci = 90.000, selisih = 120.000."
+  },
+  {
+    "id": 4,
+    "category": "Perbandingan Satuan",
+    "question": "Kayu 4 meter beratnya 18 ons. Berapa panjang kayu jika beratnya 3,15 kg?",
+    "options": {
+      "A": "6 meter",
+      "B": "6,5 meter",
+      "C": "7 meter",
+      "D": "7,5 meter",
+      "E": "7,75 meter"
+    },
+    "answer": "C",
+    "explanation": "3,15 kg = 31,5 ons → 31,5 ÷ 4,5 = 7 meter."
+  },
+  {
+    "id": 5,
+    "category": "Persentase",
+    "question": "Toko memiliki 200 barang. Jika 25% terjual, berapa sisa barang?",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "150",
+      "D": "175",
+      "E": "125"
+    },
+    "answer": "C",
+    "explanation": "Terjual 50, sisa 150."
+  },
+  {
+    "id": 6,
+    "category": "Persentase",
+    "question": "Perpustakaan memiliki 500 buku. Jika 20% dipinjam, berapa sisa buku?",
+    "options": {
+      "A": "100",
+      "B": "200",
+      "C": "300",
+      "D": "400",
+      "E": "450"
+    },
+    "answer": "C",
+    "explanation": "Dipinjam 100, sisa 400."
+  },
+  {
+    "id": 7,
+    "category": "Diskon",
+    "question": "Barang Rp240.000 mendapat diskon 25%. Harga akhir adalah...",
+    "options": {
+      "A": "Rp160.000",
+      "B": "Rp170.000",
+      "C": "Rp180.000",
+      "D": "Rp185.000",
+      "E": "Rp200.000"
+    },
+    "answer": "C",
+    "explanation": "Diskon 60.000 → harga 180.000."
+  },
+  {
+    "id": 8,
+    "category": "Persentase",
+    "question": "Dalam kelas 40 siswa, 60% perempuan. Jumlah laki-laki adalah...",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18",
+      "E": "20"
+    },
+    "answer": "C",
+    "explanation": "Perempuan 24, laki-laki 16."
+  },
+  {
+    "id": 9,
+    "category": "Perbandingan",
+    "question": "Pedagang membeli 300 kg beras. Jika 3/5 terjual, sisa beras adalah...",
+    "options": {
+      "A": "120 kg",
+      "B": "150 kg",
+      "C": "180 kg",
+      "D": "200 kg",
+      "E": "220 kg"
+    },
+    "answer": "A",
+    "explanation": "Terjual 180 kg, sisa 120 kg."
+  },
+  {
+    "id": 10,
+    "category": "Kecepatan",
+    "question": "Mobil menempuh 360 km dalam 6 jam. Kecepatan rata-rata adalah...",
+    "options": {
+      "A": "50 km/jam",
+      "B": "55 km/jam",
+      "C": "60 km/jam",
+      "D": "65 km/jam",
+      "E": "70 km/jam"
+    },
+    "answer": "C",
+    "explanation": "360 ÷ 6 = 60 km/jam."
+  },
+
+  {
+    "id": 11,
+    "category": "Aljabar",
+    "question": "Jika 3x + 5 = 20, maka nilai x adalah...",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20",
+      "E": "25"
+    },
+    "answer": "A",
+    "explanation": "3x = 15 → x = 5."
+  },
+  {
+    "id": 12,
+    "category": "Aljabar",
+    "question": "Jika 4x - 10 = 18, maka x adalah...",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "C",
+    "explanation": "4x = 28 → x = 7."
+  },
+  {
+    "id": 13,
+    "category": "Aljabar",
+    "question": "Jika x + 2y = 20 dan y = 5, maka x adalah...",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "answer": "E",
+    "explanation": "x + 10 = 20 → x = 10."
+  },
+  {
+    "id": 14,
+    "category": "Aljabar",
+    "question": "Jika 2x + 7 = 27, maka x adalah...",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "12"
+    },
+    "answer": "C",
+    "explanation": "2x = 20 → x = 10."
+  },
+  {
+    "id": 15,
+    "category": "Aljabar",
+    "question": "Jika 5x - 3 = 2x + 12, maka x adalah...",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "answer": "C",
+    "explanation": "3x = 15 → x = 5."
+  },
+  {
+    "id": 16,
+    "category": "Aljabar",
+    "question": "Jika 3(x - 2) = 21, maka x adalah...",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "answer": "D",
+    "explanation": "x - 2 = 7 → x = 9."
+  },
+  {
+    "id": 17,
+    "category": "Aljabar",
+    "question": "Jika 2x + 3y = 22 dan y = 4, maka x adalah...",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "answer": "C",
+    "explanation": "2x + 12 = 22 → x = 5."
+  },
+  {
+    "id": 18,
+    "category": "Aljabar",
+    "question": "Jika x/3 + 4 = 10, maka x adalah...",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "21",
+      "E": "24"
+    },
+    "answer": "C",
+    "explanation": "x/3 = 6 → x = 18."
+  },
+  {
+    "id": 19,
+    "category": "Aljabar",
+    "question": "Jika 7x + 2 = 3x + 26, maka x adalah...",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "answer": "C",
+    "explanation": "4x = 24 → x = 6."
+  },
+  {
+    "id": 20,
+    "category": "SPLDV",
+    "question": "Jika x + y = 13 dan x - y = 3, maka nilai x adalah...",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "D",
+    "explanation": "2x = 16 → x = 8."
+  },
+
+  {
+    "id": 21,
+    "category": "Pola Huruf",
+    "question": "B, A, C, A, D, A, E, A, F, A, G, A, ..., ...",
+    "options": {
+      "A": "A dan J",
+      "B": "A dan H",
+      "C": "H dan A",
+      "D": "I dan A",
+      "E": "J dan A"
+    },
+    "answer": "E",
+    "explanation": "Pola huruf utama naik +1, diselingi A."
+  },
+  {
+    "id": 22,
+    "category": "Pola Huruf",
+    "question": "aba, abe, abi, ..., ...",
+    "options": {
+      "A": "abm dan abq",
+      "B": "abu dan abo",
+      "C": "abe dan abz",
+      "D": "abj dan abg",
+      "E": "abx dan abd"
+    },
+    "answer": "A",
+    "explanation": "Pola huruf tengah naik berurutan."
+  },
+  {
+    "id": 23,
+    "category": "Pola Huruf",
+    "question": "A, G, ..., S, ...",
+    "options": {
+      "A": "H dan N",
+      "B": "J dan O",
+      "C": "M dan Y",
+      "D": "N dan Q",
+      "E": "O dan R"
+    },
+    "answer": "C",
+    "explanation": "Pola loncat huruf tertentu menghasilkan M dan Y."
+  },
+  {
+    "id": 24,
+    "category": "Pola Huruf",
+    "question": "C, B, A, G, E, C, K, H, E, ...",
+    "options": {
+      "A": "NKG",
+      "B": "OKG",
+      "C": "NLG",
+      "D": "MLG",
+      "E": "OKH"
+    },
+    "answer": "B",
+    "explanation": "Pola kombinasi penurunan dan kenaikan huruf."
+  },
+  {
+    "id": 25,
+    "category": "Pola Huruf",
+    "question": "C, D, F, I, M, ...",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "S",
+      "D": "T",
+      "E": "R"
+    },
+    "answer": "B",
+    "explanation": "Pola loncat +1, +2, +3, +4, +5 menghasilkan Q."
+  }
+]
