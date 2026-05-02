@@ -350,5 +350,215 @@
     },
     "answer": "B",
     "explanation": "Pola loncat +1, +2, +3, +4, +5 menghasilkan Q."
+  },
+  {
+    "id": 26,
+    "category": "Tes Logika Angka - Aritmatika",
+    "question": "Harga daging bebek hidup per ons adalah Rp1.200,00, sedangkan harga daging bebek goreng per ons adalah Rp2.500,00. Seekor bebek akan mengalami penyusutan berat 35% setelah digoreng. Penjual membeli bebek seharga Rp655.200,00 dan menjualnya seharga Rp743.400,00 dengan keuntungan Rp2.100,00 per ekor. Berapakah jumlah bebek yang dijual?",
+    "options": {
+      "A": "32 ekor",
+      "B": "40 ekor",
+      "C": "42 ekor",
+      "D": "46 ekor",
+      "E": "52 ekor"
+    },
+    "answer": "C",
+    "explanation": "Total keuntungan = 743.400 - 655.200 = 88.200. Keuntungan per ekor = 2.100. Maka jumlah bebek = 88.200 ÷ 2.100 = 42 ekor."
+  },
+  {
+    "id": 27,
+    "category": "Tes Logika Angka - Aritmatika",
+    "question": "Pak Bambang meminjam Rp2.000.000 dengan bunga 7,5% lalu menjual barang seharga Rp2.250.000. Setelah mengembalikan pinjaman beserta bunga serta biaya lain Rp30.500 dan Rp2.000, berapa sisa uang Pak Bambang?",
+    "options": {
+      "A": "Rp67.000,00",
+      "B": "Rp67.500,00",
+      "C": "Rp68.000,00",
+      "D": "Rp68.500,00",
+      "E": "Rp66.500,00"
+    },
+    "answer": "B",
+    "explanation": "Pinjaman + bunga = 2.150.000. Keuntungan = 2.250.000 - 2.150.000 = 100.000. Dikurangi biaya = 30.500 + 2.000 = 32.500. Sisa = 67.500."
+  },
+  {
+    "id": 28,
+    "category": "Tes Logika Angka - Perbandingan",
+    "question": "Perbandingan uang Suci dan Murni adalah 3:7. Jika uang Murni Rp210.000, berapa selisih uang keduanya?",
+    "options": {
+      "A": "Rp90.000,00",
+      "B": "Rp190.000,00",
+      "C": "Rp120.000,00",
+      "D": "Rp130.000,00",
+      "E": "Rp150.000,00"
+    },
+    "answer": "C",
+    "explanation": "Uang Suci = (3/7) × 210.000 = 90.000. Selisih = 210.000 - 90.000 = 120.000."
+  },
+  {
+    "id": 29,
+    "category": "Tes Logika Angka - Perbandingan",
+    "question": "Sepotong kayu panjang 4 meter beratnya 18 ons. Berapa panjang kayu jika beratnya 3,15 kg?",
+    "options": {
+      "A": "6 meter",
+      "B": "6,5 meter",
+      "C": "7 meter",
+      "D": "7,5 meter",
+      "E": "7,75 meter"
+    },
+    "answer": "C",
+    "explanation": "4 meter = 18 ons → 1 meter = 4,5 ons. 3,15 kg = 315 ons. Panjang = 315 ÷ 4,5 = 7 meter."
+  },
+  {
+    "id": 30,
+    "category": "Tes Logika Angka - Persentase",
+    "question": "Sebuah toko memiliki 200 barang. Jika 25% terjual, berapa sisa barang?",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "150",
+      "D": "175",
+      "E": "125"
+    },
+    "answer": "C",
+    "explanation": "Terjual = 25% × 200 = 50. Sisa = 200 - 50 = 150."
+  },
+  {
+    "id": 31,
+    "category": "Tes Logika Angka - Persentase",
+    "question": "Sebuah kelas memiliki 40 siswa. Jika 60% perempuan, berapa laki-laki?",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18",
+      "E": "20"
+    },
+    "answer": "E",
+    "explanation": "Perempuan = 60% × 40 = 24. Laki-laki = 40 - 24 = 16."
+  },
+  {
+    "id": 32,
+    "category": "Tes Logika Angka - Perbandingan",
+    "question": "Pedagang membeli 300 kg beras. Jika 3/5 sudah terjual, berapa sisa?",
+    "options": {
+      "A": "120 kg",
+      "B": "150 kg",
+      "C": "180 kg",
+      "D": "200 kg",
+      "E": "220 kg"
+    },
+    "answer": "A",
+    "explanation": "Terjual = 3/5 × 300 = 180 kg. Sisa = 300 - 180 = 120 kg."
+  },
+  {
+    "id": 33,
+    "category": "Tes Logika Angka - Kecepatan",
+    "question": "Mobil menempuh 360 km dalam 6 jam. Berapa kecepatan rata-rata?",
+    "options": {
+      "A": "50 km/jam",
+      "B": "55 km/jam",
+      "C": "60 km/jam",
+      "D": "65 km/jam",
+      "E": "70 km/jam"
+    },
+    "answer": "C",
+    "explanation": "Kecepatan = 360 ÷ 6 = 60 km/jam."
+  },
+  {
+    "id": 34,
+    "category": "Tes Logika Angka - Aljabar",
+    "question": "Jika 3x + 5 = 20, maka nilai x adalah...",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20",
+      "E": "25"
+    },
+    "answer": "A",
+    "explanation": "3x = 15 → x = 5."
+  },
+  {
+    "id": 35,
+    "category": "Tes Logika Angka - Aljabar",
+    "question": "Jika 4x - 10 = 18, maka x adalah...",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "C",
+    "explanation": "4x = 28 → x = 7."
+  },
+  {
+    "id": 36,
+    "category": "Tes Logika Angka - Aljabar",
+    "question": "Jika x + 2y = 20 dan y = 5, maka x adalah...",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "answer": "E",
+    "explanation": "x + 10 = 20 → x = 10."
+  },
+  {
+    "id": 37,
+    "category": "Tes Logika Angka - Aljabar",
+    "question": "Jika 2x + 7 = 27, maka x adalah...",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "12"
+    },
+    "answer": "C",
+    "explanation": "2x = 20 → x = 10."
+  },
+  {
+    "id": 38,
+    "category": "Tes Logika Angka - Aljabar",
+    "question": "Jika 5x - 3 = 2x + 12, maka x adalah...",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "answer": "C",
+    "explanation": "3x = 15 → x = 5."
+  },
+  {
+    "id": 39,
+    "category": "Tes Logika Angka - Aljabar",
+    "question": "Jika 3(x - 2) = 21, maka x adalah...",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "answer": "D",
+    "explanation": "x - 2 = 7 → x = 9."
+  },
+  {
+    "id": 40,
+    "category": "Tes Logika Angka - Sistem Persamaan",
+    "question": "Jika x + y = 13 dan x - y = 3, maka x adalah...",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "D",
+    "explanation": "2x = 16 → x = 8."
   }
 ]
