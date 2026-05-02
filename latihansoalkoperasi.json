@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "category": "Perkoperasian",
+    "question": "Prinsip “keanggotaan sukarela dan terbuka” dalam koperasi mengandung makna bahwa…",
+    "options": {
+      "A": "Setiap warga negara wajib menjadi anggota koperasi",
+      "B": "Anggota bebas masuk tanpa persyaratan",
+      "C": "Tidak boleh ada diskriminasi sepanjang memenuhi syarat AD/ART",
+      "D": "Keanggotaan ditentukan oleh pengurus",
+      "E": "Anggota tidak dapat keluar setelah bergabung"
+    },
+    "answer": "C",
+    "explanation": "Prinsip koperasi menekankan non-diskriminasi dengan tetap mengikuti syarat AD/ART."
+  },
+  {
+    "id": 2,
+    "category": "Perkoperasian",
+    "question": "SHU dibagikan kepada anggota berdasarkan…",
+    "options": {
+      "A": "Besarnya simpanan pokok",
+      "B": "Modal penyertaan pemerintah",
+      "C": "Partisipasi anggota dalam transaksi usaha",
+      "D": "Keputusan pengawas",
+      "E": "Lama keanggotaan"
+    },
+    "answer": "C",
+    "explanation": "SHU dibagi berdasarkan jasa usaha atau partisipasi anggota."
+  },
+  {
+    "id": 3,
+    "category": "Perkoperasian",
+    "question": "Dalam koperasi, pemegang kekuasaan tertinggi adalah…",
+    "options": {
+      "A": "Pengurus",
+      "B": "Pengawas",
+      "C": "Manajer",
+      "D": "Rapat Anggota",
+      "E": "Dinas Koperasi"
+    },
+    "answer": "D",
+    "explanation": "Rapat Anggota merupakan forum tertinggi dalam koperasi."
+  },
+  {
+    "id": 4,
+    "category": "Perkoperasian",
+    "question": "Jika koperasi mengalami kerugian, maka tanggung jawab anggota bersifat…",
+    "options": {
+      "A": "Tidak terbatas",
+      "B": "Terbatas pada simpanan yang dimiliki",
+      "C": "Ditanggung pemerintah",
+      "D": "Ditanggung pengurus pribadi",
+      "E": "Ditanggung pengawas"
+    },
+    "answer": "B",
+    "explanation": "Anggota hanya bertanggung jawab sebesar modal yang disetor."
+  },
+  {
+    "id": 5,
+    "category": "Perkoperasian",
+    "question": "RAT wajib dilaksanakan minimal…",
+    "options": {
+      "A": "2 kali setahun",
+      "B": "1 kali dalam 3 tahun",
+      "C": "1 kali setahun",
+      "D": "1 kali dalam 5 tahun",
+      "E": "Tidak ada kewajiban"
+    },
+    "answer": "C",
+    "explanation": "RAT dilakukan minimal satu kali dalam setahun."
+  },
+  {
+    "id": 6,
+    "category": "Perkoperasian",
+    "question": "Modal sendiri koperasi terdiri dari berikut, kecuali…",
+    "options": {
+      "A": "Simpanan pokok",
+      "B": "Simpanan wajib",
+      "C": "Dana cadangan",
+      "D": "Hibah",
+      "E": "Pinjaman bank"
+    },
+    "answer": "E",
+    "explanation": "Pinjaman bank termasuk modal pinjaman."
+  },
+  {
+    "id": 7,
+    "category": "Perkoperasian",
+    "question": "Perbedaan utama koperasi dan PT terletak pada…",
+    "options": {
+      "A": "Badan hukum",
+      "B": "Tujuan usaha",
+      "C": "Prinsip satu anggota satu suara",
+      "D": "Modal",
+      "E": "Pengawas"
+    },
+    "answer": "C",
+    "explanation": "Koperasi menggunakan prinsip demokrasi anggota, bukan saham."
+  },
+  {
+    "id": 8,
+    "category": "Perkoperasian",
+    "question": "Koperasi primer minimal didirikan oleh…",
+    "options": {
+      "A": "3 orang",
+      "B": "5 orang",
+      "C": "9 orang",
+      "D": "20 orang",
+      "E": "50 orang"
+    },
+    "answer": "C",
+    "explanation": "Minimal 9 orang untuk koperasi primer."
+  },
+  {
+    "id": 9,
+    "category": "Perkoperasian",
+    "question": "Koperasi sekunder didirikan oleh minimal…",
+    "options": {
+      "A": "2 koperasi",
+      "B": "3 koperasi",
+      "C": "5 koperasi",
+      "D": "9 koperasi",
+      "E": "20 koperasi"
+    },
+    "answer": "B",
+    "explanation": "Minimal 3 koperasi untuk membentuk koperasi sekunder."
+  },
+  {
+    "id": 10,
+    "category": "Perkoperasian",
+    "question": "Fungsi dana cadangan adalah…",
+    "options": {
+      "A": "Dibagikan ke anggota",
+      "B": "Modal ekspansi",
+      "C": "Menutup kerugian",
+      "D": "Dana sosial",
+      "E": "Dana pengurus"
+    },
+    "answer": "C",
+    "explanation": "Dana cadangan digunakan untuk menutup kerugian koperasi."
+  },
+  {
+    "id": 11,
+    "category": "Perkoperasian",
+    "question": "Manajer koperasi bertanggung jawab kepada…",
+    "options": {
+      "A": "Rapat Anggota",
+      "B": "Pengurus",
+      "C": "Pengawas",
+      "D": "Pemerintah",
+      "E": "Anggota langsung"
+    },
+    "answer": "B",
+    "explanation": "Manajer bertanggung jawab kepada pengurus."
+  },
+  {
+    "id": 12,
+    "category": "Perkoperasian",
+    "question": "Koperasi simpan pinjam tidak boleh…",
+    "options": {
+      "A": "Menghimpun simpanan anggota",
+      "B": "Memberi pinjaman ke anggota",
+      "C": "Menghimpun dana dari non-anggota tanpa izin",
+      "D": "Menyusun laporan keuangan",
+      "E": "Mengadakan RAT"
+    },
+    "answer": "C",
+    "explanation": "Penghimpunan dana dari non-anggota harus dengan izin."
+  },
+  {
+    "id": 13,
+    "category": "Perkoperasian",
+    "question": "Prinsip pendidikan koperasi berarti…",
+    "options": {
+      "A": "Anggota wajib sekolah",
+      "B": "Koperasi menyelenggarakan pelatihan bagi anggota",
+      "C": "Hanya pengurus yang dilatih",
+      "D": "Pendidikan oleh pemerintah",
+      "E": "Tidak wajib"
+    },
+    "answer": "B",
+    "explanation": "Koperasi bertanggung jawab meningkatkan kapasitas anggotanya."
+  },
+  {
+    "id": 14,
+    "category": "Perkoperasian",
+    "question": "Jika RAT tidak mencapai kuorum, maka…",
+    "options": {
+      "A": "Bubar",
+      "B": "Tetap sah",
+      "C": "Ditunda sesuai AD/ART",
+      "D": "Diganti pengurus",
+      "E": "Diambil alih pemerintah"
+    },
+    "answer": "C",
+    "explanation": "RAT ditunda sesuai ketentuan AD/ART."
+  },
+  {
+    "id": 15,
+    "category": "Perkoperasian",
+    "question": "Indikator koperasi sehat secara keuangan adalah…",
+    "options": {
+      "A": "Banyak anggota",
+      "B": "SHU besar",
+      "C": "Likuiditas baik dan rasio sehat",
+      "D": "Gedung besar",
+      "E": "Banyak cabang"
+    },
+    "answer": "C",
+    "explanation": "Kesehatan keuangan diukur dari rasio keuangan yang sehat."
+  },
+  {
+    "id": 16,
+    "category": "Perkoperasian",
+    "question": "SHU sebelum dibagi harus dialokasikan untuk…",
+    "options": {
+      "A": "Dana cadangan",
+      "B": "Pengurus",
+      "C": "Pemerintah",
+      "D": "Donatur",
+      "E": "Investor"
+    },
+    "answer": "A",
+    "explanation": "Dana cadangan wajib dialokasikan terlebih dahulu."
+  },
+  {
+    "id": 17,
+    "category": "Perkoperasian",
+    "question": "Prinsip kemandirian koperasi berarti…",
+    "options": {
+      "A": "Bergantung subsidi",
+      "B": "Otonom dan dikelola anggota",
+      "C": "Milik pemerintah",
+      "D": "Swasta murni",
+      "E": "Dikelola investor"
+    },
+    "answer": "B",
+    "explanation": "Koperasi harus mandiri dan dikelola oleh anggotanya."
+  },
+  {
+    "id": 18,
+    "category": "Perkoperasian",
+    "question": "Dalam struktur koperasi, pengawas berfungsi untuk…",
+    "options": {
+      "A": "Mengelola usaha",
+      "B": "Mengawasi kebijakan dan kinerja pengurus",
+      "C": "Membagikan SHU",
+      "D": "Menentukan harga",
+      "E": "Menggaji anggota"
+    },
+    "answer": "B",
+    "explanation": "Pengawas bertugas mengawasi jalannya koperasi."
+  },
+  {
+    "id": 19,
+    "category": "Perkoperasian",
+    "question": "Salah satu risiko moral hazard dalam koperasi adalah…",
+    "options": {
+      "A": "Anggota aktif",
+      "B": "Transparansi tinggi",
+      "C": "Pengurus menyalahgunakan dana",
+      "D": "Audit rutin",
+      "E": "RAT terbuka"
+    },
+    "answer": "C",
+    "explanation": "Moral hazard terjadi saat ada penyalahgunaan wewenang."
+  },
+  {
+    "id": 20,
+    "category": "Perkoperasian",
+    "question": "Koperasi modern harus menerapkan prinsip…",
+    "options": {
+      "A": "Sentralisasi penuh",
+      "B": "Good Cooperative Governance",
+      "C": "Investor-based",
+      "D": "Monopoli pasar",
+      "E": "Subsidi permanen"
+    },
+    "answer": "B",
+    "explanation": "Koperasi modern mengedepankan tata kelola yang baik."
+  },
+  {
+    "id": 21,
+    "category": "Perkoperasian - Analisis Keuangan",
+    "question": "Analisis BEP dalam koperasi berguna untuk…",
+    "options": {
+      "A": "Menentukan SHU",
+      "B": "Mengetahui titik impas usaha",
+      "C": "Menghitung simpanan wajib",
+      "D": "Menilai anggota",
+      "E": "Mengatur RAT"
+    },
+    "answer": "B",
+    "explanation": "BEP digunakan untuk mengetahui titik impas antara pendapatan dan biaya."
+  },
+  {
+    "id": 22,
+    "category": "Perkoperasian - Manajemen Risiko",
+    "question": "Jika SHU negatif dua tahun berturut-turut, langkah strategis adalah…",
+    "options": {
+      "A": "Tutup koperasi",
+      "B": "Evaluasi model bisnis & efisiensi biaya",
+      "C": "Naikkan simpanan pokok",
+      "D": "Ganti anggota",
+      "E": "Hentikan RAT"
+    },
+    "answer": "B",
+    "explanation": "Perlu evaluasi menyeluruh model bisnis dan efisiensi biaya."
+  },
+  {
+    "id": 23,
+    "category": "Perkoperasian - Tata Kelola",
+    "question": "Transparansi laporan keuangan penting untuk…",
+    "options": {
+      "A": "Kepentingan pajak saja",
+      "B": "Meningkatkan kepercayaan anggota",
+      "C": "Formalitas",
+      "D": "Pengurus saja",
+      "E": "Dinas koperasi"
+    },
+    "answer": "B",
+    "explanation": "Transparansi meningkatkan kepercayaan dan partisipasi anggota."
+  },
+  {
+    "id": 24,
+    "category": "Perkoperasian - Operasional",
+    "question": "Salah satu ciri koperasi aktif adalah…",
+    "options": {
+      "A": "RAT rutin",
+      "B": "Banyak papan nama",
+      "C": "Gedung besar",
+      "D": "Bantuan pemerintah",
+      "E": "Modal besar"
+    },
+    "answer": "A",
+    "explanation": "Koperasi aktif ditandai dengan pelaksanaan RAT rutin."
+  },
+  {
+    "id": 25,
+    "category": "Perkoperasian - SDM",
+    "question": "Peran Business Assistant dalam koperasi desa adalah…",
+    "options": {
+      "A": "Menggantikan pengurus",
+      "B": "Memberi pendampingan manajerial & bisnis",
+      "C": "Menjadi pemilik",
+      "D": "Mengatur SHU",
+      "E": "Mengawasi pajak"
+    },
+    "answer": "B",
+    "explanation": "Business Assistant berperan sebagai pendamping manajerial dan bisnis."
+  },
+  {
+    "id": 26,
+    "category": "Perkoperasian - Perhitungan SHU",
+    "question": "Sebuah koperasi memiliki 100 anggota. Total transaksi Rp1 miliar. Anggota A bertransaksi Rp50 juta. SHU jasa usaha Rp200 juta. SHU anggota A adalah…",
+    "options": {
+      "A": "Rp5 juta",
+      "B": "Rp10 juta",
+      "C": "Rp20 juta",
+      "D": "Rp25 juta",
+      "E": "Rp40 juta"
+    },
+    "answer": "B",
+    "explanation": "Proporsi = 50 juta / 1 miliar = 5%. SHU = 5% × 200 juta = Rp10 juta."
+  },
+  {
+    "id": 27,
+    "category": "Perkoperasian - Rasio Keuangan",
+    "question": "Aset Rp2 miliar dan kewajiban Rp1,5 miliar. Ekuitas koperasi adalah…",
+    "options": {
+      "A": "Rp500 juta",
+      "B": "Rp1 miliar",
+      "C": "Rp1,5 miliar",
+      "D": "Rp2 miliar",
+      "E": "Rp3,5 miliar"
+    },
+    "answer": "A",
+    "explanation": "Ekuitas = Aset - Kewajiban = 2 miliar - 1,5 miliar = 500 juta."
+  },
+  {
+    "id": 28,
+    "category": "Perkoperasian - Prinsip Dasar",
+    "question": "Dominasi modal dalam koperasi harus dihindari karena…",
+    "options": {
+      "A": "Mengurangi SHU",
+      "B": "Mengurangi pajak",
+      "C": "Membatasi anggota",
+      "D": "Melanggar hukum",
+      "E": "Bertentangan dengan demokrasi ekonomi"
+    },
+    "answer": "E",
+    "explanation": "Koperasi berprinsip demokrasi ekonomi, bukan dominasi modal."
+  },
+  {
+    "id": 29,
+    "category": "Perkoperasian - Risiko Organisasi",
+    "question": "Jika koperasi gagal RAT selama 2 tahun, risiko utama adalah…",
+    "options": {
+      "A": "SHU meningkat",
+      "B": "Status tidak aktif dan penurunan kepercayaan anggota",
+      "C": "Modal bertambah",
+      "D": "Anggota otomatis keluar",
+      "E": "Pengawas menjadi pengurus"
+    },
+    "answer": "B",
+    "explanation": "Tidak RAT menyebabkan turunnya kepercayaan dan status koperasi."
+  },
+  {
+    "id": 30,
+    "category": "Perkoperasian - BEP",
+    "question": "BEP koperasi unit produksi tercapai saat…",
+    "options": {
+      "A": "Pendapatan > biaya tetap",
+      "B": "Pendapatan = total biaya",
+      "C": "SHU dibagi",
+      "D": "Anggota bertambah",
+      "E": "Modal naik"
+    },
+    "answer": "B",
+    "explanation": "BEP terjadi saat pendapatan sama dengan total biaya."
+  },
+  {
+    "id": 31,
+    "category": "Manajemen Risiko",
+    "question": "Koperasi ingin ekspansi usaha dengan pinjaman bank besar. Risiko utama adalah…",
+    "options": {
+      "A": "Risiko reputasi",
+      "B": "Risiko likuiditas & arus kas",
+      "C": "Risiko keanggotaan",
+      "D": "Risiko pendidikan",
+      "E": "Risiko RAT"
+    },
+    "answer": "B",
+    "explanation": "Ekspansi dengan utang besar berdampak pada likuiditas dan arus kas."
+  },
+  {
+    "id": 32,
+    "category": "Keuangan - Likuiditas",
+    "question": "Jika rasio lancar < 1, maka kondisi koperasi menunjukkan…",
+    "options": {
+      "A": "Likuid",
+      "B": "Mampu bayar jangka pendek",
+      "C": "Kesulitan memenuhi kewajiban jangka pendek",
+      "D": "SHU tinggi",
+      "E": "Tidak ada masalah"
+    },
+    "answer": "C",
+    "explanation": "Rasio lancar < 1 menunjukkan kesulitan likuiditas."
+  },
+  {
+    "id": 33,
+    "category": "Analisis SWOT",
+    "question": "Lemahnya literasi digital anggota termasuk dalam…",
+    "options": {
+      "A": "Strength",
+      "B": "Weakness",
+      "C": "Opportunity",
+      "D": "Threat",
+      "E": "Core value"
+    },
+    "answer": "B",
+    "explanation": "Literasi digital rendah adalah kelemahan internal."
+  },
+  {
+    "id": 34,
+    "category": "Keuangan - Kebijakan SHU",
+    "question": "Dana cadangan 40% dari SHU menunjukkan kebijakan…",
+    "options": {
+      "A": "Agresif",
+      "B": "Konservatif & protektif",
+      "C": "Tidak transparan",
+      "D": "Melanggar prinsip",
+      "E": "Tidak demokratis"
+    },
+    "answer": "B",
+    "explanation": "Dana cadangan besar menunjukkan kehati-hatian."
+  },
+  {
+    "id": 35,
+    "category": "Perkoperasian - Risiko Jati Diri",
+    "question": "Jika 70% pendapatan koperasi berasal dari non-anggota, maka risiko adalah…",
+    "options": {
+      "A": "Menguatkan identitas koperasi",
+      "B": "Menyimpang dari jati diri koperasi",
+      "C": "SHU pasti naik",
+      "D": "Bebas pajak",
+      "E": "RAT tidak perlu"
+    },
+    "answer": "B",
+    "explanation": "Ketergantungan non-anggota melemahkan identitas koperasi."
+  },
+  {
+    "id": 36,
+    "category": "Audit & Manajemen",
+    "question": "Tidak adanya laporan arus kas menyebabkan…",
+    "options": {
+      "A": "Tidak tahu posisi kas riil",
+      "B": "SHU naik",
+      "C": "Pajak turun",
+      "D": "Anggota bertambah",
+      "E": "Modal tetap"
+    },
+    "answer": "A",
+    "explanation": "Tanpa arus kas, posisi kas tidak diketahui secara akurat."
+  },
+  {
+    "id": 37,
+    "category": "Strategi Usaha",
+    "question": "Margin kecil tapi volume besar, strategi tepat adalah…",
+    "options": {
+      "A": "Tutup usaha",
+      "B": "Efisiensi biaya operasional",
+      "C": "Naikkan simpanan wajib",
+      "D": "Kurangi anggota",
+      "E": "Hentikan RAT"
+    },
+    "answer": "B",
+    "explanation": "Efisiensi biaya meningkatkan profit tanpa menaikkan harga."
+  },
+  {
+    "id": 38,
+    "category": "Keuangan - Kredit",
+    "question": "Kredit macet tinggi mengganggu indikator…",
+    "options": {
+      "A": "Rasio NPL",
+      "B": "SHU jasa modal",
+      "C": "RAT",
+      "D": "Jumlah anggota",
+      "E": "Simpanan pokok"
+    },
+    "answer": "A",
+    "explanation": "NPL meningkat menunjukkan kualitas kredit buruk."
+  },
+  {
+    "id": 39,
+    "category": "Keuangan - Pajak",
+    "question": "SHU sebelum pajak Rp300 juta, pajak 10%. SHU bersih adalah…",
+    "options": {
+      "A": "Rp270 juta",
+      "B": "Rp290 juta",
+      "C": "Rp250 juta",
+      "D": "Rp200 juta",
+      "E": "Rp210 juta"
+    },
+    "answer": "A",
+    "explanation": "Pajak 10% = 30 juta, sehingga SHU bersih 270 juta."
+  },
+  {
+    "id": 40,
+    "category": "Tata Kelola",
+    "question": "Pengurus mengambil keputusan investasi tanpa RAT. Ini melanggar prinsip…",
+    "options": {
+      "A": "Otonomi",
+      "B": "Demokrasi anggota",
+      "C": "Kemandirian",
+      "D": "Pendidikan",
+      "E": "Kerja sama"
+    },
+    "answer": "B",
+    "explanation": "Keputusan strategis harus melalui RAT sebagai forum tertinggi."
+  },
+  {
+    "id": 41,
+    "category": "Keuangan - BEP",
+    "question": "Jika koperasi memiliki biaya tetap Rp200 juta dan margin kontribusi 40%, maka BEP penjualan adalah…",
+    "options": {
+      "A": "400 juta",
+      "B": "500 juta",
+      "C": "600 juta",
+      "D": "700 juta",
+      "E": "800 juta"
+    },
+    "answer": "B",
+    "explanation": "BEP = biaya tetap / margin kontribusi = 200 juta / 0,4 = 500 juta."
+  },
+  {
+    "id": 42,
+    "category": "Perkoperasian - Tata Kelola",
+    "question": "Transparansi laporan keuangan akan meningkatkan…",
+    "options": {
+      "A": "Beban pajak",
+      "B": "Biaya tetap",
+      "C": "Kepercayaan & partisipasi anggota",
+      "D": "Risiko",
+      "E": "Hutang"
+    },
+    "answer": "C",
+    "explanation": "Transparansi meningkatkan kepercayaan dan partisipasi anggota."
+  },
+  {
+    "id": 43,
+    "category": "Manajemen Risiko",
+    "question": "Jika koperasi terlalu bergantung pada hibah pemerintah, maka risiko jangka panjang adalah…",
+    "options": {
+      "A": "Stabil",
+      "B": "Tidak mandiri",
+      "C": "SHU naik",
+      "D": "Modal kuat",
+      "E": "Anggota loyal"
+    },
+    "answer": "B",
+    "explanation": "Ketergantungan hibah membuat koperasi tidak mandiri."
+  },
+  {
+    "id": 44,
+    "category": "Tata Kelola",
+    "question": "Dalam struktur koperasi, konflik kepentingan terjadi saat…",
+    "options": {
+      "A": "Pengurus juga menjadi kreditur utama koperasi",
+      "B": "RAT berjalan",
+      "C": "Audit rutin",
+      "D": "Anggota aktif",
+      "E": "SHU dibagi"
+    },
+    "answer": "A",
+    "explanation": "Konflik kepentingan muncul saat pengurus memiliki kepentingan pribadi."
+  },
+  {
+    "id": 45,
+    "category": "Strategi Bisnis",
+    "question": "Strategi diversifikasi usaha dilakukan untuk…",
+    "options": {
+      "A": "Meningkatkan risiko",
+      "B": "Mengurangi ketergantungan satu sumber pendapatan",
+      "C": "Mengurangi anggota",
+      "D": "Menghapus SHU",
+      "E": "Menghindari RAT"
+    },
+    "answer": "B",
+    "explanation": "Diversifikasi mengurangi ketergantungan pada satu sumber pendapatan."
+  },
+  {
+    "id": 46,
+    "category": "Perkoperasian - Partisipasi",
+    "question": "Jika 30% anggota pasif tidak bertransaksi, dampaknya adalah…",
+    "options": {
+      "A": "SHU meningkat",
+      "B": "Partisipasi rendah & identitas melemah",
+      "C": "Modal naik",
+      "D": "Pajak turun",
+      "E": "Tidak berpengaruh"
+    },
+    "answer": "B",
+    "explanation": "Partisipasi rendah melemahkan identitas koperasi."
+  },
+  {
+    "id": 47,
+    "category": "Keuangan - Struktur Modal",
+    "question": "Rasio hutang terhadap aset 80% menunjukkan…",
+    "options": {
+      "A": "Struktur modal agresif",
+      "B": "Sangat aman",
+      "C": "Likuid",
+      "D": "SHU tinggi",
+      "E": "Tanpa risiko"
+    },
+    "answer": "A",
+    "explanation": "80% aset dibiayai hutang menunjukkan leverage tinggi."
+  },
+  {
+    "id": 48,
+    "category": "Digitalisasi",
+    "question": "Digitalisasi pembukuan koperasi bermanfaat untuk…",
+    "options": {
+      "A": "Biaya naik",
+      "B": "Efisiensi & akurasi data",
+      "C": "SHU otomatis naik",
+      "D": "Anggota berkurang",
+      "E": "Pajak hilang"
+    },
+    "answer": "B",
+    "explanation": "Digitalisasi meningkatkan efisiensi dan akurasi data."
+  },
+  {
+    "id": 49,
+    "category": "Identitas Koperasi",
+    "question": "Koperasi yang hanya mengejar laba tanpa pelayanan anggota telah bergeser menjadi…",
+    "options": {
+      "A": "Badan sosial",
+      "B": "PT terselubung",
+      "C": "Organisasi pendidikan",
+      "D": "Lembaga pemerintah",
+      "E": "Yayasan"
+    },
+    "answer": "B",
+    "explanation": "Fokus laba tanpa anggota mengubah karakter koperasi menjadi seperti PT."
+  },
+  {
+    "id": 50,
+    "category": "Peran SDM",
+    "question": "Peran Business Assistant paling strategis dalam koperasi bermasalah adalah…",
+    "options": {
+      "A": "Mengganti pengurus",
+      "B": "Melakukan audit forensik",
+      "C": "Memberi rekomendasi perbaikan model bisnis & tata kelola",
+      "D": "Menentukan SHU",
+      "E": "Mengambil alih RAT"
+    },
+    "answer": "C",
+    "explanation": "Business Assistant berperan memperbaiki model bisnis dan tata kelola."
+  },
+  {
+    "id": 51,
+    "category": "Perkoperasian - Prinsip",
+    "question": "Koperasi yang tidak lagi menjalankan prinsip satu anggota satu suara berpotensi berubah menjadi…",
+    "options": {
+      "A": "Koperasi modern",
+      "B": "PT berbasis anggota",
+      "C": "Badan usaha investor-based",
+      "D": "Yayasan",
+      "E": "BUMDes"
+    },
+    "answer": "C",
+    "explanation": "Dominasi suara berbasis modal mengubah koperasi menjadi investor-based."
+  },
+  {
+    "id": 52,
+    "category": "Tata Kelola",
+    "question": "Jika pengurus menolak membuka laporan keuangan sebelum RAT, maka prinsip yang dilanggar adalah…",
+    "options": {
+      "A": "Pendidikan",
+      "B": "Transparansi & akuntabilitas",
+      "C": "Otonomi",
+      "D": "Kemandirian",
+      "E": "Kerja sama"
+    },
+    "answer": "B",
+    "explanation": "Penolakan transparansi melanggar akuntabilitas."
+  },
+  {
+    "id": 53,
+    "category": "Perkoperasian - Partisipasi",
+    "question": "Koperasi berkembang pesat namun partisipasi anggota menurun, risiko jangka panjang adalah…",
+    "options": {
+      "A": "SHU stabil",
+      "B": "Identitas koperasi melemah",
+      "C": "Modal bertambah",
+      "D": "Pajak turun",
+      "E": "Pengurus kuat"
+    },
+    "answer": "B",
+    "explanation": "Partisipasi rendah melemahkan identitas koperasi."
+  },
+  {
+    "id": 54,
+    "category": "Keuangan - SHU",
+    "question": "Jika RAT memutuskan pembagian SHU tanpa dana cadangan, risikonya adalah…",
+    "options": {
+      "A": "Meningkatkan likuiditas",
+      "B": "Mengurangi perlindungan terhadap kerugian masa depan",
+      "C": "Memperkuat modal",
+      "D": "Meningkatkan pajak",
+      "E": "Tidak berdampak"
+    },
+    "answer": "B",
+    "explanation": "Tanpa dana cadangan, koperasi rentan terhadap risiko kerugian."
+  },
+  {
+    "id": 55,
+    "category": "Perkoperasian - Sekunder",
+    "question": "Tujuan utama koperasi sekunder adalah…",
+    "options": {
+      "A": "Meningkatkan dominasi pasar",
+      "B": "Menghimpun modal asing",
+      "C": "Memperkuat efisiensi & daya tawar antar koperasi",
+      "D": "Mengurangi anggota",
+      "E": "Menghindari pajak"
+    },
+    "answer": "C",
+    "explanation": "Koperasi sekunder memperkuat efisiensi antar koperasi."
+  },
+  {
+    "id": 56,
+    "category": "Manajemen - POAC",
+    "question": "Dalam fungsi manajemen POAC, penyusunan SOP termasuk tahap…",
+    "options": {
+      "A": "Planning",
+      "B": "Organizing",
+      "C": "Actuating",
+      "D": "Controlling",
+      "E": "Evaluating"
+    },
+    "answer": "B",
+    "explanation": "SOP termasuk dalam pengorganisasian struktur kerja."
+  },
+  {
+    "id": 57,
+    "category": "Strategi Bisnis",
+    "question": "Strategi menghadapi ritel modern adalah…",
+    "options": {
+      "A": "Menurunkan harga ekstrem",
+      "B": "Fokus pelayanan berbasis komunitas anggota",
+      "C": "Mengurangi kualitas",
+      "D": "Menutup usaha",
+      "E": "Mengurangi stok"
+    },
+    "answer": "B",
+    "explanation": "Keunggulan koperasi ada pada pelayanan komunitas."
+  },
+  {
+    "id": 58,
+    "category": "Manajemen Koperasi",
+    "question": "Indikator efektivitas manajemen koperasi adalah…",
+    "options": {
+      "A": "Banyak rapat",
+      "B": "Tercapainya target usaha & kepuasan anggota",
+      "C": "Gedung besar",
+      "D": "Modal hibah",
+      "E": "Pengurus lama menjabat"
+    },
+    "answer": "B",
+    "explanation": "Efektivitas dilihat dari target usaha dan kepuasan anggota."
+  },
+  {
+    "id": 59,
+    "category": "Manajemen - Planning",
+    "question": "Jika koperasi memiliki visi tetapi tidak memiliki rencana kerja tahunan, maka kelemahan ada pada tahap…",
+    "options": {
+      "A": "Planning",
+      "B": "Controlling",
+      "C": "Actuating",
+      "D": "Staffing",
+      "E": "Evaluasi"
+    },
+    "answer": "A",
+    "explanation": "Tidak adanya rencana kerja menunjukkan kelemahan pada perencanaan."
+  },
+  {
+    "id": 60,
+    "category": "Strategi Bisnis",
+    "question": "Strategi integrasi vertikal dalam koperasi produksi berarti…",
+    "options": {
+      "A": "Menambah anggota",
+      "B": "Menguasai rantai distribusi dari hulu ke hilir",
+      "C": "Mengurangi modal",
+      "D": "Menghapus SHU",
+      "E": "Mengganti pengurus"
+    },
+    "answer": "B",
+    "explanation": "Integrasi vertikal berarti menguasai seluruh rantai nilai produksi."
+  },
+  {
+    "id": 61,
+    "category": "Keuangan - Rasio Likuiditas",
+    "question": "Jika total aset lancar Rp300 juta dan kewajiban lancar Rp150 juta, current ratio adalah…",
+    "options": {
+      "A": "0,5",
+      "B": "1",
+      "C": "1,5",
+      "D": "2",
+      "E": "3"
+    },
+    "answer": "D",
+    "explanation": "Current ratio = aset lancar / kewajiban lancar = 300 / 150 = 2."
+  },
+  {
+    "id": 62,
+    "category": "Keuangan - Rasio",
+    "question": "Rasio yang mengukur kemampuan koperasi membayar bunga pinjaman adalah…",
+    "options": {
+      "A": "Current ratio",
+      "B": "Debt to equity ratio",
+      "C": "Interest coverage ratio",
+      "D": "ROA",
+      "E": "NPL"
+    },
+    "answer": "C",
+    "explanation": "Interest coverage ratio mengukur kemampuan membayar beban bunga."
+  },
+  {
+    "id": 63,
+    "category": "Keuangan - Analisis SHU",
+    "question": "Jika SHU meningkat tetapi arus kas negatif, kemungkinan penyebabnya adalah…",
+    "options": {
+      "A": "Penjualan tunai tinggi",
+      "B": "Banyak piutang belum tertagih",
+      "C": "Hutang rendah",
+      "D": "Beban kecil",
+      "E": "Modal naik"
+    },
+    "answer": "B",
+    "explanation": "SHU bisa naik tetapi kas negatif jika piutang belum tertagih."
+  },
+  {
+    "id": 64,
+    "category": "Keuangan - Struktur Modal",
+    "question": "Debt to Asset Ratio 70% menunjukkan bahwa…",
+    "options": {
+      "A": "70% aset dibiayai hutang",
+      "B": "70% modal sendiri",
+      "C": "SHU tinggi",
+      "D": "Likuiditas aman",
+      "E": "Tanpa risiko"
+    },
+    "answer": "A",
+    "explanation": "70% aset koperasi dibiayai oleh hutang."
+  },
+  {
+    "id": 65,
+    "category": "Keuangan - Profitabilitas",
+    "question": "Jika koperasi ingin meningkatkan profit tanpa menaikkan harga, strategi terbaik adalah…",
+    "options": {
+      "A": "Tambah hutang",
+      "B": "Efisiensi biaya operasional",
+      "C": "Kurangi anggota",
+      "D": "Kurangi transparansi",
+      "E": "Hentikan RAT"
+    },
+    "answer": "B",
+    "explanation": "Efisiensi biaya meningkatkan profit tanpa menaikkan harga."
+  },
+  {
+    "id": 66,
+    "category": "Digitalisasi - Administrasi",
+    "question": "Penggunaan software akuntansi digital membantu koperasi dalam…",
+    "options": {
+      "A": "Mengurangi anggota",
+      "B": "Otomatisasi pencatatan & laporan real-time",
+      "C": "Menghapus pajak",
+      "D": "Mengurangi SHU",
+      "E": "Menghindari audit"
+    },
+    "answer": "B",
+    "explanation": "Software akuntansi meningkatkan efisiensi dan akurasi laporan."
+  },
+  {
+    "id": 67,
+    "category": "Digitalisasi - Data",
+    "question": "Backup data ke cloud bertujuan untuk…",
+    "options": {
+      "A": "Mengurangi biaya listrik",
+      "B": "Keamanan & mitigasi kehilangan data",
+      "C": "Meningkatkan SHU",
+      "D": "Mengurangi anggota",
+      "E": "Menghindari RAT"
+    },
+    "answer": "B",
+    "explanation": "Cloud backup melindungi data dari kehilangan atau kerusakan."
+  },
+  {
+    "id": 68,
+    "category": "Digitalisasi - Sistem Informasi",
+    "question": "Jika data anggota tersebar di banyak file tanpa sistem, risiko utama adalah…",
+    "options": {
+      "A": "Efisiensi meningkat",
+      "B": "Duplikasi & inkonsistensi data",
+      "C": "SHU naik",
+      "D": "Pajak turun",
+      "E": "Modal naik"
+    },
+    "answer": "B",
+    "explanation": "Data tanpa sistem menyebabkan duplikasi dan ketidakkonsistenan."
+  },
+  {
+    "id": 69,
+    "category": "Digitalisasi - Excel",
+    "question": "Dalam Excel, fungsi untuk menghitung total transaksi adalah…",
+    "options": {
+      "A": "IF",
+      "B": "SUM",
+      "C": "VLOOKUP",
+      "D": "COUNTIF",
+      "E": "AVERAGE"
+    },
+    "answer": "B",
+    "explanation": "Fungsi SUM digunakan untuk menjumlahkan data."
+  },
+  {
+    "id": 70,
+    "category": "Digitalisasi - Administrasi",
+    "question": "Penggunaan tanda tangan digital dalam administrasi koperasi berfungsi untuk…",
+    "options": {
+      "A": "Formalitas",
+      "B": "Keabsahan dokumen elektronik",
+      "C": "Mengurangi SHU",
+      "D": "Menghindari audit",
+      "E": "Mengganti RAT"
+    },
+    "answer": "B",
+    "explanation": "Tanda tangan digital memastikan keabsahan dokumen elektronik."
+  },
+  {
+    "id": 71,
+    "category": "Integratif - Manajemen Risiko",
+    "question": "Koperasi mengalami kredit macet tinggi karena pencatatan manual tidak akurat. Solusi paling tepat adalah…",
+    "options": {
+      "A": "Mengurangi anggota",
+      "B": "Digitalisasi sistem pembukuan & pengawasan kredit",
+      "C": "Menaikkan bunga drastis",
+      "D": "Menghapus pinjaman",
+      "E": "Tutup koperasi"
+    },
+    "answer": "B",
+    "explanation": "Digitalisasi meningkatkan akurasi dan kontrol kredit."
+  },
+  {
+    "id": 72,
+    "category": "Manajemen - Planning",
+    "question": "Jika koperasi terlalu ekspansif membuka unit usaha tanpa analisis pasar, maka kegagalan terjadi pada tahap…",
+    "options": {
+      "A": "Organizing",
+      "B": "Planning",
+      "C": "Actuating",
+      "D": "Controlling",
+      "E": "Staffing"
+    },
+    "answer": "B",
+    "explanation": "Ekspansi tanpa analisis menunjukkan kegagalan perencanaan."
+  },
+  {
+    "id": 73,
+    "category": "Perkoperasian - Partisipasi",
+    "question": "Koperasi memiliki SHU besar namun partisipasi anggota rendah. Hal yang perlu diperbaiki adalah…",
+    "options": {
+      "A": "Likuiditas",
+      "B": "Identitas & engagement anggota",
+      "C": "Modal",
+      "D": "Pajak",
+      "E": "Aset"
+    },
+    "answer": "B",
+    "explanation": "Partisipasi adalah inti kekuatan koperasi."
+  },
+  {
+    "id": 74,
+    "category": "Keuangan - Pelaporan",
+    "question": "Jika laporan keuangan tidak disusun sesuai standar, maka dampaknya adalah…",
+    "options": {
+      "A": "Kepercayaan menurun & sulit diaudit",
+      "B": "SHU naik",
+      "C": "Modal naik",
+      "D": "Pajak hilang",
+      "E": "RAT tidak perlu"
+    },
+    "answer": "A",
+    "explanation": "Laporan tidak standar menurunkan kepercayaan dan sulit diaudit."
+  },
+  {
+    "id": 75,
+    "category": "Digitalisasi - Transformasi",
+    "question": "Peran Business Assistant paling krusial dalam koperasi digital adalah…",
+    "options": {
+      "A": "Menggantikan bendahara",
+      "B": "Mengarahkan transformasi manajerial, keuangan & sistem digital",
+      "C": "Menjadi pemilik",
+      "D": "Membagi SHU",
+      "E": "Menentukan RAT"
+    },
+    "answer": "B",
+    "explanation": "BA berperan dalam transformasi digital dan manajerial."
+  },
+  {
+    "id": 76,
+    "category": "Keuangan - Kredit",
+    "question": "Koperasi simpan pinjam memiliki NPL 18%. Langkah prioritas adalah…",
+    "options": {
+      "A": "Menambah pinjaman baru",
+      "B": "Restrukturisasi kredit bermasalah & evaluasi analisis kelayakan",
+      "C": "Membagikan SHU lebih besar",
+      "D": "Menutup RAT",
+      "E": "Menghapus pencatatan kredit"
+    },
+    "answer": "B",
+    "explanation": "Fokus utama adalah memperbaiki kualitas kredit."
+  },
+  {
+    "id": 77,
+    "category": "Keuangan - Arus Kas",
+    "question": "Koperasi mengalami defisit kas walau laba tercatat positif. Penyebab paling rasional adalah…",
+    "options": {
+      "A": "SHU salah hitung",
+      "B": "Piutang menumpuk dan belum tertagih",
+      "C": "Modal terlalu besar",
+      "D": "Anggota terlalu aktif",
+      "E": "Pajak rendah"
+    },
+    "answer": "B",
+    "explanation": "Laba tidak sama dengan kas jika piutang belum tertagih."
+  },
+  {
+    "id": 78,
+    "category": "Tata Kelola - Fraud",
+    "question": "Dalam kondisi krisis kepercayaan akibat dugaan fraud pengurus, tindakan paling tepat adalah…",
+    "options": {
+      "A": "Menunda informasi",
+      "B": "Audit independen & transparansi penuh ke anggota",
+      "C": "Menghapus laporan",
+      "D": "Mengganti seluruh anggota",
+      "E": "Menghindari RAT"
+    },
+    "answer": "B",
+    "explanation": "Audit independen meningkatkan kepercayaan dan transparansi."
+  },
+  {
+    "id": 79,
+    "category": "Keuangan - Leverage",
+    "question": "Jika Debt to Equity Ratio mencapai 3:1, kondisi tersebut menunjukkan…",
+    "options": {
+      "A": "Modal sangat kuat",
+      "B": "Struktur pembiayaan sangat agresif",
+      "C": "Tanpa risiko",
+      "D": "Likuiditas tinggi",
+      "E": "SHU stabil"
+    },
+    "answer": "B",
+    "explanation": "DER tinggi menunjukkan ketergantungan besar pada hutang."
+  },
+  {
+    "id": 80,
+    "category": "Manajemen - Turnaround",
+    "question": "Turnaround strategy koperasi yang merugi 3 tahun berturut-turut harus diawali dengan…",
+    "options": {
+      "A": "Ekspansi usaha",
+      "B": "Diagnosa menyeluruh model bisnis & efisiensi biaya",
+      "C": "Penambahan hutang",
+      "D": "Pembagian SHU",
+      "E": "Penutupan RAT"
+    },
+    "answer": "B",
+    "explanation": "Langkah awal adalah diagnosis menyeluruh dan efisiensi."
+  },
+  {
+    "id": 81,
+    "category": "Manajemen - Planning",
+    "question": "Koperasi desa membuka unit usaha baru tanpa studi kelayakan. Ini menunjukkan kegagalan pada fungsi…",
+    "options": {
+      "A": "Organizing",
+      "B": "Planning",
+      "C": "Controlling",
+      "D": "Staffing",
+      "E": "Reporting"
+    },
+    "answer": "B",
+    "explanation": "Tidak adanya studi kelayakan menunjukkan kegagalan dalam perencanaan."
+  },
+  {
+    "id": 82,
+    "category": "Perkoperasian - Partisipasi",
+    "question": "Jika 60% anggota tidak aktif bertransaksi, dampak strategis jangka panjang adalah…",
+    "options": {
+      "A": "Identitas koperasi melemah",
+      "B": "SHU otomatis naik",
+      "C": "Modal bertambah",
+      "D": "Pajak turun",
+      "E": "Likuiditas naik"
+    },
+    "answer": "A",
+    "explanation": "Partisipasi rendah melemahkan identitas dan keberlanjutan koperasi."
+  },
+  {
+    "id": 83,
+    "category": "Keuangan - Arus Kas",
+    "question": "Koperasi memiliki arus kas operasional negatif tetapi arus kas investasi positif. Artinya…",
+    "options": {
+      "A": "Usaha utama sehat",
+      "B": "Usaha inti bermasalah",
+      "C": "Modal meningkat",
+      "D": "Tanpa risiko",
+      "E": "Hutang rendah"
+    },
+    "answer": "B",
+    "explanation": "Arus kas operasional negatif menunjukkan masalah pada kegiatan utama."
+  },
+  {
+    "id": 84,
+    "category": "Manajemen - Efisiensi",
+    "question": "Dalam restrukturisasi koperasi, pengurangan biaya tetap dilakukan untuk…",
+    "options": {
+      "A": "Meningkatkan risiko",
+      "B": "Menurunkan titik BEP",
+      "C": "Mengurangi anggota",
+      "D": "Menghapus hutang",
+      "E": "Menghindari pajak"
+    },
+    "answer": "B",
+    "explanation": "Biaya tetap yang lebih rendah menurunkan titik impas (BEP)."
+  },
+  {
+    "id": 85,
+    "category": "Tata Kelola - Risiko Internal",
+    "question": "Fraud internal sering terjadi karena lemahnya…",
+    "options": {
+      "A": "RAT",
+      "B": "Sistem pengendalian internal",
+      "C": "Modal",
+      "D": "SHU",
+      "E": "Visi"
+    },
+    "answer": "B",
+    "explanation": "Pengendalian internal yang lemah membuka peluang fraud."
+  },
+  {
+    "id": 86,
+    "category": "Keuangan - Profitabilitas",
+    "question": "Jika koperasi ingin meningkatkan ROA, maka strategi yang tepat adalah…",
+    "options": {
+      "A": "Menambah aset tanpa efisiensi",
+      "B": "Meningkatkan laba bersih relatif terhadap total aset",
+      "C": "Menambah hutang besar",
+      "D": "Mengurangi laporan",
+      "E": "Menghapus audit"
+    },
+    "answer": "B",
+    "explanation": "ROA meningkat jika laba naik lebih cepat dibanding aset."
+  },
+  {
+    "id": 87,
+    "category": "Digitalisasi - Kredit",
+    "question": "Digitalisasi credit scoring pada koperasi bertujuan untuk…",
+    "options": {
+      "A": "Mengurangi anggota",
+      "B": "Meningkatkan akurasi analisis risiko kredit",
+      "C": "Menghapus bunga",
+      "D": "Mengurangi RAT",
+      "E": "Menambah hutang"
+    },
+    "answer": "B",
+    "explanation": "Digitalisasi meningkatkan akurasi penilaian risiko kredit."
+  },
+  {
+    "id": 88,
+    "category": "Keuangan - Likuiditas",
+    "question": "Jika terjadi mismatch jatuh tempo (utang jangka pendek untuk pembiayaan jangka panjang), risiko utama adalah…",
+    "options": {
+      "A": "Likuiditas terganggu",
+      "B": "SHU naik",
+      "C": "Modal kuat",
+      "D": "Pajak tinggi",
+      "E": "Anggota aktif"
+    },
+    "answer": "A",
+    "explanation": "Mismatch jatuh tempo menyebabkan masalah likuiditas."
+  },
+  {
+    "id": 89,
+    "category": "Strategi Bisnis",
+    "question": "Koperasi produksi mengalami penurunan permintaan. Strategi adaptif paling rasional adalah…",
+    "options": {
+      "A": "Menghentikan produksi total",
+      "B": "Diversifikasi produk & riset pasar",
+      "C": "Mengurangi transparansi",
+      "D": "Menutup laporan",
+      "E": "Menghapus anggota"
+    },
+    "answer": "B",
+    "explanation": "Diversifikasi dan riset pasar membantu adaptasi terhadap penurunan permintaan."
+  },
+  {
+    "id": 90,
+    "category": "Tata Kelola - Fraud",
+    "question": "Jika audit menemukan manipulasi laporan SHU, maka dampak utamanya adalah…",
+    "options": {
+      "A": "Kepercayaan anggota runtuh",
+      "B": "Modal bertambah",
+      "C": "Likuiditas naik",
+      "D": "Pajak turun",
+      "E": "Ekspansi mudah"
+    },
+    "answer": "A",
+    "explanation": "Manipulasi laporan merusak kepercayaan anggota."
+  },
+  {
+    "id": 91,
+    "category": "Digitalisasi - Transformasi",
+    "question": "Dalam transformasi digital koperasi, prioritas pertama adalah…",
+    "options": {
+      "A": "Membeli perangkat mahal",
+      "B": "Pemetaan kebutuhan & kesiapan SDM",
+      "C": "Menghapus sistem lama",
+      "D": "Menambah hutang",
+      "E": "Mengurangi anggota"
+    },
+    "answer": "B",
+    "explanation": "Transformasi harus dimulai dari analisis kebutuhan dan kesiapan SDM."
+  },
+  {
+    "id": 92,
+    "category": "Keuangan - Analisis Risiko",
+    "question": "Koperasi dengan rasio lancar 0,8 dan NPL 15% menunjukkan kondisi…",
+    "options": {
+      "A": "Sangat sehat",
+      "B": "Risiko likuiditas & kredit tinggi",
+      "C": "Tanpa risiko",
+      "D": "SHU stabil",
+      "E": "Modal kuat"
+    },
+    "answer": "B",
+    "explanation": "Rasio likuiditas rendah dan NPL tinggi menunjukkan risiko tinggi."
+  },
+  {
+    "id": 93,
+    "category": "Manajemen - Organisasi",
+    "question": "Strategi rightsizing dalam koperasi berarti…",
+    "options": {
+      "A": "Mengurangi anggota",
+      "B": "Menyesuaikan struktur organisasi agar efisien",
+      "C": "Menutup usaha",
+      "D": "Menghapus laporan",
+      "E": "Menghindari pajak"
+    },
+    "answer": "B",
+    "explanation": "Rightsizing bertujuan menyesuaikan struktur agar efisien."
+  },
+  {
+    "id": 94,
+    "category": "Keuangan - Kredit",
+    "question": "Untuk mengurangi risiko kredit macet, kebijakan yang tepat adalah…",
+    "options": {
+      "A": "Memberi pinjaman tanpa analisis",
+      "B": "Menerapkan prinsip 5C (Character, Capacity, Capital, Collateral, Condition)",
+      "C": "Menghapus jaminan",
+      "D": "Menutup laporan",
+      "E": "Menaikkan SHU"
+    },
+    "answer": "B",
+    "explanation": "Prinsip 5C digunakan untuk analisis kelayakan kredit."
+  },
+  {
+    "id": 95,
+    "category": "Keuangan - Leverage",
+    "question": "Koperasi yang terlalu fokus ekspansi tanpa memperkuat modal sendiri berisiko…",
+    "options": {
+      "A": "Over-leverage",
+      "B": "SHU tinggi",
+      "C": "Likuiditas aman",
+      "D": "Modal stabil",
+      "E": "Tanpa risiko"
+    },
+    "answer": "A",
+    "explanation": "Ketergantungan pada hutang menyebabkan over-leverage."
+  },
+  {
+    "id": 96,
+    "category": "Digitalisasi - Monitoring",
+    "question": "Penggunaan dashboard keuangan digital memungkinkan pengurus untuk…",
+    "options": {
+      "A": "Menghindari audit",
+      "B": "Monitoring kinerja real-time",
+      "C": "Mengurangi anggota",
+      "D": "Menghapus pajak",
+      "E": "Mengurangi SHU"
+    },
+    "answer": "B",
+    "explanation": "Dashboard memungkinkan pemantauan kinerja secara real-time."
+  },
+  {
+    "id": 97,
+    "category": "Tata Kelola - Governance",
+    "question": "Jika koperasi mengalami moral hazard akibat dominasi pengurus lama, solusi adalah…",
+    "options": {
+      "A": "Membiarkan",
+      "B": "Penguatan sistem check and balance & rotasi kepengurusan",
+      "C": "Menghapus RAT",
+      "D": "Mengurangi anggota",
+      "E": "Menghapus audit"
+    },
+    "answer": "B",
+    "explanation": "Check and balance dan rotasi mencegah penyalahgunaan kekuasaan."
+  },
+  {
+    "id": 98,
+    "category": "Digitalisasi - Kemitraan",
+    "question": "Koperasi desa ingin bermitra dengan fintech. Risiko utama yang harus dianalisis adalah…",
+    "options": {
+      "A": "Risiko teknologi & perlindungan data anggota",
+      "B": "SHU naik",
+      "C": "Modal bertambah",
+      "D": "Likuiditas naik",
+      "E": "Pajak turun"
+    },
+    "answer": "A",
+    "explanation": "Kemitraan digital membawa risiko teknologi dan data."
+  },
+  {
+    "id": 99,
+    "category": "Keuangan - Return",
+    "question": "Jika aset tinggi tetapi ROE rendah, maka kemungkinan…",
+    "options": {
+      "A": "Modal tidak produktif",
+      "B": "SHU besar",
+      "C": "Likuiditas tinggi",
+      "D": "Tanpa risiko",
+      "E": "Pajak rendah"
+    },
+    "answer": "A",
+    "explanation": "Aset tidak produktif menyebabkan ROE rendah."
+  },
+  {
+    "id": 100,
+    "category": "Strategi - Transformasi",
+    "question": "Dalam kondisi krisis multidimensi koperasi, peran paling strategis Business Assistant adalah…",
+    "options": {
+      "A": "Mengambil alih koperasi",
+      "B": "Mendesain roadmap restrukturisasi menyeluruh (governance, keuangan, model bisnis, digitalisasi)",
+      "C": "Membagi SHU",
+      "D": "Mengganti anggota",
+      "E": "Menutup koperasi"
+    },
+    "answer": "B",
+    "explanation": "BA fokus pada restrukturisasi menyeluruh untuk pemulihan koperasi."
+  }
+]
