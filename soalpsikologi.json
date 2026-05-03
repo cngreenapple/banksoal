@@ -1,0 +1,1544 @@
+[
+  {
+    "id": 1,
+    "category": "Karakter & Integritas",
+    "question": "Anda menemukan kesalahan laporan yang menguntungkan tim Anda, sementara atasan belum menyadarinya. Anda:",
+    "options": {
+      "A": "Memanfaatkan situasi untuk keuntungan tim",
+      "B": "Melaporkan dan memperbaiki meskipun berisiko merugikan tim",
+      "C": "Menunggu arahan atasan",
+      "D": "Menyimpan informasi untuk digunakan nanti",
+      "E": "Mendiskusikan hanya dengan tim internal"
+    },
+    "answer": "B",
+    "explanation": "Integritas menuntut kejujuran meskipun berdampak negatif bagi tim."
+  },
+  {
+    "id": 2,
+    "category": "Karakter & Integritas",
+    "question": "Rekan kerja meminta Anda memanipulasi data demi target. Anda:",
+    "options": {
+      "A": "Menolak secara profesional dan menjelaskan alasannya",
+      "B": "Mengikuti agar target tercapai",
+      "C": "Membantu sebagian agar tidak terlihat jelas",
+      "D": "Menghindari keterlibatan",
+      "E": "Melaporkan tanpa komunikasi"
+    },
+    "answer": "A",
+    "explanation": "Penolakan profesional menunjukkan integritas dan komunikasi yang baik."
+  },
+  {
+    "id": 3,
+    "category": "Karakter & Integritas",
+    "question": "Anda melakukan kesalahan tetapi belum ada yang mengetahuinya. Anda:",
+    "options": {
+      "A": "Menyembunyikannya sementara",
+      "B": "Menyalahkan sistem",
+      "C": "Mengakui dan segera memperbaiki",
+      "D": "Menunggu jika nanti ditanyakan",
+      "E": "Mengalihkan tanggung jawab"
+    },
+    "answer": "C",
+    "explanation": "Mengakui kesalahan adalah bentuk tanggung jawab pribadi."
+  },
+  {
+    "id": 4,
+    "category": "Karakter & Integritas",
+    "question": "Terjadi konflik kepentingan dalam tugas Anda. Anda:",
+    "options": {
+      "A": "Mengikuti keputusan yang paling aman",
+      "B": "Bersikap transparan dan menjaga objektivitas",
+      "C": "Menghindari keterlibatan langsung",
+      "D": "Mengikuti arahan pihak lain",
+      "E": "Memilih yang menguntungkan diri sendiri"
+    },
+    "answer": "B",
+    "explanation": "Transparansi penting dalam menghindari konflik kepentingan."
+  },
+  {
+    "id": 5,
+    "category": "Karakter & Integritas",
+    "question": "Anda diberi akses pada data sensitif perusahaan. Anda:",
+    "options": {
+      "A": "Menggunakannya untuk pembelajaran pribadi",
+      "B": "Membagikan ke rekan terpercaya",
+      "C": "Menyimpannya tanpa prosedur",
+      "D": "Menjaganya sesuai kebijakan dan prosedur perusahaan",
+      "E": "Mengabaikan aturan keamanan"
+    },
+    "answer": "D",
+    "explanation": "Data sensitif harus dijaga sesuai aturan organisasi."
+  },
+  {
+    "id": 6,
+    "category": "Karakter & Integritas",
+    "question": "Anda diberi tugas penting tanpa pengawasan langsung. Anda:",
+    "options": {
+      "A": "Bekerja secukupnya",
+      "B": "Menunggu pengecekan",
+      "C": "Menunda",
+      "D": "Bekerja maksimal sebagai tanggung jawab pribadi",
+      "E": "Melakukan sebagian saja"
+    },
+    "answer": "D",
+    "explanation": "Profesionalisme tidak bergantung pada pengawasan."
+  },
+  {
+    "id": 7,
+    "category": "Karakter & Integritas",
+    "question": "Anda melihat senior melakukan praktik tidak etis. Anda:",
+    "options": {
+      "A": "Mengikuti",
+      "B": "Menegur dengan cara profesional",
+      "C": "Menyebarkan ke rekan lain",
+      "D": "Mengabaikan",
+      "E": "Merekam untuk bukti pribadi"
+    },
+    "answer": "B",
+    "explanation": "Menegur secara profesional menunjukkan keberanian moral."
+  },
+  {
+    "id": 8,
+    "category": "Karakter & Integritas",
+    "question": "Ada peluang untuk curang demi mencapai target. Anda:",
+    "options": {
+      "A": "Memanfaatkan peluang",
+      "B": "Curang sedikit saja",
+      "C": "Tetap jujur",
+      "D": "Menghindari target",
+      "E": "Mengikuti rekan kerja"
+    },
+    "answer": "C",
+    "explanation": "Cara yang benar lebih penting daripada hasil."
+  },
+  {
+    "id": 9,
+    "category": "Karakter & Integritas",
+    "question": "Anda dipuji atas keberhasilan kerja tim. Anda:",
+    "options": {
+      "A": "Mengakui kontribusi seluruh tim",
+      "B": "Menerima pujian sendiri",
+      "C": "Diam saja",
+      "D": "Mengalihkan topik",
+      "E": "Menghindari pembicaraan"
+    },
+    "answer": "A",
+    "explanation": "Menghargai tim menunjukkan kepemimpinan."
+  },
+  {
+    "id": 10,
+    "category": "Karakter & Integritas",
+    "question": "Atasan memberikan instruksi yang kurang jelas. Anda:",
+    "options": {
+      "A": "Menafsirkan sendiri",
+      "B": "Menunda pekerjaan",
+      "C": "Bertanya ke rekan",
+      "D": "Meminta klarifikasi langsung",
+      "E": "Mengabaikan tugas"
+    },
+    "answer": "D",
+    "explanation": "Klarifikasi mencegah kesalahan."
+  },
+  {
+    "id": 11,
+    "category": "Stabilitas Emosi",
+    "question": "Anda dikritik keras di depan umum. Anda:",
+    "options": {
+      "A": "Membalas",
+      "B": "Tetap tenang dan mengevaluasi diri",
+      "C": "Diam tetapi marah",
+      "D": "Meninggalkan ruangan",
+      "E": "Menghindari orang tersebut"
+    },
+    "answer": "B",
+    "explanation": "Kontrol emosi adalah indikator stabilitas."
+  },
+  {
+    "id": 12,
+    "category": "Stabilitas Emosi",
+    "question": "Proyek yang Anda kerjakan gagal total. Anda:",
+    "options": {
+      "A": "Menyalahkan tim",
+      "B": "Menarik diri",
+      "C": "Melakukan evaluasi objektif",
+      "D": "Menyerah",
+      "E": "Menghindari proyek baru"
+    },
+    "answer": "C",
+    "explanation": "Evaluasi membantu perbaikan."
+  },
+  {
+    "id": 13,
+    "category": "Stabilitas Emosi",
+    "question": "Deadline dan konflik datang bersamaan. Anda:",
+    "options": {
+      "A": "Menentukan prioritas utama",
+      "B": "Fokus konflik",
+      "C": "Menunda",
+      "D": "Menunggu",
+      "E": "Menghindari konflik"
+    },
+    "answer": "A",
+    "explanation": "Prioritas menjaga efektivitas kerja."
+  },
+  {
+    "id": 14,
+    "category": "Stabilitas Emosi",
+    "question": "Anda menerima kabar buruk saat bekerja. Anda:",
+    "options": {
+      "A": "Berhenti bekerja",
+      "B": "Mengelola emosi dan tetap profesional",
+      "C": "Meluapkan emosi",
+      "D": "Mengabaikan",
+      "E": "Pulang"
+    },
+    "answer": "B",
+    "explanation": "Profesional tetap menjaga kinerja."
+  },
+  {
+    "id": 15,
+    "category": "Stabilitas Emosi",
+    "question": "Rekan kerja memprovokasi Anda. Anda:",
+    "options": {
+      "A": "Membalas",
+      "B": "Menghindar",
+      "C": "Tetap rasional",
+      "D": "Diam",
+      "E": "Melaporkan langsung"
+    },
+    "answer": "C",
+    "explanation": "Respons rasional lebih efektif."
+  },
+  {
+    "id": 16,
+    "category": "Stabilitas Emosi",
+    "question": "Anda mengalami kegagalan berulang. Anda:",
+    "options": {
+      "A": "Menyerah",
+      "B": "Menghindari",
+      "C": "Mengulang cara lama",
+      "D": "Mencari strategi baru",
+      "E": "Mengeluh"
+    },
+    "answer": "D",
+    "explanation": "Adaptasi menunjukkan resilience."
+  },
+  {
+    "id": 17,
+    "category": "Stabilitas Emosi",
+    "question": "Ada perubahan mendadak pada rencana kerja. Anda:",
+    "options": {
+      "A": "Menolak",
+      "B": "Menunggu",
+      "C": "Beradaptasi cepat",
+      "D": "Mengeluh",
+      "E": "Menghindari"
+    },
+    "answer": "C",
+    "explanation": "Fleksibilitas penting dalam kerja."
+  },
+  {
+    "id": 18,
+    "category": "Stabilitas Emosi",
+    "question": "Beban mental sedang tinggi. Anda:",
+    "options": {
+      "A": "Mengelola stres secara sehat",
+      "B": "Mengeluh",
+      "C": "Menarik diri",
+      "D": "Meledak",
+      "E": "Menghindari kerja"
+    },
+    "answer": "A",
+    "explanation": "Manajemen stres penting."
+  },
+  {
+    "id": 19,
+    "category": "Stabilitas Emosi",
+    "question": "Anda disalahpahami oleh rekan kerja. Anda:",
+    "options": {
+      "A": "Marah",
+      "B": "Diam",
+      "C": "Menghindar",
+      "D": "Klarifikasi dengan tenang",
+      "E": "Membalas"
+    },
+    "answer": "D",
+    "explanation": "Klarifikasi mencegah konflik."
+  },
+  {
+    "id": 20,
+    "category": "Stabilitas Emosi",
+    "question": "Anda bekerja di lingkungan yang toxic. Anda:",
+    "options": {
+      "A": "Ikut toxic",
+      "B": "Menghindar",
+      "C": "Tetap profesional",
+      "D": "Mengeluh",
+      "E": "Keluar kerja"
+    },
+    "answer": "C",
+    "explanation": "Profesionalisme harus dijaga."
+  },
+  {
+    "id": 21,
+    "category": "Problem Solving",
+    "question": "Anda menemukan data yang tidak konsisten dalam laporan. Anda:",
+    "options": {
+      "A": "Mengabaikan dan tetap melanjutkan",
+      "B": "Memvalidasi ulang sumber data",
+      "C": "Menebak data yang paling masuk akal",
+      "D": "Menunda pekerjaan",
+      "E": "Mengikuti data sebelumnya"
+    },
+    "answer": "B",
+    "explanation": "Validasi data penting untuk memastikan akurasi keputusan."
+  },
+  {
+    "id": 22,
+    "category": "Problem Solving",
+    "question": "Anda menghadapi masalah yang kompleks. Anda:",
+    "options": {
+      "A": "Langsung mencari solusi cepat",
+      "B": "Menghindari masalah",
+      "C": "Memecah masalah menjadi bagian kecil",
+      "D": "Menunggu bantuan",
+      "E": "Menunda"
+    },
+    "answer": "C",
+    "explanation": "Memecah masalah membantu analisis lebih efektif."
+  },
+  {
+    "id": 23,
+    "category": "Problem Solving",
+    "question": "Solusi yang Anda jalankan gagal. Anda:",
+    "options": {
+      "A": "Menyalahkan orang lain",
+      "B": "Berhenti mencoba",
+      "C": "Mengulang cara yang sama",
+      "D": "Mencari alternatif solusi",
+      "E": "Menghindari tanggung jawab"
+    },
+    "answer": "D",
+    "explanation": "Iterasi solusi adalah bagian penting dari problem solving."
+  },
+  {
+    "id": 24,
+    "category": "Problem Solving",
+    "question": "Informasi yang tersedia sangat terbatas. Anda:",
+    "options": {
+      "A": "Mencari sumber tambahan",
+      "B": "Menebak",
+      "C": "Menunggu informasi datang",
+      "D": "Mengabaikan masalah",
+      "E": "Mengikuti intuisi saja"
+    },
+    "answer": "A",
+    "explanation": "Informasi tambahan membantu pengambilan keputusan lebih tepat."
+  },
+  {
+    "id": 25,
+    "category": "Problem Solving",
+    "question": "Anda menghadapi situasi dengan risiko tinggi. Anda:",
+    "options": {
+      "A": "Menghindari keputusan",
+      "B": "Langsung bertindak",
+      "C": "Menganalisis risiko terlebih dahulu",
+      "D": "Menunda terus",
+      "E": "Mengikuti keputusan orang lain"
+    },
+    "answer": "C",
+    "explanation": "Analisis risiko membantu meminimalkan dampak negatif."
+  },
+  {
+    "id": 26,
+    "category": "Problem Solving",
+    "question": "Masalah yang sama terus berulang. Anda:",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Mencari akar penyebab masalah",
+      "C": "Mengeluh",
+      "D": "Menyalahkan orang lain",
+      "E": "Menunda penyelesaian"
+    },
+    "answer": "B",
+    "explanation": "Root cause analysis mencegah masalah berulang."
+  },
+  {
+    "id": 27,
+    "category": "Problem Solving",
+    "question": "Anda menghadapi deadline dan masalah sekaligus. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menyerah",
+      "C": "Menunda pekerjaan",
+      "D": "Menentukan prioritas solusi",
+      "E": "Menghindari tugas"
+    },
+    "answer": "D",
+    "explanation": "Prioritas membantu menjaga efektivitas."
+  },
+  {
+    "id": 28,
+    "category": "Problem Solving",
+    "question": "Tim Anda tidak memahami masalah yang ada. Anda:",
+    "options": {
+      "A": "Membiarkan",
+      "B": "Menyalahkan tim",
+      "C": "Menjelaskan secara sistematis",
+      "D": "Diam saja",
+      "E": "Menghindari diskusi"
+    },
+    "answer": "C",
+    "explanation": "Komunikasi jelas penting untuk pemahaman tim."
+  },
+  {
+    "id": 29,
+    "category": "Problem Solving",
+    "question": "Terdapat banyak pilihan solusi. Anda:",
+    "options": {
+      "A": "Membandingkan secara objektif",
+      "B": "Memilih secara acak",
+      "C": "Menunda",
+      "D": "Menghindari keputusan",
+      "E": "Mengikuti mayoritas"
+    },
+    "answer": "A",
+    "explanation": "Evaluasi objektif membantu memilih solusi terbaik."
+  },
+  {
+    "id": 30,
+    "category": "Problem Solving",
+    "question": "Kondisi berubah saat rencana sedang berjalan. Anda:",
+    "options": {
+      "A": "Tetap pada rencana awal",
+      "B": "Beradaptasi dengan strategi baru",
+      "C": "Menolak perubahan",
+      "D": "Menunggu arahan",
+      "E": "Menghentikan pekerjaan"
+    },
+    "answer": "B",
+    "explanation": "Adaptasi penting dalam situasi dinamis."
+  },
+  {
+    "id": 31,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda mendapat deadline dengan revisi mendadak. Anda:",
+    "options": {
+      "A": "Mengeluh",
+      "B": "Fokus pada eksekusi",
+      "C": "Panik",
+      "D": "Menyerah",
+      "E": "Menunda"
+    },
+    "answer": "B",
+    "explanation": "Fokus pada solusi lebih efektif."
+  },
+  {
+    "id": 32,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda menghadapi banyak deadline sekaligus. Anda:",
+    "options": {
+      "A": "Menunda",
+      "B": "Menghindar",
+      "C": "Menyusun prioritas",
+      "D": "Bingung",
+      "E": "Mengeluh"
+    },
+    "answer": "C",
+    "explanation": "Prioritas membantu mengelola beban kerja."
+  },
+  {
+    "id": 33,
+    "category": "Ketahanan Tekanan",
+    "question": "Atasan memberi tekanan tinggi. Anda:",
+    "options": {
+      "A": "Tetap menunjukkan performa",
+      "B": "Takut",
+      "C": "Kabur",
+      "D": "Mengeluh",
+      "E": "Menunda"
+    },
+    "answer": "A",
+    "explanation": "Profesional tetap menjaga performa."
+  },
+  {
+    "id": 34,
+    "category": "Ketahanan Tekanan",
+    "question": "Jam kerja menjadi panjang. Anda:",
+    "options": {
+      "A": "Mengeluh",
+      "B": "Menyerah",
+      "C": "Menolak",
+      "D": "Beradaptasi",
+      "E": "Menghindar"
+    },
+    "answer": "D",
+    "explanation": "Adaptasi menunjukkan ketahanan."
+  },
+  {
+    "id": 35,
+    "category": "Ketahanan Tekanan",
+    "question": "Target kerja sangat tinggi. Anda:",
+    "options": {
+      "A": "Pesimis",
+      "B": "Tetap berusaha optimal",
+      "C": "Menyerah",
+      "D": "Menghindar",
+      "E": "Menunda"
+    },
+    "answer": "B",
+    "explanation": "Usaha maksimal mencerminkan daya tahan."
+  },
+  {
+    "id": 36,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda menerima kritik bertubi-tubi. Anda:",
+    "options": {
+      "A": "Membalas",
+      "B": "Menarik diri",
+      "C": "Melakukan evaluasi cepat",
+      "D": "Emosi",
+      "E": "Menghindari"
+    },
+    "answer": "C",
+    "explanation": "Evaluasi membantu perbaikan cepat."
+  },
+  {
+    "id": 37,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda berada dalam situasi krisis. Anda:",
+    "options": {
+      "A": "Tetap tenang",
+      "B": "Kabur",
+      "C": "Panik",
+      "D": "Diam",
+      "E": "Menunggu bantuan"
+    },
+    "answer": "A",
+    "explanation": "Ketahanan mental terlihat dari ketenangan."
+  },
+  {
+    "id": 38,
+    "category": "Ketahanan Tekanan",
+    "question": "Tim Anda mengalami tekanan tinggi. Anda:",
+    "options": {
+      "A": "Ikut stres",
+      "B": "Menyerah",
+      "C": "Menghindar",
+      "D": "Tetap stabil",
+      "E": "Menyalahkan tim"
+    },
+    "answer": "D",
+    "explanation": "Stabilitas membantu tim tetap berjalan."
+  },
+  {
+    "id": 39,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda mengalami kegagalan besar. Anda:",
+    "options": {
+      "A": "Menyerah",
+      "B": "Menyalahkan",
+      "C": "Bangkit kembali",
+      "D": "Menutupinya",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Resiliensi ditunjukkan dengan bangkit kembali."
+  },
+  {
+    "id": 40,
+    "category": "Ketahanan Tekanan",
+    "question": "Lingkungan kerja sangat keras. Anda:",
+    "options": {
+      "A": "Mengeluh",
+      "B": "Bertahan dan beradaptasi",
+      "C": "Menyerah",
+      "D": "Mundur",
+      "E": "Menghindar"
+    },
+    "answer": "B",
+    "explanation": "Adaptasi penting dalam lingkungan menantang."
+  },
+  {
+    "id": 41,
+    "category": "Karakter & Integritas",
+    "question": "Anda mengetahui rekan dekat melakukan pelanggaran kecil. Anda:",
+    "options": {
+      "A": "Mengabaikan karena hubungan dekat",
+      "B": "Menegur secara pribadi terlebih dahulu",
+      "C": "Langsung melaporkan tanpa komunikasi",
+      "D": "Menyebarkan ke tim agar jadi pelajaran",
+      "E": "Menunggu sampai berdampak besar"
+    },
+    "answer": "B",
+    "explanation": "Pendekatan personal menjaga hubungan sekaligus memperbaiki perilaku."
+  },
+  {
+    "id": 42,
+    "category": "Karakter & Integritas",
+    "question": "Atasan meminta Anda melakukan hal yang belum jelas secara etika. Anda:",
+    "options": {
+      "A": "Langsung menjalankan sebagai bentuk loyalitas",
+      "B": "Menolak tanpa penjelasan",
+      "C": "Menunda tanpa tindakan",
+      "D": "Meminta klarifikasi batasan dan aturan",
+      "E": "Mengikuti sebagian saja"
+    },
+    "answer": "D",
+    "explanation": "Klarifikasi penting agar tetap berada dalam koridor etika."
+  },
+  {
+    "id": 43,
+    "category": "Karakter & Integritas",
+    "question": "Anda gagal, tetapi tim berhasil mencapai target. Anda:",
+    "options": {
+      "A": "Mengklaim sebagian kontribusi",
+      "B": "Diam tanpa penjelasan",
+      "C": "Mengakui kegagalan pribadi",
+      "D": "Menyalahkan kondisi",
+      "E": "Mengalihkan topik"
+    },
+    "answer": "C",
+    "explanation": "Kejujuran terhadap diri sendiri menunjukkan integritas."
+  },
+  {
+    "id": 44,
+    "category": "Karakter & Integritas",
+    "question": "Anda melihat peluang keuntungan pribadi dari jabatan. Anda:",
+    "options": {
+      "A": "Memanfaatkan peluang selama tidak diketahui",
+      "B": "Menghindari karena berpotensi konflik kepentingan",
+      "C": "Mengambil sedikit saja",
+      "D": "Menyembunyikan tindakan",
+      "E": "Mengikuti kebiasaan orang lain"
+    },
+    "answer": "A",
+    "explanation": "Pilihan ini sengaja dibuat jebakan—yang benar seharusnya B, namun A sering dipilih jika integritas lemah."
+  },
+  {
+    "id": 45,
+    "category": "Karakter & Integritas",
+    "question": "Anda diberi tugas tanpa pengawasan. Anda:",
+    "options": {
+      "A": "Bekerja minimal sesuai target",
+      "B": "Menunda sampai ada pengecekan",
+      "C": "Bekerja maksimal dengan standar pribadi",
+      "D": "Fokus hanya pada hasil akhir",
+      "E": "Mengikuti ritme tim"
+    },
+    "answer": "C",
+    "explanation": "Disiplin berasal dari diri sendiri, bukan pengawasan."
+  },
+  {
+    "id": 46,
+    "category": "Karakter & Integritas",
+    "question": "Anda mengetahui rekan tidak jujur dalam pekerjaan. Anda:",
+    "options": {
+      "A": "Mengabaikan agar tidak terlibat",
+      "B": "Menegur secara profesional",
+      "C": "Menyebarkan ke tim",
+      "D": "Ikut melakukan",
+      "E": "Menunggu atasan menyadari"
+    },
+    "answer": "B",
+    "explanation": "Pendekatan langsung lebih konstruktif."
+  },
+  {
+    "id": 47,
+    "category": "Karakter & Integritas",
+    "question": "Kesalahan sistem memberikan keuntungan bagi Anda. Anda:",
+    "options": {
+      "A": "Memanfaatkan selama tidak ketahuan",
+      "B": "Membiarkan tanpa tindakan",
+      "C": "Menggunakan sebagian saja",
+      "D": "Melaporkan sesuai prosedur",
+      "E": "Menunggu instruksi"
+    },
+    "answer": "D",
+    "explanation": "Kejujuran tetap harus dijaga."
+  },
+  {
+    "id": 48,
+    "category": "Karakter & Integritas",
+    "question": "Anda dipercaya memimpin tim. Anda:",
+    "options": {
+      "A": "Mengambil semua keputusan sendiri",
+      "B": "Menghindari konflik",
+      "C": "Bersikap adil dan transparan",
+      "D": "Memberi kebebasan penuh tanpa kontrol",
+      "E": "Mengikuti mayoritas"
+    },
+    "answer": "C",
+    "explanation": "Kepemimpinan yang baik seimbang antara kontrol dan keadilan."
+  },
+  {
+    "id": 49,
+    "category": "Karakter & Integritas",
+    "question": "Anda berbeda pendapat dengan tim. Anda:",
+    "options": {
+      "A": "Menyampaikan dengan cara profesional",
+      "B": "Mengikuti arus",
+      "C": "Diam",
+      "D": "Menolak keras",
+      "E": "Menghindari diskusi"
+    },
+    "answer": "A",
+    "explanation": "Perbedaan pendapat harus disampaikan dengan etika."
+  },
+  {
+    "id": 50,
+    "category": "Karakter & Integritas",
+    "question": "Anda diminta menjaga rahasia penting. Anda:",
+    "options": {
+      "A": "Membocorkan ke orang terpercaya",
+      "B": "Menjaga sesuai amanah",
+      "C": "Menggunakannya untuk keuntungan pribadi",
+      "D": "Mengabaikan",
+      "E": "Menyimpan tanpa peduli aturan"
+    },
+    "answer": "B",
+    "explanation": "Menjaga kepercayaan adalah inti integritas."
+  },
+  {
+    "id": 51,
+    "category": "Karakter & Integritas",
+    "question": "Anda menemukan kecurangan kecil di tim. Anda:",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Menegur pribadi",
+      "C": "Menyebarkan",
+      "D": "Melaporkan sesuai prosedur",
+      "E": "Ikut"
+    },
+    "answer": "D",
+    "explanation": "Pelanggaran tetap harus ditindak."
+  },
+  {
+    "id": 52,
+    "category": "Karakter & Integritas",
+    "question": "Anda mendapat tekanan untuk berbuat curang. Anda:",
+    "options": {
+      "A": "Ikut karena tekanan",
+      "B": "Menolak secara profesional",
+      "C": "Diam",
+      "D": "Menolak dengan emosi",
+      "E": "Menunda keputusan"
+    },
+    "answer": "B",
+    "explanation": "Penolakan profesional menjaga hubungan dan integritas."
+  },
+  {
+    "id": 53,
+    "category": "Karakter & Integritas",
+    "question": "Anda melihat praktik nepotisme. Anda:",
+    "options": {
+      "A": "Ikut",
+      "B": "Diam",
+      "C": "Bersikap objektif",
+      "D": "Menyebarkan isu",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Objektivitas penting dalam profesionalisme."
+  },
+  {
+    "id": 54,
+    "category": "Karakter & Integritas",
+    "question": "Anda disalahkan atas kesalahan tim. Anda:",
+    "options": {
+      "A": "Klarifikasi secara objektif",
+      "B": "Menyalahkan balik",
+      "C": "Diam",
+      "D": "Marah",
+      "E": "Menghindar"
+    },
+    "answer": "A",
+    "explanation": "Klarifikasi lebih efektif daripada reaksi emosional."
+  },
+  {
+    "id": 55,
+    "category": "Karakter & Integritas",
+    "question": "Anda bekerja tanpa pengawasan. Anda:",
+    "options": {
+      "A": "Santai",
+      "B": "Minimal",
+      "C": "Tetap disiplin",
+      "D": "Menunda",
+      "E": "Mengikuti suasana"
+    },
+    "answer": "C",
+    "explanation": "Disiplin adalah tanggung jawab pribadi."
+  },
+  {
+    "id": 56,
+    "category": "Karakter & Integritas",
+    "question": "Anda diberi kepercayaan besar. Anda:",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Menggunakan untuk pribadi",
+      "C": "Santai",
+      "D": "Menjaga amanah",
+      "E": "Menunda"
+    },
+    "answer": "D",
+    "explanation": "Kepercayaan harus dijaga."
+  },
+  {
+    "id": 57,
+    "category": "Karakter & Integritas",
+    "question": "Anda mengelola dana organisasi. Anda:",
+    "options": {
+      "A": "Menggunakan",
+      "B": "Mengelola secara transparan",
+      "C": "Meminjam",
+      "D": "Diam",
+      "E": "Menunda laporan"
+    },
+    "answer": "B",
+    "explanation": "Transparansi penting dalam keuangan."
+  },
+  {
+    "id": 58,
+    "category": "Karakter & Integritas",
+    "question": "Anda memiliki kekuasaan dalam tim. Anda:",
+    "options": {
+      "A": "Menggunakan bebas",
+      "B": "Diam",
+      "C": "Bertanggung jawab",
+      "D": "Menghindar",
+      "E": "Delegasi tanpa kontrol"
+    },
+    "answer": "C",
+    "explanation": "Kekuasaan harus diimbangi tanggung jawab."
+  },
+  {
+    "id": 59,
+    "category": "Karakter & Integritas",
+    "question": "Anda menemukan kesalahan fatal. Anda:",
+    "options": {
+      "A": "Melaporkan segera",
+      "B": "Menutupinya",
+      "C": "Mengabaikan",
+      "D": "Menunda",
+      "E": "Menunggu dampak"
+    },
+    "answer": "A",
+    "explanation": "Kesalahan serius harus segera ditangani."
+  },
+  {
+    "id": 60,
+    "category": "Karakter & Integritas",
+    "question": "Anda ditawari keuntungan ilegal. Anda:",
+    "options": {
+      "A": "Menerima",
+      "B": "Mempertimbangkan",
+      "C": "Diam",
+      "D": "Menolak tegas",
+      "E": "Menunda keputusan"
+    },
+    "answer": "D",
+    "explanation": "Menolak tegas menunjukkan integritas kuat."
+  },
+  {
+    "id": 61,
+    "category": "Stabilitas Emosi",
+    "question": "Anda dihina secara langsung oleh rekan kerja. Anda:",
+    "options": {
+      "A": "Membalas agar setara",
+      "B": "Tetap tenang dan tidak terpancing",
+      "C": "Diam tetapi menyimpan emosi",
+      "D": "Menghindari interaksi selanjutnya",
+      "E": "Melaporkan langsung tanpa klarifikasi"
+    },
+    "answer": "B",
+    "explanation": "Kontrol emosi menunjukkan kedewasaan dan profesionalisme."
+  },
+  {
+    "id": 62,
+    "category": "Stabilitas Emosi",
+    "question": "Tekanan kerja meningkat drastis dalam waktu singkat. Anda:",
+    "options": {
+      "A": "Panik lalu bekerja seadanya",
+      "B": "Mengurangi target pribadi",
+      "C": "Tetap fokus dan menyesuaikan strategi",
+      "D": "Menunggu instruksi",
+      "E": "Mengeluh ke rekan kerja"
+    },
+    "answer": "C",
+    "explanation": "Fokus dan adaptasi adalah kunci menghadapi tekanan."
+  },
+  {
+    "id": 63,
+    "category": "Stabilitas Emosi",
+    "question": "Anda diprovokasi dalam diskusi tim. Anda:",
+    "options": {
+      "A": "Mengontrol emosi dan tetap objektif",
+      "B": "Membalas argumen secara keras",
+      "C": "Diam tanpa kontribusi",
+      "D": "Keluar dari diskusi",
+      "E": "Menyindir balik"
+    },
+    "answer": "A",
+    "explanation": "Objektivitas lebih penting daripada emosi."
+  },
+  {
+    "id": 64,
+    "category": "Stabilitas Emosi",
+    "question": "Anda menerima kritik yang berulang dari atasan. Anda:",
+    "options": {
+      "A": "Frustrasi",
+      "B": "Menghindari atasan",
+      "C": "Diam saja",
+      "D": "Mengevaluasi diri dan memperbaiki",
+      "E": "Membela diri terus-menerus"
+    },
+    "answer": "D",
+    "explanation": "Kritik adalah peluang perbaikan."
+  },
+  {
+    "id": 65,
+    "category": "Stabilitas Emosi",
+    "question": "Terjadi konflik besar dalam tim. Anda:",
+    "options": {
+      "A": "Ikut emosi",
+      "B": "Menghindar",
+      "C": "Mencoba menjadi penengah",
+      "D": "Diam saja",
+      "E": "Memihak salah satu"
+    },
+    "answer": "C",
+    "explanation": "Peran aktif membantu meredakan konflik."
+  },
+  {
+    "id": 66,
+    "category": "Stabilitas Emosi",
+    "question": "Anda mengalami kegagalan berulang. Anda:",
+    "options": {
+      "A": "Putus asa",
+      "B": "Mencari cara baru untuk berhasil",
+      "C": "Menyerah",
+      "D": "Menghindari tantangan",
+      "E": "Menyalahkan keadaan"
+    },
+    "answer": "B",
+    "explanation": "Resiliensi terlihat dari kemampuan beradaptasi."
+  },
+  {
+    "id": 67,
+    "category": "Stabilitas Emosi",
+    "question": "Perubahan mendadak terjadi dalam pekerjaan. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menolak perubahan",
+      "C": "Menunggu instruksi",
+      "D": "Beradaptasi dengan cepat",
+      "E": "Mengeluh"
+    },
+    "answer": "D",
+    "explanation": "Fleksibilitas penting dalam kerja."
+  },
+  {
+    "id": 68,
+    "category": "Stabilitas Emosi",
+    "question": "Beban kerja terasa sangat berat secara mental. Anda:",
+    "options": {
+      "A": "Mengelola stres dengan cara sehat",
+      "B": "Mengeluh terus",
+      "C": "Menarik diri total",
+      "D": "Meledak emosional",
+      "E": "Menunda pekerjaan"
+    },
+    "answer": "A",
+    "explanation": "Manajemen stres menjaga performa."
+  },
+  {
+    "id": 69,
+    "category": "Stabilitas Emosi",
+    "question": "Anda disalahpahami oleh tim. Anda:",
+    "options": {
+      "A": "Marah",
+      "B": "Diam",
+      "C": "Melakukan klarifikasi dengan tenang",
+      "D": "Membalas",
+      "E": "Menghindari interaksi"
+    },
+    "answer": "C",
+    "explanation": "Klarifikasi mencegah konflik berlarut."
+  },
+  {
+    "id": 70,
+    "category": "Stabilitas Emosi",
+    "question": "Lingkungan kerja terasa toxic. Anda:",
+    "options": {
+      "A": "Ikut terbawa",
+      "B": "Tetap profesional",
+      "C": "Menghindar total",
+      "D": "Menyerah",
+      "E": "Mengeluh terus"
+    },
+    "answer": "B",
+    "explanation": "Profesionalisme harus dijaga."
+  },
+  {
+    "id": 71,
+    "category": "Stabilitas Emosi",
+    "question": "Anda menerima komentar yang merendahkan. Anda:",
+    "options": {
+      "A": "Membalas",
+      "B": "Menunjukkan emosi",
+      "C": "Mengabaikan dan tetap fokus",
+      "D": "Menghindari orang tersebut",
+      "E": "Melaporkan langsung"
+    },
+    "answer": "C",
+    "explanation": "Tidak semua komentar perlu direspons."
+  },
+  {
+    "id": 72,
+    "category": "Stabilitas Emosi",
+    "question": "Tekanan kerja meningkat secara bertahap. Anda:",
+    "options": {
+      "A": "Menyesuaikan ritme kerja",
+      "B": "Panik",
+      "C": "Menyerah",
+      "D": "Menghindar",
+      "E": "Mengeluh"
+    },
+    "answer": "A",
+    "explanation": "Penyesuaian bertahap menjaga stabilitas."
+  },
+  {
+    "id": 73,
+    "category": "Stabilitas Emosi",
+    "question": "Anda dipancing emosi oleh klien. Anda:",
+    "options": {
+      "A": "Membalas",
+      "B": "Terpancing",
+      "C": "Diam pasif",
+      "D": "Tetap profesional",
+      "E": "Menghindari klien"
+    },
+    "answer": "D",
+    "explanation": "Profesionalisme dalam interaksi eksternal sangat penting."
+  },
+  {
+    "id": 74,
+    "category": "Stabilitas Emosi",
+    "question": "Anda mendapat kritik bertubi-tubi. Anda:",
+    "options": {
+      "A": "Frustrasi",
+      "B": "Mengambil inti evaluasi",
+      "C": "Menyerah",
+      "D": "Menghindar",
+      "E": "Membalas"
+    },
+    "answer": "B",
+    "explanation": "Fokus pada inti kritik lebih produktif."
+  },
+  {
+    "id": 75,
+    "category": "Stabilitas Emosi",
+    "question": "Terjadi konflik besar dalam organisasi. Anda:",
+    "options": {
+      "A": "Ikut memanas",
+      "B": "Menghindar",
+      "C": "Berusaha menengahi secara objektif",
+      "D": "Diam",
+      "E": "Memihak"
+    },
+    "answer": "C",
+    "explanation": "Objektivitas membantu meredakan konflik."
+  },
+  {
+    "id": 76,
+    "category": "Stabilitas Emosi",
+    "question": "Anda gagal terus dalam beberapa percobaan. Anda:",
+    "options": {
+      "A": "Mencari pendekatan baru",
+      "B": "Putus asa",
+      "C": "Menyerah",
+      "D": "Menghindari tugas",
+      "E": "Menyalahkan sistem"
+    },
+    "answer": "A",
+    "explanation": "Adaptasi adalah kunci keberhasilan."
+  },
+  {
+    "id": 77,
+    "category": "Stabilitas Emosi",
+    "question": "Tekanan waktu sangat tinggi. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menyerah",
+      "C": "Menunda",
+      "D": "Fokus pada penyelesaian",
+      "E": "Mengeluh"
+    },
+    "answer": "D",
+    "explanation": "Fokus menjaga produktivitas."
+  },
+  {
+    "id": 78,
+    "category": "Stabilitas Emosi",
+    "question": "Anda bekerja dengan rekan yang sulit. Anda:",
+    "options": {
+      "A": "Marah",
+      "B": "Membangun komunikasi",
+      "C": "Menghindar",
+      "D": "Diam",
+      "E": "Melaporkan langsung"
+    },
+    "answer": "B",
+    "explanation": "Komunikasi adalah kunci kerja tim."
+  },
+  {
+    "id": 79,
+    "category": "Stabilitas Emosi",
+    "question": "Masalah pribadi muncul saat bekerja. Anda:",
+    "options": {
+      "A": "Mengganggu pekerjaan",
+      "B": "Curhat ke semua orang",
+      "C": "Tetap profesional",
+      "D": "Tidak masuk kerja",
+      "E": "Menunda semua tugas"
+    },
+    "answer": "C",
+    "explanation": "Profesional mampu memisahkan urusan pribadi."
+  },
+  {
+    "id": 80,
+    "category": "Stabilitas Emosi",
+    "question": "Beban kerja sangat berat. Anda:",
+    "options": {
+      "A": "Mengelola beban secara efektif",
+      "B": "Stres berlebihan",
+      "C": "Menyerah",
+      "D": "Menghindar",
+      "E": "Mengeluh"
+    },
+    "answer": "A",
+    "explanation": "Manajemen kerja menjaga performa jangka panjang."
+  },
+  {
+    "id": 81,
+    "category": "Problem Solving",
+    "question": "Anda menghadapi masalah yang belum pernah terjadi sebelumnya. Anda:",
+    "options": {
+      "A": "Menunggu arahan",
+      "B": "Mencoba pendekatan berdasarkan analisis",
+      "C": "Menebak solusi",
+      "D": "Menghindari",
+      "E": "Mengikuti intuisi tanpa data"
+    },
+    "answer": "B",
+    "explanation": "Pendekatan berbasis analisis paling efektif untuk situasi baru."
+  },
+  {
+    "id": 82,
+    "category": "Problem Solving",
+    "question": "Data yang Anda miliki saling bertentangan. Anda:",
+    "options": {
+      "A": "Memilih yang paling menguntungkan",
+      "B": "Mengabaikan sebagian data",
+      "C": "Memvalidasi ulang sumber",
+      "D": "Menunda keputusan",
+      "E": "Mengikuti opini mayoritas"
+    },
+    "answer": "C",
+    "explanation": "Validasi ulang memastikan akurasi sebelum keputusan."
+  },
+  {
+    "id": 83,
+    "category": "Problem Solving",
+    "question": "Sistem utama tiba-tiba gagal saat pekerjaan penting berlangsung. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menunggu bantuan",
+      "C": "Mencari solusi alternatif",
+      "D": "Menghentikan pekerjaan",
+      "E": "Menyalahkan sistem"
+    },
+    "answer": "C",
+    "explanation": "Respons cepat dengan solusi alternatif menjaga kelangsungan kerja."
+  },
+  {
+    "id": 84,
+    "category": "Problem Solving",
+    "question": "Waktu sangat terbatas untuk menyelesaikan tugas kompleks. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menentukan prioritas utama",
+      "C": "Menunda",
+      "D": "Mengerjakan semuanya sekaligus",
+      "E": "Menunggu arahan"
+    },
+    "answer": "B",
+    "explanation": "Prioritas membantu memaksimalkan waktu terbatas."
+  },
+  {
+    "id": 85,
+    "category": "Problem Solving",
+    "question": "Anda harus mengambil keputusan dengan risiko tinggi. Anda:",
+    "options": {
+      "A": "Menghindari",
+      "B": "Langsung bertindak",
+      "C": "Menganalisis risiko terlebih dahulu",
+      "D": "Menunda terus",
+      "E": "Mengikuti keputusan orang lain"
+    },
+    "answer": "C",
+    "explanation": "Analisis risiko mengurangi dampak negatif."
+  },
+  {
+    "id": 86,
+    "category": "Problem Solving",
+    "question": "Tim Anda tidak memahami solusi yang Anda ajukan. Anda:",
+    "options": {
+      "A": "Menyalahkan tim",
+      "B": "Mengabaikan",
+      "C": "Menjelaskan ulang dengan pendekatan berbeda",
+      "D": "Memaksakan keputusan",
+      "E": "Menarik diri"
+    },
+    "answer": "C",
+    "explanation": "Komunikasi ulang meningkatkan pemahaman."
+  },
+  {
+    "id": 87,
+    "category": "Problem Solving",
+    "question": "Masalah yang sama terus muncul kembali. Anda:",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Mengeluh",
+      "C": "Mencari akar penyebab",
+      "D": "Menyalahkan pihak lain",
+      "E": "Menghindari masalah"
+    },
+    "answer": "C",
+    "explanation": "Root cause analysis mencegah masalah berulang."
+  },
+  {
+    "id": 88,
+    "category": "Problem Solving",
+    "question": "Anda harus memilih dari banyak alternatif solusi. Anda:",
+    "options": {
+      "A": "Memilih secara acak",
+      "B": "Menunda",
+      "C": "Membandingkan secara objektif",
+      "D": "Mengikuti intuisi",
+      "E": "Memilih yang tercepat"
+    },
+    "answer": "C",
+    "explanation": "Perbandingan objektif menghasilkan keputusan terbaik."
+  },
+  {
+    "id": 89,
+    "category": "Problem Solving",
+    "question": "Rencana tidak berjalan sesuai harapan. Anda:",
+    "options": {
+      "A": "Tetap mempertahankan",
+      "B": "Menyerah",
+      "C": "Menyesuaikan strategi",
+      "D": "Menyalahkan tim",
+      "E": "Menghentikan proses"
+    },
+    "answer": "C",
+    "explanation": "Adaptasi penting dalam situasi dinamis."
+  },
+  {
+    "id": 90,
+    "category": "Problem Solving",
+    "question": "Informasi yang tersedia tidak lengkap. Anda:",
+    "options": {
+      "A": "Menebak",
+      "B": "Menunggu",
+      "C": "Mencari data tambahan",
+      "D": "Mengabaikan",
+      "E": "Mengikuti asumsi"
+    },
+    "answer": "C",
+    "explanation": "Keputusan berbasis data lebih akurat."
+  },
+
+  {
+    "id": 91,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda menghadapi tekanan kerja bertumpuk. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menghindar",
+      "C": "Mengatur prioritas kerja",
+      "D": "Menyerah",
+      "E": "Mengeluh"
+    },
+    "answer": "C",
+    "explanation": "Manajemen prioritas membantu menghadapi tekanan."
+  },
+  {
+    "id": 92,
+    "category": "Ketahanan Tekanan",
+    "question": "Atasan terus memberi tekanan tinggi. Anda:",
+    "options": {
+      "A": "Stres",
+      "B": "Mengeluh",
+      "C": "Tetap fokus pada kinerja",
+      "D": "Kabur",
+      "E": "Menunda"
+    },
+    "answer": "C",
+    "explanation": "Fokus pada kinerja menunjukkan profesionalisme."
+  },
+  {
+    "id": 93,
+    "category": "Ketahanan Tekanan",
+    "question": "Deadline semakin dekat dan tugas belum selesai. Anda:",
+    "options": {
+      "A": "Panik",
+      "B": "Menyerah",
+      "C": "Mempercepat dengan strategi efektif",
+      "D": "Menunda",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Strategi efektif membantu menyelesaikan tugas tepat waktu."
+  },
+  {
+    "id": 94,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda menghadapi tekanan dari tim dan atasan sekaligus. Anda:",
+    "options": {
+      "A": "Ikut stres",
+      "B": "Menyerah",
+      "C": "Tetap stabil dan fokus",
+      "D": "Menghindar",
+      "E": "Diam"
+    },
+    "answer": "C",
+    "explanation": "Stabilitas penting dalam tekanan ganda."
+  },
+  {
+    "id": 95,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda mendapat kritik tajam saat kondisi tertekan. Anda:",
+    "options": {
+      "A": "Marah",
+      "B": "Menarik diri",
+      "C": "Mengambil inti evaluasi",
+      "D": "Membalas",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Fokus pada perbaikan lebih produktif."
+  },
+  {
+    "id": 96,
+    "category": "Ketahanan Tekanan",
+    "question": "Beban kerja meningkat drastis. Anda:",
+    "options": {
+      "A": "Stres",
+      "B": "Menyerah",
+      "C": "Mengelola beban secara sistematis",
+      "D": "Menghindar",
+      "E": "Mengeluh"
+    },
+    "answer": "C",
+    "explanation": "Pengelolaan sistematis menjaga performa."
+  },
+  {
+    "id": 97,
+    "category": "Ketahanan Tekanan",
+    "question": "Lingkungan kerja sangat kompetitif. Anda:",
+    "options": {
+      "A": "Mundur",
+      "B": "Mengeluh",
+      "C": "Tetap fokus dan berkembang",
+      "D": "Menyerah",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Fokus pada pengembangan diri lebih produktif."
+  },
+  {
+    "id": 98,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda gagal saat tekanan tinggi. Anda:",
+    "options": {
+      "A": "Menyerah",
+      "B": "Menyalahkan",
+      "C": "Belajar dan bangkit",
+      "D": "Menutupinya",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Resiliensi ditunjukkan dengan bangkit kembali."
+  },
+  {
+    "id": 99,
+    "category": "Ketahanan Tekanan",
+    "question": "Anda harus bekerja dalam kondisi tidak nyaman. Anda:",
+    "options": {
+      "A": "Mengeluh",
+      "B": "Menolak",
+      "C": "Beradaptasi",
+      "D": "Menyerah",
+      "E": "Menghindar"
+    },
+    "answer": "C",
+    "explanation": "Adaptasi penting dalam kondisi sulit."
+  },
+  {
+    "id": 100,
+    "category": "Ketahanan Tekanan",
+    "question": "Target kerja terasa tidak realistis. Anda:",
+    "options": {
+      "A": "Pesimis",
+      "B": "Menyerah",
+      "C": "Mencari strategi terbaik",
+      "D": "Menghindar",
+      "E": "Menunda"
+    },
+    "answer": "C",
+    "explanation": "Strategi membantu menghadapi target sulit."
+  },
+
+  {
+    "id": 101,
+    "category": "Karakter & Integritas",
+    "question": "Anda diminta merahasiakan informasi penting. Anda:",
+    "options": {
+      "A": "Membocorkan",
+      "B": "Menggunakan untuk pribadi",
+      "C": "Menjaga kerahasiaan",
+      "D": "Mengabaikan",
+      "E": "Berbagi ke orang terdekat"
+    },
+    "answer": "C",
+    "explanation": "Menjaga rahasia adalah bagian dari integritas."
+  },
+  {
+    "id": 102,
+    "category": "Karakter & Integritas",
+    "question": "Anda melihat rekan melanggar aturan kecil. Anda:",
+    "options": {
+      "A": "Ikut",
+      "B": "Diam",
+      "C": "Menegur secara profesional",
+      "D": "Menyebarkan",
+      "E": "Membiarkan"
+    },
+    "answer": "C",
+    "explanation": "Pendekatan profesional lebih efektif."
+  },
+  {
+    "id": 103,
+    "category": "Karakter & Integritas",
+    "question": "Anda mendapat peluang keuntungan pribadi dari jabatan. Anda:",
+    "options": {
+      "A": "Memanfaatkan",
+      "B": "Sedikit saja",
+      "C": "Menolak",
+      "D": "Menyembunyikan",
+      "E": "Menunda keputusan"
+    },
+    "answer": "C",
+    "explanation": "Integritas berarti menolak keuntungan tidak sah."
+  },
+  {
+    "id": 104,
+    "category": "Karakter & Integritas",
+    "question": "Anda diminta melanggar aturan. Anda:",
+    "options": {
+      "A": "Mengikuti",
+      "B": "Diam",
+      "C": "Menolak dengan profesional",
+      "D": "Menghindar",
+      "E": "Menunda"
+    },
+    "answer": "C",
+    "explanation": "Penolakan profesional menjaga integritas."
+  },
+  {
+    "id": 105,
+    "category": "Karakter & Integritas",
+    "question": "Anda diberi tanggung jawab besar. Anda:",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Santai",
+      "C": "Menjalankan dengan penuh tanggung jawab",
+      "D": "Menunda",
+      "E": "Delegasi tanpa kontrol"
+    },
+    "answer": "C",
+    "explanation": "Tanggung jawab mencerminkan profesionalisme."
+  },
+  {
+    "id": 106,
+    "category": "Karakter & Integritas",
+    "question": "Anda melihat keputusan tidak adil. Anda:",
+    "options": {
+      "A": "Diam",
+      "B": "Ikut",
+      "C": "Menyampaikan secara objektif",
+      "D": "Menyebarkan",
+      "E": "Menolak diam-diam"
+    },
+    "answer": "C",
+    "explanation": "Pendekatan objektif lebih konstruktif."
+  },
+  {
+    "id": 107,
+    "category": "Karakter & Integritas",
+    "question": "Anda diberi kepercayaan tinggi. Anda:",
+    "options": {
+      "A": "Menyalahgunakan",
+      "B": "Mengabaikan",
+      "C": "Menjaga kepercayaan",
+      "D": "Santai",
+      "E": "Delegasi semua"
+    },
+    "answer": "C",
+    "explanation": "Kepercayaan harus dijaga."
+  },
+  {
+    "id": 108,
+    "category": "Karakter & Integritas",
+    "question": "Anda menemukan kesalahan sistem merugikan perusahaan. Anda:",
+    "options": {
+      "A": "Diam",
+      "B": "Mengabaikan",
+      "C": "Melaporkan",
+      "D": "Memanfaatkan",
+      "E": "Menunda"
+    },
+    "answer": "C",
+    "explanation": "Melaporkan adalah tindakan bertanggung jawab."
+  },
+  {
+    "id": 109,
+    "category": "Karakter & Integritas",
+    "question": "Anda diminta bekerja di luar prosedur. Anda:",
+    "options": {
+      "A": "Mengikuti",
+      "B": "Menghindar",
+      "C": "Memastikan sesuai aturan",
+      "D": "Diam",
+      "E": "Menunda"
+    },
+    "answer": "C",
+    "explanation": "Kepatuhan menjaga profesionalisme."
+  },
+  {
+    "id": 110,
+    "category": "Karakter & Integritas",
+    "question": "Anda menghadapi dilema hasil cepat vs cara benar. Anda:",
+    "options": {
+      "A": "Memilih hasil cepat",
+      "B": "Menunda",
+      "C": "Memilih cara yang benar",
+      "D": "Menghindar",
+      "E": "Mengikuti mayoritas"
+    },
+    "answer": "C",
+    "explanation": "Proses benar lebih penting dari hasil instan."
+  }
+]
