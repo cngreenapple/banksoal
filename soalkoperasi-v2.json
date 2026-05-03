@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "category": "Perkoperasian",
+    "question": "Koperasi mengalami penurunan SHU karena biaya operasional meningkat akibat inefisiensi. Langkah paling tepat adalah?",
+    "options": {
+      "A": "Menutup unit usaha kecil",
+      "B": "Meningkatkan iuran anggota",
+      "C": "Melakukan audit efisiensi dan pengendalian biaya operasional",
+      "D": "Mengurangi jumlah karyawan"
+    },
+    "answer": "C",
+    "explanation": "Masalah utama adalah inefisiensi biaya sehingga perlu audit sebelum tindakan lain."
+  },
+  {
+    "id": 2,
+    "category": "Perkoperasian",
+    "question": "Partisipasi anggota koperasi rendah dan rapat sering tidak kuorum. Strategi paling efektif adalah?",
+    "options": {
+      "A": "Memberikan sanksi",
+      "B": "Menambah anggota baru",
+      "C": "Meningkatkan manfaat dan layanan koperasi",
+      "D": "Menurunkan syarat keanggotaan"
+    },
+    "answer": "C",
+    "explanation": "Partisipasi meningkat jika anggota merasakan manfaat."
+  },
+  {
+    "id": 3,
+    "category": "Perkoperasian",
+    "question": "Kredit macet meningkat karena tidak ada analisis kelayakan. Langkah prioritas adalah?",
+    "options": {
+      "A": "Menghentikan pinjaman",
+      "B": "Menagih agresif",
+      "C": "Menerapkan analisis kredit ketat",
+      "D": "Menghapus kredit macet"
+    },
+    "answer": "C",
+    "explanation": "Akar masalah adalah tidak adanya manajemen risiko kredit."
+  },
+  {
+    "id": 4,
+    "category": "Perkoperasian",
+    "question": "Produk koperasi stagnan karena hanya dipasarkan lokal. Solusi terbaik?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menambah produksi",
+      "C": "Memanfaatkan pemasaran digital dan kemitraan",
+      "D": "Menurunkan kualitas"
+    },
+    "answer": "C",
+    "explanation": "Masalah utama adalah akses pasar."
+  },
+  {
+    "id": 5,
+    "category": "Perkoperasian",
+    "question": "Terjadi konflik pengurus dan pengawas terkait transparansi. Solusi terbaik?",
+    "options": {
+      "A": "Mengabaikan konflik",
+      "B": "Mengganti pihak",
+      "C": "Audit independen dan mediasi",
+      "D": "Membubarkan koperasi"
+    },
+    "answer": "C",
+    "explanation": "Perlu solusi objektif dan penyelesaian konflik."
+  },
+  {
+    "id": 6,
+    "category": "Perkoperasian",
+    "question": "Koperasi ingin membuka usaha baru tanpa data pasar. Langkah tepat?",
+    "options": {
+      "A": "Langsung buka",
+      "B": "Menunggu",
+      "C": "Riset pasar",
+      "D": "Meniru pesaing"
+    },
+    "answer": "C",
+    "explanation": "Tanpa data, risiko tinggi."
+  },
+  {
+    "id": 7,
+    "category": "Perkoperasian",
+    "question": "Terjadi penumpukan stok karena produksi berlebih. Solusi terbaik?",
+    "options": {
+      "A": "Menambah produksi",
+      "B": "Menghentikan penjualan",
+      "C": "Menyesuaikan produksi dengan permintaan",
+      "D": "Menyimpan stok lama"
+    },
+    "answer": "C",
+    "explanation": "Masalah overproduction."
+  },
+  {
+    "id": 8,
+    "category": "Perkoperasian",
+    "question": "Layanan koperasi lambat dan tidak profesional. Langkah prioritas?",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Mengganti anggota",
+      "C": "Meningkatkan kualitas pelayanan dan SDM",
+      "D": "Menutup layanan"
+    },
+    "answer": "C",
+    "explanation": "Fokus pada peningkatan layanan dan SDM."
+  },
+  {
+    "id": 9,
+    "category": "Perkoperasian",
+    "question": "Beberapa unit usaha koperasi merugi. Langkah terbaik?",
+    "options": {
+      "A": "Menutup semua",
+      "B": "Menambah modal",
+      "C": "Evaluasi dan fokus pada unit potensial",
+      "D": "Membiarkan berjalan"
+    },
+    "answer": "C",
+    "explanation": "Perlu evaluasi kinerja unit usaha."
+  },
+  {
+    "id": 10,
+    "category": "Perkoperasian",
+    "question": "Koperasi ingin berkembang dengan modal terbatas. Strategi terbaik?",
+    "options": {
+      "A": "Menghentikan ekspansi",
+      "B": "Meminjam besar",
+      "C": "Bertahap dan efisien",
+      "D": "Menunggu bantuan"
+    },
+    "answer": "C",
+    "explanation": "Pertumbuhan bertahap lebih realistis."
+  },
+  {
+    "id": 11,
+    "category": "Kewirausahaan Desa",
+    "question": "Desa memiliki potensi kopi, namun hanya dijual mentah dengan harga rendah. Langkah paling strategis?",
+    "options": {
+      "A": "Meningkatkan produksi",
+      "B": "Menjual ke pasar jauh",
+      "C": "Mengembangkan produk olahan dan branding",
+      "D": "Menurunkan harga"
+    },
+    "answer": "C",
+    "explanation": "Nilai tambah diperoleh dari hilirisasi dan branding."
+  },
+  {
+    "id": 12,
+    "category": "Kewirausahaan Desa",
+    "question": "UMKM kerajinan berkualitas tinggi tetapi penjualan rendah karena pasar terbatas. Solusi terbaik?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menghentikan produksi",
+      "C": "Memperluas pemasaran digital",
+      "D": "Menurunkan kualitas"
+    },
+    "answer": "C",
+    "explanation": "Masalah utama adalah akses pasar."
+  },
+  {
+    "id": 13,
+    "category": "Kewirausahaan Desa",
+    "question": "Potensi wisata rendah pengunjung karena fasilitas dan promosi minim. Langkah prioritas?",
+    "options": {
+      "A": "Menaikkan tiket",
+      "B": "Menutup sementara",
+      "C": "Meningkatkan fasilitas dan promosi",
+      "D": "Menunggu investor"
+    },
+    "answer": "C",
+    "explanation": "Pariwisata membutuhkan infrastruktur dan promosi."
+  },
+  {
+    "id": 14,
+    "category": "Kewirausahaan Desa",
+    "question": "Kelompok tani ingin menanam komoditas tren tanpa riset pasar. Risiko terbesar?",
+    "options": {
+      "A": "Produksi tinggi",
+      "B": "Harga murah",
+      "C": "Tidak sesuai kebutuhan pasar",
+      "D": "Kekurangan tenaga kerja"
+    },
+    "answer": "C",
+    "explanation": "Risiko utama adalah mismatch dengan pasar."
+  },
+  {
+    "id": 15,
+    "category": "Kewirausahaan Desa",
+    "question": "Produk makanan enak tetapi kemasan tidak menarik. Solusi terbaik?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menambah produksi",
+      "C": "Meningkatkan kemasan dan standar",
+      "D": "Mengurangi bahan"
+    },
+    "answer": "C",
+    "explanation": "Pasar modern membutuhkan kemasan dan standar produk."
+  },
+  {
+    "id": 16,
+    "category": "Kewirausahaan Desa",
+    "question": "UMKM desa berjalan sendiri-sendiri tanpa koordinasi. Strategi terbaik?",
+    "options": {
+      "A": "Membiarkan",
+      "B": "Menutup sebagian",
+      "C": "Membentuk koperasi atau kelompok usaha",
+      "D": "Mengurangi produksi"
+    },
+    "answer": "C",
+    "explanation": "Kolaborasi meningkatkan efisiensi dan skala ekonomi."
+  },
+  {
+    "id": 17,
+    "category": "Kewirausahaan Desa",
+    "question": "Produk desa kalah harga dengan pabrikan. Strategi terbaik?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menghentikan produksi",
+      "C": "Menonjolkan keunikan lokal",
+      "D": "Meniru produk"
+    },
+    "answer": "C",
+    "explanation": "Diferensiasi lebih efektif daripada perang harga."
+  },
+  {
+    "id": 18,
+    "category": "Kewirausahaan Desa",
+    "question": "Distribusi terbatas karena lokasi jauh. Solusi realistis?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menghentikan distribusi",
+      "C": "Penjualan online dan kemitraan",
+      "D": "Menunggu bantuan"
+    },
+    "answer": "C",
+    "explanation": "Digitalisasi membantu mengatasi keterbatasan lokasi."
+  },
+  {
+    "id": 19,
+    "category": "Kewirausahaan Desa",
+    "question": "Produksi pertanian berlebih menyebabkan harga jatuh. Solusi strategis?",
+    "options": {
+      "A": "Mengurangi produksi",
+      "B": "Membuang hasil",
+      "C": "Mengolah atau menyimpan produk",
+      "D": "Menjual murah"
+    },
+    "answer": "C",
+    "explanation": "Value added dan manajemen pascapanen diperlukan."
+  },
+  {
+    "id": 20,
+    "category": "Kewirausahaan Desa",
+    "question": "Program desa gagal karena masyarakat tidak terlibat. Solusi?",
+    "options": {
+      "A": "Melanjutkan",
+      "B": "Menghentikan",
+      "C": "Melibatkan masyarakat",
+      "D": "Mengganti program"
+    },
+    "answer": "C",
+    "explanation": "Partisipasi masyarakat adalah kunci keberhasilan."
+  },
+  {
+    "id": 21,
+    "category": "Kewirausahaan",
+    "question": "UMKM kerajinan mengalami penurunan penjualan karena pesaing lebih murah. Tanpa menurunkan harga, langkah terbaik?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Meningkatkan kualitas dan nilai tambah",
+      "C": "Menghentikan produksi",
+      "D": "Menurunkan kualitas"
+    },
+    "answer": "B",
+    "explanation": "Strategi diferensiasi dan value-added lebih efektif daripada perang harga."
+  },
+  {
+    "id": 22,
+    "category": "Kewirausahaan",
+    "question": "UMKM mengalami arus kas negatif karena piutang menumpuk. Langkah paling bijak?",
+    "options": {
+      "A": "Segera meminjam uang",
+      "B": "Evaluasi piutang dan kelola arus kas",
+      "C": "Menghentikan produksi",
+      "D": "Mengabaikan masalah"
+    },
+    "answer": "B",
+    "explanation": "Manajemen kas dan piutang harus diperbaiki sebelum menambah hutang."
+  },
+  {
+    "id": 23,
+    "category": "Perkoperasian",
+    "question": "Beberapa unit usaha koperasi merugi. Pengurus ingin menutup tanpa analisis. Langkah tepat?",
+    "options": {
+      "A": "Menutup semua unit rugi",
+      "B": "Menganalisis penyebab kerugian",
+      "C": "Meminjam dana tambahan",
+      "D": "Mengalihkan anggota"
+    },
+    "answer": "B",
+    "explanation": "Perlu analisis sebelum keputusan ekstrem diambil."
+  },
+  {
+    "id": 24,
+    "category": "Kewirausahaan",
+    "question": "UMKM pangan mendapat banyak komplain terkait kemasan dan kualitas. Solusi terbaik?",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Menurunkan kualitas",
+      "C": "Meningkatkan kemasan dan kontrol kualitas",
+      "D": "Menurunkan harga"
+    },
+    "answer": "C",
+    "explanation": "Perbaikan kualitas dan kemasan meningkatkan kepuasan konsumen."
+  },
+  {
+    "id": 25,
+    "category": "Kewirausahaan",
+    "question": "UMKM ingin masuk pasar kota tetapi terkendala logistik mahal. Solusi efektif?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menghentikan ekspansi",
+      "C": "Menggunakan distribusi dan penjualan digital",
+      "D": "Menjual tanpa strategi"
+    },
+    "answer": "C",
+    "explanation": "Kemitraan distribusi dan digitalisasi membuka akses pasar."
+  },
+  {
+    "id": 26,
+    "category": "Kewirausahaan",
+    "question": "Produk tekstil desa unik tetapi kalah bersaing dengan pabrikan. Langkah tepat?",
+    "options": {
+      "A": "Meniru produk pabrikan",
+      "B": "Menurunkan harga",
+      "C": "Memperkuat branding dan keunikan",
+      "D": "Mengurangi produksi"
+    },
+    "answer": "C",
+    "explanation": "Diferensiasi dan branding adalah keunggulan utama."
+  },
+  {
+    "id": 27,
+    "category": "Perkoperasian",
+    "question": "Jumlah anggota menurun karena syarat rumit. Langkah bijak?",
+    "options": {
+      "A": "Menurunkan syarat drastis",
+      "B": "Evaluasi proses dan edukasi anggota",
+      "C": "Menghapus syarat",
+      "D": "Menerima tanpa prosedur"
+    },
+    "answer": "B",
+    "explanation": "Perbaikan proses dan edukasi lebih aman daripada menurunkan standar."
+  },
+  {
+    "id": 28,
+    "category": "Kewirausahaan",
+    "question": "Produk UMKM bersifat musiman. Saat musim sepi penjualan turun. Strategi terbaik?",
+    "options": {
+      "A": "Menghentikan produksi",
+      "B": "Menambah stok saat ramai",
+      "C": "Diversifikasi produk",
+      "D": "Menurunkan harga"
+    },
+    "answer": "C",
+    "explanation": "Diversifikasi mengurangi ketergantungan musim."
+  },
+  {
+    "id": 29,
+    "category": "Kewirausahaan",
+    "question": "Tim produksi kuat tetapi pemasaran lemah. Solusi terbaik?",
+    "options": {
+      "A": "Mengurangi produksi",
+      "B": "Memperkuat tim pemasaran dan pelatihan",
+      "C": "Menjual seadanya",
+      "D": "Mengandalkan distributor"
+    },
+    "answer": "B",
+    "explanation": "SDM pemasaran penting untuk meningkatkan penjualan."
+  },
+  {
+    "id": 30,
+    "category": "Perkoperasian",
+    "question": "Koperasi memiliki hutang menumpuk karena anggota menunggak. Langkah tepat?",
+    "options": {
+      "A": "Menambah hutang baru",
+      "B": "Menutup anggota",
+      "C": "Restrukturisasi hutang dan evaluasi anggota",
+      "D": "Mengabaikan masalah"
+    },
+    "answer": "C",
+    "explanation": "Restrukturisasi dan evaluasi risiko lebih efektif daripada menambah hutang."
+  },
+  {
+    "id": 31,
+    "category": "Kewirausahaan",
+    "question": "Pengelola koperasi ingin membuka usaha baru tanpa survei pasar. Langkah paling bijak?",
+    "options": {
+      "A": "Langsung produksi besar",
+      "B": "Menunggu investor",
+      "C": "Melakukan riset pasar dan analisis kompetitor",
+      "D": "Mengikuti tren tanpa analisis"
+    },
+    "answer": "C",
+    "explanation": "Riset pasar diperlukan untuk mengurangi risiko kegagalan."
+  },
+  {
+    "id": 32,
+    "category": "Kewirausahaan",
+    "question": "Pengusaha desa ingin membuka tiga usaha sekaligus dengan modal terbatas. Strategi realistis?",
+    "options": {
+      "A": "Buka semua sekaligus",
+      "B": "Mulai satu usaha secara bertahap",
+      "C": "Menunggu modal besar",
+      "D": "Meminjam besar tanpa rencana"
+    },
+    "answer": "B",
+    "explanation": "Pengembangan bertahap lebih aman dan terukur."
+  },
+  {
+    "id": 33,
+    "category": "Kewirausahaan",
+    "question": "Penentuan harga produk hanya mengikuti pesaing tanpa menghitung biaya. Langkah tepat?",
+    "options": {
+      "A": "Harga berdasarkan biaya + margin + pasar",
+      "B": "Lebih murah dari pesaing",
+      "C": "Harga tinggi agar terlihat berkualitas",
+      "D": "Menentukan sembarangan"
+    },
+    "answer": "A",
+    "explanation": "Harga harus menutup biaya dan memberikan keuntungan."
+  },
+  {
+    "id": 34,
+    "category": "Kewirausahaan",
+    "question": "Produk dipasarkan tanpa target pasar yang jelas. Risiko utama?",
+    "options": {
+      "A": "Cepat laku",
+      "B": "Fokus pasar jelas",
+      "C": "Tidak sesuai kebutuhan pasar",
+      "D": "Brand kuat"
+    },
+    "answer": "C",
+    "explanation": "Tanpa target pasar, produk sulit diterima konsumen."
+  },
+  {
+    "id": 35,
+    "category": "Kewirausahaan",
+    "question": "Pemasaran hanya mengandalkan dari mulut ke mulut. Langkah tepat?",
+    "options": {
+      "A": "Tetap seperti itu",
+      "B": "Sebar brosur acak",
+      "C": "Strategi pemasaran terencana (digital & offline)",
+      "D": "Menunggu pelanggan"
+    },
+    "answer": "C",
+    "explanation": "Pemasaran multi-channel lebih efektif."
+  },
+  {
+    "id": 36,
+    "category": "Kewirausahaan",
+    "question": "Produksi dilakukan tanpa mempertimbangkan risiko. Langkah realistis?",
+    "options": {
+      "A": "Produksi tanpa analisis",
+      "B": "Analisis risiko dan mitigasi",
+      "C": "Menunggu pasti sukses",
+      "D": "Mengikuti insting"
+    },
+    "answer": "B",
+    "explanation": "Setiap usaha perlu manajemen risiko."
+  },
+  {
+    "id": 37,
+    "category": "Kewirausahaan",
+    "question": "Proyeksi keuntungan dibuat tanpa data. Langkah tepat?",
+    "options": {
+      "A": "Perkiraan kasar",
+      "B": "Mengabaikan",
+      "C": "Berdasarkan data biaya dan penjualan",
+      "D": "Mengikuti pesaing"
+    },
+    "answer": "C",
+    "explanation": "Proyeksi harus berbasis data agar akurat."
+  },
+  {
+    "id": 38,
+    "category": "Kewirausahaan",
+    "question": "Operasional berjalan tanpa sistem dan jadwal. Solusi terbaik?",
+    "options": {
+      "A": "Biarkan fleksibel",
+      "B": "Membuat SOP dan jadwal",
+      "C": "Menambah staf",
+      "D": "Mengurangi produksi"
+    },
+    "answer": "B",
+    "explanation": "Sistem operasional meningkatkan efisiensi."
+  },
+  {
+    "id": 39,
+    "category": "Perkoperasian",
+    "question": "Koperasi jarang melakukan evaluasi kinerja. Langkah tepat?",
+    "options": {
+      "A": "Mengabaikan evaluasi",
+      "B": "Evaluasi berkala berbasis data",
+      "C": "Menunggu masalah",
+      "D": "Meminta opini saja"
+    },
+    "answer": "B",
+    "explanation": "Evaluasi rutin membantu deteksi masalah sejak dini."
+  },
+  {
+    "id": 40,
+    "category": "Perkoperasian",
+    "question": "Koperasi ingin ekspansi dengan risiko tinggi dan modal terbatas. Strategi terbaik?",
+    "options": {
+      "A": "Ekspansi cepat",
+      "B": "Bertahap dan terukur",
+      "C": "Menunggu sempurna",
+      "D": "Mengurangi unit lama"
+    },
+    "answer": "B",
+    "explanation": "Ekspansi bertahap mengurangi risiko kegagalan."
+  },
+  {
+    "id": 41,
+    "category": "Perkoperasian",
+    "question": "SHU menurun, anggota aktif berkurang, dan beberapa unit usaha merugi. Pengurus ingin menaikkan iuran. Langkah paling bijak?",
+    "options": {
+      "A": "Langsung menaikkan iuran",
+      "B": "Menutup unit usaha rugi",
+      "C": "Menganalisis unit usaha, arus kas, dan partisipasi anggota",
+      "D": "Mengurangi anggota"
+    },
+    "answer": "C",
+    "explanation": "Perlu analisis menyeluruh sebelum mengambil keputusan finansial."
+  },
+  {
+    "id": 42,
+    "category": "Kewirausahaan Desa",
+    "question": "Produk olahan singkong stagnan karena pemasaran lokal dan pesaing murah. Langkah terbaik?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Menghentikan produksi",
+      "C": "Mengembangkan branding, nilai tambah, dan pemasaran digital",
+      "D": "Menjual acak"
+    },
+    "answer": "C",
+    "explanation": "Strategi utama adalah peningkatan nilai tambah dan pemasaran."
+  },
+  {
+    "id": 43,
+    "category": "Kewirausahaan",
+    "question": "Tim produksi kuat tetapi pemasaran lemah. Langkah paling tepat?",
+    "options": {
+      "A": "Menambah produksi",
+      "B": "Memperkuat tim pemasaran",
+      "C": "Menjual lokal saja",
+      "D": "Mengurangi produksi"
+    },
+    "answer": "B",
+    "explanation": "Masalah utama ada pada pemasaran, bukan produksi."
+  },
+  {
+    "id": 44,
+    "category": "Perkoperasian",
+    "question": "Koperasi ingin membuka unit usaha baru dengan modal terbatas dan arus kas negatif. Strategi terbaik?",
+    "options": {
+      "A": "Buka besar sekaligus",
+      "B": "Mulai bertahap skala kecil",
+      "C": "Menunggu modal besar",
+      "D": "Menutup unit lama"
+    },
+    "answer": "B",
+    "explanation": "Ekspansi bertahap mengurangi risiko dan lebih realistis."
+  },
+  {
+    "id": 45,
+    "category": "Kewirausahaan",
+    "question": "Produk desa kalah harga dengan produk kota, namun memiliki keunikan lokal. Langkah terbaik?",
+    "options": {
+      "A": "Meniru produk kota",
+      "B": "Menurunkan harga drastis",
+      "C": "Memperkuat branding dan keunikan",
+      "D": "Mengurangi produksi"
+    },
+    "answer": "C",
+    "explanation": "Diferensiasi adalah strategi utama dalam persaingan."
+  },
+  {
+    "id": 46,
+    "category": "Perkoperasian",
+    "question": "Anggota koperasi menunggak dan pengurus ingin menambah hutang baru. Langkah tepat?",
+    "options": {
+      "A": "Menambah hutang",
+      "B": "Restrukturisasi dan evaluasi anggota",
+      "C": "Mengabaikan",
+      "D": "Menghapus anggota"
+    },
+    "answer": "B",
+    "explanation": "Restrukturisasi lebih aman daripada menambah hutang baru."
+  },
+  {
+    "id": 47,
+    "category": "Kewirausahaan",
+    "question": "Produk UMKM bersifat musiman dan penjualan turun saat musim sepi. Strategi terbaik?",
+    "options": {
+      "A": "Menghentikan produksi",
+      "B": "Diversifikasi produk",
+      "C": "Menjual seadanya",
+      "D": "Menurunkan harga"
+    },
+    "answer": "B",
+    "explanation": "Diversifikasi menjaga kestabilan pendapatan."
+  },
+  {
+    "id": 48,
+    "category": "Perkoperasian",
+    "question": "Partisipasi anggota rendah karena tidak dilibatkan dalam keputusan. Solusi terbaik?",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Mengurangi anggota",
+      "C": "Meningkatkan partisipasi melalui edukasi dan sosialisasi",
+      "D": "Menutup koperasi"
+    },
+    "answer": "C",
+    "explanation": "Partisipasi anggota adalah kunci keberhasilan koperasi."
+  },
+  {
+    "id": 49,
+    "category": "Kewirausahaan",
+    "question": "UMKM mengalami kelebihan produksi dan stok menumpuk. Langkah terbaik?",
+    "options": {
+      "A": "Menambah produksi",
+      "B": "Membuang stok",
+      "C": "Mengembangkan produk olahan atau distribusi baru",
+      "D": "Menjual murah"
+    },
+    "answer": "C",
+    "explanation": "Solusi adalah pengelolaan stok dan peningkatan nilai produk."
+  },
+  {
+    "id": 50,
+    "category": "Perkoperasian",
+    "question": "Koperasi ingin berkembang dengan banyak kendala: modal terbatas, SDM lemah, unit rugi. Strategi terbaik?",
+    "options": {
+      "A": "Ekspansi cepat",
+      "B": "Optimalkan unit lama dan bertahap",
+      "C": "Menunggu sempurna",
+      "D": "Menutup unit lama"
+    },
+    "answer": "B",
+    "explanation": "Fokus pada optimalisasi dan ekspansi bertahap untuk mengurangi risiko."
+  },
+  {
+    "id": 51,
+    "category": "Perkoperasian",
+    "question": "Koperasi mengalami masalah pencatatan keuangan yang tidak rapi sehingga laporan sering terlambat. Langkah terbaik?",
+    "options": {
+      "A": "Mengabaikan laporan",
+      "B": "Mengurangi transaksi",
+      "C": "Menerapkan sistem akuntansi yang terstruktur",
+      "D": "Menutup unit usaha"
+    },
+    "answer": "C",
+    "explanation": "Sistem akuntansi yang baik meningkatkan transparansi dan ketepatan laporan."
+  },
+  {
+    "id": 52,
+    "category": "Kewirausahaan",
+    "question": "UMKM memiliki produk bagus tetapi tidak memiliki identitas merek yang jelas. Dampak utama?",
+    "options": {
+      "A": "Penjualan meningkat",
+      "B": "Biaya produksi turun",
+      "C": "Sulit dikenali dan dibedakan di pasar",
+      "D": "Distribusi lebih mudah"
+    },
+    "answer": "C",
+    "explanation": "Branding penting untuk diferensiasi dan daya ingat konsumen."
+  },
+  {
+    "id": 53,
+    "category": "Kewirausahaan",
+    "question": "UMKM hanya bergantung pada satu supplier bahan baku. Risiko utama?",
+    "options": {
+      "A": "Harga stabil",
+      "B": "Produksi lebih cepat",
+      "C": "Ketergantungan tinggi dan risiko gangguan pasokan",
+      "D": "Kualitas meningkat"
+    },
+    "answer": "C",
+    "explanation": "Diversifikasi supplier penting untuk mengurangi risiko operasional."
+  },
+  {
+    "id": 54,
+    "category": "Perkoperasian",
+    "question": "Pengurus koperasi tidak transparan dalam pengambilan keputusan. Dampak utama?",
+    "options": {
+      "A": "Anggota semakin aktif",
+      "B": "Kepercayaan anggota menurun",
+      "C": "SHU meningkat",
+      "D": "Operasional lebih cepat"
+    },
+    "answer": "B",
+    "explanation": "Transparansi adalah kunci kepercayaan anggota koperasi."
+  },
+  {
+    "id": 55,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak melakukan pencatatan stok sehingga sering kehabisan barang saat permintaan tinggi. Solusi terbaik?",
+    "options": {
+      "A": "Menambah produksi terus-menerus",
+      "B": "Mengabaikan stok",
+      "C": "Menerapkan manajemen persediaan",
+      "D": "Mengurangi penjualan"
+    },
+    "answer": "C",
+    "explanation": "Manajemen persediaan membantu menjaga keseimbangan stok dan permintaan."
+  },
+  {
+    "id": 56,
+    "category": "Kewirausahaan",
+    "question": "Produk UMKM memiliki harga terlalu tinggi dibanding pesaing tanpa nilai tambah jelas. Risiko utama?",
+    "options": {
+      "A": "Penjualan meningkat",
+      "B": "Produk cepat dikenal",
+      "C": "Penjualan menurun",
+      "D": "Biaya turun"
+    },
+    "answer": "C",
+    "explanation": "Harga harus sebanding dengan nilai yang dirasakan konsumen."
+  },
+  {
+    "id": 57,
+    "category": "Perkoperasian",
+    "question": "Rapat anggota koperasi tidak berjalan efektif karena tidak ada agenda jelas. Solusi terbaik?",
+    "options": {
+      "A": "Menghentikan rapat",
+      "B": "Membuat agenda dan tata tertib rapat",
+      "C": "Mengurangi peserta",
+      "D": "Mengabaikan hasil rapat"
+    },
+    "answer": "B",
+    "explanation": "Rapat efektif membutuhkan perencanaan dan struktur yang jelas."
+  },
+  {
+    "id": 58,
+    "category": "Kewirausahaan",
+    "question": "UMKM ingin meningkatkan loyalitas pelanggan. Strategi paling tepat?",
+    "options": {
+      "A": "Menurunkan harga terus",
+      "B": "Mengabaikan pelanggan lama",
+      "C": "Memberikan pelayanan dan pengalaman pelanggan yang baik",
+      "D": "Mengurangi kualitas"
+    },
+    "answer": "C",
+    "explanation": "Customer experience yang baik meningkatkan loyalitas."
+  },
+  {
+    "id": 59,
+    "category": "Kewirausahaan",
+    "question": "UMKM terlalu fokus pada produksi tanpa memperhatikan tren pasar. Risiko utama?",
+    "options": {
+      "A": "Produksi meningkat",
+      "B": "Biaya turun",
+      "C": "Produk tidak sesuai kebutuhan pasar",
+      "D": "Penjualan stabil"
+    },
+    "answer": "C",
+    "explanation": "Kesesuaian dengan tren pasar penting untuk keberhasilan produk."
+  },
+  {
+    "id": 60,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki perencanaan jangka panjang. Dampak utama?",
+    "options": {
+      "A": "Pertumbuhan cepat",
+      "B": "Keputusan lebih mudah",
+      "C": "Arah pengembangan tidak jelas",
+      "D": "Biaya operasional turun"
+    },
+    "answer": "C",
+    "explanation": "Perencanaan strategis penting untuk keberlanjutan koperasi."
+  },
+  {
+    "id": 61,
+    "category": "Kewirausahaan",
+    "question": "UMKM mengalami penurunan repeat order dari pelanggan lama. Penyebab paling mungkin?",
+    "options": {
+      "A": "Harga terlalu murah",
+      "B": "Kualitas atau layanan menurun",
+      "C": "Produksi meningkat",
+      "D": "Promosi berlebihan"
+    },
+    "answer": "B",
+    "explanation": "Repeat order sangat dipengaruhi kepuasan pelanggan."
+  },
+  {
+    "id": 62,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki SOP yang jelas dalam operasional. Risiko utama?",
+    "options": {
+      "A": "Efisiensi meningkat",
+      "B": "Kinerja tidak konsisten",
+      "C": "Biaya turun",
+      "D": "Anggota bertambah"
+    },
+    "answer": "B",
+    "explanation": "Tanpa SOP, operasional tidak terstandar."
+  },
+  {
+    "id": 63,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak melakukan evaluasi penjualan secara rutin. Dampaknya?",
+    "options": {
+      "A": "Penjualan stabil",
+      "B": "Masalah sulit terdeteksi",
+      "C": "Biaya turun",
+      "D": "Produksi meningkat"
+    },
+    "answer": "B",
+    "explanation": "Evaluasi penting untuk pengambilan keputusan."
+  },
+  {
+    "id": 64,
+    "category": "Kewirausahaan",
+    "question": "UMKM ingin meningkatkan penjualan online. Langkah awal paling tepat?",
+    "options": {
+      "A": "Menambah produksi",
+      "B": "Membuat akun marketplace dan media sosial",
+      "C": "Menurunkan harga",
+      "D": "Mengurangi kualitas"
+    },
+    "answer": "B",
+    "explanation": "Digital presence adalah langkah awal pemasaran online."
+  },
+  {
+    "id": 65,
+    "category": "Perkoperasian",
+    "question": "Anggota koperasi tidak memahami hak dan kewajiban mereka. Solusi terbaik?",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Memberikan sanksi",
+      "C": "Melakukan edukasi dan sosialisasi",
+      "D": "Mengurangi anggota"
+    },
+    "answer": "C",
+    "explanation": "Edukasi meningkatkan partisipasi dan kepatuhan anggota."
+  },
+  {
+    "id": 66,
+    "category": "Kewirausahaan",
+    "question": "UMKM terlalu banyak variasi produk hingga sulit dikelola. Risiko utama?",
+    "options": {
+      "A": "Produksi cepat",
+      "B": "Efisiensi tinggi",
+      "C": "Operasional tidak fokus",
+      "D": "Penjualan meningkat"
+    },
+    "answer": "C",
+    "explanation": "Terlalu banyak variasi dapat menurunkan efisiensi."
+  },
+  {
+    "id": 67,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki target penjualan. Dampak utama?",
+    "options": {
+      "A": "Penjualan meningkat",
+      "B": "Kinerja sulit diukur",
+      "C": "Biaya turun",
+      "D": "Produksi stabil"
+    },
+    "answer": "B",
+    "explanation": "Target penting untuk evaluasi kinerja."
+  },
+  {
+    "id": 68,
+    "category": "Perkoperasian",
+    "question": "Pengurus koperasi tidak melakukan laporan rutin kepada anggota. Risiko?",
+    "options": {
+      "A": "Kepercayaan meningkat",
+      "B": "Transparansi menurun",
+      "C": "SHU naik",
+      "D": "Operasional lancar"
+    },
+    "answer": "B",
+    "explanation": "Laporan rutin menjaga transparansi."
+  },
+  {
+    "id": 69,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak melakukan inovasi produk. Dampak jangka panjang?",
+    "options": {
+      "A": "Produk selalu diminati",
+      "B": "Pasar stagnan",
+      "C": "Penjualan meningkat",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Inovasi penting untuk mempertahankan daya saing."
+  },
+  {
+    "id": 70,
+    "category": "Kewirausahaan",
+    "question": "UMKM memiliki biaya produksi tinggi. Langkah awal perbaikan?",
+    "options": {
+      "A": "Menurunkan harga",
+      "B": "Evaluasi biaya dan efisiensi proses",
+      "C": "Menghentikan produksi",
+      "D": "Menambah karyawan"
+    },
+    "answer": "B",
+    "explanation": "Efisiensi biaya meningkatkan profitabilitas."
+  },
+  {
+    "id": 71,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki rencana kerja tahunan. Dampaknya?",
+    "options": {
+      "A": "Operasional lancar",
+      "B": "Arah kerja tidak jelas",
+      "C": "SHU meningkat",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "Perencanaan penting untuk arah organisasi."
+  },
+  {
+    "id": 72,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memahami target konsumennya. Risiko utama?",
+    "options": {
+      "A": "Penjualan meningkat",
+      "B": "Produk tidak tepat sasaran",
+      "C": "Biaya turun",
+      "D": "Distribusi mudah"
+    },
+    "answer": "B",
+    "explanation": "Target pasar menentukan strategi bisnis."
+  },
+  {
+    "id": 73,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki pencatatan keuangan. Dampaknya?",
+    "options": {
+      "A": "Keuntungan meningkat",
+      "B": "Kesulitan mengetahui laba rugi",
+      "C": "Biaya turun",
+      "D": "Penjualan naik"
+    },
+    "answer": "B",
+    "explanation": "Pencatatan penting untuk kontrol keuangan."
+  },
+  {
+    "id": 74,
+    "category": "Perkoperasian",
+    "question": "Anggota koperasi tidak aktif dalam rapat. Solusi?",
+    "options": {
+      "A": "Mengabaikan",
+      "B": "Memberi sanksi saja",
+      "C": "Meningkatkan keterlibatan dan manfaat",
+      "D": "Mengurangi anggota"
+    },
+    "answer": "C",
+    "explanation": "Partisipasi meningkat jika ada manfaat."
+  },
+  {
+    "id": 75,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki strategi promosi. Dampaknya?",
+    "options": {
+      "A": "Produk cepat dikenal",
+      "B": "Penjualan rendah",
+      "C": "Biaya turun",
+      "D": "Distribusi mudah"
+    },
+    "answer": "B",
+    "explanation": "Promosi penting untuk meningkatkan penjualan."
+  },
+  {
+    "id": 76,
+    "category": "Kewirausahaan",
+    "question": "UMKM hanya mengandalkan satu channel penjualan. Risiko?",
+    "options": {
+      "A": "Penjualan stabil",
+      "B": "Ketergantungan tinggi",
+      "C": "Biaya rendah",
+      "D": "Produksi meningkat"
+    },
+    "answer": "B",
+    "explanation": "Diversifikasi channel mengurangi risiko."
+  },
+  {
+    "id": 77,
+    "category": "Perkoperasian",
+    "question": "Pengurus tidak melakukan regenerasi kepemimpinan. Risiko?",
+    "options": {
+      "A": "Kinerja meningkat",
+      "B": "Organisasi stagnan",
+      "C": "Anggota bertambah",
+      "D": "SHU naik"
+    },
+    "answer": "B",
+    "explanation": "Regenerasi penting untuk keberlanjutan."
+  },
+  {
+    "id": 78,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memperhatikan feedback pelanggan. Dampaknya?",
+    "options": {
+      "A": "Kualitas meningkat",
+      "B": "Produk semakin relevan",
+      "C": "Kehilangan pelanggan",
+      "D": "Penjualan naik"
+    },
+    "answer": "C",
+    "explanation": "Feedback penting untuk perbaikan produk."
+  },
+  {
+    "id": 79,
+    "category": "Kewirausahaan",
+    "question": "UMKM terlalu fokus pada harga murah tanpa kualitas. Risiko?",
+    "options": {
+      "A": "Brand kuat",
+      "B": "Loyalitas tinggi",
+      "C": "Kepercayaan menurun",
+      "D": "Penjualan stabil"
+    },
+    "answer": "C",
+    "explanation": "Kualitas mempengaruhi kepercayaan konsumen."
+  },
+  {
+    "id": 80,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki sistem pengawasan. Dampak?",
+    "options": {
+      "A": "Transparansi meningkat",
+      "B": "Potensi penyimpangan tinggi",
+      "C": "SHU meningkat",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "Pengawasan penting untuk mencegah penyimpangan."
+  },
+  {
+    "id": 81,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki rencana bisnis. Risiko utama?",
+    "options": {
+      "A": "Operasional lancar",
+      "B": "Arah usaha tidak jelas",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Rencana bisnis penting untuk arah usaha."
+  },
+  {
+    "id": 82,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak melakukan analisis pesaing. Dampak?",
+    "options": {
+      "A": "Strategi kuat",
+      "B": "Kalah bersaing",
+      "C": "Biaya turun",
+      "D": "Penjualan naik"
+    },
+    "answer": "B",
+    "explanation": "Analisis pesaing penting untuk strategi."
+  },
+  {
+    "id": 83,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki AD/ART yang jelas. Risiko?",
+    "options": {
+      "A": "Organisasi kuat",
+      "B": "Konflik internal meningkat",
+      "C": "SHU naik",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "AD/ART adalah dasar aturan organisasi."
+  },
+  {
+    "id": 84,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki strategi harga. Dampak?",
+    "options": {
+      "A": "Penjualan stabil",
+      "B": "Sulit bersaing",
+      "C": "Biaya turun",
+      "D": "Produksi naik"
+    },
+    "answer": "B",
+    "explanation": "Strategi harga penting dalam kompetisi."
+  },
+  {
+    "id": 85,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki kontrol kualitas. Risiko?",
+    "options": {
+      "A": "Produk konsisten",
+      "B": "Kualitas tidak stabil",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Quality control menjaga konsistensi produk."
+  },
+  {
+    "id": 86,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki visi dan misi. Dampaknya?",
+    "options": {
+      "A": "Arah jelas",
+      "B": "Organisasi bingung arah",
+      "C": "SHU naik",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "Visi dan misi menentukan arah organisasi."
+  },
+  {
+    "id": 87,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki sistem pencatatan pelanggan. Dampak?",
+    "options": {
+      "A": "Loyalitas meningkat",
+      "B": "Sulit melakukan follow-up",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Database pelanggan penting untuk pemasaran."
+  },
+  {
+    "id": 88,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki strategi distribusi. Risiko?",
+    "options": {
+      "A": "Produk mudah sampai",
+      "B": "Akses pasar terbatas",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Distribusi menentukan jangkauan pasar."
+  },
+  {
+    "id": 89,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki sistem reward bagi anggota aktif. Dampak?",
+    "options": {
+      "A": "Partisipasi meningkat",
+      "B": "Motivasi anggota rendah",
+      "C": "SHU naik",
+      "D": "Anggota bertambah"
+    },
+    "answer": "B",
+    "explanation": "Reward meningkatkan partisipasi."
+  },
+  {
+    "id": 90,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak melakukan perencanaan produksi. Dampak?",
+    "options": {
+      "A": "Produksi efisien",
+      "B": "Over/under production",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Perencanaan produksi penting untuk keseimbangan."
+  },
+  {
+    "id": 91,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memperhatikan tren digital. Risiko?",
+    "options": {
+      "A": "Pasar luas",
+      "B": "Tertinggal dari pesaing",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Digitalisasi penting dalam persaingan modern."
+  },
+  {
+    "id": 92,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki sistem evaluasi kinerja pengurus. Risiko?",
+    "options": {
+      "A": "Kinerja meningkat",
+      "B": "Kinerja tidak terukur",
+      "C": "SHU naik",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "Evaluasi penting untuk akuntabilitas."
+  },
+  {
+    "id": 93,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki diferensiasi produk. Dampak?",
+    "options": {
+      "A": "Mudah bersaing",
+      "B": "Sulit bersaing",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Diferensiasi adalah keunggulan kompetitif."
+  },
+  {
+    "id": 94,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki strategi ekspansi. Risiko?",
+    "options": {
+      "A": "Pertumbuhan cepat",
+      "B": "Pertumbuhan tidak terarah",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Strategi ekspansi penting untuk pertumbuhan."
+  },
+  {
+    "id": 95,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki sistem informasi manajemen. Dampak?",
+    "options": {
+      "A": "Data akurat",
+      "B": "Pengambilan keputusan lambat",
+      "C": "SHU naik",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "Sistem informasi mendukung keputusan cepat."
+  },
+  {
+    "id": 96,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak melakukan kontrol biaya. Risiko?",
+    "options": {
+      "A": "Biaya efisien",
+      "B": "Pemborosan tinggi",
+      "C": "Penjualan naik",
+      "D": "Produksi stabil"
+    },
+    "answer": "B",
+    "explanation": "Kontrol biaya penting untuk profit."
+  },
+  {
+    "id": 97,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki strategi branding. Dampak?",
+    "options": {
+      "A": "Produk dikenal",
+      "B": "Sulit dikenali pasar",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Branding meningkatkan daya ingat konsumen."
+  },
+  {
+    "id": 98,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki sistem pelatihan anggota. Dampak?",
+    "options": {
+      "A": "Kompetensi meningkat",
+      "B": "SDM tidak berkembang",
+      "C": "SHU naik",
+      "D": "Anggota aktif"
+    },
+    "answer": "B",
+    "explanation": "Pelatihan penting untuk peningkatan kapasitas."
+  },
+  {
+    "id": 99,
+    "category": "Kewirausahaan",
+    "question": "UMKM tidak memiliki strategi menghadapi krisis. Risiko?",
+    "options": {
+      "A": "Tahan krisis",
+      "B": "Rentan terhadap perubahan",
+      "C": "Penjualan naik",
+      "D": "Biaya turun"
+    },
+    "answer": "B",
+    "explanation": "Manajemen risiko penting untuk ketahanan usaha."
+  },
+  {
+    "id": 100,
+    "category": "Perkoperasian",
+    "question": "Koperasi tidak memiliki budaya organisasi yang kuat. Dampak?",
+    "options": {
+      "A": "Soliditas tinggi",
+      "B": "Kinerja tidak konsisten",
+      "C": "SHU meningkat",
+      "D": "Anggota bertambah"
+    },
+    "answer": "B",
+    "explanation": "Budaya organisasi mempengaruhi kinerja dan kekompakan."
+  }
+]
