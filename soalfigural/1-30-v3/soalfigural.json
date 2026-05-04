@@ -1,1 +1,242 @@
-a
+[
+  {
+    "id": 1,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no1_ans_d.png",
+    "answer": "D",
+    "explanation": "Semua gambar memiliki 5 titik sudut, sedangkan gambar D hanya punya 4 titik sudut."
+  },
+  {
+    "id": 2,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no2_ans_e.png",
+    "answer": "E",
+    "explanation": "Perhatikan bidang lengkung/lingkaran. Semua berpotongan, kecuali gambar E yang hanya bersentuhan."
+  },
+  {
+    "id": 3,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no3_ans_c.png",
+    "answer": "C",
+    "explanation": "Perhatikan posisi blok hitam. Semua posisinya mendekati sisi pinggir, sedangkan gambar C posisinya agak ke tengah."
+  },
+  {
+    "id": 4,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no4_ans_a.png",
+    "answer": "A",
+    "explanation": "Perhatikan salah satu ujungnya. Pilihan A ada yang ujungnya lancip, sementara gambar lainnya tidak."
+  },
+  {
+    "id": 5,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no5_ans_c.png",
+    "answer": "C",
+    "explanation": "Perhatikan bulatan hitam, semua seolah-olah ada di dalam garis lengkung, sementara gambar C ada satu lingkaran yang keluar dari garis lengkung."
+  },
+  {
+    "id": 6,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no6_ans_d.png",
+    "answer": "D",
+    "explanation": "Semua gambar merupakan hasil rotasi suatu gambar, sementara gambar D merupakan hasil pencerminan."
+  },
+  {
+    "id": 7,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no7_ans_d.png",
+    "answer": "D",
+    "explanation": "Semuanya terdapat dua ujung yang berjajar, sementara gambar D tidak ada dua ujung yang berjajar."
+  },
+  {
+    "id": 8,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no8_ans_b.png",
+    "answer": "B",
+    "explanation": "Perhatikan ukuran lingkaran, semuanya ukurannya sama. Kecuali gambar B, ukuran lingkarannya berbeda sendiri."
+  },
+  {
+    "id": 9,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no9_ans_e.png",
+    "answer": "E",
+    "explanation": "Ini adalah kartu domino. Semua kartu memuat 7 buah bulatan, kecuali E yang memiliki 8 bulatan."
+  },
+  {
+    "id": 10,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no10_ans_c.png",
+    "answer": "C",
+    "explanation": "Gambar tersebut merupakan deretan gambar segi lima (punya lima titik sudut), kecuali C yang hanya memiliki 4 titik sudut (segi empat)."
+  },
+  {
+    "id": 11,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no11_ans_c.png",
+    "answer": "C",
+    "explanation": "Bangun tersebut merupakan dua potongan puzzle yang bersesuaian. Bangun yang satu merupakan potongan bangun yang lain, kecuali gambar C, yang bukan pasangan puzzle."
+  },
+  {
+    "id": 12,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no12_ans_a.png",
+    "answer": "A",
+    "explanation": "Ada sebuah lingkaran yang berisikan dengan dua buah lingkaran lainnya. Sementara gambar A, yang berisikan hanya sebuah lingkaran, dan lingkaran lainnya hanya bersentuhan."
+  },
+  {
+    "id": 13,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no13_ans_d.png",
+    "answer": "D",
+    "explanation": "Di dalam gambar ada dua garis yang sejajar. Sementara gambar D ada dua garis yang tegak lurus (tidak sejajar)."
+  },
+  {
+    "id": 14,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no14_ans_e.png",
+    "answer": "E",
+    "explanation": "Gambar E memuat gambar dua kotak berasir yang berpintu, sementara gambar lainnya tidak ada yang berpintu."
+  },
+  {
+    "id": 15,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no15_ans_a.png",
+    "answer": "A",
+    "explanation": "Perhatikan pola arisan garis. Gambar A arisannya sejajar, sementara gambar lainnya tidak sejajar."
+  },
+  {
+    "id": 16,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no16_ans_c.png",
+    "answer": "C",
+    "explanation": "Semua gambar terdapat 4 buah gambar bintang, sementara gambar C memiliki 5 bintang."
+  },
+  {
+    "id": 17,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no17_ans_e.png",
+    "answer": "E",
+    "explanation": "Di dalam lingkaran, semua memuat 4 buah segitiga, sementara pilihan E memuat 5 buah segitiga."
+  },
+  {
+    "id": 18,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no18_ans_b.png",
+    "answer": "B",
+    "explanation": "Perhatikan bintik lingkaran kecil. Semua ada di dalam gambar bintang, sementara gambar B bintik hitamnya ada di luar gambar bintang."
+  },
+  {
+    "id": 19,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no19_ans_c.png",
+    "answer": "C",
+    "explanation": "Perhatikan kaki-kakinya. Semua gambar ada satu kaki yang pendek, sementara gambar C kakinya keduanya panjang."
+  },
+  {
+    "id": 20,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no20_ans_e.png",
+    "answer": "E",
+    "explanation": "Perhatikan gambar kecil, semuanya memotong di dua sisi, kecuali gambar E yang hanya memotong satu sisi."
+  },
+  {
+    "id": 21,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no21_ans_e.png",
+    "answer": "E",
+    "explanation": "Perhatikan semua gambar hanya berisian sebagian, sementara gambar E berisian secara keseluruhan."
+  },
+  {
+    "id": 22,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no22_ans_d.png",
+    "answer": "D",
+    "explanation": "Perhatikan ujung garis. Terlihat jelas gambar D punya bentuk lekukan garis yang paling beda."
+  },
+  {
+    "id": 23,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no23_ans_c.png",
+    "answer": "C",
+    "explanation": "Semua gambar bintangnya berjumlah ganjil, sementara pilihan C jumlah bintangnya genap."
+  },
+  {
+    "id": 24,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no24_ans_b.png",
+    "answer": "B",
+    "explanation": "Perhatikan gambar B, bagian atas dan bawah polanya sama persis, sementara gambar lainnya berbeda."
+  },
+  {
+    "id": 25,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no25_ans_a.png",
+    "answer": "A",
+    "explanation": "Pada gambar A, kotak kecil tepat ada di tengah kotak besar, sementara lainnya posisinya ada di pinggir."
+  },
+  {
+    "id": 26,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no26_ans_e.png",
+    "answer": "E",
+    "explanation": "Perhatikan garis paling ujung. Ujung kanan dan ujung kiri tingginya sama, sementara gambar E tingginya berbeda."
+  },
+  {
+    "id": 27,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no27_ans_d.png",
+    "answer": "D",
+    "explanation": "Perhatikan pola anak panah. Anak panah yang sejajar bersebelahan mempunyai arah berlawanan. Sementara gambar D, terdapat dua anak panah yang bersebelahan, tapi punya arah sama."
+  },
+  {
+    "id": 28,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no28_ans_c.png",
+    "answer": "C",
+    "explanation": "Gambar anak panah mendatar arahnya menuju panjang yang tegak. Sementara pada gambar C arahnya meninggalkan garis tegak."
+  },
+  {
+    "id": 29,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no29_ans_b.png",
+    "answer": "B",
+    "explanation": "Cermat pola dari batu bata tersebut. Semua gambar berpola sama, kecuali gambar B. Pada gambar B sedikit berbeda."
+  },
+  {
+    "id": 30,
+    "category": "Klasifikasi Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v3/no30_ans_d.png",
+    "answer": "D",
+    "explanation": "Perhatikan pola penataan bata tersebut. Penataan bata putih dipasang berselang-seling dengan bata abu-abu. Sementara pada gambar D, terdapat dua bata putih yang berimpitan."
+  }
+]
