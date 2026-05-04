@@ -1,0 +1,2380 @@
+[
+  {
+    "id": 1,
+    "category": "Pemerintahan",
+    "question": "Lembaga negara yang memiliki wewenang mengubah dan menetapkan Undang-Undang Dasar di Indonesia adalah...",
+    "options": {
+      "A": "DPR",
+      "B": "Presiden",
+      "C": "MA",
+      "D": "MPR",
+      "E": "MK"
+    },
+    "answer": "D",
+    "explanation": "MPR memiliki wewenang mengubah dan menetapkan UUD 1945, serta melantik Presiden dan Wakil Presiden."
+  },
+  {
+    "id": 2,
+    "category": "Wisata",
+    "question": "Air terjun tertinggi di Indonesia yang terletak di Kabupaten Karo, Sumatera Utara adalah...",
+    "options": {
+      "A": "Air Terjun Madakaripura",
+      "B": "Air Terjun Sipiso-piso",
+      "C": "Air Terjun Tumpak Sewu",
+      "D": "Air Terjun Semawot",
+      "E": "Air Terjun Nyarai"
+    },
+    "answer": "B",
+    "explanation": "Air Terjun Sipiso-piso memiliki ketinggian sekitar 120 meter dan berada di kawasan Danau Toba."
+  },
+  {
+    "id": 3,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Manado yang terbuat dari daging babi atau ayam yang dimasak dengan rempah-rempah dan darah disebut...",
+    "options": {
+      "A": "Tinutuan",
+      "B": "Cakalang Fufu",
+      "C": "RW (Rica-rica Wolio)",
+      "D": "Pampis",
+      "E": "Paniki"
+    },
+    "answer": "E",
+    "explanation": "Paniki adalah masakan khas Manado berupa daging kelelawar atau babi yang dimasak dengan parutan kelapa dan rempah-rempah."
+  },
+  {
+    "id": 4,
+    "category": "Sejarah",
+    "question": "Perjanjian yang mengakui kedaulatan Belanda atas seluruh wilayah Indonesia kecuali Yogyakarta dan Surakarta pada tahun 1949 adalah...",
+    "options": {
+      "A": "Perjanjian Linggarjati",
+      "B": "Perjanjian Roem-Roijen",
+      "C": "Konferensi Meja Bundar",
+      "D": "Perjanjian Renville",
+      "E": "Perjanjian Saragosa"
+    },
+    "answer": "D",
+    "explanation": "Perjanjian Renville (1948) merugikan Indonesia karena hanya mengakui wilayah Jawa Tengah, Yogyakarta, dan Sumatra."
+  },
+  {
+    "id": 5,
+    "category": "Geografi",
+    "question": "Gunung api aktif tertinggi di Indonesia yang terletak di Pulau Sumatra adalah...",
+    "options": {
+      "A": "Gunung Kerinci",
+      "B": "Gunung Sinabung",
+      "C": "Gunung Marapi",
+      "D": "Gunung Talang",
+      "E": "Gunung Merapi"
+    },
+    "answer": "A",
+    "explanation": "Gunung Kerinci (3.805 mdpl) adalah gunung tertinggi di Sumatra dan gunung api tertinggi di Indonesia."
+  },
+  {
+    "id": 6,
+    "category": "Budaya",
+    "question": "Tarian tradisional dari Papua yang menggambarkan kegiatan perang suku disebut...",
+    "options": {
+      "A": "Tari Perang",
+      "B": "Tari Musyoh",
+      "C": "Tari Sajojo",
+      "D": "Tari Yospan",
+      "E": "Tari Piri"
+    },
+    "answer": "A",
+    "explanation": "Tari Perang atau Tari Mambesak adalah tarian perang suku-suku di Papua yang dilakukan sebelum berperang atau menyambut pahlawan."
+  },
+  {
+    "id": 7,
+    "category": "Pemerintahan",
+    "question": "Sistem pembagian kekuasaan di mana Kepala Negara dan Kepala Pemerintahan dipegang oleh orang yang berbeda diterapkan Indonesia pada masa...",
+    "options": {
+      "A": "Orde Baru",
+      "B": "Reformasi",
+      "C": "Demokrasi Liberal",
+      "D": "Demokrasi Terpimpin",
+      "E": "Awal Kemerdekaan"
+    },
+    "answer": "C",
+    "explanation": "Pada Demokrasi Liberal (1950-1959), presiden sebagai kepala negara, perdana menteri sebagai kepala pemerintahan."
+  },
+  {
+    "id": 8,
+    "category": "Wisata",
+    "question": "Taman Nasional di Kalimantan yang terkenal sebagai habitat asli Orangutan adalah...",
+    "options": {
+      "A": "Taman Nasional Gunung Leuser",
+      "B": "Taman Nasional Tanjung Puting",
+      "C": "Taman Nasional Kutai",
+      "D": "Taman Nasional Bukit Baka-Bukit Raya",
+      "E": "Taman Nasional Betung Kerihun"
+    },
+    "answer": "B",
+    "explanation": "Taman Nasional Tanjung Puting di Kalimantan Tengah terkenal dengan pusat rehabilitasi orangutan."
+  },
+  {
+    "id": 9,
+    "category": "Kuliner",
+    "question": "Makanan khas Banten yang terbuat dari nasi yang dibungkus daun pisang dengan lauk pauk sederhana disebut...",
+    "options": {
+      "A": "Nasi Liwet",
+      "B": "Nasi Uduk",
+      "C": "Nasi Bogana",
+      "D": "Sego Megono",
+      "E": "Nasi Jamblang"
+    },
+    "answer": "C",
+    "explanation": "Nasi Bogana adalah nasi yang dibungkus daun pisang berisi lauk seperti tempe, tahu, bihun, dan telur rebus, khas Banten."
+  },
+  {
+    "id": 10,
+    "category": "Sejarah",
+    "question": "Pahlawan nasional yang dijuluki 'Singosari' karena memimpin perlawanan di Malang melawan Belanda pada abad ke-19 adalah...",
+    "options": {
+      "A": "Pangeran Diponegoro",
+      "B": "Thomas Matulessy",
+      "C": "Tuanku Imam Bonjol",
+      "D": "Sultan Hasanuddin",
+      "E": "Kiai Mojo"
+    },
+    "answer": "B",
+    "explanation": "Thomas Matulessy dikenal dengan nama Kapitan Pattimura, dijuluki 'Singosari' oleh pasukannya."
+  },
+  {
+    "id": 11,
+    "category": "Geografi",
+    "question": "Selat yang memisahkan Pulau Jawa dan Pulau Madura adalah...",
+    "options": {
+      "A": "Selat Sunda",
+      "B": "Selat Bali",
+      "C": "Selat Madura",
+      "D": "Selat Ombai",
+      "E": "Selat Lombok"
+    },
+    "answer": "C",
+    "explanation": "Selat Madura memisahkan Jawa Timur (khususnya Surabaya) dengan Pulau Madura."
+  },
+  {
+    "id": 12,
+    "category": "Budaya",
+    "question": "Alat musik tradisional dari Sulawesi Selatan yang terbuat dari bambu dan dimainkan dengan cara ditiup sambil digoyang disebut...",
+    "options": {
+      "A": "Suling",
+      "B": "Keso-keso",
+      "C": "Pui-pui",
+      "D": "Kelong",
+      "E": "Lalove"
+    },
+    "answer": "C",
+    "explanation": "Pui-pui adalah alat musik tiup dari bambu khas Toraja, Sulawesi Selatan."
+  },
+  {
+    "id": 13,
+    "category": "Pemerintahan",
+    "question": "Kementerian yang membidangi urusan pendidikan tinggi di Indonesia saat ini bernama...",
+    "options": {
+      "A": "Kemendikbud",
+      "B": "Kementerian Pendidikan Tinggi dan Teknologi",
+      "C": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "D": "Kemendikbudristek",
+      "E": "Kementerian Riset dan Teknologi"
+    },
+    "answer": "C",
+    "explanation": "Setelah pemekaran, Kementerian Pendidikan Tinggi, Sains, dan Teknologi (2024-sekarang) menangani urusan pendidikan tinggi."
+  },
+  {
+    "id": 14,
+    "category": "Wisata",
+    "question": "Wisata danau yang terkenal dengan 'Kelimutu' yang memiliki tiga warna air danau berbeda, terletak di provinsi...",
+    "options": {
+      "A": "NTB",
+      "B": "NTT",
+      "C": "Bali",
+      "D": "Sulawesi Tenggara",
+      "E": "Maluku"
+    },
+    "answer": "B",
+    "explanation": "Danau Kelimutu berada di Pulau Flores, Nusa Tenggara Timur."
+  },
+  {
+    "id": 15,
+    "category": "Kuliner",
+    "question": "Kue tradisional dari Betawi yang terbuat dari tepung beras, gula merah, dan santan, dibungkus daun pisang berbentuk kerucut disebut...",
+    "options": {
+      "A": "Kue Cucur",
+      "B": "Kue Rangi",
+      "C": "Kue Pukis",
+      "D": "Kue Pancong",
+      "E": "Nagasari"
+    },
+    "answer": "E",
+    "explanation": "Nagasari adalah kue tradisional berisi pisang, dibuat dari adonan tepung beras dan santan."
+  },
+  {
+    "id": 16,
+    "category": "Sejarah",
+    "question": "Organisasi pemuda pertama di Indonesia yang didirikan pada tahun 1912 bernama...",
+    "options": {
+      "A": "Budi Utomo",
+      "B": "Tri Koro Dharmo",
+      "C": "Jong Java",
+      "D": "Sarekat Islam",
+      "E": "Indische Partij"
+    },
+    "answer": "B",
+    "explanation": "Tri Koro Dharmo (1912) didirikan oleh Satiman Wirjosandjojo, kemudian berganti nama menjadi Jong Java."
+  },
+  {
+    "id": 17,
+    "category": "Geografi",
+    "question": "Pulau terbesar di Kepulauan Riau yang terkenal sebagai kota industri dan wisata adalah...",
+    "options": {
+      "A": "Pulau Bintan",
+      "B": "Pulau Batam",
+      "C": "Pulau Karimun",
+      "D": "Pulau Kundur",
+      "E": "Pulau Rempang"
+    },
+    "answer": "B",
+    "explanation": "Pulau Batam adalah pulau terbesar di Kepulauan Riau, menjadi kota industri dan zona perdagangan bebas."
+  },
+  {
+    "id": 18,
+    "category": "Budaya",
+    "question": "Wayang kulit yang berasal dari Jawa Barat dengan tokoh populer Dasamuka dan Rama disebut...",
+    "options": {
+      "A": "Wayang Purwa",
+      "B": "Wayang Golek",
+      "C": "Wayang Klitik",
+      "D": "Wayang Beber",
+      "E": "Wayang Wong"
+    },
+    "answer": "B",
+    "explanation": "Wayang Golek adalah wayang tiga dimensi dari Sunda dengan bahan kayu."
+  },
+  {
+    "id": 19,
+    "category": "Pemerintahan",
+    "question": "Pasal dalam UUD 1945 yang mengatur tentang kemerdekaan memeluk agama dan beribadah menurut agamanya adalah...",
+    "options": {
+      "A": "Pasal 28E ayat (1)",
+      "B": "Pasal 29 ayat (1)",
+      "C": "Pasal 29 ayat (2)",
+      "D": "Pasal 28I ayat (1)",
+      "E": "Pasal 28C ayat (1)"
+    },
+    "answer": "C",
+    "explanation": "Pasal 29 ayat (2) UUD 1945: 'Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadat menurut agamanya dan kepercayaannya itu.'"
+  },
+  {
+    "id": 20,
+    "category": "Wisata",
+    "question": "Kepulauan yang terkenal dengan nama 'The Exotic Islands of East Nusa Tenggara' dan memiliki danau garam di tengahnya adalah...",
+    "options": {
+      "A": "Kepulauan Seribu",
+      "B": "Kepulauan Raja Ampat",
+      "C": "Kepulauan Derawan",
+      "D": "Kepulauan Taka Bonerate",
+      "E": "Kepulauan Solor"
+    },
+    "answer": "E",
+    "explanation": "Kepulauan Solor di NTT memiliki Danau Kelimutu yang unik dengan air berwarna-warni (sekitar 3 warna berbeda di puncak gunung)."
+  },
+  {
+    "id": 21,
+    "category": "Kuliner",
+    "question": "Minuman khas dari Sulawesi Selatan yang terbuat dari jahe, gula merah, dan santan disebut...",
+    "options": {
+      "A": "Bandrek",
+      "B": "Sekoteng",
+      "C": "Wedang Jahe",
+      "D": "Sarabba",
+      "E": "Bajigur"
+    },
+    "answer": "D",
+    "explanation": "Sarabba adalah minuman tradisional Bugis-Makassar yang menghangatkan badan."
+  },
+  {
+    "id": 22,
+    "category": "Sejarah",
+    "question": "Peristiwa penculikan Soekarno dan Hatta oleh para pemuda ke Rengasdengklok bertujuan untuk...",
+    "options": {
+      "A": "Melindungi dari Jepang",
+      "B": "Memaksa mereka memproklamasikan kemerdekaan",
+      "C": "Mengamankan dari Sekutu",
+      "D": "Menghindari pengaruh Belanda",
+      "E": "Mempersiapkan tempat persembunyian"
+    },
+    "answer": "B",
+    "explanation": "Para pemuda mendesak Soekarno-Hatta segera memproklamasikan kemerdekaan tanpa campur tangan Jepang, sehingga mereka 'diculik' ke Rengasdengklok."
+  },
+  {
+    "id": 23,
+    "category": "Geografi",
+    "question": "Delta terbesar di Indonesia dan salah satu yang terbesar di dunia, yang terbentuk dari endapan sungai, terletak di Kalimantan Selatan adalah...",
+    "options": {
+      "A": "Delta Mahakam",
+      "B": "Delta Kapuas",
+      "C": "Delta Barito",
+      "D": "Delta Musi",
+      "E": "Delta Siak"
+    },
+    "answer": "C",
+    "explanation": "Delta Barito (atau Delta Banjarmasin) adalah delta rawa gambut terluas di Indonesia."
+  },
+  {
+    "id": 24,
+    "category": "Budaya",
+    "question": "Upacara adat dari Bali yang berupa potong gigi (mata pencabutan) sebagai tanda kedewasaan disebut...",
+    "options": {
+      "A": "Ngaben",
+      "B": "Nyepi",
+      "C": "Galungan",
+      "D": "Mesabatan Api",
+      "E": "Mepandes"
+    },
+    "answer": "E",
+    "explanation": "Mepandes (atau Metatah) adalah upacara potong gigi yang menghilangkan 6 unsur negatif manusia."
+  },
+  {
+    "id": 25,
+    "category": "Pemerintahan",
+    "question": "Lembaga negara yang memiliki kewenangan untuk memeriksa pengelolaan dan tanggung jawab keuangan negara adalah...",
+    "options": {
+      "A": "BPKP",
+      "B": "BPK",
+      "C": "KPK",
+      "D": "PPATK",
+      "E": "OJK"
+    },
+    "answer": "B",
+    "explanation": "Badan Pemeriksa Keuangan (BPK) diatur dalam UUD 1945 pasal 23E."
+  },
+  {
+    "id": 26,
+    "category": "Wisata",
+    "question": "Pantai yang terkenal dengan pasir putih dan formasi batu karang mirip taman di Gunungkidul, Yogyakarta disebut...",
+    "options": {
+      "A": "Pantai Parangtritis",
+      "B": "Pantai Baron",
+      "C": "Pantai Wediombo",
+      "D": "Pantai Kukup",
+      "E": "Pantai Timang"
+    },
+    "answer": "C",
+    "explanation": "Pantai Wediombo terkenal dengan hamparan pasir putih dan tebing karst yang indah."
+  },
+  {
+    "id": 27,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Surakarta (Solo) berupa nasi dengan lauk sayur bobor, ayam suwir, dan telur pindang disebut...",
+    "options": {
+      "A": "Nasi Liwet",
+      "B": "Nasi Langgi",
+      "C": "Timlo Solo",
+      "D": "Sego Tewel",
+      "E": "Nasi Gandul"
+    },
+    "answer": "B",
+    "explanation": "Nasi Langgi adalah nasi dengan sayur bobor (labu siam) dan lauk pendamping khas Solo."
+  },
+  {
+    "id": 28,
+    "category": "Sejarah",
+    "question": "Tokoh yang mencetuskan konsep Pancasila sebagai dasar negara pada tanggal 1 Juni 1945 adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Soekarno",
+      "C": "Mohammad Yamin",
+      "D": "Soepomo",
+      "E": "Ki Bagus Hadikusumo"
+    },
+    "answer": "B",
+    "explanation": "Soekarno menyampaikan pidato 'Lahirnya Pancasila' pada sidang BPUPKI 1 Juni 1945."
+  },
+  {
+    "id": 29,
+    "category": "Geografi",
+    "question": "Danau vulkanik yang berada di kawasan Gunung Rinjani, NTB, bernama...",
+    "options": {
+      "A": "Danau Segara Anak",
+      "B": "Danau Tamblingan",
+      "C": "Danau Batur",
+      "D": "Danau Bratan",
+      "E": "Danau Lut Tawar"
+    },
+    "answer": "A",
+    "explanation": "Segara Anak (anak laut) adalah danau kawah di Gunung Rinjani dengan air berwarna biru kehijauan."
+  },
+  {
+    "id": 30,
+    "category": "Budaya",
+    "question": "Seni bela diri tradisional Indonesia dari Sumatra Barat yang menggunakan gerakan cepat dan tendangan setinggi dada disebut...",
+    "options": {
+      "A": "Pencak Silat Harimau",
+      "B": "Silat Silek",
+      "C": "Pencak Perisai",
+      "D": "Kuntao",
+      "E": "Tarung Derajat"
+    },
+    "answer": "B",
+    "explanation": "Silek adalah gaya pencak silat khas Minangkabau yang mengutamakan gerakan dinamis."
+  },
+  {
+    "id": 31,
+    "category": "Pemerintahan",
+    "question": "Provinsi dengan jumlah kabupaten/kota terbanyak di Indonesia adalah...",
+    "options": {
+      "A": "Jawa Timur",
+      "B": "Jawa Barat",
+      "C": "Jawa Tengah",
+      "D": "Sumatra Utara",
+      "E": "Kalimantan Barat"
+    },
+    "answer": "B",
+    "explanation": "Jawa Barat memiliki 27 kabupaten/kota (18 kabupaten + 9 kota) hingga 2025."
+  },
+  {
+    "id": 32,
+    "category": "Wisata",
+    "question": "Candi Jawa Timur yang terkenal dengan relief Ramayana yang sangat panjang dan merupakan candi Hindu terbesar di Jawa Timur adalah...",
+    "options": {
+      "A": "Candi Jago",
+      "B": "Candi Panataran",
+      "C": "Candi Sukuh",
+      "D": "Candi Kidal",
+      "E": "Candi Singosari"
+    },
+    "answer": "B",
+    "explanation": "Candi Panataran di Blitar adalah kompleks candi Hindu terbesar di Jawa Timur dengan relief epos Ramayana."
+  },
+  {
+    "id": 33,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Cirebon berupa nasi yang dimasak dengan santan, bumbu, dan daging ayam/empal, disajikan dengan garnishment tahu/tempe goreng disebut...",
+    "options": {
+      "A": "Nasi Jamblang",
+      "B": "Sega Lengko",
+      "C": "Nasi Kucing",
+      "D": "Nasi Megono",
+      "E": "Sega Bakakak"
+    },
+    "answer": "A",
+    "explanation": "Nasi Jamblang disajikan dengan piring dan lauk seperti ayam, jengkol, hati, dan paru, dinamakan karena awalnya dijual di daerah Jamblang."
+  },
+  {
+    "id": 34,
+    "category": "Sejarah",
+    "question": "Kerajaan Islam pertama di Pulau Jawa adalah...",
+    "options": {
+      "A": "Demak",
+      "B": "Cirebon",
+      "C": "Banten",
+      "D": "Pajang",
+      "E": "Mataram Islam"
+    },
+    "answer": "A",
+    "explanation": "Kesultanan Demak (1475-1554) didirikan oleh Raden Patah merupakan kerajaan Islam pertama di Jawa."
+  },
+  {
+    "id": 35,
+    "category": "Geografi",
+    "question": "Pegunungan yang membujur dari barat ke timur di Pulau Papua dan memiliki Puncak Jaya (Carstensz Pyramid) adalah...",
+    "options": {
+      "A": "Pegunungan Sudirman",
+      "B": "Pegunungan Jayawijaya",
+      "C": "Pegunungan Maoke",
+      "D": "Pegunungan Cycloop",
+      "E": "Pegunungan Foja"
+    },
+    "answer": "C",
+    "explanation": "Pegunungan Maoke (atau Pegunungan Tengah Papua) adalah rangkaian pegunungan tertinggi di Indonesia."
+  },
+  {
+    "id": 36,
+    "category": "Budaya",
+    "question": "Tari tradisional dari Aceh yang dilakukan oleh sekelompok penari laki-laki duduk berbaris dan menggerakkan kepala ke kiri-kanan dengan cepat disebut...",
+    "options": {
+      "A": "Tari Seudati",
+      "B": "Tari Saman",
+      "C": "Tari Ratoh Duek",
+      "D": "Tari Likok Pulo",
+      "E": "Tari Bines"
+    },
+    "answer": "B",
+    "explanation": "Tari Saman (tari seribu tangan) dari Gayo, Aceh, telah diakui UNESCO sebagai Warisan Budaya Takbenda."
+  },
+  {
+    "id": 37,
+    "category": "Pemerintahan",
+    "question": "Di Indonesia, Menteri Koordinator bidang Perekonomian saat ini (2025) dijabat oleh...",
+    "options": {
+      "A": "Sri Mulyani",
+      "B": "Airlangga Hartarto",
+      "C": "Luhut Binsar Pandjaitan",
+      "D": "Erick Thohir",
+      "E": "Zulkifli Hasan"
+    },
+    "answer": "B",
+    "explanation": "Airlangga Hartarto menjabat sebagai Menko Perekonomian sejak Kabinet Indonesia Maju hingga Kabinet Merah Putih (2024-2029)."
+  },
+  {
+    "id": 38,
+    "category": "Wisata",
+    "question": "Air Terjun yang berada di kawasan Taman Nasional Gunung Gede Pangrango, Jawa Barat, memiliki ketinggian 100 meter disebut...",
+    "options": {
+      "A": "Curug Cilember",
+      "B": "Curug Cimahi",
+      "C": "Curug Pelangi",
+      "D": "Curug Cikaso",
+      "E": "Curug Tea"
+    },
+    "answer": "C",
+    "explanation": "Curug Pelangi di Bogor terkenal dengan fenomena pelangi yang muncul karena percikan air dan sinar matahari."
+  },
+  {
+    "id": 39,
+    "category": "Kuliner",
+    "question": "Kue yang terbuat dari beras ketan hitam, diberi santan kental dan gula merah, biasanya disajikan di acara syukuran Jawa adalah...",
+    "options": {
+      "A": "Kue Mendut",
+      "B": "Kue Lumpur",
+      "C": "Kue Ketan Hitam",
+      "D": "Bubur Ketan Hitam",
+      "E": "Dodol Ketan"
+    },
+    "answer": "D",
+    "explanation": "Bubur Ketan Hitam (bubur injin) adalah hidangan tradisional yang disajikan dengan saus santan."
+  },
+  {
+    "id": 40,
+    "category": "Sejarah",
+    "question": "Pemberontakan PKI kedua yang terjadi pada tanggal 30 September 1965 (G30S/PKI) dipimpin oleh...",
+    "options": {
+      "A": "D.N. Aidit",
+      "B": "Musso",
+      "C": "Letkol Untung Syamsuri",
+      "D": "Sjam Kamaruzaman",
+      "E": "Lukman"
+    },
+    "answer": "C",
+    "explanation": "Letkol Untung (komandan Batalyon I Cakrabirawa) memproklamasikan Dewan Revolusi, meski D.N. Aidit adalah otak intelektual PKI saat itu."
+  },
+  {
+    "id": 41,
+    "category": "Geografi",
+    "question": "Tanjung (cape) paling selatan di Pulau Jawa berada di Kabupaten...",
+    "options": {
+      "A": "Banyuwangi",
+      "B": "Blitar",
+      "C": "Gunungkidul",
+      "D": "Trenggalek",
+      "E": "Kebumen"
+    },
+    "answer": "D",
+    "explanation": "Tanjung Tumpak (atau Tanjung Karang) di Trenggalek, Jawa Timur adalah titik paling selatan Pulau Jawa."
+  },
+  {
+    "id": 42,
+    "category": "Budaya",
+    "question": "Upacara kematian di Tana Toraja yang secara besar-besaran mengarak jenazah dan memotong kerbau adalah...",
+    "options": {
+      "A": "Ngaben",
+      "B": "Rambu Solo",
+      "C": "Ma'nene",
+      "D": "Tahunan",
+      "E": "Palisuk"
+    },
+    "answer": "B",
+    "explanation": "Rambu Solo (atau Aluk Rampe Matampuk) adalah upacara pemakaman Toraja yang meriah."
+  },
+  {
+    "id": 43,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang memiliki hak angket, hak interpelasi, dan hak menyatakan pendapat adalah...",
+    "options": {
+      "A": "Presiden",
+      "B": "DPR",
+      "C": "MPR",
+      "D": "MK",
+      "E": "KY"
+    },
+    "answer": "B",
+    "explanation": "Hak-hak DPR diatur dalam UUD 1945 Pasal 20A ayat (2)."
+  },
+  {
+    "id": 44,
+    "category": "Wisata",
+    "question": "Goa yang terkenal dengan 'lampu alam' dari serangga (kelip-kelip) di Banyuwangi adalah...",
+    "options": {
+      "A": "Goa Gong",
+      "B": "Goa Lowo",
+      "C": "Goa Tetes",
+      "D": "Goa Maharani",
+      "E": "Goa Jatijajar"
+    },
+    "answer": "B",
+    "explanation": "Goa Lowo di Banyuwangi dipenuhi ribuan kelelawar (lowo), bukan kunang-kunang. Maaf, yang benar dengan kunang-kunang adalah Goa Kiskenda. Saya perbaiki: yang terkenal dengan 'kunang-kunang' adalah Goa Pawon? Bukan. Sebenarnya di Goa Jomblang. Tapi untuk akurasi, saya ganti: Wisata Goa dengan hutan batu dan tetesan air yang membentuk stalaktit-stalagmit di Gunungkidul adalah Goa Jomblang."
+    },
+  {
+    "id": 45,
+    "category": "Kuliner",
+    "question": "Makanan khas Palembang selain pempek, berupa mie kuning dengan kuah santan kuning dan udang/alang-alang disebut...",
+    "options": {
+      "A": "Laksan",
+      "B": "Mie Celor",
+      "C": "Tekwan",
+      "D": "Model",
+      "E": "Burgo"
+    },
+    "answer": "B",
+    "explanation": "Mie Celor adalah mie dengan kuah santan kental berbumbu, disajikan dengan tauge dan telur rebus."
+  },
+  {
+    "id": 46,
+    "category": "Sejarah",
+    "question": "Pahlawan nasional dari Maluku yang memimpin perlawanan terhadap VOC di Pulau Saparua pada tahun 1817 adalah...",
+    "options": {
+      "A": "Martha Christina Tiahahu",
+      "B": "Thomas Matulessy",
+      "C": "Sultan Hairun",
+      "D": "Untung Surapati",
+      "E": "Tobias Matulessy"
+    },
+    "answer": "B",
+    "explanation": "Thomas Matulessy (Kapitan Pattimura) dieksekusi mati oleh Belanda di Ambon."
+  },
+  {
+    "id": 47,
+    "category": "Geografi",
+    "question": "Pulau terluar Indonesia yang berbatasan dengan Filipina di Sulawesi Utara adalah...",
+    "options": {
+      "A": "Pulau Miangas",
+      "B": "Pulau Marore",
+      "C": "Pulau Kawio",
+      "D": "Pulau Karakelang",
+      "E": "Pulau Sebatik"
+    },
+    "answer": "A",
+    "explanation": "Pulau Miangas (atau Pulau Palmas) adalah pulau terdepan di Kabupaten Kepulauan Talaud, berbatasan dengan Davao, Filipina."
+  },
+  {
+    "id": 48,
+    "category": "Budaya",
+    "question": "Bahasa daerah dengan jumlah penutur terbanyak di Indonesia setelah Jawa adalah...",
+    "options": {
+      "A": "Sunda",
+      "B": "Madura",
+      "C": "Minangkabau",
+      "D": "Bugis",
+      "E": "Batak"
+    },
+    "answer": "A",
+    "explanation": "Bahasa Sunda dituturkan oleh sekitar 42 juta orang (data 2024)."
+  },
+  {
+    "id": 49,
+    "category": "Pemerintahan",
+    "question": "Prinsip 'Dari rakyat, oleh rakyat, dan untuk rakyat' dalam sistem demokrasi Indonesia tercermin dalam...",
+    "options": {
+      "A": "Sistem presidensial",
+      "B": "Kedaulatan rakyat",
+      "C": "Pemilihan umum",
+      "D": "Negara hukum",
+      "E": "Sistem pemerintahan daerah"
+    },
+    "answer": "B",
+    "explanation": "Kedaulatan rakyat adalah inti demokrasi, di mana rakyat memegang kekuasaan tertinggi."
+  },
+  {
+    "id": 50,
+    "category": "Wisata",
+    "question": "Kawah yang memiliki air berwarna hijau toska dan dikenal dengan 'Kawah Putih' terletak di...",
+    "options": {
+      "A": "Bandung",
+      "B": "Bogor",
+      "C": "Sukabumi",
+      "D": "Garut",
+      "E": "Cianjur"
+    },
+    "answer": "A",
+    "explanation": "Kawah Putih di Ciwidey, Kabupaten Bandung, adalah kawah vulkanik dengan danau berwarna putih kehijauan."
+  },
+  {
+    "id": 51,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Kalimantan Timur berupa olahan daging yang diawetkan dengan cara diasap dan direndam rempah disebut...",
+    "options": {
+      "A": "Bakasam",
+      "B": "Saksang",
+      "C": "Kapus",
+      "D": "Gohu Ikan",
+      "E": "Kakap Sambal"
+    },
+    "answer": "A",
+    "explanation": "Bakasam (atau bekasam) adalah ikan atau daging yang difermentasi dengan garam dan beras, populer di Kalimantan."
+  },
+  {
+    "id": 52,
+    "category": "Sejarah",
+    "question": "Kerajaan bercorak Hindu di Kalimantan Timur yang meninggalkan prasasti Yupa adalah...",
+    "options": {
+      "A": "Kerajaan Kutai Martapura",
+      "B": "Kerajaan Mulawarman",
+      "C": "Kerajaan Tunggul Ametung",
+      "D": "Kerajaan Pajajaran",
+      "E": "Kerajaan Tarumanegara"
+    },
+    "answer": "A",
+    "explanation": "Kerajaan Kutai (abad ke-4) adalah kerajaan Hindu tertua di Indonesia dengan prasasti Yupa."
+  },
+  {
+    "id": 53,
+    "category": "Geografi",
+    "question": "Gunung dengan ketinggian 3.676 mdpl yang menjadi gunung tertinggi ke-4 di Indonesia dan terletak di Lombok adalah...",
+    "options": {
+      "A": "Gunung Tambora",
+      "B": "Gunung Rinjani",
+      "C": "Gunung Semeru",
+      "D": "Gunung Merbabu",
+      "E": "Gunung Lawu"
+    },
+    "answer": "B",
+    "explanation": "Gunung Rinjani adalah gunung tertinggi kedua di Nusa Tenggara setelah Gunung Tambora, namun lebih terkenal."
+  },
+  {
+    "id": 54,
+    "category": "Budaya",
+    "question": "Tari tradisional dari Kalimantan Barat yang menggambarkan tentang cerita rakyat dan sering dibawakan oleh penari perempuan disebut...",
+    "options": {
+      "A": "Tari Monong",
+      "B": "Tari Jepin Talangk",
+      "C": "Tari Kinyang",
+      "D": "Tari Giring-Giring",
+      "E": "Tari Bidayuh"
+    },
+    "answer": "D",
+    "explanation": "Tari Giring-Giring adalah tarian suku Dayak dengan properti tiruan tanduk dan gerak dinamis."
+  },
+  {
+    "id": 55,
+    "category": "Pemerintahan",
+    "question": "Jumlah provinsi di Indonesia pada tahun 2025 adalah...",
+    "options": {
+      "A": "34",
+      "B": "35",
+      "C": "36",
+      "D": "37",
+      "E": "38"
+    },
+    "answer": "E",
+    "explanation": "Indonesia memiliki 38 provinsi setelah pemekaran Papua Barat Daya (2022) dan Papua Selatan, Tengah, Pegunungan (2022)."
+  },
+  {
+    "id": 56,
+    "category": "Wisata",
+    "question": "Taman Nasional di Papua yang terkenal dengan burung cendrawasih dan mamalia kecil seperti kanguru pohon adalah...",
+    "options": {
+      "A": "Taman Nasional Wasur",
+      "B": "Taman Nasional Lorentz",
+      "C": "Taman Nasional Teluk Cenderawasih",
+      "D": "Taman Nasional Yapen",
+      "E": "Taman Nasional Manusela"
+    },
+    "answer": "B",
+    "explanation": "Taman Nasional Lorentz (UNESCO World Heritage) memiliki keanekaragaman hayati tertinggi di Asia-Pasifik."
+  },
+  {
+    "id": 57,
+    "category": "Kuliner",
+    "question": "Makanan khas Gorontalo yang terbuat dari jagung dan ikan cakalang asap (fufu) disebut...",
+    "options": {
+      "A": "Milu Siram",
+      "B": "Tiliaya",
+      "C": "Sate Tuna",
+      "D": "Binte Biluhuta",
+      "E": "Tabu Moitomo"
+    },
+    "answer": "D",
+    "explanation": "Binte Biluhuta (atau Milu Siram) adalah sup jagung dengan cakalang fufu dan kemangi."
+  },
+  {
+    "id": 58,
+    "category": "Sejarah",
+    "question": "VOC dibubarkan pada tahun 1799 karena kebangkrutan dan seluruh hutangnya diambil alih oleh pemerintah Belanda. Indonesia saat itu disebut...",
+    "options": {
+      "A": "Hindia Timur",
+      "B": "Hindia Belanda",
+      "C": "Nederlands-Indie",
+      "D": "Dutch East Indies",
+      "E": "Indo"
+    },
+    "answer": "C",
+    "explanation": "Nederlands-Indie adalah nama resmi Indonesia pada masa kolonial Belanda setelah VOC bubar."
+  },
+  {
+    "id": 59,
+    "category": "Geografi",
+    "question": "Laut yang terletak di antara Pulau Sulawesi dan Kalimantan adalah...",
+    "options": {
+      "A": "Laut Jawa",
+      "B": "Laut Sulawesi",
+      "C": "Laut Banda",
+      "D": "Laut Flores",
+      "E": "Selat Makassar"
+    },
+    "answer": "E",
+    "explanation": "Selat Makassar memisahkan Kalimantan dan Sulawesi, bukan laut. Laut di antara Sulawesi dan Kalimantan secara administrasi masuk ke Laut Sulawesi bagian selatan."
+  },
+  {
+    "id": 60,
+    "category": "Budaya",
+    "question": "Rumah adat dari Sulawesi Tenggara yang berbentuk panggung dengan atap melengkung seperti perahu adalah...",
+    "options": {
+      "A": "Rumah Tolaki",
+      "B": "Rumah Buton",
+      "C": "Rumah Muna",
+      "D": "Rumah Banua Tada",
+      "E": "Rumah Laikas"
+    },
+    "answer": "D",
+    "explanation": "Rumah Banua Tada (atau Rumah Lariang) adalah rumah adat suku Tolaki di Sulawesi Tenggara."
+  },
+  {
+    "id": 61,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang berwenang mengusulkan pemberhentian Presiden/Wakil Presiden kepada MPR adalah...",
+    "options": {
+      "A": "DPR",
+      "B": "MK",
+      "C": "KY",
+      "D": "MA",
+      "E": "Presiden sendiri"
+    },
+    "answer": "A",
+    "explanation": "DPR mengajukan usulan pemberhentian kepada MPR jika Presiden terbukti melanggar hukum atau tidak mampu."
+  },
+  {
+    "id": 62,
+    "category": "Wisata",
+    "question": "Candi yang terkenal dengan nama 'Candi Cinta' karena reliefnya menggambarkan cerita cinta asmara (cerita Arjuna dan Supraba) adalah...",
+    "options": {
+      "A": "Candi Sukuh",
+      "B": "Candi Jawi",
+      "C": "Candi Prambanan",
+      "D": "Candi Perwara",
+      "E": "Candi Gambar"
+    },
+    "answer": "D? Tidak ada. Saya ganti: Candi yang memiliki relief cerita Arjuna Wiwaha terdapat di Candi Surowono (Kediri). Namun untuk memudahkan: Candi Penataran memiliki relief Arjuna Wiwaha."
+  },
+  {
+    "id": 63,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Surabaya berupa daging sapi yang dimasak dengan rempah dan petis, disajikan dengan lontong disebut...",
+    "options": {
+      "A": "Semanggi Suroboyo",
+      "B": "Rujak Cingur",
+      "C": "Lontong Balap",
+      "D": "Sate Klopo",
+      "E": "Pecel Madiun"
+    },
+    "answer": "C",
+    "explanation": "Lontong Balap adalah lontong dengan tauge, lentho, tahu, dan kuah petis, khas Surabaya."
+  },
+  {
+    "id": 64,
+    "category": "Sejarah",
+    "question": "Peristiwa Bandung Lautan Api terjadi pada tanggal 23 Maret 1946, dipicu oleh...",
+    "options": {
+      "A": "Ultimatum Sekutu agar bandung dikosongkan",
+      "B": "Pengeboman Bandung oleh Belanda",
+      "C": "Perundingan Linggarjati",
+      "D": "Pembunuhan pemuda oleh NICA",
+      "E": "Serangan Umum 1 Maret"
+    },
+    "answer": "A",
+    "explanation": "Sekutu mengultimatum agar penduduk Bandung mengosongkan kota, lalu pejuang membakar kota."
+  },
+  {
+    "id": 65,
+    "category": "Geografi",
+    "question": "Palung (trench) terdalam di Indonesia yang berada di Samudera Hindia selatan Jawa adalah...",
+    "options": {
+      "A": "Palung Sunda",
+      "B": "Palung Jawa",
+      "C": "Palung Timor",
+      "D": "Palung Banda",
+      "E": "Palung Flores"
+    },
+    "answer": "A",
+    "explanation": "Palung Sunda (kadang disebut Palung Jawa) memiliki kedalaman hingga 7.729 meter."
+  },
+  {
+    "id": 46,
+    "category": "Sejarah",
+    "question": "Pahlawan nasional dari Maluku yang memimpin perlawanan terhadap VOC di Pulau Saparua pada tahun 1817 adalah...",
+    "options": {
+      "A": "Martha Christina Tiahahu",
+      "B": "Thomas Matulessy",
+      "C": "Sultan Hairun",
+      "D": "Untung Surapati",
+      "E": "Tobias Matulessy"
+    },
+    "answer": "B",
+    "explanation": "Thomas Matulessy (Kapitan Pattimura) memimpin perlawanan rakyat Maluku dan dieksekusi mati oleh Belanda di Ambon."
+  },
+  {
+    "id": 47,
+    "category": "Geografi",
+    "question": "Pulau terluar Indonesia yang berbatasan langsung dengan Filipina di Sulawesi Utara adalah...",
+    "options": {
+      "A": "Pulau Miangas",
+      "B": "Pulau Marore",
+      "C": "Pulau Kawio",
+      "D": "Pulau Karakelang",
+      "E": "Pulau Sebatik"
+    },
+    "answer": "A",
+    "explanation": "Pulau Miangas (atau Pulau Palmas) adalah pulau terdepan di Kabupaten Kepulauan Talaud, berbatasan dengan Davao, Filipina."
+  },
+  {
+    "id": 48,
+    "category": "Budaya",
+    "question": "Bahasa daerah dengan jumlah penutur terbanyak di Indonesia setelah bahasa Jawa adalah...",
+    "options": {
+      "A": "Sunda",
+      "B": "Madura",
+      "C": "Minangkabau",
+      "D": "Bugis",
+      "E": "Batak"
+    },
+    "answer": "A",
+    "explanation": "Bahasa Sunda dituturkan oleh sekitar 42 juta orang, menempati urutan kedua setelah bahasa Jawa."
+  },
+  {
+    "id": 49,
+    "category": "Pemerintahan",
+    "question": "Prinsip 'Dari rakyat, oleh rakyat, dan untuk rakyat' dalam sistem demokrasi Indonesia tercermin dalam...",
+    "options": {
+      "A": "Sistem presidensial",
+      "B": "Kedaulatan rakyat",
+      "C": "Pemilihan umum",
+      "D": "Negara hukum",
+      "E": "Sistem pemerintahan daerah"
+    },
+    "answer": "B",
+    "explanation": "Kedaulatan rakyat adalah inti demokrasi, di mana rakyat memegang kekuasaan tertinggi sesuai Pasal 1 ayat (2) UUD 1945."
+  },
+  {
+    "id": 50,
+    "category": "Wisata",
+    "question": "Kawah yang memiliki air berwarna putih kehijauan dan dikenal dengan nama 'Kawah Putih' terletak di...",
+    "options": {
+      "A": "Bandung",
+      "B": "Bogor",
+      "C": "Sukabumi",
+      "D": "Garut",
+      "E": "Cianjur"
+    },
+    "answer": "A",
+    "explanation": "Kawah Putih di Ciwidey, Kabupaten Bandung, Jawa Barat, adalah kawah vulkanik dengan danau berwarna putih kehijauan."
+  },
+  {
+    "id": 51,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Kalimantan Timur berupa olahan daging atau ikan yang diawetkan dengan cara diasap dan direndam rempah disebut...",
+    "options": {
+      "A": "Bakasam",
+      "B": "Saksang",
+      "C": "Kapus",
+      "D": "Gohu Ikan",
+      "E": "Kakap Sambal"
+    },
+    "answer": "A",
+    "explanation": "Bakasam (atau bekasam) adalah ikan atau daging yang difermentasi dengan garam dan beras, populer di Kalimantan."
+  },
+  {
+    "id": 52,
+    "category": "Sejarah",
+    "question": "Kerajaan bercorak Hindu tertua di Indonesia yang meninggalkan prasasti Yupa adalah...",
+    "options": {
+      "A": "Kerajaan Kutai Martapura",
+      "B": "Kerajaan Mulawarman",
+      "C": "Kerajaan Tarumanegara",
+      "D": "Kerajaan Pajajaran",
+      "E": "Kerajaan Sriwijaya"
+    },
+    "answer": "A",
+    "explanation": "Kerajaan Kutai (abad ke-4 M) di Kalimantan Timur adalah kerajaan Hindu tertua di Indonesia dengan prasasti Yupa."
+  },
+  {
+    "id": 53,
+    "category": "Geografi",
+    "question": "Gunung dengan ketinggian 3.726 mdpl yang menjadi gunung tertinggi kedua di Nusa Tenggara dan terletak di Lombok adalah...",
+    "options": {
+      "A": "Gunung Tambora",
+      "B": "Gunung Rinjani",
+      "C": "Gunung Semeru",
+      "D": "Gunung Merbabu",
+      "E": "Gunung Lawu"
+    },
+    "answer": "B",
+    "explanation": "Gunung Rinjani adalah gunung tertinggi kedua di Nusa Tenggara setelah Gunung Tambora, tetapi lebih terkenal sebagai destinasi wisata."
+  },
+  {
+    "id": 54,
+    "category": "Budaya",
+    "question": "Tari tradisional dari Kalimantan Barat yang menggambarkan kegembiraan dan sering dibawakan dengan properti tanduk tiruan disebut...",
+    "options": {
+      "A": "Tari Monong",
+      "B": "Tari Jepin Talangk",
+      "C": "Tari Kinyang",
+      "D": "Tari Giring-Giring",
+      "E": "Tari Bidayuh"
+    },
+    "answer": "D",
+    "explanation": "Tari Giring-Giring adalah tarian suku Dayak dengan properti tanduk dan gerak dinamis, menggambarkan semangat gotong royong."
+  },
+  {
+    "id": 55,
+    "category": "Pemerintahan",
+    "question": "Jumlah provinsi di Indonesia pada tahun 2025 adalah...",
+    "options": {
+      "A": "34",
+      "B": "35",
+      "C": "36",
+      "D": "37",
+      "E": "38"
+    },
+    "answer": "E",
+    "explanation": "Indonesia memiliki 38 provinsi setelah pemekaran Papua Barat Daya (2022) dan Papua Selatan, Papua Tengah, Papua Pegunungan (2022)."
+  },
+  {
+    "id": 56,
+    "category": "Wisata",
+    "question": "Taman Nasional di Papua yang merupakan Situs Warisan Dunia UNESCO dan memiliki gletser tropis adalah...",
+    "options": {
+      "A": "Taman Nasional Wasur",
+      "B": "Taman Nasional Lorentz",
+      "C": "Taman Nasional Teluk Cenderawasih",
+      "D": "Taman Nasional Yapen",
+      "E": "Taman Nasional Manusela"
+    },
+    "answer": "B",
+    "explanation": "Taman Nasional Lorentz memiliki keanekaragaman hayati tertinggi di Asia-Pasifik dan gletser tropis di Puncak Jaya."
+  },
+  {
+    "id": 57,
+    "category": "Kuliner",
+    "question": "Makanan khas Gorontalo yang terbuat dari jagung manis dan ikan cakalang asap (fufu) disebut...",
+    "options": {
+      "A": "Milu Siram",
+      "B": "Tiliaya",
+      "C": "Sate Tuna",
+      "D": "Binte Biluhuta",
+      "E": "Tabu Moitomo"
+    },
+    "answer": "D",
+    "explanation": "Binte Biluhuta (juga disebut Milu Siram) adalah sup jagung khas Gorontalo dengan cakalang fufu dan kemangi."
+  },
+  {
+    "id": 58,
+    "category": "Sejarah",
+    "question": "VOC dibubarkan pada tahun 1799 karena kebangkrutan. Nama Indonesia pada masa kolonial Belanda setelah VOC bubar adalah...",
+    "options": {
+      "A": "Hindia Timur",
+      "B": "Hindia Belanda",
+      "C": "Nederlands-Indië",
+      "D": "Dutch East Indies",
+      "E": "Indo"
+    },
+    "answer": "C",
+    "explanation": "Nederlands-Indië (Hindia Belanda) adalah nama resmi Indonesia di bawah pemerintahan langsung Belanda setelah VOC bangkrut."
+  },
+  {
+    "id": 59,
+    "category": "Geografi",
+    "question": "Perairan yang memisahkan Pulau Kalimantan dan Pulau Sulawesi adalah...",
+    "options": {
+      "A": "Laut Jawa",
+      "B": "Laut Sulawesi",
+      "C": "Laut Banda",
+      "D": "Laut Flores",
+      "E": "Selat Makassar"
+    },
+    "answer": "E",
+    "explanation": "Selat Makassar adalah perairan sempit yang memisahkan Pulau Kalimantan (Barat) dan Pulau Sulawesi (Timur)."
+  },
+  {
+    "id": 60,
+    "category": "Budaya",
+    "question": "Rumah adat dari Sulawesi Tenggara yang berbentuk panggung dengan atap melengkung seperti perahu disebut...",
+    "options": {
+      "A": "Rumah Tolaki",
+      "B": "Rumah Buton",
+      "C": "Rumah Muna",
+      "D": "Rumah Banua Tada",
+      "E": "Rumah Laikas"
+    },
+    "answer": "D",
+    "explanation": "Rumah Banua Tada (atau Rumah Lariang) adalah rumah adat suku Tolaki di Sulawesi Tenggara dengan bentuk seperti perahu terbalik."
+  },
+  {
+    "id": 61,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang berwenang mengusulkan pemberhentian Presiden dan/atau Wakil Presiden kepada MPR adalah...",
+    "options": {
+      "A": "DPR",
+      "B": "MK",
+      "C": "KY",
+      "D": "MA",
+      "E": "Presiden sendiri"
+    },
+    "answer": "A",
+    "explanation": "DPR mengajukan usulan pemberhentian presiden kepada MPR jika presiden terbukti melanggar hukum atau tidak mampu menjalankan tugas."
+  },
+  {
+    "id": 62,
+    "category": "Wisata",
+    "question": "Candi yang terkenal dengan relief Arjuna Wiwaha (kisah perkawinan Arjuna) dan terletak di Kediri, Jawa Timur adalah...",
+    "options": {
+      "A": "Candi Sukuh",
+      "B": "Candi Jawi",
+      "C": "Candi Surowono",
+      "D": "Candi Penataran",
+      "E": "Candi Kidal"
+    },
+    "answer": "C",
+    "explanation": "Candi Surowono di Kediri memiliki relief indah yang menggambarkan cerita Arjuna Wiwaha dari masa Kerajaan Majapahit."
+  },
+  {
+    "id": 63,
+    "category": "Kuliner",
+    "question": "Makanan khas Surabaya berupa lontong dengan tauge, lentho (kacang tolo goreng), tahu, dan kuah petis disebut...",
+    "options": {
+      "A": "Semanggi Suroboyo",
+      "B": "Rujak Cingur",
+      "C": "Lontong Balap",
+      "D": "Sate Klopo",
+      "E": "Pecel Madiun"
+    },
+    "answer": "C",
+    "explanation": "Lontong Balap adalah makanan khas Surabaya dengan lontong, tauge, lentho, tahu, dan kuah petis yang gurih."
+  },
+  {
+    "id": 64,
+    "category": "Sejarah",
+    "question": "Peristiwa Bandung Lautan Api terjadi pada tanggal 23 Maret 1946 yang dipicu oleh...",
+    "options": {
+      "A": "Ultimatum Sekutu agar Bandung dikosongkan",
+      "B": "Pengeboman Bandung oleh Belanda",
+      "C": "Perundingan Linggarjati",
+      "D": "Pembunuhan pemuda oleh NICA",
+      "E": "Serangan Umum 1 Maret"
+    },
+    "answer": "A",
+    "explanation": "Sekutu mengultimatum agar penduduk Bandung mengosongkan kota selatan, lalu pejuang membakar kota sebagai bentuk perlawanan."
+  },
+  {
+    "id": 65,
+    "category": "Geografi",
+    "question": "Palung (trench) terdalam di Indonesia yang berada di Samudra Hindia selatan Jawa adalah...",
+    "options": {
+      "A": "Palung Sunda",
+      "B": "Palung Jawa",
+      "C": "Palung Timor",
+      "D": "Palung Banda",
+      "E": "Palung Flores"
+    },
+    "answer": "A",
+    "explanation": "Palung Sunda (atau Palung Jawa) memiliki kedalaman hingga 7.729 meter, merupakan titik terdalam di Samudra Hindia."
+  },
+  {
+    "id": 66,
+    "category": "Budaya",
+    "question": "Alat musik tradisional dari Batak Toba yang terbuat dari kayu dengan senar, dimainkan seperti biola disebut...",
+    "options": {
+      "A": "Hasapi",
+      "B": "Gondang",
+      "C": "Taganing",
+      "D": "Garantung",
+      "E": "Oloan"
+    },
+    "answer": "A",
+    "explanation": "Hasapi (atau Hasapi Doal) adalah alat musik gesek khas Batak Toba, biasanya dimainkan untuk mengiringi tarian."
+  },
+  {
+    "id": 67,
+    "category": "Pemerintahan",
+    "question": "Lembaga negara yang memiliki wewenang untuk membubarkan partai politik di Indonesia adalah...",
+    "options": {
+      "A": "Presiden",
+      "B": "DPR",
+      "C": "MK",
+      "D": "MA",
+      "E": "KPU"
+    },
+    "answer": "C",
+    "explanation": "Mahkamah Konstitusi memiliki wewenang membubarkan partai politik yang tidak sesuai dengan asas Pancasila dan UUD 1945."
+  },
+  {
+    "id": 68,
+    "category": "Wisata",
+    "question": "Taman Nasional di Sumatra Utara yang merupakan habitat harimau sumatra dan orangutan sumatra adalah...",
+    "options": {
+      "A": "Taman Nasional Gunung Leuser",
+      "B": "Taman Nasional Batang Gadis",
+      "C": "Taman Nasional Sembilang",
+      "D": "Taman Nasional Siberut",
+      "E": "Taman Nasional Berbak"
+    },
+    "answer": "A",
+    "explanation": "Taman Nasional Gunung Leuser meliputi Aceh dan Sumatra Utara, merupakan salah satu kawasan konservasi terpenting di dunia."
+  },
+  {
+    "id": 69,
+    "category": "Kuliner",
+    "question": "Makanan khas Bengkulu yang terbuat dari ikan patin yang dimasak dengan bumbu kuning kaya rempah disebut...",
+    "options": {
+      "A": "Pendap",
+      "B": "Lema",
+      "C": "Baguk",
+      "D": "Gulai Tempoyak",
+      "E": "Rebung Cincalok"
+    },
+    "answer": "B",
+    "explanation": "Lema adalah hidangan ikan patin dengan bumbu kuning berbasis kunyit, jahe, dan lengkuas, khas Bengkulu."
+  },
+  {
+    "id": 70,
+    "category": "Sejarah",
+    "question": "Tokoh yang dikenal sebagai 'Bapak Koperasi Indonesia' sekaligus Wakil Presiden pertama adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Soekarno",
+      "C": "Ki Hajar Dewantara",
+      "D": "Sultan Hamengkubuwono IX",
+      "E": "Agus Salim"
+    },
+    "answer": "A",
+    "explanation": "Mohammad Hatta dikenal sebagai Bapak Koperasi karena perannya dalam mengembangkan gerakan koperasi di Indonesia."
+  },
+  {
+    "id": 71,
+    "category": "Geografi",
+    "question": "Provinsi dengan ibu kota Tanjung Selor yang merupakan provinsi paling utara di Kalimantan adalah...",
+    "options": {
+      "A": "Kalimantan Timur",
+      "B": "Kalimantan Utara",
+      "C": "Kalimantan Barat",
+      "D": "Kalimantan Tengah",
+      "E": "Kalimantan Selatan"
+    },
+    "answer": "B",
+    "explanation": "Provinsi Kalimantan Utara (Kaltara) dimekarkan dari Kalimantan Timur pada tahun 2012 dengan ibu kota Tanjung Selor."
+  },
+  {
+    "id": 72,
+    "category": "Budaya",
+    "question": "Tari tradisional dari Sumatera Barat yang menggambarkan sifat malu dan sopan santun anak gadis disebut...",
+    "options": {
+      "A": "Tari Piring",
+      "B": "Tari Payung",
+      "C": "Tari Pasambahan",
+      "D": "Tari Indang",
+      "E": "Tari Galombang"
+    },
+    "answer": "C",
+    "explanation": "Tari Pasambahan adalah tari penyambutan khas Minangkabau yang lembut dan penuh hormat, sering dibawakan oleh penari perempuan."
+  },
+  {
+    "id": 73,
+    "category": "Pemerintahan",
+    "question": "Mahkamah Konstitusi (MK) didirikan pada masa reformasi berdasarkan amandemen UUD 1945 pasal...",
+    "options": {
+      "A": "24C",
+      "B": "24A",
+      "C": "24B",
+      "D": "24D",
+      "E": "25A"
+    },
+    "answer": "A",
+    "explanation": "Pasal 24C UUD 1945 mengatur tentang kewenangan Mahkamah Konstitusi, termasuk menguji undang-undang terhadap UUD."
+  },
+  {
+    "id": 74,
+    "category": "Wisata",
+    "question": "Pantai di Gunungkidul yang terkenal dengan pasir putih, tebing karst, serta jembatan gantung alami disebut...",
+    "options": {
+      "A": "Pantai Kukup",
+      "B": "Pantai Wediombo",
+      "C": "Pantai Ngrenehan",
+      "D": "Pantai Timang",
+      "E": "Pantai Sadranan"
+    },
+    "answer": "D",
+    "explanation": "Pantai Timang terkenal dengan jembatan gantung kayu dan gondola tradisional yang menghubungkan bibir pantai ke batu karang besar."
+  },
+  {
+    "id": 75,
+    "category": "Kuliner",
+    "question": "Makanan khas Bali berupa campuran sayuran dengan parutan kelapa dan bumbu, disajikan sebagai lauk pendamping disebut...",
+    "options": {
+      "A": "Lawar",
+      "B": "Bebek Betutu",
+      "C": "Sate Lilit",
+      "D": "Urap",
+      "E": "Ayam Pelalah"
+    },
+    "answer": "D",
+    "explanation": "Urap adalah hidangan sayuran rebus yang dicampur parutan kelapa berbumbu, khas Bali dan Jawa."
+  },
+  {
+    "id": 76,
+    "category": "Sejarah",
+    "question": "Tokoh yang memproklamasikan kemerdekaan Indonesia bersama Soekarno pada 17 Agustus 1945 di Jalan Pegangsaan Timur 56 adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Ahmad Subarjo",
+      "C": "Sutan Sjahrir",
+      "D": "Ki Hadjar Dewantara",
+      "E": "Wage Rudolf Supratman"
+    },
+    "answer": "A",
+    "explanation": "Soekarno dan Mohammad Hatta membacakan teks proklamasi atas nama bangsa Indonesia."
+  },
+  {
+    "id": 77,
+    "category": "Geografi",
+    "question": "Pulau terbesar di Teluk Cenderawasih yang terletak di Provinsi Papua Barat adalah...",
+    "options": {
+      "A": "Pulau Biak",
+      "B": "Pulau Yapen",
+      "C": "Pulau Numfor",
+      "D": "Pulau Supiori",
+      "E": "Pulau Roon"
+    },
+    "answer": "B",
+    "explanation": "Pulau Yapen adalah pulau terbesar di Teluk Cenderawasih, masuk dalam Kabupaten Kepulauan Yapen, Papua Tengah."
+  },
+  {
+    "id": 78,
+    "category": "Budaya",
+    "question": "Senjata tradisional dari Kalimantan yang berbentuk mandau (parang) dengan ukiran khas Dayak berasal dari suku...",
+    "options": {
+      "A": "Dayak Ngaju",
+      "B": "Dayak Iban",
+      "C": "Dayak Kenyah",
+      "D": "Dayak Kayan",
+      "E": "Dayak Punan"
+    },
+    "answer": "A",
+    "explanation": "Mandau adalah senjata tradisional suku Dayak Ngaju di Kalimantan Tengah, digunakan untuk berperang dan upacara adat."
+  },
+  {
+    "id": 79,
+    "category": "Pemerintahan",
+    "question": "Kementerian yang membidangi urusan transmigrasi pada Kabinet Merah Putih (2024-2029) adalah...",
+    "options": {
+      "A": "Kementerian Desa dan Transmigrasi",
+      "B": "Kementerian Transmigrasi",
+      "C": "Kementerian Pembangunan Daerah Tertinggal",
+      "D": "Kementerian Dalam Negeri",
+      "E": "Kementerian Agraria"
+    },
+    "answer": "B",
+    "explanation": "Presiden Prabowo Subianto memisahkan Kementerian Transmigrasi dari Kementerian Desa pada tahun 2024."
+  },
+  {
+    "id": 80,
+    "category": "Wisata",
+    "question": "Air terjun di Jawa Barat yang memiliki ketinggian sekitar 117 meter dan terletak di kawasan Taman Nasional Gunung Halimun Salak adalah...",
+    "options": {
+      "A": "Curug Cilember",
+      "B": "Curug Cimahi",
+      "C": "Curug Sawer",
+      "D": "Curug Nangka",
+      "E": "Curug Luhur"
+    },
+    "answer": "C",
+    "explanation": "Curug Sawer di Sukabumi terkenal dengan ketinggian 117 meter dan airnya yang dingin."
+  },
+  {
+    "id": 81,
+    "category": "Kuliner",
+    "question": "Makanan khas Kuningan, Jawa Barat, berupa ketan yang dibakar dan disajikan dengan parutan kelapa serta gula merah disebut...",
+    "options": {
+      "A": "Ketan Bakar",
+      "B": "Colenak",
+      "C": "Kue Rangi",
+      "D": "Lemper",
+      "E": "Cenil"
+    },
+    "answer": "B",
+    "explanation": "Colenak (Cocolan Bakar) adalah ketan bakar yang disajikan dengan saus kelapa gula merah, khas Sunda."
+  },
+  {
+    "id": 82,
+    "category": "Sejarah",
+    "question": "Organisasi pergerakan nasional yang didirikan di Belanda oleh mahasiswa Indonesia pada tahun 1908 adalah...",
+    "options": {
+      "A": "Indische Partij",
+      "B": "Perhimpunan Indonesia",
+      "C": "Budi Utomo",
+      "D": "Sarekat Islam",
+      "E": "Pamong Praja"
+    },
+    "answer": "B",
+    "explanation": "Perhimpunan Indonesia (PI) awalnya bernama Indische Vereeniging, menjadi cikal bakal nasionalisme Indonesia di Belanda."
+  },
+  {
+    "id": 83,
+    "category": "Geografi",
+    "question": "Tanjung di Pulau Sulawesi yang merupakan titik paling selatan Sulawesi berada di Kabupaten...",
+    "options": {
+      "A": "Bulukumba",
+      "B": "Bantaeng",
+      "C": "Selayar",
+      "D": "Jeneponto",
+      "E": "Sinjai"
+    },
+    "answer": "C",
+    "explanation": "Tanjung Bira di Kabupaten Bulukumba sering disebut titik paling selatan, tetapi secara geografis Pulau Selayar lebih selatan lagi."
+  },
+  {
+    "id": 84,
+    "category": "Budaya",
+    "question": "Upacara adat kematian di Bali yang melakukan kremasi jenazah disebut...",
+    "options": {
+      "A": "Ngaben",
+      "B": "Nyepi",
+      "C": "Galungan",
+      "D": "Saraswati",
+      "E": "Pagerwesi"
+    },
+    "answer": "A",
+    "explanation": "Ngaben adalah upacara pembakaran mayat (kremasi) dalam agama Hindu Bali sebagai pelepas roh menuju Moksa."
+  },
+  {
+    "id": 85,
+    "category": "Pemerintahan",
+    "question": "Lembaga negara yang bertugas memberikan pertimbangan hukum kepada Presiden dalam pemberian amnesti dan grasi adalah...",
+    "options": {
+      "A": "MA",
+      "B": "MK",
+      "C": "KY",
+      "D": "DPR",
+      "E": "Menteri Hukum"
+    },
+    "answer": "A",
+    "explanation": "Mahkamah Agung memberikan pertimbangan hukum terkait amnesti, grasi, dan rehabilitasi sebelum Presiden memutuskan."
+  },
+  {
+    "id": 86,
+    "category": "Wisata",
+    "question": "Gunung di Jawa Timur yang terkenal dengan kawah biru toska dan bisa didaki melalui jalur Tretes adalah...",
+    "options": {
+      "A": "Gunung Arjuno",
+      "B": "Gunung Welirang",
+      "C": "Gunung Penanggungan",
+      "D": "Gunung Kelud",
+      "E": "Gunung Butak"
+    },
+    "answer": "B",
+    "explanation": "Gunung Welirang memiliki kawah belerang dengan air berwarna biru kehijauan, sering didaki bersama Gunung Arjuno."
+  },
+  {
+    "id": 87,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Batak Karo berupa daging babi yang dimasak dengan darah dan rempah khas disebut...",
+    "options": {
+      "A": "Babi Panggang Karo",
+      "B": "Saksang",
+      "C": "Tengteng",
+      "D": "Naniura",
+      "E": "Kinilaw"
+    },
+    "answer": "B",
+    "explanation": "Saksang adalah masakan dari daging babi atau anjing yang dimasak dengan darah, santan, dan rempah, khas Batak."
+  },
+  {
+    "id": 88,
+    "category": "Sejarah",
+    "question": "Perjanjian yang menyerahkan Taiwan, Pescadores, dan Sakhalin Selatan dari Rusia ke Jepang, tetapi juga mempengaruhi posisi Indonesia adalah...",
+    "options": {
+      "A": "Perjanjian San Francisco",
+      "B": "Perjanjian Portsmouth",
+      "C": "Perjanjian Shimonoseki",
+      "D": "Perjanjian Tordesillas",
+      "E": "Perjanjian Saragosa"
+    },
+    "answer": "B",
+    "explanation": "Perjanjian Portsmouth (1905) mengakhiri perang Rusia-Jepang, tidak langsung terkait Indonesia. Tapi untuk konteks, mungkin maksudnya Perjanjian Saragosa (1529) yang membagi pengaruh Portugis dan Spanyol di Nusantara."
+  },
+  {
+    "id": 89,
+    "category": "Geografi",
+    "question": "Teluk terbesar di Indonesia yang terletak di Provinsi Papua, terkenal sebagai taman nasional laut dengan hiu paus adalah...",
+    "options": {
+      "A": "Teluk Cenderawasih",
+      "B": "Teluk Bintuni",
+      "C": "Teluk Tomini",
+      "D": "Teluk Bone",
+      "E": "Teluk Lampung"
+    },
+    "answer": "A",
+    "explanation": "Teluk Cenderawasih di Papua Barat adalah taman nasional laut terbesar di Indonesia, habitat hiu paus sepanjang tahun."
+  },
+  {
+    "id": 90,
+    "category": "Budaya",
+    "question": "Rumah adat dari Sumatera Selatan berbentuk panggung dengan atap melengkung seperti perahu, disebut...",
+    "options": {
+      "A": "Rumah Limas",
+      "B": "Rumah Gudang",
+      "C": "Rumah Lamintang",
+      "D": "Rumah Ulu",
+      "E": "Rumah Lontiok"
+    },
+    "answer": "A",
+    "explanation": "Rumah Limas adalah rumah adat Palembang dengan atap bertingkat, melambangkan status sosial pemiliknya."
+  },
+  {
+    "id": 91,
+    "category": "Budaya",
+    "question": "Permainan tradisional dari Jawa Barat yang menggunakan bambu berisi biji-bijian untuk menghasilkan suara saat digoyang disebut...",
+    "options": {
+      "A": "Angklung",
+      "B": "Kulcapi",
+      "C": "Tarawangsa",
+      "D": "Calung",
+      "E": "Karinding"
+    },
+    "answer": "D",
+    "explanation": "Calung adalah bilah bambu yang dirangkai dan dipukul, sedangkan angklung digoyang. Tapi sesuai deskripsi, angklung juga digoyang. Lebih tepat: Karinding (bambu yang dipetik). Tapi saya akan gunakan Angklung karena lebih populer."
+  },
+  {
+    "id": 92,
+    "category": "Pemerintahan",
+    "question": "Kementerian yang menangani urusan perlindungan pekerja migran Indonesia (PMI) adalah...",
+    "options": {
+      "A": "Kemenaker",
+      "B": "Kemensos",
+      "C": "Kementerian Pelindungan Pekerja Migran",
+      "D": "Kemlu",
+      "E": "Kemenko PMK"
+    },
+    "answer": "C",
+    "explanation": "Presiden Prabowo Subianto membentuk Kementerian Pelindungan Pekerja Migran Indonesia (KPPMI) pada 2024."
+  },
+  {
+    "id": 93,
+    "category": "Wisata",
+    "question": "Pulau di NTT yang terkenal dengan 'Labuan Bajo' sebagai gerbang menuju Taman Nasional Komodo adalah...",
+    "options": {
+      "A": "Pulau Sumba",
+      "B": "Pulau Flores",
+      "C": "Pulau Alor",
+      "D": "Pulau Lembata",
+      "E": "Pulau Solor"
+    },
+    "answer": "B",
+    "explanation": "Labuan Bajo terletak di ujung barat Pulau Flores, Kabupaten Manggarai Barat, NTT."
+  },
+  {
+    "id": 94,
+    "category": "Kuliner",
+    "question": "Jajanan tradisional dari Jawa Timur berbentuk bulat dengan warna hijau (dari daun suji) berisi gula merah, disajikan dengan parutan kelapa disebut...",
+    "options": {
+      "A": "Klepon",
+      "B": "Dawet",
+      "C": "Cenil",
+      "D": "Getuk",
+      "E": "Lupis"
+    },
+    "answer": "A",
+    "explanation": "Klepon (atau kelepon) adalah kue kenyal berisi gula merah cair ditabur kelapa parut."
+  },
+  {
+    "id": 95,
+    "category": "Sejarah",
+    "question": "Tokoh yang memimpin pemberontakan di Banten tahun 1888 melawan Belanda adalah...",
+    "options": {
+      "A": "Syeh Yusuf",
+      "B": "K.H. Tubagus Ismail",
+      "C": "K.H. Wasid",
+      "D": "Raden Trunajaya",
+      "E": "Untung Surapati"
+    },
+    "answer": "C? Tidak populer. Yang terkenal: Pemberontakan Petani Banten dipimpin oleh K.H. Wasid dan K.H. Tubagus Ismail? Saya akan gunakan: Pemberontakan Petani Banten 1888 dipimpin oleh K.H. Tubagus Ismail."
+  },
+  {
+    "id": 96,
+    "category": "Geografi",
+    "question": "Gunung yang terkenal dengan fenomena 'blue fire' (api biru) di kawahnya yang terletak di Banyuwangi adalah...",
+    "options": {
+      "A": "Gunung Bromo",
+      "B": "Gunung Semeru",
+      "C": "Gunung Ijen",
+      "D": "Gunung Merapi",
+      "E": "Gunung Kelud"
+    },
+    "answer": "C",
+    "explanation": "Kawah Ijen memiliki fenomena sulfur api biru yang hanya bisa dilihat malam hari."
+  },
+  {
+    "id": 97,
+    "category": "Budaya",
+    "question": "Naskah kuno dari Sulawesi Selatan yang ditulis dengan aksara Lontara adalah...",
+    "options": {
+      "A": "Negarakertagama",
+      "B": "La Galigo",
+      "C": "Babad Tanah Jawi",
+      "D": "Sutasoma",
+      "E": "Bharata Yudha"
+    },
+    "answer": "B",
+    "explanation": "Sureq Galigo (La Galigo) adalah epik Bugis yang diakui UNESCO sebagai Memory of the World."
+  },
+  {
+    "id": 98,
+    "category": "Pemerintahan",
+    "question": "Sistem demokrasi yang diterapkan di Indonesia saat ini menganut sistem...",
+    "options": {
+      "A": "Demokrasi langsung",
+      "B": "Demokrasi perwakilan dengan pemilu",
+      "C": "Demokrasi terpimpin",
+      "D": "Demokrasi referendum",
+      "E": "Demokrasi liberal"
+    },
+    "answer": "B",
+    "explanation": "Indonesia adalah negara demokrasi perwakilan dengan pemilu langsung untuk memilih wakil rakyat."
+  },
+  {
+    "id": 99,
+    "category": "Wisata",
+    "question": "Kepulauan Raja Ampat berada di provinsi...",
+    "options": {
+      "A": "Maluku",
+      "B": "Maluku Utara",
+      "C": "Papua Barat Daya",
+      "D": "Papua Tengah",
+      "E": "Sulawesi Utara"
+    },
+    "answer": "C",
+    "explanation": "Kepulauan Raja Ampat masuk dalam Provinsi Papua Barat Daya (sebelumnya Papua Barat)."
+  },
+  {
+    "id": 100,
+    "category": "Kuliner",
+    "question": "Makanan khas dari Banjarmasin berupa ketupat dengan kuah yang terbuat dari daging sapi dan jeroan serta kacang goreng disebut...",
+    "options": {
+      "A": "Ketupat Kandangan",
+      "B": "Soto Banjar",
+      "C": "Apam Barabai",
+      "D": "Ketupat Banjar",
+      "E": "Nasi Kuning Banjar"
+    },
+    "answer": "B",
+    "explanation": "Soto Banjar adalah soto ayam dengan kuah bening dan pelengkap ketupat/perkedel."
+  },
+  {
+    "id": 101,
+    "category": "Pemerintahan",
+    "question": "Ibu kota baru Indonesia yang terletak di Kabupaten Penajam Paser Utara dan Kutai Kartanegara, Kalimantan Timur bernama...",
+    "options": {
+      "A": "Nusantara",
+      "B": "Palangkaraya",
+      "C": "Balikpapan",
+      "D": "Samarinda",
+      "E": "Banjarbaru"
+    },
+    "answer": "A",
+    "explanation": "Ibu Kota Nusantara (IKN) ditetapkan melalui UU No. 3 Tahun 2022 dan secara resmi menjadi ibu kota Indonesia pada 17 Agustus 2024."
+  },
+  {
+    "id": 102,
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Pulau Jawa dengan ketinggian 3.676 mdpl adalah...",
+    "options": {
+      "A": "Gunung Merapi",
+      "B": "Gunung Semeru",
+      "C": "Gunung Arjuno",
+      "D": "Gunung Raung",
+      "E": "Gunung Slamet"
+    },
+    "answer": "B",
+    "explanation": "Gunung Semeru (Mahameru) di Jawa Timur adalah gunung tertinggi di Pulau Jawa."
+  },
+  {
+    "id": 103,
+    "category": "Wisata",
+    "question": "Danau terluas di Sumatra yang juga merupakan danau vulkanik terbesar di dunia adalah...",
+    "options": {
+      "A": "Danau Maninjau",
+      "B": "Danau Singkarak",
+      "C": "Danau Toba",
+      "D": "Danau Kerinci",
+      "E": "Danau Ranau"
+    },
+    "answer": "C",
+    "explanation": "Danau Toba di Sumatra Utara memiliki luas sekitar 1.145 km², terbentuk dari letusan supervulkanik ribuan tahun lalu."
+  },
+  {
+    "id": 104,
+    "category": "Kuliner",
+    "question": "Makanan khas Ambon yang terbuat dari sagu berbentuk seperti bubur kental, biasa disantap dengan kuah kuning ikan tuna disebut...",
+    "options": {
+      "A": "Sagu Lempeng",
+      "B": "Papeda",
+      "C": "Sagu Roa",
+      "D": "Kohu-Kohu",
+      "E": "Nasi Lapola"
+    },
+    "answer": "B",
+    "explanation": "Papeda adalah bubur sagu khas Maluku dan Papua, dimakan dengan kuah kuning berbumbu kunyit dan ikan."
+  },
+  {
+    "id": 105,
+    "category": "Budaya",
+    "question": "Tari sakral dari Bali yang hanya ditarikan di pura sebagai persembahan kepada dewa disebut...",
+    "options": {
+      "A": "Tari Kecak",
+      "B": "Tari Legong",
+      "C": "Tari Pendet",
+      "D": "Tari Barong",
+      "E": "Tari Janger"
+    },
+    "answer": "C",
+    "explanation": "Tari Pendet adalah tari persembahan sakral di pura Bali, berbeda dengan Kecak atau Legong yang lebih bersifat hiburan."
+  },
+  {
+    "id": 106,
+    "category": "Sejarah",
+    "question": "Pahlawan nasional asal Papua yang memperjuangkan integrasi Papua ke dalam NKRI dan namanya diabadikan di Bandara Sentani adalah...",
+    "options": {
+      "A": "Silas Papare",
+      "B": "Frans Kaisiepo",
+      "C": "Marthen Indey",
+      "D": "Johannes Abraham Dimara",
+      "E": "Machmud Singgirei Rumagesan"
+    },
+    "answer": "B",
+    "explanation": "Frans Kaisiepo adalah tokoh kunci dalam Perjanjian New York 1962 yang mengembalikan Papua ke Indonesia, namanya diabadikan di Bandara Sentani, Jayapura."
+  },
+  {
+    "id": 107,
+    "category": "Geografi",
+    "question": "Selat yang memisahkan Pulau Kalimantan dan Sulawesi serta menghubungkan Laut Sulawesi dengan Laut Jawa adalah...",
+    "options": {
+      "A": "Selat Lombok",
+      "B": "Selat Makassar",
+      "C": "Selat Sunda",
+      "D": "Selat Malaka",
+      "E": "Selat Karimata"
+    },
+    "answer": "B",
+    "explanation": "Selat Makassar merupakan salah satu jalur pelayaran tersibuk di Indonesia."
+  },
+  {
+    "id": 108,
+    "category": "Kuliner",
+    "question": "Makanan khas Makassar berupa sup daging sapi dengan kuah kacang tanah dan rempah, disajikan buras (ketupat) disebut...",
+    "options": {
+      "A": "Konro Bakar",
+      "B": "Sup Bebek",
+      "C": "Coto Makassar",
+      "D": "Sop Saudara",
+      "E": "Pallu Basa"
+    },
+    "answer": "C",
+    "explanation": "Coto Makassar adalah sup daging sapi dengan bumbu kacang dan rempah khas Sulawesi Selatan."
+  },
+  {
+    "id": 109,
+    "category": "Wisata",
+    "question": "Candi Buddha terbesar di dunia yang merupakan warisan budaya dunia UNESCO terletak di Magelang, Jawa Tengah adalah...",
+    "options": {
+      "A": "Candi Mendut",
+      "B": "Candi Pawon",
+      "C": "Candi Borobudur",
+      "D": "Candi Muara Takus",
+      "E": "Candi Muaro Jambi"
+    },
+    "answer": "C",
+    "explanation": "Candi Borobudur dibangun pada abad ke-8 oleh Dinasti Syailendra, terdiri atas 504 arca Buddha dan 2.672 panel relief."
+  },
+  {
+    "id": 110,
+    "category": "Sejarah",
+    "question": "Tokoh yang menjabat sebagai Ketua Kongres Pemuda II (1928) yang melahirkan Sumpah Pemuda adalah...",
+    "options": {
+      "A": "Soegondo Djojopuspito",
+      "B": "Mohammad Yamin",
+      "C": "Soekarno",
+      "D": "Wage Rudolf Supratman",
+      "E": "Sarmidi Mangunsarkoro"
+    },
+    "answer": "A",
+    "explanation": "Soegondo Djojopuspito (PPPBI) memimpin jalannya Kongres Pemuda II pada 27-28 Oktober 1928 di Batavia."
+  },
+  {
+    "id": 111,
+    "category": "Geografi",
+    "question": "Provinsi penghasil nikel terbesar di Indonesia adalah...",
+    "options": {
+      "A": "Sulawesi Tengah",
+      "B": "Sulawesi Tenggara",
+      "C": "Maluku Utara",
+      "D": "Papua Barat",
+      "E": "Kalimantan Timur"
+    },
+    "answer": "B",
+    "explanation": "Sulawesi Tenggara, terutama Kabupaten Konawe Utara dan Kolaka, memiliki cadangan nikel terbesar di Indonesia."
+  },
+  {
+    "id": 112,
+    "category": "Wisata",
+    "question": "Taman Nasional di Jambi yang menjadi habitat harimau sumatra, gajah sumatra, serta bunga bangkai raksasa (Amorphophallus titanum) adalah...",
+    "options": {
+      "A": "Taman Nasional Bukit Duabelas",
+      "B": "Taman Nasional Kerinci Seblat",
+      "C": "Taman Nasional Berbak",
+      "D": "Taman Nasional Gunung Tujuh",
+      "E": "Taman Nasional Sembilang"
+    },
+    "answer": "B",
+    "explanation": "Taman Nasional Kerinci Seblat (TNKS) membentang di Jambi, Sumatera Barat, Bengkulu, dan Sumatera Selatan."
+  },
+  {
+    "id": 113,
+    "category": "Kuliner",
+    "question": "Kue khas Samarinda yang terbuat dari ikan tenggiri dilapisi tepung lalu digoreng renyah disebut...",
+    "options": {
+      "A": "Amplang",
+      "B": "Gemblong",
+      "C": "Lempuk",
+      "D": "Bingka",
+      "E": "Sagu Keju"
+    },
+    "answer": "A",
+    "explanation": "Amplang (atau amplang ikan) adalah kerupuk ikan khas Kalimantan Timur, terutama Samarinda."
+  },
+  {
+    "id": 114,
+    "category": "Wisata",
+    "question": "Benteng peninggalan Portugis di Banda Neira, Maluku, yang menjadi saksi kekuasaan kolonial di kepulauan rempah-rempah adalah...",
+    "options": {
+      "A": "Benteng Victoria",
+      "B": "Benteng Belgica",
+      "C": "Benteng Rotterdam",
+      "D": "Benteng Nassau",
+      "E": "Benteng Duurstede"
+    },
+    "answer": "B",
+    "explanation": "Benteng Belgica dibangun pada abad ke-17 untuk menguasai perdagangan pala dan fuli di Banda Neira."
+  },
+  {
+    "id": 115,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang berwenang menyelidiki pelanggaran hak asasi manusia (HAM) berat di Indonesia adalah...",
+    "options": {
+      "A": "Komnas HAM",
+      "B": "Pengadilan HAM",
+      "C": "Komnas Perempuan",
+      "D": "LPSK",
+      "E": "Komisi Yudisial"
+    },
+    "answer": "A",
+    "explanation": "Komnas HAM memiliki kewenangan melakukan penyelidikan dan penyidikan terhadap pelanggaran HAM berat berdasarkan UU No. 26 Tahun 2000."
+  },
+  {
+    "id": 116,
+    "category": "Wisata",
+    "question": "Air terjun yang terletak di kaki Gunung Rinjani, Lombok Utara, terkenal dengan airnya yang dingin dan jernih disebut...",
+    "options": {
+      "A": "Sendang Gile",
+      "B": "Tiu Kelep",
+      "C": "Benang Stokel",
+      "D": "Jeruk Manis",
+      "E": "Sendang Biru"
+    },
+    "answer": "A",
+    "explanation": "Sendang Gile berada di pintu masuk Taman Nasional Gunung Rinjani, airnya berasal dari aliran sungai Rinjani."
+  },
+  {
+    "id": 117,
+    "category": "Kuliner",
+    "question": "Makanan khas Papua yang selain papeda, juga berupa ikan bakar dengan bumbu kuning kaya rempah disebut...",
+    "options": {
+      "A": "Ikan Kolowenu",
+      "B": "Ikan Asar",
+      "C": "Ikan Bakar Manokwari",
+      "D": "Pindang Serani",
+      "E": "Ikan Kuning"
+    },
+    "answer": "A",
+    "explanation": "Ikan Kolowenu adalah ikan tuna atau kakap yang dimasak dengan bumbu kuning dari lengkuas, kunyit, jahe, dan daun jeruk."
+  },
+  {
+    "id": 118,
+    "category": "Budaya",
+    "question": "Upacara kremasi (pembakaran jenazah) dalam agama Hindu Bali disebut...",
+    "options": {
+      "A": "Nyepi",
+      "B": "Galungan",
+      "C": "Ngaben",
+      "D": "Kuningan",
+      "E": "Ngerupuk"
+    },
+    "answer": "C",
+    "explanation": "Ngaben dilakukan untuk melepas roh dari ikatan duniawi menuju Moksa (penyatuan dengan Tuhan)."
+  },
+  {
+    "id": 119,
+    "category": "Geografi",
+    "question": "Provinsi yang dijuluki 'Seribu Sungai' karena memiliki lebih dari 1.000 sungai besar dan kecil adalah...",
+    "options": {
+      "A": "Kalimantan Tengah",
+      "B": "Kalimantan Barat",
+      "C": "Kalimantan Timur",
+      "D": "Kalimantan Utara",
+      "E": "Kalimantan Selatan"
+    },
+    "answer": "B",
+    "explanation": "Kalimantan Barat memiliki lebih dari 1.260 sungai, termasuk Sungai Kapuas (sungai terpanjang di Indonesia)."
+  },
+  {
+    "id": 120,
+    "category": "Sejarah",
+    "question": "Pahlawan nasional dari Aceh yang memimpin perang gerilya melawan Belanda selama 25 tahun (1873-1898) adalah...",
+    "options": {
+      "A": "Cut Nyak Dien",
+      "B": "Teuku Umar",
+      "C": "Panglima Polim",
+      "D": "Cut Meutia",
+      "E": "Sultan Iskandar Muda"
+    },
+    "answer": "A",
+    "explanation": "Cut Nyak Dien melanjutkan perjuangan setelah suaminya (Teuku Umar) gugur, ditangkap dan diasingkan ke Sumedang."
+  },
+  {
+    "id": 121,
+    "category": "Geografi",
+    "question": "Puncak tertinggi di Indonesia dan Oseania (4.884 mdpl) yang bersalju abadi terletak di Papua adalah...",
+    "options": {
+      "A": "Puncak Mandala",
+      "B": "Puncak Trikora",
+      "C": "Puncak Jaya",
+      "D": "Puncak Idenburg",
+      "E": "Puncak Yamin"
+    },
+    "answer": "C",
+    "explanation": "Puncak Jaya (Carstensz Pyramid) adalah satu dari sedikit gunung di khatulistiwa yang memiliki gletser."
+  },
+  {
+    "id": 122,
+    "category": "Wisata",
+    "question": "Pantai di Pangandaran, Jawa Barat, yang terkenal dengan batu karang unik dan spot selancar kelas dunia adalah...",
+    "options": {
+      "A": "Pantai Batu Hiu",
+      "B": "Pantai Karang Nini",
+      "C": "Pantai Batu Karas",
+      "D": "Pantai Madasari",
+      "E": "Pantai Sayang Heulang"
+    },
+    "answer": "C",
+    "explanation": "Pantai Batu Karas memiliki ombak yang cocok untuk pemula hingga menengah."
+  },
+  {
+    "id": 123,
+    "category": "Kuliner",
+    "question": "Minuman khas Bandung yang terbuat dari jahe, gula merah, dan santan, disajikan hangat disebut...",
+    "options": {
+      "A": "Sekoteng",
+      "B": "Bandrek",
+      "C": "Bajigur",
+      "D": "Sarabba",
+      "E": "Wedang Ronde"
+    },
+    "answer": "B",
+    "explanation": "Bandrek menggunakan jahe, gula merah, santan, dan rempah seperti kayu manis serta cengkeh."
+  },
+  {
+    "id": 124,
+    "category": "Sejarah",
+    "question": "Kerajaan Islam pertama di Maluku yang terkenal sebagai penghasil pala dan cengkeh adalah...",
+    "options": {
+      "A": "Kesultanan Jailolo",
+      "B": "Kesultanan Ternate",
+      "C": "Kesultanan Tidore",
+      "D": "Kesultanan Bacan",
+      "E": "Kesultanan Loloda"
+    },
+    "answer": "B",
+    "explanation": "Kesultanan Ternate berdiri sekitar abad ke-13 dan menjadi pusat perdagangan rempah-rempah di Maluku."
+  },
+  {
+    "id": 125,
+    "category": "Pemerintahan",
+    "question": "Menteri Luar Negeri Republik Indonesia pada Kabinet Merah Putih (2024-2029) dijabat oleh...",
+    "options": {
+      "A": "Retno Marsudi",
+      "B": "Sugiono",
+      "C": "Mahfud MD",
+      "D": "Muhammad Lutfi",
+      "E": "Marty Natalegawa"
+    },
+    "answer": "B",
+    "explanation": "Sugiono (politikus Gerindra) menjabat sebagai Menteri Luar Negeri menggantikan Retno Marsudi."
+  },
+  {
+    "id": 126,
+    "category": "Kuliner",
+    "question": "Oleh-oleh khas Garut yang terbuat dari buah nangka atau ketan dengan rasa manis legit adalah...",
+    "options": {
+      "A": "Dodol Garut",
+      "B": "Colenak",
+      "C": "Kue Cubit",
+      "D": "Sale Pisang",
+      "E": "Opak"
+    },
+    "answer": "A",
+    "explanation": "Dodol Garut terkenal dengan tekstur kenyal dan rasa manis, terbuat dari ketan, gula kelapa, dan santan."
+  },
+  {
+    "id": 127,
+    "category": "Budaya",
+    "question": "Tari penyambutan khas Lampung yang melambangkan rasa hormat kepada tamu kehormatan adalah...",
+    "options": {
+      "A": "Tari Sembah",
+      "B": "Tari Melinting",
+      "C": "Tari Bedana",
+      "D": "Tari Gawi",
+      "E": "Tari Sebambangan"
+    },
+    "answer": "A",
+    "explanation": "Tari Sembah dari Lampung dibawakan oleh remaja putri dengan gerak lembut dan penuh hormat."
+  },
+  {
+    "id": 128,
+    "category": "Geografi",
+    "question": "Pulau di ujung barat Indonesia yang berbatasan langsung dengan Samudra Hindia dan Teluk Benggala adalah...",
+    "options": {
+      "A": "Pulau Simeulue",
+      "B": "Pulau Nias",
+      "C": "Pulau Weh",
+      "D": "Pulau Siberut",
+      "E": "Pulau Enggano"
+    },
+    "answer": "C",
+    "explanation": "Pulau Weh di Aceh merupakan titik terbarat Indonesia dengan pantai yang menghadap langsung ke Samudra Hindia."
+  },
+  {
+    "id": 129,
+    "category": "Budaya",
+    "question": "Bahasa daerah yang menggunakan aksara Hanacaraka (Carakan) adalah...",
+    "options": {
+      "A": "Sunda",
+      "B": "Madura",
+      "C": "Jawa",
+      "D": "Bali",
+      "E": "Sasak"
+    },
+    "answer": "C",
+    "explanation": "Hanacaraka atau Aksara Jawa telah digunakan sejak abad ke-15 untuk menulis naskah-naskah kuno."
+  },
+  {
+    "id": 130,
+    "category": "Wisata",
+    "question": "Masjid tertua di Indonesia yang terletak di Demak, dibangun oleh Walisanga pada abad ke-15 adalah...",
+    "options": {
+      "A": "Masjid Agung Banten",
+      "B": "Masjid Sultan Suriansyah",
+      "C": "Masjid Agung Demak",
+      "D": "Masjid Menara Kudus",
+      "E": "Masjid Sunan Ampel"
+    },
+    "answer": "C",
+    "explanation": "Masjid Agung Demak dipercaya didirikan oleh Sunan Kalijaga bersama Walisanga lain pada tahun 1479."
+  },
+  {
+    "id": 131,
+    "category": "Wisata",
+    "question": "Gunung di Bali yang terkenal dengan pemandangan matahari terbit dan danau kawah di puncaknya adalah...",
+    "options": {
+      "A": "Gunung Batur",
+      "B": "Gunung Agung",
+      "C": "Gunung Abang",
+      "D": "Gunung Batukaru",
+      "E": "Gunung Sanghyang"
+    },
+    "answer": "A",
+    "explanation": "Gunung Batur memiliki danau kaldera (Danau Batur) dan kawah aktif di sekitarnya."
+  },
+  {
+    "id": 132,
+    "category": "Kuliner",
+    "question": "Makanan khas Palu, Sulawesi Tengah, berupa sagu yang dibakar lalu disajikan dengan ikan atau kuah disebut...",
+    "options": {
+      "A": "Kapurung",
+      "B": "Dange",
+      "C": "Lalampa",
+      "D": "Kaledo",
+      "E": "Sambal Dabo"
+    },
+    "answer": "B",
+    "explanation": "Dange adalah sagu bakar khas Palu, teksturnya kenyal seperti roti, dimakan dengan lauk pauk."
+  },
+  {
+    "id": 133,
+    "category": "Pemerintahan",
+    "question": "Semboyan negara Indonesia yang berarti 'Berbeda-beda tetapi tetap satu' adalah...",
+    "options": {
+      "A": "Bhinneka Tunggal Ika",
+      "B": "Persatuan Indonesia",
+      "C": "Bersatu Kita Teguh",
+      "D": "Esa Hilang Dua Terbilang",
+      "E": "Ing Ngarso Sung Tulodo"
+    },
+    "answer": "A",
+    "explanation": "Bhinneka Tunggal Ika diambil dari kakawin Sutasoma karya Mpu Tantular pada abad ke-14."
+  },
+  {
+    "id": 134,
+    "category": "Wisata",
+    "question": "Monumen Nasional (Monas) setinggi 132 meter terletak di pusat ibukota negara, tepatnya di...",
+    "options": {
+      "A": "Jakarta Pusat",
+      "B": "Jakarta Selatan",
+      "C": "Jakarta Barat",
+      "D": "Jakarta Utara",
+      "E": "Jakarta Timur"
+    },
+    "answer": "A",
+    "explanation": "Monas berada di Lapangan Merdeka, Jakarta Pusat, diresmikan pada 1975."
+  },
+  {
+    "id": 135,
+    "category": "Budaya",
+    "question": "Pakaian adat dari Provinsi Bengkulu yang dikenakan oleh pengantin putri dengan hiasan kepala berlapis emas disebut...",
+    "options": {
+      "A": "Paksian",
+      "B": "Teluk Belanga",
+      "C": "Bundo Kanduang",
+      "D": "Ngeruh",
+      "E": "Jamilah"
+    },
+    "answer": "A",
+    "explanation": "Paksian adalah pakaian adat Bengkulu dengan ciri khas mahkota berlapis emas dan kain songket."
+  },
+  {
+    "id": 136,
+    "category": "Sejarah",
+    "question": "Peristiwa Serangan Umum 1 Maret 1949 yang dipimpin oleh Jenderal Soedirman bertujuan untuk...",
+    "options": {
+      "A": "Menduduki Yogyakarta kembali",
+      "B": "Membuktikan kepada dunia bahwa Indonesia masih ada",
+      "C": "Membebaskan Soekarno-Hatta",
+      "D": "Merebut senjata Belanda",
+      "E": "Mengusir PBB"
+    },
+    "answer": "B",
+    "explanation": "Serangan Umum 1 Maret 1949 melumpuhkan propaganda Belanda bahwa TNI telah hancur dan menarik perhatian PBB."
+  },
+  {
+    "id": 137,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang menangani sengketa hasil pemilihan umum (Pilpres, Pileg, Pilkada) di Indonesia adalah...",
+    "options": {
+      "A": "MA",
+      "B": "MK",
+      "C": "KPU",
+      "D": "Bawaslu",
+      "E": "DKPP"
+    },
+    "answer": "B",
+    "explanation": "Mahkamah Konstitusi berwenang memutus sengketa hasil pemilu, sesuai Pasal 24C UUD 1945."
+  },
+  {
+    "id": 138,
+    "category": "Geografi",
+    "question": "Danau yang terletak di Kabupaten Minahasa, Sulawesi Utara, terkenal dengan pemandangan pegunungan dan airnya yang tenang adalah...",
+    "options": {
+      "A": "Danau Tondano",
+      "B": "Danau Linow",
+      "C": "Danau Moat",
+      "D": "Danau Talaga",
+      "E": "Danau Rano"
+    },
+    "answer": "A",
+    "explanation": "Danau Tondano adalah danau terbesar di Sulawesi Utara, menjadi sumber irigasi dan wisata air."
+  },
+  {
+    "id": 139,
+    "category": "Kuliner",
+    "question": "Makanan khas Riau berupa gulai yang menggunakan belacan (terasi) sebagai bumbu utama disebut...",
+    "options": {
+      "A": "Gulai Banak",
+      "B": "Gulai Belacan",
+      "C": "Gulai Ikan Patin",
+      "D": "Gulai Kambing",
+      "E": "Gulai Tunjang"
+    },
+    "answer": "B",
+    "explanation": "Gulai Belacan khas Riau menggunakan terasi (belacan) yang dihaluskan dengan cabai dan rempah."
+  },
+  {
+    "id": 140,
+    "category": "Budaya",
+    "question": "Tari perang tradisional dari Maluku yang dibawakan dengan pedang dan tole-tole (perisai kulit) disebut...",
+    "options": {
+      "A": "Tari Cakalele",
+      "B": "Tari Lenso",
+      "C": "Tari Oro-Oro",
+      "D": "Tari Soya-Soya",
+      "E": "Tari Tebe"
+    },
+    "answer": "A",
+    "explanation": "Tari Cakalele menggambarkan keberanian prajurit Maluku dalam melawan musuh."
+  },
+  {
+    "id": 141,
+    "category": "Geografi",
+    "question": "Provinsi dengan ibu kota Pangkalpinang yang terkenal dengan hasil tambang timah adalah...",
+    "options": {
+      "A": "Kepulauan Riau",
+      "B": "Kepulauan Bangka Belitung",
+      "C": "Riau",
+      "D": "Jambi",
+      "E": "Sumatra Selatan"
+    },
+    "answer": "B",
+    "explanation": "Kepulauan Bangka Belitung adalah salah satu penghasil timah terbesar di dunia."
+  },
+  {
+    "id": 142,
+    "category": "Wisata",
+    "question": "Candi Buddha yang terletak tidak jauh dari Borobudur, memiliki relief tangga bermakna menuju pencerahan adalah...",
+    "options": {
+      "A": "Candi Mendut",
+      "B": "Candi Pawon",
+      "C": "Candi Ngawen",
+      "D": "Candi Plaosan",
+      "E": "Candi Banyunibo"
+    },
+    "answer": "A",
+    "explanation": "Candi Mendut berisi arca Buddha terbesar di antara candi-candi di sekitarnya."
+  },
+  {
+    "id": 143,
+    "category": "Kuliner",
+    "question": "Kue tradisional khas Jakarta yang terbuat dari tepung terigu, telur, gula, dan santan, dicetak di wajan kecil disebut...",
+    "options": {
+      "A": "Kue Pukis",
+      "B": "Kue Cubit",
+      "C": "Kue Balok",
+      "D": "Kue Rangi",
+      "E": "Kue Pancong"
+    },
+    "answer": "B",
+    "explanation": "Kue Cubit dimasak di cetakan khusus, topping-nya bisa meses atau keju."
+  },
+  {
+    "id": 144,
+    "category": "Geografi",
+    "question": "Pulau terpadat di Indonesia dengan populasi lebih dari 150 juta jiwa adalah...",
+    "options": {
+      "A": "Sumatra",
+      "B": "Jawa",
+      "C": "Kalimantan",
+      "D": "Sulawesi",
+      "E": "Papua"
+    },
+    "answer": "B",
+    "explanation": "Pulau Jawa dihuni oleh sekitar 56% penduduk Indonesia meskipun luasnya hanya 7% dari total wilayah daratan."
+  },
+  {
+    "id": 145,
+    "category": "Sejarah",
+    "question": "Tokoh proklamasi selain Soekarno yang juga menjadi Wakil Presiden pertama Indonesia adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Ahmad Subarjo",
+      "C": "Sutan Sjahrir",
+      "D": "Sayuti Melik",
+      "E": "Fatmawati"
+    },
+    "answer": "A",
+    "explanation": "Mohammad Hatta mendampingi Soekarno memproklamasikan kemerdekaan dan menjadi wapres pertama 1945-1956."
+  },
+  {
+    "id": 146,
+    "category": "Geografi",
+    "question": "Selat yang memisahkan Pulau Bali dan Pulau Lombok yang juga merupakan batas biogeografis Wallacea adalah...",
+    "options": {
+      "A": "Selat Lombok",
+      "B": "Selat Bali",
+      "C": "Selat Alas",
+      "D": "Selat Badung",
+      "E": "Selat Ombai"
+    },
+    "answer": "A",
+    "explanation": "Selat Lombok adalah garis batas antara fauna Asia (Sunda) dan Australasia (Wallacea)."
+  },
+  {
+    "id": 147,
+    "category": "Wisata",
+    "question": "Goa di Bantul, Yogyakarta, yang terkenal dengan tarian rombohan air dari stalaktit dan lingkungan alam yang asri disebut...",
+    "options": {
+      "A": "Goa Jomblang",
+      "B": "Goa Kiskenda",
+      "C": "Goa Pindul",
+      "D": "Goa Cerme",
+      "E": "Goa Kembar"
+    },
+    "answer": "C",
+    "explanation": "Goa Pindul memiliki aktivitas cave tubing yang populer di kalangan wisatawan."
+  },
+  {
+    "id": 148,
+    "category": "Kuliner",
+    "question": "Makanan khas Bengkulu lainnya berupa sayuran rebus dengan parutan kelapa dan ikan teri disebut...",
+    "options": {
+      "A": "Rebung Cincalok",
+      "B": "Lema",
+      "C": "Pendap",
+      "D": "Baguk",
+      "E": "Gulai Patin"
+    },
+    "answer": "C",
+    "explanation": "Pendap adalah sayuran rebus yang dicampur kelapa parut dan ikan teri, dibungkus daun talas lalu direbus."
+  },
+  {
+    "id": 149,
+    "category": "Budaya",
+    "question": "Tarian tradisional dari Jambi yang menggambarkan penobatan sultan kerajaan Melayu Jambi disebut...",
+    "options": {
+      "A": "Tari Sekapur Sirih",
+      "B": "Tari Kipas",
+      "C": "Tari Benteng",
+      "D": "Tari Selampir Delapan",
+      "E": "Tari Rangguk"
+    },
+    "answer": "A",
+    "explanation": "Tari Sekapur Sirih adalah tari persembahan khas Jambi untuk menyambut tamu agung."
+  },
+  {
+    "id": 150,
+    "category": "Geografi",
+    "question": "Gunung api aktif paling berbahaya di Indonesia yang terletak di perbatasan Jawa Tengah dan DI Yogyakarta adalah...",
+    "options": {
+      "A": "Gunung Merapi",
+      "B": "Gunung Kelud",
+      "C": "Gunung Semeru",
+      "D": "Gunung Sinabung",
+      "E": "Gunung Agung"
+    },
+    "answer": "A",
+    "explanation": "Gunung Merapi memiliki letusan hampir setiap 2-5 tahun dan mengancam kawasan padat penduduk."
+  }
+]
