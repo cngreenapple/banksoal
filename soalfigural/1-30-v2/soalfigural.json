@@ -1,1 +1,242 @@
-s
+[
+  {
+    "id": 1,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no1_ans_c.png",
+    "answer": "C",
+    "explanation": "Polanya, cukup perhatikan arah perputaran/rotasi bintang. Pertama diputar 180 derajat, lalu diputar searah jarum jam."
+  },
+  {
+    "id": 2,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no2_ans_c.png",
+    "answer": "C",
+    "explanation": "Perhatikan pola jumlah titik hitamnya. Dalam sebuah persegi, di dalamnya ada empat kolom. Kolom-kolom yang bersesuaian dengan persegi lainnya yang sebaris jumlahnya berurutan satu sama lain."
+  },
+  {
+    "id": 3,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no3_ans_b.png",
+    "answer": "B",
+    "explanation": "Masing-masing baris, jumlah panah tegak maupun yang mendatar adalah 1, 2, dan 3 buah. Melihat dari dua gambar sebelumnya maka jawabannya adalah gambar 3 panah tegak dan satu gambar panah mendatar, yaitu pilihan yang B."
+  },
+  {
+    "id": 4,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no4_ans_d.png",
+    "answer": "D",
+    "explanation": "Perhatikan arah garis tegak di tengah gambar persegi. Masing-masing baris ada dua garis yang posisinya di tengah dan arahnya berlawanan. Dengan demikian, jawaban yang kita cari harus punya garis di tengah yang arahnya ke atas. Jawaban yang mungkin adalah A dan D. Selanjutnya lihat bagian sisi. Tiap baris terdapat panah pada bagian sisi kanan/kiri yang arahnya berlawanan dan letaknya berkelalikan. Karena pada baris terakhir sudah memuat garis sisi bagian kiri dengan arah ke bawah maka jawabannya adalah yang punya arah ke atas dan posisinya di bagian kanan."
+  },
+  {
+    "id": 5,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no5_ans_e.png",
+    "answer": "E",
+    "explanation": "Polanya berupa rotasi/perputaran gambar. Gambar pertama, lalu diputar 90 derajat searah jarum jam, lalu diputar kembali searah jarum jam sejauh 90 derajat."
+  },
+  {
+    "id": 6,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no6_ans_b.png",
+    "answer": "B",
+    "explanation": "Perhatikan posisi gambar elips beserta raster/arsirannya. Berdasarkan dua gambar sebelumnya maka gambar selanjutnya adalah gambar elips berdiri dengan raster/arsiran berupa blok hitam. Lalu perhatikan pola arsiran bangun lengkungnya."
+  },
+  {
+    "id": 7,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no7_ans_c.png",
+    "answer": "C",
+    "explanation": "Gambar ketiga adalah hasil penggabungan dari bidang yang besar pada gambar kedua, dimasukkan pada bidang gambar yang kecil pada gambar pertama. Maka, gambar selanjutnya adalah gambar segitiga dimasukkan ke dalam gambar persegi."
+  },
+  {
+    "id": 8,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no8_ans_d.png",
+    "answer": "D",
+    "explanation": "Perhatikan pola raster segi enam yang besar, juga pola raster dan letak dari segi enam yang kecil. Jelas jawabannya adalah D."
+  },
+  {
+    "id": 9,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no9_ans_c.png",
+    "answer": "C",
+    "explanation": "Polanya, setiap gambar selalu ada bintang warna putih, sementara bintang lainnya berdasarkan pola gambar sebelumnya. Jelas terlihat bahwa jawabannya adalah C."
+  },
+  {
+    "id": 10,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no10_ans_b.png",
+    "answer": "B",
+    "explanation": "Polanya, setiap baris selalu ada gambar polos putih. Gambar lainnya sama, berselisih satu gambar garis."
+  },
+  {
+    "id": 11,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no11_ans_d.png",
+    "answer": "D",
+    "explanation": "Setiap garis, memuat panah ke kanan, ke kiri, serta kanan-kiri. Lalu setiap baris merupakan kombinasi bentuk segi enam, jajargenjang, dan belah ketupat. Maka, jawabannya adalah gambar belah ketupat dengan anak panah ke arah kiri."
+  },
+  {
+    "id": 12,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no12_ans_b.png",
+    "answer": "B",
+    "explanation": "Ada tiga bangun datar yang harus dicermati, yaitu bangun atas, tengah, dan bawah. Perhatikan pola arsiran rasternya, serta kombinasi bentuk atasnya. Jawabannya jelas yang B."
+  },
+  {
+    "id": 13,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no13_ans_e.png",
+    "answer": "E",
+    "explanation": "Masing-masing baris berisi tiga buah bangun, yaitu bangun tanpa sudut, bangun dengan 3 sudut, dan bangun dengan 4 sudut. Jawabannya adalah bangun tanpa sudut, yaitu pilihan jawaban E."
+  },
+  {
+    "id": 14,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no14_ans_d.png",
+    "answer": "D",
+    "explanation": "Polanya berupa rotasi/perputaran. Gambar pertama diputar 90 derajat searah jarum jam, lalu diputar 180 derajat."
+  },
+  {
+    "id": 15,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no15_ans_b.png",
+    "answer": "B",
+    "explanation": "Setiap gambar merupakan kombinasi gambar segitiga, lingkaran, dan persegi, baik gambar yang besar, maupun gambar yang kecil. Maka, jawabannya berupa gambar segitiga besar, dengan segitiga kecil."
+  },
+  {
+    "id": 16,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no16_ans_c.png",
+    "answer": "C",
+    "explanation": "Polanya, gambar pertama bila dikurangi gambar kedua, sisanya adalah gambar ketiga."
+  },
+  {
+    "id": 17,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no17_ans_c.png",
+    "answer": "C",
+    "explanation": "Setiap baris memuat dua kotak kosong, dua kotak dengan bintik hitam besar, dan dua kotak dengan bintik kecil. Agar terpenuhi pola tersebut, maka jawabannya adalah pilihan C. Karena gambar pada baris ketiga baru memiliki satu kotak dengan bintik kecil dan satu kotak dengan bintik besar, sehingga masih kurang satu kotak dengan bintik kecil dan satu kotak dengan bintik besar."
+  },
+  {
+    "id": 18,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no18_ans_d.png",
+    "answer": "D",
+    "explanation": "Setiap baris memuat garis dengan posisi menjadi titik, tegak, dan mirip. Artinya, jawabannya berupa garis miring. Selanjutnya, perhatikan ujung yang paling besar. Akan terlihat bahwa jawabannya adalah D."
+  },
+  {
+    "id": 19,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no19_ans_b.png",
+    "answer": "B",
+    "explanation": "Caranya sangat simpel. Cukup perhatikan pola kombinasi bagian kepala, ujung lengan kanan, dan ujung lengan kiri. Perhatikan gambar apa yang belum ada dan apa yang sudah ada."
+  },
+  {
+    "id": 20,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no20_ans_a.png",
+    "answer": "A",
+    "explanation": "Gambarnya merupakan selang-seling putih-hitam, hitam-putih, putih-hitam, lalu perhatikan posisi kepala. Jelas jawabannya adalah A."
+  },
+  {
+    "id": 21,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no21_ans_c.png",
+    "answer": "C",
+    "explanation": "Cukup perhatikan bagian lingkaran terluar. Gambar pertama dikurangi gambar kedua, hasilnya gambar ketiga."
+  },
+  {
+    "id": 22,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no22_ans_e.png",
+    "answer": "E",
+    "explanation": "Polanya berupa rotasi gambar. Gambar pertama dirotasi 90 derajat searah jarum jam, kemudian dirotasi lagi searah jarum jam sebesar 90 derajat."
+  },
+  {
+    "id": 23,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no23_ans_a.png",
+    "answer": "A",
+    "explanation": "Gambar satu bila diiriskan gambar kedua akan diperoleh gambar ketiga. Jadi, jawabannya adalah pilihan A."
+  },
+  {
+    "id": 24,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no24_ans_a.png",
+    "answer": "A",
+    "explanation": "Setiap baris merupakan kombinasi gambar yang tegak, miring, dan mendatar, kemudian perhatikan pola arsirannya. Jelas terlihat bahwa jawabannya adalah gambar dengan posisi mendatar dan terdapat raster/arsiran blok hitam."
+  },
+  {
+    "id": 25,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no25_ans_a.png",
+    "answer": "A",
+    "explanation": "Perhatikan kombinasi bentuk dan arsiran masing-masing gambar. Cermati mana yang ada dan mana yang belum ada."
+  },
+  {
+    "id": 26,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no26_ans_a.png",
+    "answer": "A",
+    "explanation": "Setiap baris harus memuat satu bintang dan dua hati. Pada baris ketiga hanya ada satu bintang, jadi masih kurang dua hati."
+  },
+  {
+    "id": 27,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no27_ans_a.png",
+    "answer": "A",
+    "explanation": "Cukup perhatikan pola arsirannya. Soal hanya merupakan kombinasi dari arsiran. Jelas terlihat bahwa jawabannya adalah A."
+  },
+  {
+    "id": 28,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no28_ans_a.png",
+    "answer": "A",
+    "explanation": "Setiap baris harus memuat satu bintang dan dua hati. Pada baris ketiga hanya ada satu bintang, jadi masih kurang dua hati."
+  },
+  {
+    "id": 29,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no29_ans_a.png",
+    "answer": "A",
+    "explanation": "Cukup perhatikan pola arsirannya. Soal hanya merupakan kombinasi dari arsiran. Jelas terlihat bahwa jawabannya adalah A."
+  },
+  {
+    "id": 30,
+    "category": "Figural",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v2/no30_ans_b.png",
+    "answer": "B",
+    "explanation": "Gambar ketiga merupakan gambar pertama yang berimpit dengan gambar kedua."
+  }
+]
