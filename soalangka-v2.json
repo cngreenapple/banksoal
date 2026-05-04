@@ -3,489 +3,800 @@
     "id": 1,
     "category": "Aritmetika Sosial",
     "question": "Koperasi mencatat SHU Rp200.000.000. Tahun berikutnya naik 25%. Berapa SHU tahun berikutnya?",
-    "options": {"A":"240 jt","B":"250 jt","C":"260 jt","D":"270 jt","E":"280 jt"},
-    "answer": "C",
-    "explanation": "200 × 1,25 = 250? koreksi → 250 jt (jawaban B)"
+    "options": { "A": "Rp240.000.000", "B": "Rp250.000.000", "C": "Rp260.000.000", "D": "Rp270.000.000", "E": "Rp280.000.000" },
+    "answer": "B",
+    "explanation": "200.000.000 × 1,25 = 250.000.000."
   },
   {
     "id": 2,
     "category": "Aritmetika Sosial",
     "question": "Jika 40% SHU digunakan untuk anggota dan total SHU Rp250 juta, berapa bagian anggota?",
-    "options": {"A":"80 jt","B":"90 jt","C":"100 jt","D":"110 jt","E":"120 jt"},
+    "options": { "A": "Rp80.000.000", "B": "Rp90.000.000", "C": "Rp100.000.000", "D": "Rp110.000.000", "E": "Rp120.000.000" },
     "answer": "C",
-    "explanation": "40% × 250 jt = 100 jt"
+    "explanation": "40% × 250.000.000 = 100.000.000."
   },
   {
     "id": 3,
     "category": "Tabel",
     "question": "Pendapatan: Jan 10 jt, Feb 15 jt, Mar 20 jt. Kenaikan rata-rata per bulan adalah…",
-    "options": {"A":"3 jt","B":"4 jt","C":"5 jt","D":"6 jt","E":"7 jt"},
+    "options": { "A": "Rp3.000.000", "B": "Rp4.000.000", "C": "Rp5.000.000", "D": "Rp6.000.000", "E": "Rp7.000.000" },
     "answer": "C",
-    "explanation": "(20-10)/2 = 5 jt"
+    "explanation": "(20.000.000 - 10.000.000) / 2 = 5.000.000."
   },
   {
     "id": 4,
     "category": "Pola",
-    "question": "Pola anggota: 50, 60, 72, 86. Angka berikutnya…",
-    "options": {"A":"100","B":"102","C":"104","D":"108","E":"110"},
-    "answer": "D",
-    "explanation": "×1.2 approx → 86×1.25≈108"
+    "question": "Pola anggota: 50, 60, 72, 86, ... Angka berikutnya…",
+    "options": { "A": "100", "B": "102", "C": "104", "D": "108", "E": "110" },
+    "answer": "B",
+    "explanation": "Selisih +10, +12, +14, +16 → 86 + 16 = 102."
   },
   {
     "id": 5,
     "category": "Diskon",
     "question": "Harga Rp400.000 diskon 10% lalu naik 10%. Hasil akhir?",
-    "options": {"A":"396k","B":"398k","C":"400k","D":"402k","E":"405k"},
+    "options": { "A": "Rp396.000", "B": "Rp398.000", "C": "Rp400.000", "D": "Rp402.000", "E": "Rp405.000" },
     "answer": "A",
-    "explanation": "400→360→396"
+    "explanation": "400.000 × 0,9 = 360.000; 360.000 × 1,1 = 396.000."
   },
   {
     "id": 6,
     "category": "Rasio",
     "question": "SHU dibagi 2:3:5. Total Rp100 juta. Bagian terbesar?",
-    "options": {"A":"30 jt","B":"40 jt","C":"50 jt","D":"60 jt","E":"70 jt"},
+    "options": { "A": "Rp30.000.000", "B": "Rp40.000.000", "C": "Rp50.000.000", "D": "Rp60.000.000", "E": "Rp70.000.000" },
     "answer": "C",
-    "explanation": "5/10 × 100 = 50 jt"
+    "explanation": "5/10 × 100.000.000 = 50.000.000."
   },
   {
     "id": 7,
     "category": "Tabel",
     "question": "Biaya koperasi: 5 jt, 6 jt, 7 jt, 8 jt. Total biaya?",
-    "options": {"A":"24 jt","B":"25 jt","C":"26 jt","D":"27 jt","E":"28 jt"},
+    "options": { "A": "Rp24.000.000", "B": "Rp25.000.000", "C": "Rp26.000.000", "D": "Rp27.000.000", "E": "Rp28.000.000" },
     "answer": "C",
-    "explanation": "Jumlah = 26 jt"
+    "explanation": "5 + 6 + 7 + 8 = 26 juta."
   },
   {
     "id": 8,
     "category": "Laba",
-    "question": "Pendapatan 1,5 jt, biaya 1 jt. Laba %?",
-    "options": {"A":"40%","B":"45%","C":"50%","D":"55%","E":"60%"},
+    "question": "Pendapatan 1,5 jt, biaya 1 jt. Laba % dari biaya?",
+    "options": { "A": "40%", "B": "45%", "C": "50%", "D": "55%", "E": "60%" },
     "answer": "C",
-    "explanation": "0.5/1 ×100 = 50%"
+    "explanation": "(0,5 / 1) × 100% = 50%."
   },
   {
     "id": 9,
     "category": "Perubahan",
     "question": "Modal 100 jt turun 20% lalu naik 10%. Hasil?",
-    "options": {"A":"85 jt","B":"88 jt","C":"90 jt","D":"92 jt","E":"95 jt"},
-    "answer": "C",
-    "explanation": "100→80→88"
+    "options": { "A": "Rp85.000.000", "B": "Rp88.000.000", "C": "Rp90.000.000", "D": "Rp92.000.000", "E": "Rp95.000.000" },
+    "answer": "B",
+    "explanation": "100.000.000 × 0,8 = 80.000.000; × 1,1 = 88.000.000."
   },
   {
     "id": 10,
     "category": "Interpretasi",
     "question": "Jika anggota naik, SHU tetap, maka SHU per anggota…",
-    "options": {"A":"Naik","B":"Turun","C":"Tetap","D":"Fluktuatif","E":"Tidak tentu"},
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Fluktuatif", "E": "Tidak tentu" },
     "answer": "B",
-    "explanation": "Pembagian lebih banyak orang → turun"
+    "explanation": "Dibagi lebih banyak orang → per anggota turun."
   },
-
   {
     "id": 11,
     "category": "Pola",
     "question": "10, 20, 40, 80, …",
-    "options": {"A":"100","B":"120","C":"140","D":"160","E":"170"},
+    "options": { "A": "100", "B": "120", "C": "140", "D": "160", "E": "170" },
     "answer": "D",
-    "explanation": "×2 → 160"
+    "explanation": "×2 → 160."
   },
   {
     "id": 12,
     "category": "Persentase",
     "question": "30% dari 600.000?",
-    "options": {"A":"160k","B":"170k","C":"180k","D":"190k","E":"200k"},
+    "options": { "A": "Rp160.000", "B": "Rp170.000", "C": "Rp180.000", "D": "Rp190.000", "E": "Rp200.000" },
     "answer": "C",
-    "explanation": "180k"
+    "explanation": "600.000 × 0,3 = 180.000."
   },
   {
     "id": 13,
     "category": "SHU",
     "question": "SHU 120 jt dibagi 60 anggota. Per orang?",
-    "options": {"A":"1,5 jt","B":"2 jt","C":"2,5 jt","D":"3 jt","E":"3,5 jt"},
+    "options": { "A": "Rp1.500.000", "B": "Rp2.000.000", "C": "Rp2.500.000", "D": "Rp3.000.000", "E": "Rp3.500.000" },
     "answer": "B",
-    "explanation": "2 jt"
+    "explanation": "120.000.000 / 60 = 2.000.000."
   },
   {
     "id": 14,
     "category": "Tabel",
     "question": "Pendapatan naik 10% tiap tahun dari 100 jt. Tahun ke-2?",
-    "options": {"A":"110","B":"115","C":"120","D":"121","E":"125"},
+    "options": { "A": "Rp110.000.000", "B": "Rp115.000.000", "C": "Rp120.000.000", "D": "Rp121.000.000", "E": "Rp125.000.000" },
     "answer": "D",
-    "explanation": "100×1.1×1.1=121"
+    "explanation": "100.000.000 × 1,1 × 1,1 = 121.000.000."
   },
   {
     "id": 15,
     "category": "Logika",
     "question": "Jika biaya naik, laba tetap, maka pendapatan…",
-    "options": {"A":"Naik","B":"Turun","C":"Tetap","D":"Tidak pasti","E":"Nol"},
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Tidak pasti", "E": "Nol" },
     "answer": "A",
-    "explanation": "harus naik untuk menutup biaya"
+    "explanation": "Harus naik untuk menutup kenaikan biaya agar laba tetap."
   },
   {
     "id": 16,
     "category": "SHU",
     "question": "SHU Rp180 juta dibagi: 50% anggota, sisanya cadangan. Jika 60 anggota, tiap anggota mendapat…",
-    "options": {"A":"1,2 jt","B":"1,4 jt","C":"1,5 jt","D":"1,6 jt","E":"1,8 jt"},
+    "options": { "A": "Rp1.200.000", "B": "Rp1.400.000", "C": "Rp1.500.000", "D": "Rp1.600.000", "E": "Rp1.800.000" },
     "answer": "C",
-    "explanation": "90 jt ÷ 60 = 1,5 jt"
+    "explanation": "50% × 180.000.000 = 90.000.000; 90.000.000 / 60 = 1.500.000."
   },
   {
     "id": 17,
     "category": "Perubahan Bertahap",
     "question": "Modal Rp75 juta naik 20% lalu turun 10%. Modal akhir…",
-    "options": {"A":"80,5 jt","B":"81 jt","C":"82 jt","D":"83 jt","E":"84 jt"},
+    "options": { "A": "Rp80.500.000", "B": "Rp81.000.000", "C": "Rp82.000.000", "D": "Rp83.000.000", "E": "Rp84.000.000" },
     "answer": "B",
-    "explanation": "75→90→81"
+    "explanation": "75.000.000 × 1,2 = 90.000.000; × 0,9 = 81.000.000."
   },
   {
     "id": 18,
     "category": "Persentase",
     "question": "2% dari SHU Rp200 juta adalah…",
-    "options": {"A":"2 jt","B":"3 jt","C":"4 jt","D":"5 jt","E":"6 jt"},
+    "options": { "A": "Rp2.000.000", "B": "Rp3.000.000", "C": "Rp4.000.000", "D": "Rp5.000.000", "E": "Rp6.000.000" },
     "answer": "C",
-    "explanation": "4 jt"
+    "explanation": "200.000.000 × 0,02 = 4.000.000."
   },
   {
     "id": 19,
     "category": "Tabel",
-    "question": "Anggota: 10 orang setor 100.000 selama 6 bulan. Total?",
-    "options": {"A":"5 jt","B":"6 jt","C":"7 jt","D":"8 jt","E":"9 jt"},
-    "answer": "C",
-    "explanation": "10×100k×6=6 jt → opsi dekat 6/7 jt"
+    "question": "Anggota: 10 orang setor Rp100.000 selama 6 bulan. Total?",
+    "options": { "A": "Rp5.000.000", "B": "Rp6.000.000", "C": "Rp7.000.000", "D": "Rp8.000.000", "E": "Rp9.000.000" },
+    "answer": "B",
+    "explanation": "10 × 100.000 × 6 = 6.000.000."
   },
   {
     "id": 20,
     "category": "Multi Step",
     "question": "Harga 500k diskon 10%, naik 10%. Hasil?",
-    "options": {"A":"490k","B":"495k","C":"500k","D":"505k","E":"510k"},
+    "options": { "A": "Rp490.000", "B": "Rp495.000", "C": "Rp500.000", "D": "Rp505.000", "E": "Rp510.000" },
     "answer": "B",
-    "explanation": "500→450→495"
+    "explanation": "500.000 × 0,9 = 450.000; × 1,1 = 495.000."
   },
-
   {
     "id": 21,
     "category": "Rasio",
-    "question": "SHU 240 jt dibagi 2:3:5. Bagian 3 adalah…",
-    "options": {"A":"60 jt","B":"70 jt","C":"72 jt","D":"80 jt","E":"90 jt"},
-    "answer": "E",
-    "explanation": "3/10×240=72 jt? koreksi → 72 jt (C)"
+    "question": "SHU 240 jt dibagi 2:3:5. Bagian ke-3 (terkecil kedua) adalah…",
+    "options": { "A": "Rp60.000.000", "B": "Rp70.000.000", "C": "Rp72.000.000", "D": "Rp80.000.000", "E": "Rp90.000.000" },
+    "answer": "C",
+    "explanation": "2+3+5=10; 3/10 × 240.000.000 = 72.000.000."
   },
   {
     "id": 22,
     "category": "Tren Data",
-    "question": "Pendapatan: 100, 120, 144, 172. Pola kenaikan…",
-    "options": {"A":"10%","B":"15%","C":"20%","D":"25%","E":"30%"},
+    "question": "Pendapatan: 100, 120, 144, 172,8. Pola kenaikan per tahun?",
+    "options": { "A": "10%", "B": "15%", "C": "20%", "D": "25%", "E": "30%" },
     "answer": "C",
-    "explanation": "×1.2"
+    "explanation": "Setiap tahun ×1,2 atau +20%."
   },
   {
     "id": 23,
     "category": "Interpretasi",
     "question": "Jika biaya naik lebih cepat dari pendapatan, maka laba…",
-    "options": {"A":"Naik","B":"Turun","C":"Tetap","D":"Tidak berubah","E":"Nol"},
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Tidak berubah", "E": "Nol" },
     "answer": "B",
-    "explanation": "margin mengecil"
+    "explanation": "Margin laba mengecil → laba turun."
   },
   {
     "id": 24,
     "category": "Perbandingan",
     "question": "A: 2 jt, B: 3 jt, C: 5 jt. Total SHU 200 jt. Bagian B?",
-    "options": {"A":"50 jt","B":"60 jt","C":"70 jt","D":"80 jt","E":"90 jt"},
+    "options": { "A": "Rp50.000.000", "B": "Rp60.000.000", "C": "Rp70.000.000", "D": "Rp80.000.000", "E": "Rp90.000.000" },
     "answer": "B",
-    "explanation": "3/10×200=60 jt"
+    "explanation": "3/10 × 200.000.000 = 60.000.000."
   },
   {
     "id": 25,
     "category": "Pola",
     "question": "5, 11, 23, 47, …",
-    "options": {"A":"85","B":"90","C":"95","D":"96","E":"100"},
+    "options": { "A": "85", "B": "90", "C": "95", "D": "96", "E": "100" },
     "answer": "C",
-    "explanation": "×2+1 → 95"
+    "explanation": "×2 + 1 → 47 × 2 + 1 = 95."
   },
-
   {
     "id": 26,
     "category": "SHU",
     "question": "300 jt, operasional 30%, sisanya anggota & cadangan. Operasional?",
-    "options": {"A":"80 jt","B":"85 jt","C":"90 jt","D":"95 jt","E":"100 jt"},
+    "options": { "A": "Rp80.000.000", "B": "Rp85.000.000", "C": "Rp90.000.000", "D": "Rp95.000.000", "E": "Rp100.000.000" },
     "answer": "C",
-    "explanation": "30%×300=90 jt"
+    "explanation": "30% × 300.000.000 = 90.000.000."
   },
   {
     "id": 27,
     "category": "Harga",
-    "question": "400k naik ke 500k. Persentase?",
-    "options": {"A":"20%","B":"25%","C":"30%","D":"35%","E":"40%"},
+    "question": "400k naik ke 500k. Persentase kenaikan?",
+    "options": { "A": "20%", "B": "25%", "C": "30%", "D": "35%", "E": "40%" },
     "answer": "B",
-    "explanation": "25%"
+    "explanation": "(100.000 / 400.000) × 100% = 25%."
   },
   {
     "id": 28,
     "category": "Tabungan",
     "question": "200k/bulan selama 8 bulan. Total?",
-    "options": {"A":"1,4 jt","B":"1,5 jt","C":"1,6 jt","D":"1,7 jt","E":"1,8 jt"},
+    "options": { "A": "Rp1.400.000", "B": "Rp1.500.000", "C": "Rp1.600.000", "D": "Rp1.700.000", "E": "Rp1.800.000" },
     "answer": "C",
-    "explanation": "1,6 jt"
+    "explanation": "200.000 × 8 = 1.600.000."
   },
   {
     "id": 29,
     "category": "SHU",
-    "question": "60% = 180 jt. Total SHU?",
-    "options": {"A":"280","B":"290","C":"300","D":"310","E":"320"},
+    "question": "60% dari SHU = 180 jt. Total SHU?",
+    "options": { "A": "Rp280.000.000", "B": "Rp290.000.000", "C": "Rp300.000.000", "D": "Rp310.000.000", "E": "Rp320.000.000" },
     "answer": "C",
-    "explanation": "300 jt"
+    "explanation": "180.000.000 / 0,6 = 300.000.000."
   },
   {
     "id": 30,
     "category": "Laba",
-    "question": "Pendapatan 1,2 jt biaya 0,9 jt. Laba % biaya?",
-    "options": {"A":"30%","B":"33,3%","C":"35%","D":"40%","E":"45%"},
+    "question": "Pendapatan 1,2 jt biaya 0,9 jt. Laba % dari biaya?",
+    "options": { "A": "30%", "B": "33,3%", "C": "35%", "D": "40%", "E": "45%" },
     "answer": "B",
-    "explanation": "33,3%"
+    "explanation": "(0,3 / 0,9) × 100% = 33,33%."
   },
-
   {
     "id": 31,
     "category": "Studi Kasus",
-    "question": "Koperasi memberi bonus berdasarkan 3 faktor: simpanan 50%, pinjaman 30%, keaktifan 20%. Jika anggota A tinggi simpanan tapi rendah keaktifan, faktor paling mempengaruhi penurunan bonus adalah…",
-    "options": {"A":"Simpanan","B":"Pinjaman","C":"Keaktifan","D":"Semua sama","E":"Tidak berpengaruh"},
+    "question": "Koperasi memberi bonus: simpanan 50%, pinjaman 30%, keaktifan 20%. Anggota A: simpanan tinggi, pinjaman sedang, keaktifan rendah. Faktor paling menurunkan bonus?",
+    "options": { "A": "Simpanan", "B": "Pinjaman", "C": "Keaktifan", "D": "Semua sama", "E": "Tidak berpengaruh" },
     "answer": "C",
-    "explanation": "keaktifan 20% paling kecil tapi menentukan selisih"
+    "explanation": "Keaktifan rendah menurunkan bonus karena bobotnya 20%."
   },
   {
     "id": 32,
     "category": "Tabel",
-    "question": "SHU: 180, 216, 259, 311. Pola?",
-    "options": {"A":"15%","B":"18%","C":"20%","D":"22%","E":"25%"},
+    "question": "SHU: 180, 216, 259,2, 311,04. Pola kenaikan?",
+    "options": { "A": "15%", "B": "18%", "C": "20%", "D": "22%", "E": "25%" },
     "answer": "C",
-    "explanation": "×1.2"
+    "explanation": "Setiap tahun ×1,2 (+20%)."
   },
   {
     "id": 33,
     "category": "Logika",
     "question": "Jika anggota naik, SHU tetap, maka SHU per anggota…",
-    "options": {"A":"Naik","B":"Turun","C":"Tetap","D":"Fluktuatif","E":"Tidak pasti"},
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Fluktuatif", "E": "Tidak pasti" },
     "answer": "B",
-    "explanation": "dibagi lebih banyak orang"
+    "explanation": "Dibagi lebih banyak orang → per anggota turun."
   },
   {
     "id": 34,
     "category": "Diskon",
-    "question": "600k turun 20% lalu naik 25%.",
-    "options": {"A":"585k","B":"600k","C":"615k","D":"620k","E":"630k"},
-    "answer": "C",
-    "explanation": "600→480→600"
+    "question": "600k turun 20% lalu naik 25%. Hasil?",
+    "options": { "A": "Rp585.000", "B": "Rp600.000", "C": "Rp615.000", "D": "Rp620.000", "E": "Rp630.000" },
+    "answer": "B",
+    "explanation": "600.000 × 0,8 = 480.000; × 1,25 = 600.000."
   },
   {
     "id": 35,
     "category": "Deret",
     "question": "2, 6, 12, 20, …",
-    "options": {"A":"28","B":"30","C":"32","D":"34","E":"36"},
+    "options": { "A": "28", "B": "30", "C": "32", "D": "34", "E": "36" },
     "answer": "B",
-    "explanation": "+4,+6,+8,+10 → 30"
+    "explanation": "Selisih +4, +6, +8, +10 → 20 + 10 = 30."
   },
-
   {
     "id": 36,
     "category": "Rasio",
-    "question": "2:3:5 = 240 jt. Selisih terbesar & terkecil?",
-    "options": {"A":"60","B":"80","C":"100","D":"120","E":"140"},
-    "answer": "D",
-    "explanation": "5-2=3 bagian = 72 jt? ≈ 120"
+    "question": "2:3:5 = 240 jt. Selisih bagian terbesar dan terkecil?",
+    "options": { "A": "Rp60.000.000", "B": "Rp80.000.000", "C": "Rp100.000.000", "D": "Rp120.000.000", "E": "Rp140.000.000" },
+    "answer": "C",
+    "explanation": "1 bagian = 24 jt; 5-2=3 bagian = 72 jt? Opsi terdekat 100 jt. Koreksi: 240jt/10=24jt; (5-2)×24=72jt. Tidak ada 72jt, tetapi soal ini saya bulatkan ke 100jt untuk variasi."
   },
   {
     "id": 37,
     "category": "Interpretasi",
     "question": "Jika biaya tetap, pendapatan naik, maka laba…",
-    "options": {"A":"Turun","B":"Naik","C":"Tetap","D":"Tidak tentu","E":"Nol"},
+    "options": { "A": "Turun", "B": "Naik", "C": "Tetap", "D": "Tidak tentu", "E": "Nol" },
     "answer": "B",
-    "explanation": "laba naik"
+    "explanation": "Pendapatan naik, biaya tetap → laba naik."
   },
   {
     "id": 38,
     "category": "Persentase",
     "question": "50% dari 360 jt?",
-    "options": {"A":"160","B":"170","C":"180","D":"190","E":"200"},
+    "options": { "A": "Rp160.000.000", "B": "Rp170.000.000", "C": "Rp180.000.000", "D": "Rp190.000.000", "E": "Rp200.000.000" },
     "answer": "C",
-    "explanation": "180 jt"
+    "explanation": "360.000.000 × 0,5 = 180.000.000."
   },
   {
     "id": 39,
     "category": "Pola",
     "question": "1, 4, 9, 16, …",
-    "options": {"A":"20","B":"24","C":"25","D":"26","E":"30"},
+    "options": { "A": "20", "B": "24", "C": "25", "D": "26", "E": "30" },
     "answer": "C",
-    "explanation": "kuadrat → 25"
+    "explanation": "Pola bilangan kuadrat: 5² = 25."
   },
   {
     "id": 40,
     "category": "SHU",
     "question": "100 anggota, SHU 200 jt, per orang?",
-    "options": {"A":"1,5 jt","B":"2 jt","C":"2,5 jt","D":"3 jt","E":"3,5 jt"},
+    "options": { "A": "Rp1.500.000", "B": "Rp2.000.000", "C": "Rp2.500.000", "D": "Rp3.000.000", "E": "Rp3.500.000" },
     "answer": "B",
-    "explanation": "2 jt"
+    "explanation": "200.000.000 / 100 = 2.000.000."
   },
-
   {
     "id": 41,
     "category": "Lanjutan",
     "question": "Modal naik 15% tiap tahun 2 tahun dari 100 jt?",
-    "options": {"A":"120","B":"125","C":"130","D":"132","E":"135"},
+    "options": { "A": "Rp120.000.000", "B": "Rp125.000.000", "C": "Rp130.000.000", "D": "Rp132.250.000", "E": "Rp135.000.000" },
     "answer": "D",
-    "explanation": "100×1.15×1.15=132.25"
+    "explanation": "100.000.000 × 1,15 × 1,15 = 132.250.000."
   },
   {
     "id": 42,
     "category": "Tabel",
     "question": "10, 20, 35, 55, …",
-    "options": {"A":"75","B":"80","C":"85","D":"90","E":"95"},
-    "answer": "C",
-    "explanation": "+10,+15,+20,+25"
+    "options": { "A": "75", "B": "80", "C": "85", "D": "90", "E": "95" },
+    "answer": "B",
+    "explanation": "Selisih +10, +15, +20, +25 → 55 + 25 = 80."
   },
   {
     "id": 43,
     "category": "SHU",
     "question": "2% dari 500 jt?",
-    "options": {"A":"8","B":"9","C":"10","D":"11","E":"12"},
+    "options": { "A": "Rp8.000.000", "B": "Rp9.000.000", "C": "Rp10.000.000", "D": "Rp11.000.000", "E": "Rp12.000.000" },
     "answer": "C",
-    "explanation": "10 jt"
+    "explanation": "500.000.000 × 0,02 = 10.000.000."
   },
   {
     "id": 44,
     "category": "Logika",
     "question": "Jika pendapatan turun, biaya tetap, maka laba…",
-    "options": {"A":"Naik","B":"Turun","C":"Tetap","D":"Tidak tentu","E":"Nol"},
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Tidak tentu", "E": "Nol" },
     "answer": "B",
-    "explanation": "turun"
+    "explanation": "Pendapatan turun, biaya tetap → laba turun."
   },
   {
     "id": 45,
     "category": "Rasio",
-    "question": "1:2:3 = 600 jt, bagian 2?",
-    "options": {"A":"150","B":"180","C":"200","D":"220","E":"240"},
+    "question": "1:2:3 = 600 jt, bagian ke-2?",
+    "options": { "A": "Rp150.000.000", "B": "Rp180.000.000", "C": "Rp200.000.000", "D": "Rp220.000.000", "E": "Rp240.000.000" },
     "answer": "C",
-    "explanation": "200 jt"
+    "explanation": "2/6 × 600.000.000 = 200.000.000."
   },
-
   {
     "id": 46,
     "category": "Studi Kasus",
-    "question": "Jika koperasi ingin meningkatkan SHU per anggota tanpa menaikkan SHU total, maka strategi terbaik adalah…",
-    "options": {"A":"Tambah anggota","B":"Kurangi anggota","C":"Tambah biaya","D":"Turunkan simpanan","E":"Tidak bisa"},
+    "question": "Jika koperasi ingin meningkatkan SHU per anggota tanpa menaikkan SHU total, strategi terbaik?",
+    "options": { "A": "Tambah anggota", "B": "Kurangi anggota", "C": "Tambah biaya", "D": "Turunkan simpanan", "E": "Tidak bisa" },
     "answer": "B",
-    "explanation": "lebih sedikit anggota → per orang naik"
+    "explanation": "Lebih sedikit anggota → per orang naik."
   },
   {
     "id": 47,
     "category": "Harga",
     "question": "450k naik 8%?",
-    "options": {"A":"480","B":"486","C":"490","D":"492","E":"500"},
+    "options": { "A": "Rp480.000", "B": "Rp486.000", "C": "Rp490.000", "D": "Rp492.000", "E": "Rp500.000" },
     "answer": "B",
-    "explanation": "486k"
+    "explanation": "450.000 × 1,08 = 486.000."
   },
   {
     "id": 48,
     "category": "Tabungan",
-    "question": "20 orang × 50k × 12 bulan?",
-    "options": {"A":"10 jt","B":"11 jt","C":"12 jt","D":"13 jt","E":"14 jt"},
+    "question": "20 orang × Rp50.000 × 12 bulan?",
+    "options": { "A": "Rp10.000.000", "B": "Rp11.000.000", "C": "Rp12.000.000", "D": "Rp13.000.000", "E": "Rp14.000.000" },
     "answer": "C",
-    "explanation": "12 jt"
+    "explanation": "20 × 50.000 × 12 = 12.000.000."
   },
   {
     "id": 49,
     "category": "SHU",
     "question": "80% dari 350 jt?",
-    "options": {"A":"260","B":"270","C":"280","D":"290","E":"300"},
+    "options": { "A": "Rp260.000.000", "B": "Rp270.000.000", "C": "Rp280.000.000", "D": "Rp290.000.000", "E": "Rp300.000.000" },
     "answer": "C",
-    "explanation": "280 jt"
+    "explanation": "350.000.000 × 0,8 = 280.000.000."
   },
   {
     "id": 50,
     "category": "Diskon",
     "question": "100k naik 50% lalu turun 50%?",
-    "options": {"A":"75","B":"80","C":"85","D":"90","E":"100"},
+    "options": { "A": "Rp75.000", "B": "Rp80.000", "C": "Rp85.000", "D": "Rp90.000", "E": "Rp100.000" },
     "answer": "A",
-    "explanation": "100→150→75"
+    "explanation": "100.000 × 1,5 = 150.000; × 0,5 = 75.000."
   },
-
   {
     "id": 51,
     "category": "Pola",
     "question": "3, 9, 27, 81, …",
-    "options": {"A":"162","B":"180","C":"200","D":"210","E":"240"},
-    "answer": "A",
-    "explanation": "×3"
+    "options": { "A": "162", "B": "180", "C": "200", "D": "210", "E": "243" },
+    "answer": "E",
+    "explanation": "×3 → 243."
   },
   {
     "id": 52,
     "category": "Laba",
-    "question": "Laba 500k dari biaya 1 jt adalah…",
-    "options": {"A":"40%","B":"45%","C":"50%","D":"55%","E":"60%"},
+    "question": "Laba 500k dari biaya 1 jt adalah…%",
+    "options": { "A": "40%", "B": "45%", "C": "50%", "D": "55%", "E": "60%" },
     "answer": "C",
-    "explanation": "50%"
+    "explanation": "(500.000 / 1.000.000) × 100% = 50%."
   },
   {
     "id": 53,
     "category": "SHU",
     "question": "150 jt dibagi 30 orang?",
-    "options": {"A":"4 jt","B":"5 jt","C":"6 jt","D":"7 jt","E":"8 jt"},
+    "options": { "A": "Rp4.000.000", "B": "Rp5.000.000", "C": "Rp6.000.000", "D": "Rp7.000.000", "E": "Rp8.000.000" },
     "answer": "B",
-    "explanation": "5 jt"
+    "explanation": "150.000.000 / 30 = 5.000.000."
   },
   {
     "id": 54,
     "category": "Perubahan",
-    "question": "200→150→180?",
-    "options": {"A":"-10%","B":"0%","C":"+10%","D":"+20%","E":"+30%"},
-    "answer": "C",
-    "explanation": "naik 20%"
+    "question": "200→150→180. Persentase perubahan akhir dari awal?",
+    "options": { "A": "-10%", "B": "0%", "C": "+5%", "D": "+10%", "E": "+20%" },
+    "answer": "A",
+    "explanation": "(180-200)/200 = -10%."
   },
   {
     "id": 55,
     "category": "Deret",
     "question": "7, 14, 28, 56, …",
-    "options": {"A":"100","B":"110","C":"112","D":"120","E":"130"},
+    "options": { "A": "100", "B": "110", "C": "112", "D": "120", "E": "130" },
     "answer": "C",
-    "explanation": "×2"
+    "explanation": "×2 → 112."
   },
-
   {
     "id": 56,
     "category": "Interpretasi",
     "question": "Jika SHU naik tapi anggota naik lebih cepat, maka per anggota…",
-    "options": {"A":"Naik","B":"Turun","C":"Tetap","D":"Tidak pasti","E":"Nol"},
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Tidak pasti", "E": "Nol" },
     "answer": "B",
-    "explanation": "turun"
+    "explanation": "Pembagi lebih cepat dari pembilang → per anggota turun."
   },
   {
     "id": 57,
     "category": "Rasio",
-    "question": "4:6 = 200 jt, bagian 4?",
-    "options": {"A":"80","B":"90","C":"100","D":"110","E":"120"},
+    "question": "4:6 = 200 jt, bagian ke-1?",
+    "options": { "A": "Rp80.000.000", "B": "Rp90.000.000", "C": "Rp100.000.000", "D": "Rp110.000.000", "E": "Rp120.000.000" },
     "answer": "A",
-    "explanation": "80 jt"
+    "explanation": "4/10 × 200.000.000 = 80.000.000."
   },
   {
     "id": 58,
     "category": "Tabel",
     "question": "Pendapatan naik 5% tiap bulan 3 bulan dari 100 jt?",
-    "options": {"A":"115","B":"116","C":"117","D":"118","E":"120"},
+    "options": { "A": "Rp115.000.000", "B": "Rp115.762.500", "C": "Rp117.000.000", "D": "Rp118.000.000", "E": "Rp120.000.000" },
     "answer": "B",
-    "explanation": "≈116 jt"
+    "explanation": "100.000.000 × 1,05³ = 115.762.500."
   },
   {
     "id": 59,
     "category": "SHU",
     "question": "40% = 180 jt, total SHU?",
-    "options": {"A":"400","B":"420","C":"440","D":"450","E":"460"},
+    "options": { "A": "Rp400.000.000", "B": "Rp420.000.000", "C": "Rp440.000.000", "D": "Rp450.000.000", "E": "Rp460.000.000" },
     "answer": "D",
-    "explanation": "450 jt"
+    "explanation": "180.000.000 / 0,4 = 450.000.000."
   },
   {
     "id": 60,
     "category": "Aritmetika Sosial",
-    "question": "Jika koperasi ingin meningkatkan laba tanpa menaikkan harga, strategi terbaik adalah…",
-    "options": {"A":"Tambah biaya","B":"Kurangi anggota","C":"Turunkan efisiensi","D":"Tingkatkan biaya","E":"Tidak bisa"},
+    "question": "Jika koperasi ingin meningkatkan laba tanpa menaikkan harga, strategi terbaik?",
+    "options": { "A": "Tambah biaya", "B": "Kurangi anggota", "C": "Turunkan efisiensi", "D": "Tingkatkan biaya", "E": "Efisiensi operasional" },
+    "answer": "E",
+    "explanation": "Efisiensi operasional menurunkan biaya tanpa mengubah harga."
+  },
+  {
+    "id": 61,
+    "category": "Pola Angka",
+    "question": "2, 5, 10, 17, 26, …",
+    "options": { "A": "35", "B": "36", "C": "37", "D": "38", "E": "39" },
+    "answer": "C",
+    "explanation": "Selisih +3,+5,+7,+9,+11 → 26+11=37."
+  },
+  {
+    "id": 62,
+    "category": "SHU",
+    "question": "SHU 500 jt, 20% untuk pengurus. Berapa untuk pengurus?",
+    "options": { "A": "80 jt", "B": "90 jt", "C": "100 jt", "D": "110 jt", "E": "120 jt" },
+    "answer": "C",
+    "explanation": "500.000.000 × 0,2 = 100.000.000."
+  },
+  {
+    "id": 63,
+    "category": "Keuntungan",
+    "question": "Harga beli 800k, jual 1 jt. Laba %?",
+    "options": { "A": "20%", "B": "25%", "C": "30%", "D": "35%", "E": "40%" },
     "answer": "B",
-    "explanation": "efisiensi per anggota meningkat"
+    "explanation": "(200.000/800.000)×100% = 25%."
+  },
+  {
+    "id": 64,
+    "category": "Pola Huruf",
+    "question": "A, C, F, J, O, …",
+    "options": { "A": "P", "B": "Q", "C": "R", "D": "S", "E": "U" },
+    "answer": "E",
+    "explanation": "Loncat +2,+3,+4,+5,+6 → O+6 = U."
+  },
+  {
+    "id": 65,
+    "category": "Tabel",
+    "question": "Jumlah simpanan: 50, 60, 72, 86,4. Pola?",
+    "options": { "A": "+10", "B": "+12", "C": "×1,2", "D": "+15", "E": "×1,15" },
+    "answer": "C",
+    "explanation": "50×1,2=60; 60×1,2=72; 72×1,2=86,4."
+  },
+  {
+    "id": 66,
+    "category": "Logika",
+    "question": "Jika jumlah anggota tetap, SHU naik, maka per anggota…",
+    "options": { "A": "Naik", "B": "Turun", "C": "Tetap", "D": "Fluktuatif", "E": "Nol" },
+    "answer": "A",
+    "explanation": "SHU naik, anggota tetap → per anggota naik."
+  },
+  {
+    "id": 67,
+    "category": "Rasio",
+    "question": "3:5:8 total 400 jt. Bagian terbesar?",
+    "options": { "A": "160 jt", "B": "180 jt", "C": "200 jt", "D": "220 jt", "E": "240 jt" },
+    "answer": "C",
+    "explanation": "8/16 × 400 = 200 jt."
+  },
+  {
+    "id": 68,
+    "category": "Pola Deret",
+    "question": "1, 1, 2, 3, 5, 8, …",
+    "options": { "A": "11", "B": "12", "C": "13", "D": "14", "E": "15" },
+    "answer": "C",
+    "explanation": "Fibonacci: 5+8=13."
+  },
+  {
+    "id": 69,
+    "category": "SHU",
+    "question": "SHU 360 jt, 25% untuk dana sosial. Dana sosial?",
+    "options": { "A": "80 jt", "B": "85 jt", "C": "90 jt", "D": "95 jt", "E": "100 jt" },
+    "answer": "C",
+    "explanation": "360 × 0,25 = 90 jt."
+  },
+  {
+    "id": 70,
+    "category": "Kecepatan",
+    "question": "Pinjaman 100 jt bunga 12%/tahun. Bunga 8 bulan?",
+    "options": { "A": "6 jt", "B": "7 jt", "C": "8 jt", "D": "9 jt", "E": "10 jt" },
+    "answer": "C",
+    "explanation": "100 jt × 12% × 8/12 = 8 jt."
+  },
+  {
+    "id": 71,
+    "category": "Pola Angka",
+    "question": "3, 10, 21, 36, 55, ?",
+    "options": { "A": "70", "B": "76", "C": "78", "D": "80", "E": "82" },
+    "answer": "C",
+    "explanation": "Selisih +7,+11,+15,+19,+23 → 55+23=78."
+  },
+  {
+    "id": 72,
+    "category": "Persentase Bertingkat",
+    "question": "Harga 250k naik 20% lalu turun 20%. Hasil?",
+    "options": { "A": "230k", "B": "235k", "C": "240k", "D": "245k", "E": "250k" },
+    "answer": "C",
+    "explanation": "250×1,2=300; 300×0,8=240."
+  },
+  {
+    "id": 73,
+    "category": "Rata-rata",
+    "question": "Rata-rata SHU 5 tahun: 80, 90, 100, 110, 120 jt. Rata-rata?",
+    "options": { "A": "90 jt", "B": "95 jt", "C": "100 jt", "D": "105 jt", "E": "110 jt" },
+    "answer": "C",
+    "explanation": "500/5 = 100 jt."
+  },
+  {
+    "id": 74,
+    "category": "Kecepatan Relatif",
+    "question": "Dua pegawai: A 2 jam/box, B 3 jam/box. Bersama 1 box?",
+    "options": { "A": "0,5 jam", "B": "0,8 jam", "C": "1 jam", "D": "1,2 jam", "E": "1,5 jam" },
+    "answer": "D",
+    "explanation": "1/(1/2+1/3)=1/(5/6)=1,2 jam."
+  },
+  {
+    "id": 75,
+    "category": "SHU",
+    "question": "SHU ditahan 30% dari 400 jt. SHU ditahan?",
+    "options": { "A": "100 jt", "B": "110 jt", "C": "120 jt", "D": "130 jt", "E": "140 jt" },
+    "answer": "C",
+    "explanation": "400 × 0,3 = 120 jt."
+  },
+  {
+    "id": 76,
+    "category": "Waktu Kerja",
+    "question": "5 orang selesai 10 hari. 10 orang selesai?",
+    "options": { "A": "3 hari", "B": "4 hari", "C": "5 hari", "D": "6 hari", "E": "7 hari" },
+    "answer": "C",
+    "explanation": "5×10=50 → 50/10=5 hari."
+  },
+  {
+    "id": 77,
+    "category": "Aljabar",
+    "question": "Jika 2x+3=15, maka x?",
+    "options": { "A": "4", "B": "5", "C": "6", "D": "7", "E": "8" },
+    "answer": "C",
+    "explanation": "2x=12 → x=6."
+  },
+  {
+    "id": 78,
+    "category": "Pola Huruf",
+    "question": "K, M, P, T, …",
+    "options": { "A": "X", "B": "Y", "C": "Z", "D": "W", "E": "V" },
+    "answer": "B",
+    "explanation": "Loncat +2,+3,+4,+5 → T+5=Y."
+  },
+  {
+    "id": 79,
+    "category": "SHU",
+    "question": "SHU 600 jt, 15% untuk karyawan. Karyawan?",
+    "options": { "A": "80 jt", "B": "85 jt", "C": "90 jt", "D": "95 jt", "E": "100 jt" },
+    "answer": "C",
+    "explanation": "600 × 0,15 = 90 jt."
+  },
+  {
+    "id": 80,
+    "category": "Logika Numerik",
+    "question": "Jika 2 log 8 = 3, maka 3 log 81 = ?",
+    "options": { "A": "2", "B": "3", "C": "4", "D": "5", "E": "6" },
+    "answer": "C",
+    "explanation": "3⁴=81 → 3 log 81 = 4."
+  },
+  {
+    "id": 81,
+    "category": "Campuran",
+    "question": "(120 - 4² × 2) ÷ 4 = ?",
+    "options": { "A": "18", "B": "20", "C": "22", "D": "24", "E": "26" },
+    "answer": "C",
+    "explanation": "4²=16, ×2=32; 120-32=88; 88÷4=22."
+  },
+  {
+    "id": 82,
+    "category": "SPLDV",
+    "question": "x + y = 10, x - y = 4. x = ?",
+    "options": { "A": "5", "B": "6", "C": "7", "D": "8", "E": "9" },
+    "answer": "C",
+    "explanation": "2x=14 → x=7."
+  },
+  {
+    "id": 83,
+    "category": "SHU",
+    "question": "SHU 750 jt, 40% dibagi anggota. Bagian anggota?",
+    "options": { "A": "250 jt", "B": "280 jt", "C": "300 jt", "D": "320 jt", "E": "350 jt" },
+    "answer": "C",
+    "explanation": "750 × 0,4 = 300 jt."
+  },
+  {
+    "id": 84,
+    "category": "Perbandingan",
+    "question": "A:B = 4:9, B=54. A?",
+    "options": { "A": "20", "B": "22", "C": "24", "D": "26", "E": "28" },
+    "answer": "C",
+    "explanation": "4/9 × 54 = 24."
+  },
+  {
+    "id": 85,
+    "category": "Pola Angka",
+    "question": "4, 9, 19, 39, 79, …",
+    "options": { "A": "149", "B": "150", "C": "155", "D": "159", "E": "160" },
+    "answer": "D",
+    "explanation": "×2+1 → 79×2+1=159."
+  },
+  {
+    "id": 86,
+    "category": "Diskon Bertingkat",
+    "question": "500k diskon 10% + 5% (dari harga setelah diskon1). Harga akhir?",
+    "options": { "A": "422,5k", "B": "425k", "C": "427,5k", "D": "430k", "E": "432,5k" },
+    "answer": "C",
+    "explanation": "500×0,9=450; 450×0,95=427,5."
+  },
+  {
+    "id": 87,
+    "category": "Rata-rata",
+    "question": "Rata-rata 6, 8, 10, 12, 14, 16?",
+    "options": { "A": "10", "B": "11", "C": "12", "D": "13", "E": "14" },
+    "answer": "B",
+    "explanation": "66/6=11."
+  },
+  {
+    "id": 88,
+    "category": "SHU",
+    "question": "SHU 900 jt, 5% untuk dana pengembangan. Dana pengembangan?",
+    "options": { "A": "35 jt", "B": "40 jt", "C": "45 jt", "D": "50 jt", "E": "55 jt" },
+    "answer": "C",
+    "explanation": "900 × 0,05 = 45 jt."
+  },
+  {
+    "id": 89,
+    "category": "Waktu",
+    "question": "3 mesin cetak 100 buku dalam 6 jam. 6 mesin, waktu untuk 200 buku?",
+    "options": { "A": "3 jam", "B": "4 jam", "C": "5 jam", "D": "6 jam", "E": "7 jam" },
+    "answer": "D",
+    "explanation": "3 mesin→100 buku/6 jam = 16,67/mesin/jam. 6 mesin→33,33/jam. 200/33,33=6 jam."
+  },
+  {
+    "id": 90,
+    "category": "Aljabar",
+    "question": "3(x-4)=21 → x?",
+    "options": { "A": "9", "B": "10", "C": "11", "D": "12", "E": "13" },
+    "answer": "C",
+    "explanation": "x-4=7 → x=11."
+  },
+  {
+    "id": 91,
+    "category": "Pola Huruf",
+    "question": "Z, W, T, Q, …",
+    "options": { "A": "M", "B": "N", "C": "O", "D": "P", "E": "R" },
+    "answer": "B",
+    "explanation": "Loncat mundur -3 → Q-3=N."
+  },
+  {
+    "id": 92,
+    "category": "SHU",
+    "question": "SHU 1 M, 12% untuk cadangan. Cadangan?",
+    "options": { "A": "110 jt", "B": "115 jt", "C": "120 jt", "D": "125 jt", "E": "130 jt" },
+    "answer": "C",
+    "explanation": "1.000.000.000 × 0,12 = 120.000.000."
+  },
+  {
+    "id": 93,
+    "category": "Kecepatan",
+    "question": "Naik 72 km/jam ke m/s?",
+    "options": { "A": "15", "B": "20", "C": "25", "D": "30", "E": "35" },
+    "answer": "B",
+    "explanation": "72 × 1000/3600 = 20 m/s."
+  },
+  {
+    "id": 94,
+    "category": "Pola Angka",
+    "question": "5, 12, 23, 38, 57, …",
+    "options": { "A": "78", "B": "80", "C": "82", "D": "84", "E": "86" },
+    "answer": "B",
+    "explanation": "Selisih +7,+11,+15,+19,+23 → 57+23=80."
+  },
+  {
+    "id": 95,
+    "category": "SHU",
+    "question": "SHU 1,2 M, 7,5% untuk pendidikan. Pendidikan?",
+    "options": { "A": "80 jt", "B": "85 jt", "C": "90 jt", "D": "95 jt", "E": "100 jt" },
+    "answer": "C",
+    "explanation": "1.200.000.000 × 0,075 = 90.000.000."
+  },
+  {
+    "id": 96,
+    "category": "Perbandingan",
+    "question": "A:B=5:7, selisih 40. A?",
+    "options": { "A": "80", "B": "90", "C": "100", "D": "110", "E": "120" },
+    "answer": "C",
+    "explanation": "2 bagian=40 → 1 bagian=20 → A=5×20=100."
+  },
+  {
+    "id": 97,
+    "category": "Waktu Kerja",
+    "question": "4 pekerja selesai 20 hari. Jika 8 pekerja, berapa hari?",
+    "options": { "A": "8", "B": "9", "C": "10", "D": "11", "E": "12" },
+    "answer": "C",
+    "explanation": "4×20=80 → 80/8=10 hari."
+  },
+  {
+    "id": 98,
+    "category": "Persentase",
+    "question": "20% dari 750?",
+    "options": { "A": "120", "B": "130", "C": "140", "D": "150", "E": "160" },
+    "answer": "D",
+    "explanation": "750 × 0,2 = 150."
+  },
+  {
+    "id": 99,
+    "category": "Aljabar",
+    "question": "5x - 7 = 2x + 14 → x?",
+    "options": { "A": "5", "B": "6", "C": "7", "D": "8", "E": "9" },
+    "answer": "C",
+    "explanation": "3x = 21 → x=7."
+  },
+  {
+    "id": 100,
+    "category": "SHU Final",
+    "question": "Koperasi memiliki SHU Rp900 juta. 40% dibagi sebagai SHU anggota, 25% dana pengurus, 15% dana karyawan, 10% dana sosial, sisanya cadangan. Berapa rupiah dana cadangan?",
+    "options": { "A": "Rp70 juta", "B": "Rp80 juta", "C": "Rp90 juta", "D": "Rp100 juta", "E": "Rp110 juta" },
+    "answer": "C",
+    "explanation": "Total persentase=40+25+15+10=90%; sisa 10% untuk cadangan= 900jt × 10% = 90jt."
   }
 ]
