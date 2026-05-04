@@ -197,7 +197,7 @@
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no25_ans_b.png",
     "answer": "B",
-    "explanation": ""
+    "explanation": "Gambar B merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya rotasikan semua pilihan jawaban sehingga arah panah tegak lurus ke bawah dan ke atas. Terlihat hanya pilihan B yang sama dengan gambar pertama."
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no26_ans_a.png",
     "answer": "A",
-    "explanation": ""
+    "explanation": "Gambar A merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya arahkan panah blok hitam ke arah kiri seperti gambar pertama, lalu perhatikan lingkaran putihnya. Hanya gambar A yang lingkarannya berada di atas, yang lain ada di bawah."
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no27_ans_d.png",
     "answer": "D",
-    "explanation": ""
+    "explanation": "Gambar D merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya arahkan gambar panah ke bawah. Terlihat hanya gambar D yang posisinya sama persis dengan gambar pertama."
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no28_ans_c.png",
     "answer": "C",
-    "explanation": ""
+    "explanation": "Gambar C merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya putar gambar pada pilihan jawaban sehingga posisi lingkaran hitam ada di sisi kanan. Kemudian perhatikan arah panah, jika arahnya menghadap ke atas seperti gambar pertama, maka itulah jawabannya."
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no29_ans_b.png",
     "answer": "B",
-    "explanation": ""
+    "explanation": "Gambar B merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya putar semua pilihan jawaban sehingga arah panah tegak lurus ke bawah dan ke atas. Terlihat hanya pilihan B yang sama dengan gambar pertama."
   },
   {
     "id": 30,
@@ -237,6 +237,6 @@
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no30_ans_a.png",
     "answer": "A",
-    "explanation": ""
+    "explanation": "Gambar A merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya putar semua gambar pilihan jawaban, lalu cari mana gambar yang posisinya sama persis dengan gambar pertama."
   }
 ]
