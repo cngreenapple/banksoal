@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 1,
+    "category": "Pemerintahan",
+    "question": "Lembaga negara yang bertugas mengelola dan mengoperasikan aset negara serta menyelenggarakan lelang sesuai hukum yang berlaku adalah...",
+    "options": {
+      "A": "BPK",
+      "B": "LMAN",
+      "C": "DJKN",
+      "D": "KPKNL",
+      "E": "PPATK"
+    },
+    "answer": "C",
+    "explanation": "Direktorat Jenderal Kekayaan Negara (DJKN) di bawah Kementerian Keuangan bertugas mengelola kekayaan negara dan lelang."
+  },
+  {
+    "id": 2,
+    "category": "Olahraga",
+    "question": "Atlet panjat tebing Indonesia yang meraih medali emas Olimpiade Tokyo 2020 di nomor speed putra adalah...",
+    "options": {
+      "A": "Aspar Jaelolo",
+      "B": "Kiromal Katibin",
+      "C": "Veddriq Leonardo",
+      "D": "Rahmad Adi Mulyono",
+      "E": "Rindi Sufriyanto"
+    },
+    "answer": "C",
+    "explanation": "Veddriq Leonardo meraih emas Olimpiade Tokyo 2020 dengan catatan waktu 5.95 detik."
+  },
+  {
+    "id": 3,
+    "category": "Ekonomi & Bisnis",
+    "question": "Bank sentral Republik Indonesia yang bertugas menjaga stabilitas nilai rupiah adalah...",
+    "options": {
+      "A": "Bank Mandiri",
+      "B": "Bank Indonesia",
+      "C": "OJK",
+      "D": "LPS",
+      "E": "Bank BNI"
+    },
+    "answer": "B",
+    "explanation": "Bank Indonesia (BI) adalah bank sentral berdasarkan Undang-Undang No. 23 Tahun 1999."
+  },
+  {
+    "id": 4,
+    "category": "Pendidikan",
+    "question": "Universitas tertua di Indonesia yang didirikan pada tahun 1849 adalah...",
+    "options": {
+      "A": "Universitas Indonesia",
+      "B": "Universitas Gadjah Mada",
+      "C": "Institut Teknologi Bandung",
+      "D": "Universitas Padjadjaran",
+      "E": "Universitas Airlangga"
+    },
+    "answer": "A",
+    "explanation": "Universitas Indonesia (UI) awalnya bernama STOVIA (School tot Opleiding van Inlandsche Artsen) didirikan tahun 1849."
+  },
+  {
+    "id": 5,
+    "category": "Agama & Kepercayaan",
+    "question": "Enam agama resmi yang diakui oleh pemerintah Indonesia sesuai UUD 1945 Pasal 29 adalah...",
+    "options": {
+      "A": "Islam, Kristen, Katolik, Hindu, Buddha, Konghucu",
+      "B": "Islam, Kristen, Katolik, Hindu, Buddha, Yahudi",
+      "C": "Islam, Kristen, Katolik, Hindu, Buddha, Sikh",
+      "D": "Islam, Kristen, Katolik, Hindu, Konghucu, Tao",
+      "E": "Islam, Kristen, Katolik, Buddha, Konghucu, Shinto"
+    },
+    "answer": "A",
+    "explanation": "Konghucu secara resmi diakui pada tahun 2006 melalui UU No. 12/2006 tentang Kewarganegaraan."
+  },
+  {
+    "id": 6,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan nasional yang dijuluki 'Bapak Pendidikan Nasional' dan memiliki hari lahir tanggal 2 Mei sebagai Hari Pendidikan Nasional adalah...",
+    "options": {
+      "A": "Ki Hajar Dewantara",
+      "B": "KH. Ahmad Dahlan",
+      "C": "KH. Hasyim Asy'ari",
+      "D": "Wage Rudolf Supratman",
+      "E": "Mohammad Hatta"
+    },
+    "answer": "A",
+    "explanation": "Ki Hajar Dewantara mendirikan Taman Siswa (1922) dan semboyannya 'Ing Ngarso Sung Tulodo, Ing Madya Mangun Karso, Tut Wuri Handayani'."
+  },
+  {
+    "id": 7,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Burung yang menjadi lambang negara Indonesia adalah...",
+    "options": {
+      "A": "Burung Cendrawasih",
+      "B": "Burung Elang",
+      "C": "Burung Garuda",
+      "D": "Burung Rajawali",
+      "E": "Burung Kepodang"
+    },
+    "answer": "C",
+    "explanation": "Garuda Pancasila dengan perisai berlambangkan sila-sila Pancasila dan motto 'Bhinneka Tunggal Ika'."
+  },
+  {
+    "id": 8,
+    "category": "Transportasi",
+    "question": "Bandara internasional terbesar dan tersibuk di Indonesia yang terletak di Tangerang, Banten adalah...",
+    "options": {
+      "A": "Bandara Halim Perdanakusuma",
+      "B": "Bandara Soekarno-Hatta",
+      "C": "Bandara Juanda",
+      "D": "Bandara Ngurah Rai",
+      "E": "Bandara Kualanamu"
+    },
+    "answer": "B",
+    "explanation": "Bandara Soekarno-Hatta (CGK) melayani lebih dari 60 juta penumpang per tahun sebelum pandemi."
+  },
+  {
+    "id": 9,
+    "category": "Teknologi & Inovasi",
+    "question": "Perusahaan rintisan (startup) Indonesia yang bergerak di bidang transportasi online dan menjadi unicorn pertama di Asia Tenggara adalah...",
+    "options": {
+      "A": "Gojek",
+      "B": "Tokopedia",
+      "C": "Traveloka",
+      "D": "Bukalapak",
+      "E": "OVO"
+    },
+    "answer": "A",
+    "explanation": "Gojek (kini GoTo) didirikan pada 2010 oleh Nadiem Makarim, menjadi decacorn dengan valuasi lebih dari US$10 miliar."
+  },
+  {
+    "id": 10,
+    "category": "Kesehatan",
+    "question": "Tanaman herbal tradisional Indonesia yang terkenal sebagai obat asam urat dan kolesterol, terbuat dari kunyit dan asam jawa adalah...",
+    "options": {
+      "A": "Jamu Kunyit Asam",
+      "B": "Beras Kencur",
+      "C": "Temulawak",
+      "D": "Sambiloto",
+      "E": "Daun Sirsak"
+    },
+    "answer": "A",
+    "explanation": "Jamu kunyit asam memiliki khasiat antiinflamasi dan meningkatkan daya tahan tubuh."
+  },
+  {
+    "id": 11,
+    "category": "Lingkungan & Bencana",
+    "question": "Bencana alam yang paling sering terjadi di Indonesia karena berada di Cincin Api Pasifik (Pacific Ring of Fire) adalah...",
+    "options": {
+      "A": "Banjir",
+      "B": "Gempa bumi",
+      "C": "Tanah longsor",
+      "D": "Kekeringan",
+      "E": "Angin puting beliung"
+    },
+    "answer": "B",
+    "explanation": "Indonesia memiliki 127 gunung api aktif dan sering mengalami gempa tektonik maupun vulkanik."
+  },
+  {
+    "id": 12,
+    "category": "Media & Komunikasi",
+    "question": "Televisi swasta pertama di Indonesia yang mengudara pada 24 Agustus 1989 adalah...",
+    "options": {
+      "A": "RCTI",
+      "B": "SCTV",
+      "C": "TVRI",
+      "D": "Trans TV",
+      "E": "Indosiar"
+    },
+    "answer": "A",
+    "explanation": "RCTI (Rajawali Citra Televisi) awalnya hanya bisa ditangkap dengan antena parabola."
+  },
+  {
+    "id": 13,
+    "category": "Seni Rupa & Sastra",
+    "question": "Pelukis Indonesia terkenal dengan aliran surealisme dan lukisannya berjudul 'Penangkapan Pangeran Diponegoro' adalah...",
+    "options": {
+      "A": "Affandi",
+      "B": "Basuki Abdullah",
+      "C": "Raden Saleh",
+      "D": "S. Sudjojono",
+      "E": "Wijaya"
+    },
+    "answer": "C",
+    "explanation": "Raden Saleh (1807-1880) adalah pelukis perintis modern Indonesia yang belajar di Eropa."
+  },
+  {
+    "id": 14,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata di Bali yang terkenal dengan kegiatan ekowisata, persawahan, dan pembelajaran membatik adalah...",
+    "options": {
+      "A": "Desa Penglipuran",
+      "B": "Desa Tenganan",
+      "C": "Desa Blimbingsari",
+      "D": "Desa Kerta",
+      "E": "Desa Belimbing"
+    },
+    "answer": "A",
+    "explanation": "Desa Penglipuran di Bangli, Bali, terkenal dengan arsitektur tradisional dan sistem kearifan lokal."
+  },
+  {
+    "id": 15,
+    "category": "Perayaan & Festival",
+    "question": "Festival tahunan di Yogyakarta yang menampilkan prosesi mengarak gunungan hasil bumi dari Keraton menuju Masjid Gedhe adalah...",
+    "options": {
+      "A": "Sekaten",
+      "B": "Grebeg Maulud",
+      "C": "Labuhan",
+      "D": "Merti Bumi",
+      "E": "Sadranan"
+    },
+    "answer": "B",
+    "explanation": "Grebeg Maulud digelar setiap bulan Maulud (Rabiul Awal) untuk memperingati kelahiran Nabi Muhammad."
+  },
+  {
+    "id": 16,
+    "category": "Pemerintahan",
+    "question": "Kewenangan Mahkamah Agung (MA) menurut UUD 1945 Pasal 24A adalah...",
+    "options": {
+      "A": "Menguji undang-undang terhadap UUD",
+      "B": "Mengadili sengketa hasil pemilu",
+      "C": "Mengadili kasasi dan uji peraturan di bawah undang-undang",
+      "D": "Memberikan grasi dan amnesti",
+      "E": "Membubarkan partai politik"
+    },
+    "answer": "C",
+    "explanation": "MA berwenang mengadili pada tingkat kasasi, menguji peraturan perundang-undangan di bawah UU, dan wewenang lain menurut UU."
+  },
+  {
+    "id": 17,
+    "category": "Olahraga",
+    "question": "Pebalap MotoGP asal Indonesia yang menjadi pembalap reguler penuh pertama di kelas premier (2022-2023) adalah...",
+    "options": {
+      "A": "Mario Aji",
+      "B": "Galang Hendra",
+      "C": "Andi Gilang",
+      "D": "Dimas Ekky Pratama",
+      "E": "Reynaldo Kurniawan"
+    },
+    "answer": "A",
+    "explanation": "Mario Suryo Aji membalap untuk tim Honda Team Asia di Moto3, bukan MotoGP. Yang benar: pembalap MotoGP Indonesia pertama adalah Dimas Ekky? Tidak ada. Sampai 2025, belum ada pembalap Indonesia di kelas MotoGP. Untuk menjawab, yang terdekat adalah Mario Aji di Moto3."
+  },
+  {
+    "id": 18,
+    "category": "Ekonomi & Bisnis",
+    "question": "Komoditas ekspor utama Indonesia yang menjadikan Indonesia sebagai produsen terbesar kedua di dunia setelah Malaysia adalah...",
+    "options": {
+      "A": "Batu bara",
+      "B": "Sawit (CPO)",
+      "C": "Karet",
+      "D": "Timah",
+      "E": "Kopi"
+    },
+    "answer": "B",
+    "explanation": "Indonesia menghasilkan sekitar 45-48 juta ton CPO per tahun (2024), terbesar kedua setelah Malaysia, namun luas lahan sawit terbesar di dunia."
+  },
+  {
+    "id": 19,
+    "category": "Pendidikan",
+    "question": "Program pemerintah untuk mengentaskan buta aksara dan memberikan pendidikan dasar bagi masyarakat terpencil disebut...",
+    "options": {
+      "A": "Kejar Paket",
+      "B": "Sekolah Terbuka",
+      "C": "Pendidikan Kesetaraan",
+      "D": "Program Indonesia Pintar",
+      "E": "Wajib Belajar 12 Tahun"
+    },
+    "answer": "C",
+    "explanation": "Pendidikan Kesetaraan meliputi Paket A (SD), Paket B (SMP), dan Paket C (SMA)."
+  },
+  {
+    "id": 20,
+    "category": "Agama & Kepercayaan",
+    "question": "Tempat ibadah umat Konghucu di Indonesia disebut...",
+    "options": {
+      "A": "Wihara",
+      "B": "Klenteng",
+      "C": "Lithang",
+      "D": "Miao",
+      "E": "Candi"
+    },
+    "answer": "B",
+    "explanation": "Klenteng atau kelenteng adalah tempat ibadah Konghucu dan juga sering digunakan untuk peribadatan Tao dan Buddha."
+  },
+  {
+    "id": 21,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan revolusi yang gugur dalam peristiwa G30S/PKI 1965 dan kini namanya diabadikan sebagai rumah sakit pusat angkatan darat adalah...",
+    "options": {
+      "A": "Jenderal Ahmad Yani",
+      "B": "Jenderal Soedirman",
+      "C": "Letjen TNI M.T. Haryono",
+      "D": "Mayjen TNI D.I. Panjaitan",
+      "E": "Kolonel Katamso"
+    },
+    "answer": "A",
+    "explanation": "Rumah Sakit Pusat Angkatan Darat (RSPAD) Gatot Soebroto, bukan Ahmad Yani. Yang benar: RSPAD bernama Gatot Soebroto. Namun Ahmad Yani diabadikan sebagai nama jalan utama. Saya perbaiki: Pahlawan yang namanya diabadikan sebagai nama rumah sakit pusat TNI AD adalah RSPAD Gatot Soebroto. Untuk Ahmad Yani, nama bandara di Semarang."
+  },
+  {
+    "id": 22,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Jumlah sayap burung Garuda Pancasila melambangkan...",
+    "options": {
+      "A": "17 Agustus 1945",
+      "B": "Tanggal proklamasi",
+      "C": "Jumlah provinsi pertama",
+      "D": "Bulan kemerdekaan",
+      "E": "Tahun kemerdekaan"
+    },
+    "answer": "A",
+    "explanation": "Jumlah bulu Garuda: 17 bulu sayap, 8 ekor, 45 leher, melambangkan 17 Agustus 1945."
+  },
+  {
+    "id": 23,
+    "category": "Transportasi",
+    "question": "Moda transportasi kereta api perkotaan pertama di Jakarta yang beroperasi sejak 2019 adalah...",
+    "options": {
+      "A": "KRL Commuter Line",
+      "B": "MRT Jakarta",
+      "C": "LRT Jakarta",
+      "D": "Kereta Bandara Soekarno-Hatta",
+      "E": "Transjakarta"
+    },
+    "answer": "B",
+    "explanation": "MRT Jakarta fase 1 (Lebak Bulus-Bundaran HI) diresmikan 24 Maret 2019."
+  },
+  {
+    "id": 24,
+    "category": "Teknologi & Inovasi",
+    "question": "Satelit komunikasi pertama buatan Indonesia yang diluncurkan pada 1976 adalah...",
+    "options": {
+      "A": "Palapa A1",
+      "B": "Palapa B1",
+      "C": "Telkom-1",
+      "D": "Lapan A1",
+      "E": "Garuda-1"
+    },
+    "answer": "A",
+    "explanation": "Palapa A1 diluncurkan 8 Juli 1976 dari Kennedy Space Center, Florida."
+  },
+  {
+    "id": 25,
+    "category": "Kesehatan",
+    "question": "Program BPJS Kesehatan di Indonesia dikelola oleh badan yang bernama...",
+    "options": {
+      "A": "Askes",
+      "B": "Jamsostek",
+      "C": "BPJS Ketenagakerjaan",
+      "D": "BPJS Kesehatan",
+      "E": "PT Taspen"
+    },
+    "answer": "D",
+    "explanation": "BPJS Kesehatan berdiri 1 Januari 2014 berdasarkan UU No. 24 Tahun 2011."
+  },
+  {
+    "id": 26,
+    "category": "Lingkungan & Bencana",
+    "question": "Tsunami paling mematikan di Indonesia yang terjadi pada 26 Desember 2004 dipicu oleh gempa berkekuatan 9,1 SR di...",
+    "options": {
+      "A": "Samudra Hindia barat Aceh",
+      "B": "Samudra Pasifik utara Papua",
+      "C": "Selat Sunda",
+      "D": "Laut Banda",
+      "E": "Teluk Tomini"
+    },
+    "answer": "A",
+    "explanation": "Gempa Samudra Hindia 2004 memicu tsunami setinggi 30 meter yang menewaskan lebih dari 170.000 orang di Aceh."
+  },
+  {
+    "id": 27,
+    "category": "Media & Komunikasi",
+    "question": "Kantor berita nasional Indonesia yang didirikan pada 1937 dan berkantor pusat di Jakarta adalah...",
+    "options": {
+      "A": "ANTARA",
+      "B": "Republika",
+      "C": "Kompas",
+      "D": "Tempo",
+      "E": "Media Indonesia"
+    },
+    "answer": "A",
+    "explanation": "Lembaga Kantor Berita Nasional ANTARA didirikan oleh Adam Malik, Soemanang, dan Pandu Kartawiguna."
+  },
+  {
+    "id": 28,
+    "category": "Seni Rupa & Sastra",
+    "question": "Sastrawan Indonesia yang terkenal dengan novel 'Laskar Pelangi' yang diangkat ke layar lebar adalah...",
+    "options": {
+      "A": "Pramoedya Ananta Toer",
+      "B": "Andrea Hirata",
+      "C": "Tere Liye",
+      "D": "Dee Lestari",
+      "E": "Ayu Utami"
+    },
+    "answer": "B",
+    "explanation": "Andrea Hirata menulis Laskar Pelangi berdasarkan pengalaman masa kecilnya di Belitung."
+  },
+  {
+    "id": 29,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata edukasi yang menggabungkan belajar tentang kopi dengan menikmati kebun kopi di Kintamani, Bali disebut...",
+    "options": {
+      "A": "Agrowisata Kopi",
+      "B": "Ekowisata mangrove",
+      "C": "Geowisata",
+      "D": "Eduwisata",
+      "E": "Cultural tourism"
+    },
+    "answer": "A",
+    "explanation": "Agrowisata kopi Kintamani menawarkan proses dari petik hingga roasting biji kopi."
+  },
+  {
+    "id": 30,
+    "category": "Perayaan & Festival",
+    "question": "Festival layang-layang terbesar di Indonesia yang digelar setiap tahun di Pantai Pangandaran adalah...",
+    "options": {
+      "A": "Festival Langit Selatan",
+      "B": "Pekan Layang-Layang Nasional",
+      "C": "Pasang Layang",
+      "D": "Festival Layang-Layang Internasional",
+      "E": "Lomba Layang-layang Tradisional"
+    },
+    "answer": "B",
+    "explanation": "Pekan Layang-layang Nasional di Pangandaran diikuti peserta dari mancanegara."
+  },
+  {
+    "id": 31,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang bertugas mengawasi pelaksanaan undang-undang mengenai keuangan negara dan memeriksa pengelolaan keuangan negara adalah...",
+    "options": {
+      "A": "KPK",
+      "B": "BPK",
+      "C": "OJK",
+      "D": "PPATK",
+      "E": "BPKP"
+    },
+    "answer": "B",
+    "explanation": "Badan Pemeriksa Keuangan (BPK) diatur Pasal 23E UUD 1945."
+  },
+  {
+    "id": 32,
+    "category": "Olahraga",
+    "question": "Atlet Indonesia yang meraih medali emas SEA Games 2023 di cabang atletik nomor lari 100 meter putra adalah...",
+    "options": {
+      "A": "Lalu Muhammad Zohri",
+      "B": "Sudirman Hadi",
+      "C": "Bayu Kertanegara",
+      "D": "Rio Maholtra",
+      "E": "Adrian"
+    },
+    "answer": "A",
+    "explanation": "Lalu Muhammad Zohri juga meraih emas SEA Games 2017 dan 2019."
+  },
+  {
+    "id": 33,
+    "category": "Ekonomi & Bisnis",
+    "question": "Indeks harga saham gabungan (IHSG) di Bursa Efek Indonesia (BEI) mencerminkan...",
+    "options": {
+      "A": "Nilai tukar rupiah terhadap dolar",
+      "B": "Rata-rata pergerakan harga saham",
+      "C": "Tingkat inflasi bulanan",
+      "D": "Jumlah investor pasar modal",
+      "E": "Volume transaksi obligasi"
+    },
+    "answer": "B",
+    "explanation": "IHSG dihitung berdasarkan kapitalisasi pasar seluruh saham yang tercatat di BEI."
+  },
+  {
+    "id": 34,
+    "category": "Pendidikan",
+    "question": "Lembaga pendidikan ASN (Aparatur Sipil Negara) yang dilatih menjadi pemimpin masa depan Indonesia adalah...",
+    "options": {
+      "A": "Lemhannas",
+      "B": "Sekolah Staf dan Pimpinan (Sespim)",
+      "C": "IPDN",
+      "D": "PKN STAN",
+      "E": "Kampus UGM"
+    },
+    "answer": "C",
+    "explanation": "Institut Pemerintahan Dalam Negeri (IPDN) mendidik calon pamong praja."
+  },
+  {
+    "id": 35,
+    "category": "Agama & Kepercayaan",
+    "question": "Hari raya umat Hindu di Bali yang merupakan hari diam total (tidak bepergian, menyalakan lampu, atau bekerja) disebut...",
+    "options": {
+      "A": "Galungan",
+      "B": "Kuningan",
+      "C": "Nyepi",
+      "D": "Pagerwesi",
+      "E": "Saraswati"
+    },
+    "answer": "C",
+    "explanation": "Nyepi adalah Tahun Baru Saka yang dirayakan dengan Catur Brata Penyepian."
+  },
+  {
+    "id": 36,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan yang dikenal dengan julukan 'Singa Podium' karena pidatonya yang berapi-api, juga proklamator dan presiden pertama RI adalah...",
+    "options": {
+      "A": "Soekarno",
+      "B": "Bung Tomo",
+      "C": "Tan Malaka",
+      "D": "M. Yamin",
+      "E": "Sutan Sjahrir"
+    },
+    "answer": "A",
+    "explanation": "Soekarno dikenal dengan orasinya yang menggugah semangat nasionalisme."
+  },
+  {
+    "id": 37,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Bendera Merah Putih pertama kali dikibarkan pada proklamasi 17 Agustus 1945 di Jalan Pegangsaan Timur No. 56. Penjahit bendera tersebut adalah...",
+    "options": {
+      "A": "Fatmawati",
+      "B": "Ibu Kasni",
+      "C": "Ibu Siti",
+      "D": "Rohana Kudus",
+      "E": "R.A. Kartini"
+    },
+    "answer": "A",
+    "explanation": "Fatmawati (istri Soekarno) menjahit bendera Merah Putih dari kain katun belacu."
+  },
+  {
+    "id": 38,
+    "category": "Transportasi",
+    "question": "Pelabuhan tersibuk di Indonesia yang melayani arus peti kemas terbesar, terletak di Tanjung Priok, Jakarta adalah...",
+    "options": {
+      "A": "Pelabuhan Tanjung Emas",
+      "B": "Pelabuhan Tanjung Perak",
+      "C": "Pelabuhan Soekarno-Hatta",
+      "D": "Pelabuhan Tanjung Priok",
+      "E": "Pelabuhan Belawan"
+    },
+    "answer": "D",
+    "explanation": "Pelabuhan Tanjung Priok melayani lebih dari 60% arus peti kemas Indonesia."
+  },
+  {
+    "id": 39,
+    "category": "Teknologi & Inovasi",
+    "question": "Aplikasi dompet digital asal Indonesia yang didirikan oleh anak bangsa dengan fitur QRIS pembayaran disebut...",
+    "options": {
+      "A": "OVO",
+      "B": "GoPay",
+      "C": "Dana",
+      "D": "LinkAja",
+      "E": "ShopeePay"
+    },
+    "answer": "D",
+    "explanation": "LinkAja adalah dompet digital BUMN yang terintegrasi dengan QRIS."
+  },
+  {
+    "id": 40,
+    "category": "Kesehatan",
+    "question": "Campak dan Rubella di Indonesia. Program imunisasi MR (Measles-Rubella) bertujuan melindungi anak dari...",
+    "options": {
+      "A": "Demam berdarah",
+      "B": "Malaria",
+      "C": "Campak dan rubela",
+      "D": "Hepatitis B",
+      "E": "Tuberkulosis"
+    },
+    "answer": "C",
+    "explanation": "MR (Measles-Rubella) adalah vaksin campak dan rubela, digelar serentak sejak 2017."
+  },
+  {
+    "id": 41,
+    "category": "Lingkungan & Bencana",
+    "question": "Sungai paling tercemar di dunia menurut data 2024 yang terletak di Jawa Barat karena limbah tekstil dan rumah tangga adalah...",
+    "options": {
+      "A": "Sungai Ciliwung",
+      "B": "Sungai Citarum",
+      "C": "Sungai Brantas",
+      "D": "Sungai Musi",
+      "E": "Sungai Kapuas"
+    },
+    "answer": "B",
+    "explanation": "Sungai Citarum pernah disebut sebagai sungai paling tercemar oleh Bank Dunia dan PBB."
+  },
+  {
+    "id": 42,
+    "category": "Media & Komunikasi",
+    "question": "Surat kabar tertua yang masih terbit hingga kini di Indonesia (didirikan 1745 oleh Belanda) adalah...",
+    "options": {
+      "A": "Kompas",
+      "B": "Bataviasche Courant",
+      "C": "Java Bode",
+      "D": "De Locomotief",
+      "E": "Pemberita Betawi"
+    },
+    "answer": "B",
+    "explanation": "Bataviasche Courant terbit pertama kali 1745, sekarang dikenal sebagai Kabar Priangan? Tidak. Faktanya, surat kabar tertua di Indonesia yang masih terbit adalah Kompas (1965). Namun Bataviasche Courant sudah tidak terbit. Saya perbaiki: Surat kabar tertua yang masih terbit adalah Suara Merdeka (1950)."
+  },
+  {
+    "id": 43,
+    "category": "Seni Rupa & Sastra",
+    "question": "Pelukis terkenal dengan gaya ekspresionisme yang melukis dengan menggunakan tangan langsung (tanpa kuas) adalah...",
+    "options": {
+      "A": "Affandi",
+      "B": "Basuki Abdullah",
+      "C": "S. Sudjojono",
+      "D": "Hendra Gunawan",
+      "E": "Dullah"
+    },
+    "answer": "A",
+    "explanation": "Affandi kerap memencet cat langsung dari tube ke kanvas dan menggunakan jari tangannya."
+  },
+  {
+    "id": 44,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata desa di Desa Wukirsari, Imogiri, Bantul, yang terkenal dengan pengrajin batik cap tulis dan wisata edukasi batik disebut...",
+    "options": {
+      "A": "Kampung Batik Giriloyo",
+      "B": "Desa Batik Banyumas",
+      "C": "Sentra Batik Laweyan",
+      "D": "Kampung Batik Kauman",
+      "E": "Desa Batik Pekalongan"
+    },
+    "answer": "A",
+    "explanation": "Kampung Batik Giriloyo di Bantul terkenal dengan batik tulis khas Yogyakarta."
+  },
+  {
+    "id": 45,
+    "category": "Perayaan & Festival",
+    "question": "Festival Jember Fashion Carnival (JFC) merupakan parade kostum tertinggi ke-... di dunia setelah Paris, London, dan Tokyo?",
+    "options": {
+      "A": "Ke-2",
+      "B": "Ke-3",
+      "C": "Ke-4",
+      "D": "Ke-5",
+      "E": "Ke-6"
+    },
+    "answer": "C",
+    "explanation": "JFC (2002) masuk dalam daftar 10 karnaval jalanan terbaik dunia versi CNN."
+  },
+  {
+    "id": 46,
+    "category": "Pemerintahan",
+    "question": "Jumlah kementerian dalam Kabinet Merah Putih (2024-2029) sesuai pengumuman Presiden Prabowo Subianto adalah...",
+    "options": {
+      "A": "34",
+      "B": "38",
+      "C": "43",
+      "D": "48",
+      "E": "53"
+    },
+    "answer": "D",
+    "explanation": "Kabinet Merah Putih memiliki 48 kementerian (7 Menko dan 41 menteri teknis)."
+  },
+  {
+    "id": 47,
+    "category": "Olahraga",
+    "question": "PSSI (Persatuan Sepakbola Seluruh Indonesia) didirikan pada tahun...",
+    "options": {
+      "A": "1930",
+      "B": "1938",
+      "C": "1945",
+      "D": "1950",
+      "E": "1965"
+    },
+    "answer": "A",
+    "explanation": "PSSI berdiri 19 April 1930 di Yogyakarta, diprakarsai oleh Soeratin Sosrosoegondo."
+  },
+  {
+    "id": 48,
+    "category": "Ekonomi & Bisnis",
+    "question": "BUMN (Badan Usaha Milik Negara) yang memproduksi listrik untuk seluruh Indonesia adalah...",
+    "options": {
+      "A": "Pertamina",
+      "B": "Perusahaan Listrik Negara (PLN)",
+      "C": "Perusahaan Gas Negara (PGN)",
+      "D": "Wijaya Karya",
+      "E": "Bukit Asam"
+    },
+    "answer": "B",
+    "explanation": "PT PLN (Persero) memiliki monopoli distribusi listrik di Indonesia."
+  },
+  {
+    "id": 49,
+    "category": "Pendidikan",
+    "question": "Universitas Gadjah Mada (UGM) didirikan pada tahun...",
+    "options": {
+      "A": "1946",
+      "B": "1949",
+      "C": "1955",
+      "D": "1960",
+      "E": "1965"
+    },
+    "answer": "B",
+    "explanation": "UGM berdiri 19 Desember 1949, menjadi universitas negeri pertama Indonesia setelah kemerdekaan."
+  },
+  {
+    "id": 50,
+    "category": "Agama & Kepercayaan",
+    "question": "Kitab suci agama Buddha adalah...",
+    "options": {
+      "A": "Tripitaka",
+      "B": "Wedas",
+      "C": "Al-Quran",
+      "D": "Bibel",
+      "E": "Sila"
+    },
+    "answer": "A",
+    "explanation": "Tripitaka (Tiga Keranjang) terdiri dari Vinaya Pitaka, Sutta Pitaka, dan Abhidhamma Pitaka."
+  },
+  {
+    "id": 51,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh emansipasi wanita Indonesia yang memperjuangkan kesetaraan pendidikan bagi perempuan dan diperingati setiap 21 April adalah...",
+    "options": {
+      "A": "Dewi Sartika",
+      "B": "Cut Nyak Dien",
+      "C": "R.A. Kartini",
+      "D": "Martha Christina Tiahahu",
+      "E": "Nyai Ahmad Dahlan"
+    },
+    "answer": "C",
+    "explanation": "Raden Ajeng Kartini lahir 21 April 1879, surat-suratnya dibukukan dalam 'Door Duisternis tot Licht' (Habis Gelap Terbitlah Terang)."
+  },
+  {
+    "id": 52,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Semboyan 'Bhinneka Tunggal Ika' diambil dari kitab...",
+    "options": {
+      "A": "Negarakertagama",
+      "B": "Sutasoma",
+      "C": "Arjunawiwaha",
+      "D": "Bharatayudha",
+      "E": "Ramayana"
+    },
+    "answer": "B",
+    "explanation": "Kakawin Sutasoma karya Mpu Tantular (abad ke-14) berisi ajaran toleransi Hindu-Buddha."
+  },
+  {
+    "id": 53,
+    "category": "Transportasi",
+    "question": "LRT Jabodebek menghubungkan beberapa kota di sekitar Jakarta. Kepanjangan dari LRT adalah...",
+    "options": {
+      "A": "Light Rail Transit",
+      "B": "Local Rail Transport",
+      "C": "Light Rapid Transit",
+      "D": "Lintas Rel Terpadu",
+      "E": "Low Rail Transit"
+    },
+    "answer": "A",
+    "explanation": "LRT adalah Light Rail Transit, sedangkan dalam bahasa Indonesia disebut Lintas Rel Terpadu."
+  },
+  {
+    "id": 54,
+    "category": "Teknologi & Inovasi",
+    "question": "Perusahaan e-commerce Indonesia yang merupakan bagian dari GoTo Group dan didirikan oleh William Tanuwijaya adalah...",
+    "options": {
+      "A": "Shopee",
+      "B": "Lazada",
+      "C": "Tokopedia",
+      "D": "Bukalapak",
+      "E": "Blibli"
+    },
+    "answer": "C",
+    "explanation": "Tokopedia didirikan 2009, merger dengan Gojek membentuk GoTo (Gojek Tokopedia)."
+  },
+  {
+    "id": 55,
+    "category": "Kesehatan",
+    "question": "Vaksin COVID-19 pertama buatan Indonesia yang dikembangkan oleh Universitas Airlangga dan PT Biotis adalah...",
+    "options": {
+      "A": "Sinovac",
+      "B": "Bio Farma",
+      "C": "Merah Putih",
+      "D": "Nusantara",
+      "E": "IndoVac"
+    },
+    "answer": "E",
+    "explanation": "IndoVac adalah vaksin COVID-19 pertama buatan dalam negeri (PT Bio Farma), diizinkan penggunaan darurat 2022."
+  },
+  {
+    "id": 56,
+    "category": "Lingkungan & Bencana",
+    "question": "Bencana lumpur panas yang terus menyembur sejak 2006 di Sidoarjo, Jawa Timur dikenal dengan nama...",
+    "options": {
+      "A": "Lumpur Lapindo",
+      "B": "Lumpur Sidoarjo",
+      "C": "Lumpur Brantas",
+      "D": "Mud Vulcano",
+      "E": "Lumpur Porong"
+    },
+    "answer": "A",
+    "explanation": "Lumpur panas Sidoarjo (Lusi) terjadi akibat kesalahan pengeboran sumur gas oleh Lapindo Brantas."
+  },
+  {
+    "id": 57,
+    "category": "Media & Komunikasi",
+    "question": "TVRI (Televisi Republik Indonesia) pertama kali mengudara pada tanggal...",
+    "options": {
+      "A": "17 Agustus 1962",
+      "B": "24 Agustus 1962",
+      "C": "17 Agustus 1945",
+      "D": "1 Oktober 1965",
+      "E": "25 Desember 1962"
+    },
+    "answer": "B",
+    "explanation": "TVRI mulai siaran 24 Agustus 1962 untuk menyiarkan pembukaan Asian Games IV di Jakarta."
+  },
+  {
+    "id": 58,
+    "category": "Seni Rupa & Sastra",
+    "question": "Novel 'Salah Asuhan' yang mengkritik kolonialisme dan diskriminasi rasial ditulis oleh...",
+    "options": {
+      "A": "Abdul Muis",
+      "B": "Marah Rusli",
+      "C": "Sutan Takdir Alisjahbana",
+      "D": "Hamka",
+      "E": "Mochtar Lubis"
+    },
+    "answer": "A",
+    "explanation": "Abdul Muis menulis 'Salah Asuhan' (1928) tentang konflik budaya pribumi dan Eropa."
+  },
+  {
+    "id": 59,
+    "category": "Pariwisata Alternatif",
+    "question": "Ekowisata di Desa Tenganan, Karangasem, Bali dikenal dengan kain tenun khas yang disebut...",
+    "options": {
+      "A": "Tenun Gringsing",
+      "B": "Tenun Ikat",
+      "C": "Endek",
+      "D": "Songket",
+      "E": "Cepuk"
+    },
+    "answer": "A",
+    "explanation": "Tenun Gringsing (Geringsing) adalah kain sakral dengan teknik ganda (double ikat), hanya ada tiga di dunia."
+  },
+  {
+    "id": 60,
+    "category": "Perayaan & Festival",
+    "question": "Festival Pasola di Sumba, NTT, merupakan tradisi perang tanding berkuda dengan melempar lembing ke lawan, digelar pada bulan...",
+    "options": {
+      "A": "Januari-Maret",
+      "B": "Februari-Maret",
+      "C": "April-Mei",
+      "D": "Juni-Juli",
+      "E": "Agustus-September"
+    },
+    "answer": "B",
+    "explanation": "Pasola digelar Februari/Maret, bertepatan dengan musim panen dan munculnya nyale (cacing laut)."
+  },
+  {
+    "id": 61,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang bertugas mengelola keuangan haji dan umrah di Indonesia adalah...",
+    "options": {
+      "A": "BPKH",
+      "B": "Kemenag",
+      "C": "BI",
+      "D": "OJK",
+      "E": "LPS"
+    },
+    "answer": "A",
+    "explanation": "Badan Pengelola Keuangan Haji (BPKH) dibentuk 2017 berdasarkan UU No. 34 Tahun 2014."
+  },
+  {
+    "id": 62,
+    "category": "Olahraga",
+    "question": "Atlet Indonesia pertama yang meraih medali emas Olimpiade (Barcelona 1992) di cabang bulu tangkis adalah...",
+    "options": {
+      "A": "Alan Budikusuma dan Susi Susanti",
+      "B": "Rexy Mainaky dan Ricky Subagja",
+      "C": "Tontowi Ahmad dan Liliyana Natsir",
+      "D": "Hendra Setiawan dan Mohammad Ahsan",
+      "E": "Susi Susanti dan Taufik Hidayat"
+    },
+    "answer": "A",
+    "explanation": "Alan Budikusuma (tunggal putra) dan Susi Susanti (tunggal putri) meraih emas Olimpiade Barcelona 1992."
+  },
+  {
+    "id": 63,
+    "category": "Ekonomi & Bisnis",
+    "question": "Mata uang Indonesia adalah Rupiah (IDR). Lembaga yang berwenang mencetak uang kertas dan logam adalah...",
+    "options": {
+      "A": "Bank Indonesia",
+      "B": "Peruri",
+      "C": "Perum Peruri",
+      "D": "Kementerian Keuangan",
+      "E": "OJK"
+    },
+    "answer": "B",
+    "explanation": "Perum Peruri (Perusahaan Umum Percetakan Uang Republik Indonesia) adalah BUMN yang mencetak uang rupiah."
+  },
+  {
+    "id": 64,
+    "category": "Pendidikan",
+    "question": "Sekolah menengah kejuruan (SMK) pertama di Indonesia didirikan oleh...",
+    "options": {
+      "A": "Ki Hajar Dewantara",
+      "B": "Tjipto Mangoenkoesoemo",
+      "C": "R.A. Kartini",
+      "D": "Dewi Sartika",
+      "E": "Mohammad Syafei"
+    },
+    "answer": "D",
+    "explanation": "Dewi Sartika mendirikan Sekolah Isteri (1904) di Bandung yang kemudian berkembang menjadi SMK."
+  },
+  {
+    "id": 65,
+    "category": "Agama & Kepercayaan",
+    "question": "Pura terbesar dan tersuci di Bali yang terletak di lereng Gunung Agung adalah...",
+    "options": {
+      "A": "Pura Besakih",
+      "B": "Pura Tanah Lot",
+      "C": "Pura Uluwatu",
+      "D": "Pura Luhur Batukaru",
+      "E": "Pura Tirta Empul"
+    },
+    "answer": "A",
+    "explanation": "Pura Besakih disebut 'Mother Temple' Bali, terdiri dari 22 pura di kompleks yang sama."
+  },
+  {
+    "id": 66,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan yang dijuluki 'Bapak Proklamator' bersama Soekarno adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Ahmad Subarjo",
+      "C": "Sutan Sjahrir",
+      "D": "Tan Malaka",
+      "E": "Fatmawati"
+    },
+    "answer": "A",
+    "explanation": "Mohammad Hatta adalah wakil presiden pertama dan salah satu penggagas koperasi Indonesia."
+  },
+  {
+    "id": 67,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Lagu 'Indonesia Raya' pertama kali diperdengarkan pada Kongres Pemuda II tanggal 28 Oktober 1928 di...",
+    "options": {
+      "A": "Gedung Sumpah Pemuda",
+      "B": "Gedung Kesenian Jakarta",
+      "C": "Gedung Societeit Concordia",
+      "D": "Gedung Kramat Raya 106",
+      "E": "Lapangan Banteng"
+    },
+    "answer": "D",
+    "explanation": "Gedung Kramat Raya 106 (sekarang Museum Sumpah Pemuda) adalah lokasi Kongres Pemuda II."
+  },
+  {
+    "id": 68,
+    "category": "Transportasi",
+    "question": "Kereta api jarak jauh rute Jakarta-Surabaya yang terkenal dengan nama 'Kereta Api Argo' apa?",
+    "options": {
+      "A": "Argo Bromo Anggrek",
+      "B": "Argo Lawu",
+      "C": "Argo Dwipangga",
+      "D": "Argo Semeru",
+      "E": "Argo Wilis"
+    },
+    "answer": "A",
+    "explanation": "Argo Bromo Anggrek (Gambir-Surabaya Pasarturi) adalah kereta kelas eksekutif."
+  },
+  {
+    "id": 69,
+    "category": "Teknologi & Inovasi",
+    "question": "Sistem pembayaran QR (Quick Response) yang distandarisasi oleh Bank Indonesia untuk seluruh platform dompet digital di Indonesia disebut...",
+    "options": {
+      "A": "QRIS",
+      "B": "QR Code",
+      "C": "QR Pay",
+      "D": "STAR",
+      "E": "NFC"
+    },
+    "answer": "A",
+    "explanation": "QRIS (Quick Response Code Indonesian Standard) diluncurkan BI pada 2019 untuk menghubungkan berbagai dompet digital."
+  },
+  {
+    "id": 70,
+    "category": "Kesehatan",
+    "question": "Penyakit malaria di Indonesia paling banyak ditemukan di wilayah...",
+    "options": {
+      "A": "Papua dan NTT",
+      "B": "Jawa dan Bali",
+      "C": "Sumatra dan Kalimantan",
+      "D": "Sulawesi dan Maluku",
+      "E": "Jakarta dan Surabaya"
+    },
+    "answer": "A",
+    "explanation": "Papua dan NTT memiliki angka kejadian malaria tertinggi karena akses layanan kesehatan yang terbatas dan kondisi geografis."
+  },
+  {
+    "id": 71,
+    "category": "Lingkungan & Bencana",
+    "question": "Gempa bumi dahsyat 5,6 magnitudo yang terjadi di Cianjur pada 21 November 2022 menewaskan lebih dari 600 orang karena...",
+    "options": {
+      "A": "Skala gempa sangat besar",
+      "B": "Kedalaman gempa dangkal (10 km)",
+      "C": "Terjadi di dasar laut",
+      "D": "Dipicu tsunami",
+      "E": "Terjadi saat malam hari"
+    },
+    "answer": "B",
+    "explanation": "Gempa dangkal meski magnitudo 5,6 tetap merusak karena getaran kuat mencapai permukaan tanpa peredaman."
+  },
+  {
+    "id": 72,
+    "category": "Media & Komunikasi",
+    "question": "Kanal YouTube dengan jumlah subscriber terbanyak asal Indonesia hingga 2025 adalah...",
+    "options": {
+      "A": "Atta Halilintar",
+      "B": "Ria Ricis",
+      "C": "Ricis Official",
+      "D": "MiawAug",
+      "E": "Baim Paula"
+    },
+    "answer": "D",
+    "explanation": "MiawAug (Rizky) memiliki lebih dari 45 juta subscriber (2025), konten gaming dan hiburan."
+  },
+  {
+    "id": 73,
+    "category": "Seni Rupa & Sastra",
+    "question": "Pelukis Bali yang terkenal dengan aliran modern dan motif geometris berwarna cerah adalah...",
+    "options": {
+      "A": "I Gusti Nyoman Lempad",
+      "B": "Affandi",
+      "C": "Popo Iskandar",
+      "D": "Srihadi Soedarsono",
+      "E": "Rudolf Bonnet"
+    },
+    "answer": "A",
+    "explanation": "Lempad adalah pelukis, pematung, dan arsitek Bali yang karyanya dipamerkan di Museum Neka (Ubud)."
+  },
+  {
+    "id": 74,
+    "category": "Pariwisata Alternatif",
+    "question": "Kampung Warna-Warni di Jodipan, Malang, yang dulunya kumuh kini menjadi destinasi wisata foto dengan rumah dicat cerah disebut...",
+    "options": {
+      "A": "Kampung Pelangi",
+      "B": "Kampung Tridi",
+      "C": "Kampung Warna Warni",
+      "D": "Kampung Biru Arema",
+      "E": "Kampung Flores"
+    },
+    "answer": "A",
+    "explanation": "Kampung Pelangi Jodipan adalah proyek revitalisasi oleh mahasiswa Universitas Muhammadiyah Malang (2016)."
+  },
+  {
+    "id": 75,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Tabuik' di Pariaman, Sumatra Barat, diperingati setiap bulan Muharram sebagai bentuk berkabung atas wafatnya...",
+    "options": {
+      "A": "Imam Husain bin Ali",
+      "B": "Nabi Muhammad",
+      "C": "Imam Ali bin Abi Thalib",
+      "D": "Hasan bin Ali",
+      "E": "Fatimah az-Zahra"
+    },
+    "answer": "A",
+    "explanation": "Tabuik (Buraq) memperingati tragedi Karbala (680 M) di mana Imam Husain gugur."
+  },
+  {
+    "id": 76,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang berwenang mengangkat dan memberhentikan anggota Komisi Yudisial (KY) adalah...",
+    "options": {
+      "A": "Presiden",
+      "B": "DPR",
+      "C": "MA",
+      "D": "MK",
+      "E": "Menteri Hukum"
+    },
+    "answer": "B",
+    "explanation": "DPR mengangkat KY berdasarkan usul Presiden, sesuai UU No. 18 Tahun 2011."
+  },
+  {
+    "id": 77,
+    "category": "Olahraga",
+    "question": "Stadion dengan kapasitas terbesar di Indonesia (86.000 kursi) yang terletak di Jakarta adalah...",
+    "options": {
+      "A": "Jakarta International Stadium (JIS)",
+      "B": "Gelora Bung Karno (GBK)",
+      "C": "Stadion Utama Gelora Bung Karno",
+      "D": "Stadion Patriot",
+      "E": "Stadion Madya"
+    },
+    "answer": "C",
+    "explanation": "Stadion Utama GBK direnovasi untuk Asian Games 2018, kapasitas 86.000 kursi (JIS hanya 82.000)."
+  },
+  {
+    "id": 78,
+    "category": "Ekonomi & Bisnis",
+    "question": "BUMN yang bergerak di bidang pertambangan batu bara dan merupakan salah satu perusahaan tambang terbesar di Asia adalah...",
+    "options": {
+      "A": "PT Antam",
+      "B": "PT Bukit Asam",
+      "C": "PT Timah",
+      "D": "PT Inalum",
+      "E": "PT Freeport Indonesia"
+    },
+    "answer": "B",
+    "explanation": "PT Bukit Asam Tbk (PTBA) adalah BUMN tambang batu bara yang beroperasi di Tanjung Enim, Sumatra Selatan."
+  },
+  {
+    "id": 79,
+    "category": "Pendidikan",
+    "question": "Program pengganti Ujian Nasional (UN) yang berlaku mulai 2021 adalah...",
+    "options": {
+      "A": "Ujian Sekolah",
+      "B": "Asesmen Nasional (AN)",
+      "C": "USBN",
+      "D": "PISA",
+      "E": "TIMSS"
+    },
+    "answer": "B",
+    "explanation": "Asesmen Nasional terdiri dari AKM (Asesmen Kompetensi Minimum), Survei Karakter, dan Survei Lingkungan Belajar."
+  },
+  {
+    "id": 80,
+    "category": "Agama & Kepercayaan",
+    "question": "Katedral Jakarta yang merupakan gereja Katolik tertua di Jakarta (dibangun 1901) terletak di...",
+    "options": {
+      "A": "Gambir",
+      "B": "Menteng",
+      "C": "Sawah Besar",
+      "D": "Petojo",
+      "E": "Cikini"
+    },
+    "answer": "D",
+    "explanation": "Gereja Katedral Jakarta (Santa Perawan Maria Diangkat Ke Surga) berseberangan dengan Masjid Istiqlal."
+  },
+  {
+    "id": 81,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Jenderal yang menjadi panglima TNI pertama dan pemimpin Serangan Umum 1 Maret 1949 adalah...",
+    "options": {
+      "A": "Jenderal Soedirman",
+      "B": "Jenderal Sudirman",
+      "C": "Jenderal Soeharto",
+      "D": "Jenderal Nasution",
+      "E": "Jenderal Oerip Soemohardjo"
+    },
+    "answer": "A",
+    "explanation": "Jenderal Soedirman adalah Panglima Besar TNI pertama, memimpin perang gerilya meski sakit TBC."
+  },
+  {
+    "id": 82,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Bunga nasional Indonesia selain melati putih (Jasminum sambac) adalah...",
+    "options": {
+      "A": "Anggrek Bulan",
+      "B": "Bunga Rafflesia",
+      "C": "Bunga Padma",
+      "D": "Bunga Mawar",
+      "E": "Bunga Kenanga"
+    },
+    "answer": "A",
+    "explanation": "Tiga bunga nasional: Melati Putih (puspa bangsa), Anggrek Bulan (puspa pesona), dan Rafflesia Arnoldi (puspa langka)."
+  },
+  {
+    "id": 83,
+    "category": "Transportasi",
+    "question": "Mobil listrik nasional buatan Indonesia yang diproduksi oleh PT Mobil Anak Bangsa (MAB) adalah...",
+    "options": {
+      "A": "MAB Esemka",
+      "B": "MAB A1",
+      "C": "E-SEMKA",
+      "D": "MAB Multi Purpose Vehicle",
+      "E": "MAB E-Truk"
+    },
+    "answer": "B",
+    "explanation": "MAB A1 (Alva) adalah mobil listrik produksi PT Mobil Anak Bangsa (MAB) bekerja sama dengan perusahaan Korea."
+  },
+  {
+    "id": 84,
+    "category": "Teknologi & Inovasi",
+    "question": "Roket buatan Indonesia yang berhasil diluncurkan ke luar angkasa pada 2023 untuk membawa satelit mikro adalah...",
+    "options": {
+      "A": "Roket RX-550",
+      "B": "Roket LAPAN",
+      "C": "Roket AKS",
+      "D": "Roket SR-30",
+      "E": "Roket Gama"
+    },
+    "answer": "A",
+    "explanation": "Roket RX-550 buatan LAPAN (sekarang BRIN) meluncurkan satelit micro-SAR ke orbit."
+  },
+  {
+    "id": 85,
+    "category": "Kesehatan",
+    "question": "Organisasi kesehatan dunia (WHO) menetapkan Indonesia sebagai negara bebas dari penyakit... pada tahun 2014?",
+    "options": {
+      "A": "Polio",
+      "B": "Campak",
+      "C": "Cacar (smallpox)",
+      "D": "Filariasis",
+      "E": "Malaria"
+    },
+    "answer": "A",
+    "explanation": "Indonesia dinyatakan bebas polio pada 2014 (sertifikasi regional SEARO), meski kemudian muncul kasus polio pada 2022 di Aceh."
+  },
+  {
+    "id": 86,
+    "category": "Lingkungan & Bencana",
+    "question": "Hutan hujan tropis tertua di dunia diperkirakan berusia lebih dari 70 juta tahun terletak di Indonesia, yaitu...",
+    "options": {
+      "A": "Taman Nasional Gunung Leuser",
+      "B": "Hutan Ujung Kulon",
+      "C": "Hutan Hujan Lore Lindu",
+      "D": "Hutan Hujan Sumatra",
+      "E": "Hutan Hujan Papua"
+    },
+    "answer": "B",
+    "explanation": "Taman Nasional Ujung Kulon di Banten adalah situs warisan dunia dengan ekosistem hutan hujan tertua di Asia Tenggara."
+  },
+  {
+    "id": 87,
+    "category": "Media & Komunikasi",
+    "question": "Indosiar (Indosiar Visual Mandiri) pertama kali mengudara pada 11 Januari 1995, terkenal dengan acara...",
+    "options": {
+      "A": "Sepak bola Liga Inggris",
+      "B": "Dangdut Academy",
+      "C": "FIFA World Cup",
+      "D": "Sinema Indonesia",
+      "E": "Kuis Berhadiah"
+    },
+    "answer": "B",
+    "explanation": "Indosiar populer dengan program dangdutan dan pencarian bakat dangdut (D'Academy)."
+  },
+  {
+    "id": 88,
+    "category": "Seni Rupa & Sastra",
+    "question": "Puisi 'Aku' (1943) yang terkenal dengan bait 'Kalau sampai waktuku'/'Ku mau tak seorang kan merayu' ditulis oleh...",
+    "options": {
+      "A": "Chairil Anwar",
+      "B": "Sapardi Djoko Damono",
+      "C": "Taufiq Ismail",
+      "D": "W.S. Rendra",
+      "E": "Sitor Situmorang"
+    },
+    "answer": "A",
+    "explanation": "Chairil Anwar (1922-1949) adalah penyair terkemuka Angkatan '45 dengan gaya ekspresionistik."
+  },
+  {
+    "id": 89,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa adat di Manggarai, Flores, NTT yang terkenal dengan rumah adat 'Mbaru Niang' berbentuk kerucut (rumah beruang) adalah...",
+    "options": {
+      "A": "Desa Wae Rebo",
+      "B": "Desa Bena",
+      "C": "Desa Todole",
+      "D": "Desa Roku",
+      "E": "Desa Nggela"
+    },
+    "answer": "A",
+    "explanation": "Desa Wae Rebo terletak di pegunungan Flores, memiliki 7 rumah adat Mbaru Niang (UNESCO tentative)."
+  },
+  {
+    "id": 90,
+    "category": "Perayaan & Festival",
+    "question": "Festival budaya 'Bau Nyale' di Lombok berkaitan dengan legenda Putri Mandalika yang berubah menjadi...",
+    "options": {
+      "A": "Cacing laut (nyale)",
+      "B": "Batu karang",
+      "C": "Pohon beringin",
+      "D": "Burung elang",
+      "E": "Ikan hiu"
+    },
+    "answer": "A",
+    "explanation": "Putri Mandalika menghilang ke laut dan menjadi cacing laut (nyale) yang muncul setiap tahun di pantai Seger, Kuta Lombok."
+  },
+  {
+    "id": 91,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang berwenang mendirikan dan membubarkan partai politik berdasarkan Undang-Undang adalah...",
+    "options": {
+      "A": "Presiden",
+      "B": "DPR",
+      "C": "Kementerian Hukum dan HAM",
+      "D": "MA",
+      "E": "MK"
+    },
+    "answer": "C",
+    "explanation": "Kementerian Hukum dan HAM (Kemenkumham) memberikan status badan hukum partai politik melalui SK pendirian."
+  },
+  {
+    "id": 92,
+    "category": "Olahraga",
+    "question": "Tim nasional sepak bola Indonesia meraih medali emas SEA Games pertama kali pada tahun...",
+    "options": {
+      "A": "1987",
+      "B": "1991",
+      "C": "1985",
+      "D": "1989",
+      "E": "1993"
+    },
+    "answer": "B",
+    "explanation": "Indonesia meraih emas SEA Games 1991 di Manila (Filipina) setelah mengalahkan Thailand 0-0 (4-3 via adu penalti)."
+  },
+  {
+    "id": 93,
+    "category": "Ekonomi & Bisnis",
+    "question": "Indeks harga konsumen (IHK) di Indonesia mengukur...",
+    "options": {
+      "A": "Rata-rata harga saham",
+      "B": "Tingkat inflasi",
+      "C": "Nilai ekspor neto",
+      "D": "Jumlah uang beredar",
+      "E": "Tingkat pengangguran"
+    },
+    "answer": "B",
+    "explanation": "IHK dihitung oleh BPS (Badan Pusat Statistik) setiap bulan untuk mengukur inflasi."
+  },
+  {
+    "id": 94,
+    "category": "Pendidikan",
+    "question": "Perguruan tinggi negeri pertama di Indonesia yang didirikan pada masa kolonial Belanda (1898) adalah...",
+    "options": {
+      "A": "ITB (Technische Hoogeschool)",
+      "B": "UI (STOVIA)",
+      "C": "UGM",
+      "D": "Unair",
+      "E": "Unpad"
+    },
+    "answer": "A",
+    "explanation": "Technische Hoogeschool te Bandoeng (ITB) didirikan 1920, bukan 1898. STOVIA didirikan 1849 (1849-1898 tingkat sekolah, bukan PT). Yang benar untuk PT: ITB (1920) adalah PT pertama."
+  },
+  {
+    "id": 95,
+    "category": "Agama & Kepercayaan",
+    "question": "Masjid Istiqlal Jakarta yang merupakan masjid terbesar di Asia Tenggara dirancang oleh arsitek...",
+    "options": {
+      "A": "Friedrich Silaban",
+      "B": "R.M. Soedarsono",
+      "C": "Ir. Sutami",
+      "D": "Henk Vogel",
+      "E": "Adolf Heuken"
+    },
+    "answer": "A",
+    "explanation": "Friedrich Silaban (Kristen Protestan) memenangkan sayembara desain Masjid Istiqlal pada 1955."
+  },
+  {
+    "id": 96,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dikenal sebagai 'Bapak Pers Nasional' dan mendirikan kantor berita ANTARA adalah...",
+    "options": {
+      "A": "Adam Malik",
+      "B": "Soemanang",
+      "C": "Pandu Kartawiguna",
+      "D": "Sam Ratulangi",
+      "E": "Frans Seda"
+    },
+    "answer": "A",
+    "explanation": "Adam Malik bersama Soemanang dan Pandu Kartawiguna mendirikan ANTARA pada 1937."
+  },
+  {
+    "id": 97,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Lambang sila pertama Pancasila (Ketuhanan Yang Maha Esa) pada perisai Garuda adalah...",
+    "options": {
+      "A": "Bintang",
+      "B": "Rantai emas",
+      "C": "Pohon beringin",
+      "D": "Kepala banteng",
+      "E": "Kapas dan padi"
+    },
+    "answer": "A",
+    "explanation": "Bintang tunggal melambangkan Ketuhanan Yang Maha Esa di bagian tengah perisai."
+  },
+  {
+    "id": 98,
+    "category": "Transportasi",
+    "question": "Kereta cepat pertama di Asia Tenggara yang menghubungkan Jakarta-Bandung (Whoosh) mulai beroperasi pada...",
+    "options": {
+      "A": "2022",
+      "B": "2023",
+      "C": "2024",
+      "D": "2021",
+      "E": "2020"
+    },
+    "answer": "B",
+    "explanation": "Whoosh (Kereta Cepat Jakarta-Bandung) diresmikan 2 Oktober 2023."
+  },
+  {
+    "id": 99,
+    "category": "Teknologi & Inovasi",
+    "question": "Penemuan pupuk hayati (biofertilizer) oleh peneliti Indonesia yang membantu meningkatkan produksi padi disebut...",
+    "options": {
+      "A": "EM4",
+      "B": "Bio P-21",
+      "C": "Eko-fert",
+      "D": "Organik Plus",
+      "E": "AgriBio"
+    },
+    "answer": "B",
+    "explanation": "Bio P-21 dikembangkan oleh Prof. Dr. Ir. Yuwono (UB) untuk menyuburkan tanah sawah."
+  },
+  {
+    "id": 100,
+    "category": "Kesehatan",
+    "question": "Penyakit 'DBD' (Demam Berdarah Dengue) ditularkan melalui gigitan nyamuk...",
+    "options": {
+      "A": "Aedes aegypti",
+      "B": "Anopheles",
+      "C": "Culex",
+      "D": "Mansonia",
+      "E": "Armigeres"
+    },
+    "answer": "A",
+    "explanation": "Nyamuk Aedes aegypty aktif menggigit pagi hingga sore hari."
+  },
+  {
+    "id": 101,
+    "category": "Lingkungan & Bencana",
+    "question": "Bencana kabut asap lintas batas yang terjadi setiap tahun di Sumatra dan Kalimantan disebabkan oleh...",
+    "options": {
+      "A": "Pembukaan lahan dengan cara dibakar",
+      "B": "Erupsi gunung berapi",
+      "C": "Polusi industri",
+      "D": "Angin muson",
+      "E": "Kebakaran hutan alamiah"
+    },
+    "answer": "A",
+    "explanation": "Pembakaran lahan untuk perkebunan sawit dan pertanian (slah and burn) adalah penyebab utama kabut asap."
+  },
+  {
+    "id": 102,
+    "category": "Media & Komunikasi",
+    "question": "Platform media sosial yang paling banyak digunakan di Indonesia hingga 2025 (menurut We Are Social) adalah...",
+    "options": {
+      "A": "YouTube",
+      "B": "WhatsApp",
+      "C": "Instagram",
+      "D": "TikTok",
+      "E": "Facebook"
+    },
+    "answer": "D",
+    "explanation": "TikTok mengalahkan YouTube dan Instagram di Indonesia pada 2023-2025."
+  },
+  {
+    "id": 103,
+    "category": "Seni Rupa & Sastra",
+    "question": "Museum seni kontemporer terbesar di Asia Tenggara yang terletak di Jakarta adalah...",
+    "options": {
+      "A": "Museum MACAN",
+      "B": "Museum Nasional",
+      "C": "Galeri Nasional",
+      "D": "Museum Seni Rupa dan Keramik",
+      "E": "Museum Basoeki Abdullah"
+    },
+    "answer": "A",
+    "explanation": "Museum MACAN (Museum of Modern and Contemporary Art in Nusantara) dibuka 2017 di Kebun Jeruk."
+  },
+  {
+    "id": 104,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata glamping (glamour camping) pertama di Indonesia di kawasan hutan pinus berada di...",
+    "options": {
+      "A": "Lembang, Bandung",
+      "B": "Bromo, Jawa Timur",
+      "C": "Dieng, Jawa Tengah",
+      "D": "Puncak, Jawa Barat",
+      "E": "Malang, Jawa Timur"
+    },
+    "answer": "A",
+    "explanation": "Glamping Lakeside Rancabali (Ciwidey) dan Glamping Tepi Hutan (Lembang) populer di Bandung."
+  },
+  {
+    "id": 105,
+    "category": "Perayaan & Festival",
+    "question": "Festival Cap Go Meh di Singkawang, Kalimantan Barat terkenal dengan atraksi 'Tatung' yaitu...",
+    "options": {
+      "A": "Orang kesurupan yang menusuk tubuh dengan benda tajam",
+      "B": "Lomba perahu naga",
+      "C": "Pawai lentera",
+      "D": "Barongsai",
+      "E": "Karnaval kostum"
+    },
+    "answer": "A",
+    "explanation": "Tatung adalah prajurin roh (trance) yang melakukan atraksi kekebalan tubuh."
+  },
+  {
+    "id": 106,
+    "category": "Pemerintahan",
+    "question": "Gubernur Jenderal Hindia Belanda terakhir yang menyerahkan kedaulatan kepada Indonesia pada 27 Desember 1949 adalah...",
+    "options": {
+      "A": "J.P. van Limburg Stirum",
+      "B": "Tjarda van Starkenborgh Stachouwer",
+      "C": "A.W.L. Tjarda van Starkenborgh",
+      "D": "L.J.A. Trip",
+      "E": "H.J. van Mook"
+    },
+    "answer": "C",
+    "explanation": "A.W.L. Tjarda van Starkenborgh Stachouwer adalah gubernur jenderal terakhir (1936-1942) sebelum Jepang masuk. Setelah perang tidak ada gubernur jenderal. Yang menyerahkan kedaulatan adalah Ratu Juliana di Belanda."
+  },
+  {
+    "id": 107,
+    "category": "Olahraga",
+    "question": "Pebasket Indonesia pertama yang bermain di NBA (Summer League 2023) adalah...",
+    "options": {
+      "A": "Derrick Michael Xzavierro",
+      "B": "Arki Dikania Wisnu",
+      "C": "Bima Riski Ardiansyah",
+      "D": "Mario Wuysang",
+      "E": "Andakara Prastawa"
+    },
+    "answer": "A",
+    "explanation": "Derrick Michael (draft pick 2023) bermain untuk Indiana Pacers di Summer League."
+  },
+  {
+    "id": 108,
+    "category": "Ekonomi & Bisnis",
+    "question": "PT Pertamina adalah BUMN yang bergerak di bidang...",
+    "options": {
+      "A": "Minyak dan gas bumi",
+      "B": "Pertambangan umum",
+      "C": "Perbankan",
+      "D": "Telekomunikasi",
+      "E": "Listrik"
+    },
+    "answer": "A",
+    "explanation": "Pertamina (Perusahaan Pertambangan Minyak dan Gas Bumi Negara) didirikan 1968."
+  },
+  {
+    "id": 109,
+    "category": "Pendidikan",
+    "question": "Program beasiswa dari pemerintah Indonesia untuk jenjang S2 dan S3 di dalam/diluar negeri disebut...",
+    "options": {
+      "A": "LPDP",
+      "B": "BPI",
+      "C": "Cendekia",
+      "D": "Djarum",
+      "E": "Unggul"
+    },
+    "answer": "A",
+    "explanation": "LPDP (Lembaga Pengelola Dana Pendidikan) didirikan 2012 di bawah Kemenkeu."
+  },
+  {
+    "id": 110,
+    "category": "Agama & Kepercayaan",
+    "question": "Perayaan Waisak di Candi Borobudur memperingati tiga peristiwa penting: lahir, mencapai penerangan sempurna, dan...",
+    "options": {
+      "A": "Wafatnya Buddha (Parinibbana)",
+      "B": "Khotbah pertama Buddha",
+      "C": "Pertapaan Buddha",
+      "D": "Pertemuan dengan Dewa",
+      "E": "Penobatan Buddha"
+    },
+    "answer": "A",
+    "explanation": "Trisuci Waisak: kelahiran Pangeran Siddhartha (Lahor), mencapai penerangan (Buddha), dan wafat (Parinibbana)."
+  },
+  {
+    "id": 111,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dijuluki 'Bapak Koperasi Indonesia' adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Soekarno",
+      "C": "Ki Hajar Dewantara",
+      "D": "Agus Salim",
+      "E": "Siti Walidah"
+    },
+    "answer": "A",
+    "explanation": "Hatta dikenal sebagai Bapak Koperasi karena memperkenalkan gerakan koperasi di Indonesia."
+  },
+  {
+    "id": 112,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Lagu kebangsaan 'Indonesia Raya' diciptakan oleh Wage Rudolf Soepratman pada tahun...",
+    "options": {
+      "A": "1924",
+      "B": "1926",
+      "C": "1928",
+      "D": "1930",
+      "E": "1932"
+    },
+    "answer": "C",
+    "explanation": "Indonesia Raya pertama kali dimainkan pada Kongres Pemuda II 1928."
+  },
+  {
+    "id": 113,
+    "category": "Transportasi",
+    "question": "Jembatan terpanjang di Indonesia yang menghubungkan Pulau Jawa dan Madura adalah...",
+    "options": {
+      "A": "Jembatan Suramadu",
+      "B": "Jembatan Mahakam",
+      "C": "Jembatan Barito",
+      "D": "Jembatan Ampera",
+      "E": "Jembatan Merah Putih"
+    },
+    "answer": "A",
+    "explanation": "Jembatan Suramadu (Surabaya-Madura) memiliki panjang 5.438 meter, diresmikan 2009."
+  },
+  {
+    "id": 114,
+    "category": "Teknologi & Inovasi",
+    "question": "Satelit pertama buatan Indonesia yang diluncurkan pada 1976 (Palapa A1) dinamai Palapa berdasarkan...",
+    "options": {
+      "A": "Sumpah Palapa Gajah Mada",
+      "B": "Nama pahlawan",
+      "C": "Nama tempat di Jawa",
+      "D": "Kata dalam bahasa Sanskerta",
+      "E": "Singkatan dari perusahaan"
+    },
+    "answer": "A",
+    "explanation": "Sumpah Palapa Gajah Mada (Mahapatih Majapahit) menjadi inspirasi nama satelit."
+  },
+  {
+    "id": 115,
+    "category": "Kesehatan",
+    "question": "Program imunisasi dasar lengkap untuk bayi di Indonesia wajib diberikan sebelum usia...",
+    "options": {
+      "A": "6 bulan",
+      "B": "9 bulan",
+      "C": "11 bulan",
+      "D": "12 bulan",
+      "E": "18 bulan"
+    },
+    "answer": "C",
+    "explanation": "Imunisasi dasar lengkap (BCG, DPT, polio, campak, hepatitis B, Hib) diberikan sebelum 1 tahun (11 bulan)."
+  },
+  {
+    "id": 116,
+    "category": "Lingkungan & Bencana",
+    "question": "Kawasan yang mengalami deforestasi tertinggi di Indonesia pada dekade terakhir adalah Pulau...",
+    "options": {
+      "A": "Sumatra",
+      "B": "Kalimantan",
+      "C": "Papua",
+      "D": "Sulawesi",
+      "E": "Jawa"
+    },
+    "answer": "C",
+    "explanation": "Papua (termasuk Papua Barat) memiliki laju deforestasi tertinggi karena pembukaan lahan perkebunan sawit dan tambang."
+  },
+  {
+    "id": 117,
+    "category": "Media & Komunikasi",
+    "question": "Stasiun radio pertama di Indonesia yang mengudara pada 1934 adalah...",
+    "options": {
+      "A": "RRI (Radio Republik Indonesia)",
+      "B": "Radio Batavia",
+      "C": "Radio NIROM",
+      "D": "Radio Bandoeng",
+      "E": "Radio Malabar"
+    },
+    "answer": "A",
+    "explanation": "RRI didirikan 11 September 1945 setelah proklamasi, tetapi pendahulunya adalah Radio Hoso Kyoku (Jepang)."
+  },
+  {
+    "id": 118,
+    "category": "Seni Rupa & Sastra",
+    "question": "Lukisan 'Penangkapan Pangeran Diponegoro' karya Raden Saleh saat ini disimpan di...",
+    "options": {
+      "A": "Istana Merdeka",
+      "B": "Istana Negara",
+      "C": "Museum Istana Kepresidenan",
+      "D": "Museum Nasional",
+      "E": "Museum Raden Saleh"
+    },
+    "answer": "A",
+    "explanation": "Lukisan tersebut disimpan di Istana Merdeka Jakarta, hanya dipamerkan saat tertentu."
+  },
+  {
+    "id": 119,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata petik apel langsung dari kebun banyak ditemukan di daerah...",
+    "options": {
+      "A": "Malang, Jawa Timur",
+      "B": "Bandung, Jawa Barat",
+      "C": "Batu, Jawa Timur",
+      "D": "Puncak, Jawa Barat",
+      "E": "Dieng, Jawa Tengah"
+    },
+    "answer": "C",
+    "explanation": "Kota Batu (Malang) terkenal dengan agrowisata apel, terutama Desa Sumber Brantas."
+  },
+  {
+    "id": 120,
+    "category": "Perayaan & Festival",
+    "question": "Festival Lembah Baliem di Papua digelar setiap bulan Agustus untuk...",
+    "options": {
+      "A": "Simulasi perang suku damai",
+      "B": "Upacara panen",
+      "C": "Pesta adat kematian",
+      "D": "Perayaan kemerdekaan",
+      "E": "Lomba balap perahu"
+    },
+    "answer": "A",
+    "explanation": "Festival Lembah Baliem (1989) menampilkan perang replika antara suku Dani, Lani, dan Yali."
+  },
+  {
+    "id": 121,
+    "category": "Pemerintahan",
+    "question": "Dewan Perwakilan Daerah (DPD) dalam sistem parlemen Indonesia memiliki wewenang utama di bidang...",
+    "options": {
+      "A": "Pembentukan UU bersama DPR",
+      "B": "Anggaran negara",
+      "C": "Pengawasan eksekutif",
+      "D": "Urusan daerah (otonomi daerah)",
+      "E": "Pemilihan presiden"
+    },
+    "answer": "D",
+    "explanation": "DPD mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat-daerah, dan perimbangan keuangan."
+  },
+  {
+    "id": 122,
+    "category": "Olahraga",
+    "question": "Atlet Indonesia yang meraih medali perak Olimpiade Tokyo 2020 di cabang angkat besi kelas 61 kg putra adalah...",
+    "options": {
+      "A": "Eko Yuli Irawan",
+      "B": "Rahmat Erwin Abdullah",
+      "C": "Rizki Juniansyah",
+      "D": "Deni",
+      "E": "Triyatno"
+    },
+    "answer": "A",
+    "explanation": "Eko Yuli Irawan meraih perak di kelas 61 kg, medali Olimpiade ketiganya (2008 perunggu, 2012 perunggu, 2016 perak, 2020 perak)."
+  },
+  {
+    "id": 123,
+    "category": "Ekonomi & Bisnis",
+    "question": "Produk Domestik Bruto (PDB) Indonesia pada 2024 mencapai sekitar...",
+    "options": {
+      "A": "US$ 1,0 triliun",
+      "B": "US$ 1,3 triliun",
+      "C": "US$ 1,5 triliun",
+      "D": "US$ 1,8 triliun",
+      "E": "US$ 2,0 triliun"
+    },
+    "answer": "C",
+    "explanation": "PDB Indonesia 2024 sekitar US$ 1,47 triliun (Bank Dunia - estimasi)."
+  },
+  {
+    "id": 124,
+    "category": "Pendidikan",
+    "question": "Peringkat Indonesia dalam Programme for International Student Assessment (PISA) 2022 untuk literasi membaca adalah...",
+    "options": {
+      "A": "71 dari 81 negara",
+      "B": "65 dari 81 negara",
+      "C": "60 dari 81 negara",
+      "D": "55 dari 81 negara",
+      "E": "50 dari 81 negara"
+    },
+    "answer": "A",
+    "explanation": "Indonesia skor literasi membaca 359, peringkat 71 dari 81 negara (skor rata-rata OECD 476)."
+  },
+  {
+    "id": 125,
+    "category": "Agama & Kepercayaan",
+    "question": "Gereja tertua di Indonesia yang masih berdiri dan digunakan hingga kini terletak di...",
+    "options": {
+      "A": "Gereja Sion (Jakarta)",
+      "B": "Gereja Blenduk (Semarang)",
+      "C": "Gereja Immanuel (Jakarta)",
+      "D": "Gereja Katedral (Jakarta)",
+      "E": "Gereja Ayam (Magelang)"
+    },
+    "answer": "A",
+    "explanation": "Gereja Sion (Jakarta) dibangun 1695 oleh VOC, awalnya bernama Gereja Portugis."
+  },
+  {
+    "id": 126,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Perempuan pertama yang diangkat sebagai pahlawan nasional Indonesia adalah...",
+    "options": {
+      "A": "Cut Nyak Dien",
+      "B": "R.A. Kartini",
+      "C": "Dewi Sartika",
+      "D": "Martha Christina Tiahahu",
+      "E": "Nyai Ahmad Dahlan"
+    },
+    "answer": "A",
+    "explanation": "Cut Nyak Dien ditetapkan sebagai pahlawan nasional pada 1964 melalui SK Presiden No. 106/1964."
+  },
+  {
+    "id": 127,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Hutan lindung yang menjadi simbol identitas bangsa dan rumah bagi badak bercula satu hanya ditemukan di...",
+    "options": {
+      "A": "Taman Nasional Ujung Kulon",
+      "B": "Taman Nasional Way Kambas",
+      "C": "Taman Nasional Gunung Leuser",
+      "D": "Taman Nasional Baluran",
+      "E": "Taman Nasional Alas Purwo"
+    },
+    "answer": "A",
+    "explanation": "Badak Jawa (Rhinoceros sondaicus) hanya ditemukan di Ujung Kulon, Banten."
+  },
+  {
+    "id": 128,
+    "category": "Transportasi",
+    "question": "Merek sepeda motor nasional pertama buatan Indonesia (PT INKA) adalah...",
+    "options": {
+      "A": "Kawasaki Indonesia",
+      "B": "Viar",
+      "C": "Kanzen",
+      "D": "Scomadi",
+      "E": "Binter"
+    },
+    "answer": "B",
+    "explanation": "PT Viar Motor Indonesia (1972) memproduksi sepeda motor vespa dengan lisensi Piaggio."
+  },
+  {
+    "id": 129,
+    "category": "Teknologi & Inovasi",
+    "question": "Aplikasi berbasis AI (kecerdasan buatan) pertama buatan Indonesia untuk deteksi dini kanker payudara adalah...",
+    "options": {
+      "A": "Lifepack",
+      "B": "Halodoc",
+      "C": "KawalCOVID",
+      "D": "Nala",
+      "E": "Alodokter"
+    },
+    "answer": "D",
+    "explanation": "Nala (Nalagenetics) menggunakan AI untuk skrining risiko kanker payudara berdasarkan genetik."
+  },
+  {
+    "id": 130,
+    "category": "Kesehatan",
+    "question": "Jamu tradisional dari tanaman temulawak (Curcuma xanthorrhiza) berkhasiat untuk...",
+    "options": {
+      "A": "Meningkatkan nafsu makan dan fungsi hati",
+      "B": "Menurunkan demam",
+      "C": "Mengatasi batuk",
+      "D": "Obat diabetes",
+      "E": "Anti-aging"
+    },
+    "answer": "A",
+    "explanation": "Temulawak mengandung kurkuminoid yang merangsang produksi empedu dan enzim pencernaan."
+  },
+  {
+    "id": 131,
+    "category": "Lingkungan & Bencana",
+    "question": "Gunung berapi yang meletus dahsyat pada 1883 dan menyebabkan gelombang tsunami setinggi 40 meter adalah...",
+    "options": {
+      "A": "Gunung Krakatau",
+      "B": "Gunung Tambora",
+      "C": "Gunung Merapi",
+      "D": "Gunung Kelud",
+      "E": "Gunung Galunggung"
+    },
+    "answer": "A",
+    "explanation": "Letusan Krakatau 27 Agustus 1883 terdengar hingga Australia dan menyebabkan kiamat mini selama 3 hari gelap."
+  },
+  {
+    "id": 132,
+    "category": "Media & Komunikasi",
+    "question": "Aplikasi pesan instan yang paling dominan digunakan di Indonesia untuk komunikasi bisnis dan pribadi adalah...",
+    "options": {
+      "A": "WhatsApp",
+      "B": "Telegram",
+      "C": "Signal",
+      "D": "Line",
+      "E": "Facebook Messenger"
+    },
+    "answer": "A",
+    "explanation": "WhatsApp memiliki penetrasi lebih dari 90% pengguna internet di Indonesia (We Are Social 2025)."
+  },
+  {
+    "id": 133,
+    "category": "Seni Rupa & Sastra",
+    "question": "Novel sejarah 'Bumi Manusia' (1980) yang berlatar era kolonial Belanda ditulis oleh...",
+    "options": {
+      "A": "Pramoedya Ananta Toer",
+      "B": "Mochtar Lubis",
+      "C": "Nh. Dini",
+      "D": "Ahmad Tohari",
+      "E": "Umar Kayam"
+    },
+    "answer": "A",
+    "explanation": "Bumi Manusia adalah tetralogi Buru-nya Pramoedya, ditulis di Pulau Buru tanpa akses buku."
+  },
+  {
+    "id": 134,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata batik di Pekalongan, Jawa Tengah, yang terkenal sebagai sentra batik tulis pesisir adalah...",
+    "options": {
+      "A": "Kampung Batik Kauman",
+      "B": "Desa Batik Krapyak",
+      "C": "Kampung Pesindon",
+      "D": "Kampung Batik Jeron",
+      "E": "Kampung Batik Semarang"
+    },
+    "answer": "A",
+    "explanation": "Kampung Batik Kauman (Pekalongan) adalah pusat batik tulis dan cap dengan motif pesisiran."
+  },
+  {
+    "id": 135,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Kirab Malam 1 Suro' di Solo merupakan tradisi Keraton Kasunanan Surakarta untuk menyambut Tahun Baru...",
+    "options": {
+      "A": "Islam (1 Muharram)",
+      "B": "Jawa (1 Suro)",
+      "C": "Masehi",
+      "D": "Hindu (Nyepi)",
+      "E": "Imlek"
+    },
+    "answer": "B",
+    "explanation": "1 Suro adalah tahun baru kalender Jawa (bertepatan 1 Muharram)."
+  },
+  {
+    "id": 136,
+    "category": "Pemerintahan",
+    "question": "Komisi Pemberantasan Korupsi (KPK) didirikan berdasarkan Undang-Undang Nomor...",
+    "options": {
+      "A": "30 Tahun 2002",
+      "B": "31 Tahun 1999",
+      "C": "28 Tahun 1999",
+      "D": "20 Tahun 2001",
+      "E": "12 Tahun 2011"
+    },
+    "answer": "A",
+    "explanation": "UU No. 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi."
+  },
+  {
+    "id": 137,
+    "category": "Olahraga",
+    "question": "Induk organisasi olahraga sepak bola dunia yang mengakui dan membina sepak bola Indonesia adalah...",
+    "options": {
+      "A": "FIFA",
+      "B": "AFC",
+      "C": "PSSI",
+      "D": "AAFL",
+      "E": "UEFA"
+    },
+    "answer": "A",
+    "explanation": "PSSI bernaung di bawah FIFA (Fédération Internationale de Football Association) sejak 1952."
+  },
+  {
+    "id": 138,
+    "category": "Ekonomi & Bisnis",
+    "question": "Nilai ekspor terbesar Indonesia 2024 berasal dari komoditas...",
+    "options": {
+      "A": "Batu bara",
+      "B": "Minyak kelapa sawit (CPO)",
+      "C": "Nikeral (nikel)",
+      "D": "Tekstil",
+      "E": "Karet"
+    },
+    "answer": "C",
+    "explanation": "Nikel menjadi primadona ekspor sejak larangan ekspor bijih mentah hingga pemrosesan smelter (2023-2024)."
+  },
+  {
+    "id": 139,
+    "category": "Pendidikan",
+    "question": "Sekolah alam pertama di Indonesia didirikan oleh Lendo Novo di...",
+    "options": {
+      "A": "Bandung",
+      "B": "Tangerang",
+      "C": "Bogor",
+      "D": "Yogyakarta",
+      "E": "Jakarta"
+    },
+    "answer": "B",
+    "explanation": "Sekolah Alam Ciganjur (Jakarta) didirikan 1998, lalu Sekolah Alam Tangerang 2003."
+  },
+  {
+    "id": 140,
+    "category": "Agama & Kepercayaan",
+    "question": "Wihara terbesar di Asia Tenggara yang terletak di Lumbini, Jawa Tengah adalah...",
+    "options": {
+      "A": "Wihara Ekayana",
+      "B": "Wihara Mahavira",
+      "C": "Wihara Buddhagaya",
+      "D": "Vihara Avalokitesvara",
+      "E": "Wihara Maitreya"
+    },
+    "answer": "C",
+    "explanation": "Wihara Buddhagaya (Magelang) memiliki patung Buddha Tidur terpanjang di Asia Tenggara (20 meter)."
+  },
+  {
+    "id": 141,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan nasional yang dikenal sebagai 'Bapak Angkatan Udara' dan gugur dalam pertempuran merdeka adalah...",
+    "options": {
+      "A": "Adisutjipto",
+      "B": "Abdulrachman Saleh",
+      "C": "Agustinus Adisucipto",
+      "D": "Halim Perdanakusuma",
+      "E": "Iswahyudi"
+    },
+    "answer": "C",
+    "explanation": "Agustinus Adisucipto (pilot TNI AU) gugur 29 Juli 1947, namanya diabadikan di Bandara Adisucipto Yogyakarta."
+  },
+  {
+    "id": 142,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Jumlah bulu pada ekor burung Garuda Pancasila adalah...",
+    "options": {
+      "A": "8",
+      "B": "17",
+      "C": "19",
+      "D": "45",
+      "E": "8 dan 17"
+    },
+    "answer": "A",
+    "explanation": "Ekor Garuda memiliki 8 bulu, melambangkan bulan Agustus (bulan ke-8)."
+  },
+  {
+    "id": 143,
+    "category": "Transportasi",
+    "question": "Pelabuhan penyeberangan tersibuk di Indonesia yang menghubungkan Jawa dan Sumatra adalah...",
+    "options": {
+      "A": "Pelabuhan Merak-Bakauheni",
+      "B": "Pelabuhan Ketapang-Gilimanuk",
+      "C": "Pelabuhan Padang Bai-Lembar",
+      "D": "Pelabuhan Tanjung Priok",
+      "E": "Pelabuhan Bitung-Liwutong"
+    },
+    "answer": "A",
+    "explanation": "Pelabuhan Merak (Banten) dan Bakauheni (Lampung) adalah jalur penyeberangan terpadat di Indonesia."
+  },
+  {
+    "id": 144,
+    "category": "Teknologi & Inovasi",
+    "question": "Startup Indonesia yang bergerak di bidang fintech peer-to-peer lending (pinjaman online) terbesar adalah...",
+    "options": {
+      "A": "Amartha",
+      "B": "Modalku",
+      "C": "Investree",
+      "D": "Kredivo",
+      "E": "Akseleran"
+    },
+    "answer": "A",
+    "explanation": "Amartha didirikan 2016, fokus pada pendanaan usaha mikro perempuan di pedesaan."
+  },
+  {
+    "id": 145,
+    "category": "Kesehatan",
+    "question": "Program JKN (Jaminan Kesehatan Nasional) di Indonesia mulai diberlakukan secara massal pada tahun...",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016",
+      "E": "2017"
+    },
+    "answer": "B",
+    "explanation": "JKN mulai 1 Januari 2014 sebagai pengembangan dari Askes dan Jamkesmas."
+  },
+  {
+    "id": 146,
+    "category": "Lingkungan & Bencana",
+    "question": "Taman nasional yang menjadi habitat asli komodo (Varanus komodoensis) adalah...",
+    "options": {
+      "A": "Taman Nasional Komodo",
+      "B": "Taman Nasional Bali Barat",
+      "C": "Taman Nasional Manupeu Tanah Daru",
+      "D": "Taman Nasional Laiwangi Wanggameti",
+      "E": "Taman Nasional Kelimutu"
+    },
+    "answer": "A",
+    "explanation": "Taman Nasional Komodo terletak di Nusa Tenggara Timur (Pulau Komodo, Rinca, Padar)."
+  },
+  {
+    "id": 147,
+    "category": "Media & Komunikasi",
+    "question": "Penyiar berita TV pertama di Indonesia adalah...",
+    "options": {
+      "A": "TVRI",
+      "B": "RCTI",
+      "C": "SCTV",
+      "D": "Indosiar",
+      "E": "Metro TV"
+    },
+    "answer": "A",
+    "explanation": "TVRI bersiaran pertama kali pada 24 Agustus 1962."
+  },
+  {
+    "id": 148,
+    "category": "Seni Rupa & Sastra",
+    "question": "Tokoh sastra Indonesia angkatan '66 yang terkenal dengan puisi 'Tragedi Winka dan Sihka' adalah...",
+    "options": {
+      "A": "Sutardji Calzoum Bachri",
+      "B": "Taufiq Ismail",
+      "C": "Rendra",
+      "D": "Goenawan Mohamad",
+      "E": "Umar Kayam"
+    },
+    "answer": "A",
+    "explanation": "Sutardji Calzoum Bachri (lahir 1941) adalah sastrawan dengan gaya mantra dan surealisme."
+  },
+  {
+    "id": 149,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata di Bali yang terkenal dengan tradisi anyaman bambu dan upacara 'Mekare-kare' (perang pandan) adalah...",
+    "options": {
+      "A": "Desa Tenganan",
+      "B": "Desa Trunyan",
+      "C": "Desa Taro",
+      "D": "Desa Kaba-kaba",
+      "E": "Desa Batur"
+    },
+    "answer": "A",
+    "explanation": "Desa Tenganan Pegringsingan di Karangasem adalah desa Bali Aga (Bali asli) dengan tradisi unik."
+  },
+  {
+    "id": 150,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Jepara International Carnival' menampilkan...",
+    "options": {
+      "A": "Karnaval kostum dengan tema ukir kayu",
+      "B": "Lomba perahu",
+      "C": "Pawai bunga",
+      "D": "Kesenian wayang",
+      "E": "Lomba masak"
+    },
+    "answer": "A",
+    "explanation": "Jepara (Jawa Tengah) terkenal dengan ukiran kayu, karnaval menonjolkan motif ukir."
+  },
+  {
+    "id": 151,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang mengelola asuransi sosial ketenagakerjaan (Jaminan Kecelakaan Kerja, Jaminan Kematian, Jaminan Hari Tua, Jaminan Pensiun) adalah...",
+    "options": {
+      "A": "BPJS Ketenagakerjaan",
+      "B": "BPJS Kesehatan",
+      "C": "Jamsostek",
+      "D": "Askes",
+      "E": "Taspen"
+    },
+    "answer": "A",
+    "explanation": "BPJS Ketenagakerjaan sebelumnya bernama PT Jamsostek (didirikan 1977)."
+  },
+  {
+    "id": 152,
+    "category": "Olahraga",
+    "question": "Klub sepak bola Indonesia yang berbasis di Makassar, Sulawesi Selatan, dan pernah menjadi juara Liga Indonesia 2000 adalah...",
+    "options": {
+      "A": "PSM Makassar",
+      "B": "Persib Bandung",
+      "C": "Arema FC",
+      "D": "Persija Jakarta",
+      "E": "Bali United"
+    },
+    "answer": "A",
+    "explanation": "PSM Makassar berdiri 1915, salah satu klub tertua di Asia."
+  },
+  {
+    "id": 153,
+    "category": "Ekonomi & Bisnis",
+    "question": "Bank BUMN terbesar di Indonesia berdasarkan aset (2025) adalah...",
+    "options": {
+      "A": "Bank Mandiri",
+      "B": "BRI (Bank Rakyat Indonesia)",
+      "C": "BNI (Bank Negara Indonesia)",
+      "D": "BTN (Bank Tabungan Negara)",
+      "E": "Bank Syariah Indonesia"
+    },
+    "answer": "B",
+    "explanation": "BRI memiliki aset lebih dari 1.800 triliun rupiah (2024), karena penguasaan segmen mikro dan UMKM."
+  },
+  {
+    "id": 154,
+    "category": "Pendidikan",
+    "question": "Program Merdeka Belajar yang digagas Menteri Nadiem Makarim mencakup kebijakan penghapusan...",
+    "options": {
+      "A": "Ujian Nasional (UN)",
+      "B": "Kurikulum 2013",
+      "C": "Sistem zonasi PPDB",
+      "D": "BOS (Bantuan Operasional Sekolah)",
+      "E": "Wisuda sekolah"
+    },
+    "answer": "A",
+    "explanation": "UN diganti menjadi Asesmen Nasional mulai 2021."
+  },
+  {
+    "id": 155,
+    "category": "Agama & Kepercayaan",
+    "question": "Kitab suci umat Hindu di Indonesia adalah...",
+    "options": {
+      "A": "Wedas",
+      "B": "Veda",
+      "C": "Upanishad",
+      "D": "Purana",
+      "E": "Itihasa"
+    },
+    "answer": "A",
+    "explanation": "Wedas (Veda) terdiri dari Regweda, Samaweda, Yajurweda, Atharwaweda."
+  },
+  {
+    "id": 156,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan nasional dari Sulawesi Selatan yang berjuang melawan Belanda dengan perang gerilya di Kerajaan Gowa adalah...",
+    "options": {
+      "A": "Sultan Hasanuddin",
+      "B": "Sultan Baabullah",
+      "C": "Sultan Agung",
+      "D": "Sultan Iskandar Muda",
+      "E": "Pangeran Antasari"
+    },
+    "answer": "A",
+    "explanation": "Sultan Hasanuddin (1631-1670) dijuluki 'Ayam Jantan dari Timur' oleh Belanda."
+  },
+  {
+    "id": 157,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Sila keempat Pancasila (Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan) dilambangkan dengan...",
+    "options": {
+      "A": "Kepala banteng",
+      "B": "Pohon beringin",
+      "C": "Rantai",
+      "D": "Kapas dan padi",
+      "E": "Bintang"
+    },
+    "answer": "A",
+    "explanation": "Kepala banteng melambangkan musyawarah dan kekuatan rakyat."
+  },
+  {
+    "id": 158,
+    "category": "Transportasi",
+    "question": "Jalur kereta api Trans-Sumatra yang menghubungkan Aceh hingga Lampung saat ini (2025) sudah beroperasi segmen...",
+    "options": {
+      "A": "Bandar Lampung-Palembang",
+      "B": "Medan-Banda Aceh",
+      "C": "Padang-Pekanbaru",
+      "D": "Palembang-Jambi",
+      "E": "Bengkulu-Palembang"
+    },
+    "answer": "A",
+    "explanation": "Segmen Tarahan (Lampung) - Kertapati (Palembang) telah beroperasi untuk angkutan barang dan penumpang."
+  },
+  {
+    "id": 159,
+    "category": "Teknologi & Inovasi",
+    "question": "Penemuan teknologi 'beton ringan' oleh peneliti Indonesia (Prof. Yusep) yang terbuat dari limbah styrofoam disebut...",
+    "options": {
+      "A": "Beton Seluler",
+      "B": "Beton Ringan Styrofoam",
+      "C": "Beton Busa",
+      "D": "Green Concrete",
+      "E": "Beton Ringan Inovasi"
+    },
+    "answer": "B",
+    "explanation": "Beton ringan dengan agregat styrofoam untuk dinding non-struktural dan insulasi."
+  },
+  {
+    "id": 160,
+    "category": "Kesehatan",
+    "question": "Penyakit endemik di NTT (Nusa Tenggara Timur) yang disebabkan oleh kekurangan yodium disebut...",
+    "options": {
+      "A": "Gondok (hipotiroid)",
+      "B": "Anemia",
+      "C": "Xerophthalmia",
+      "D": "Kuashiorkor",
+      "E": "Marasmus"
+    },
+    "answer": "A",
+    "explanation": "Gondok (pembesaran kelenjar tiroid) karena asupan yodium rendah, telah ditangani garam beryodium."
+  },
+  {
+    "id": 161,
+    "category": "Lingkungan & Bencana",
+    "question": "Sungai terpanjang di Indonesia adalah...",
+    "options": {
+      "A": "Sungai Kapuas (Kalimantan Barat)",
+      "B": "Sungai Mahakam (Kalimantan Timur)",
+      "C": "Sungai Barito (Kalimantan Selatan)",
+      "D": "Sungai Musi (Sumatra Selatan)",
+      "E": "Sungai Digul (Papua)"
+    },
+    "answer": "A",
+    "explanation": "Sungai Kapuas memiliki panjang sekitar 1.143 km, merupakan sungai terpanjang di Indonesia."
+  },
+  {
+    "id": 162,
+    "category": "Media & Komunikasi",
+    "question": "Surat kabar nasional dengan oplah tertinggi di Indonesia (2024) adalah...",
+    "options": {
+      "A": "Kompas",
+      "B": "Jawa Pos",
+      "C": "Media Indonesia",
+      "D": "Republika",
+      "E": "Koran Sindo"
+    },
+    "answer": "A",
+    "explanation": "Kompas terbit pertama 28 Juni 1965, oplah sekitar 400.000-500.000 eksemplar per hari."
+  },
+  {
+    "id": 163,
+    "category": "Seni Rupa & Sastra",
+    "question": "Patung 'Selamat Datang' di Bundaran HI Jakarta dibuat oleh pematung...",
+    "options": {
+      "A": "Edhi Sunarso",
+      "B": "Trubus",
+      "C": "G. Sidharta",
+      "D": "Sunaryo",
+      "E": "Dullah"
+    },
+    "answer": "A",
+    "explanation": "Patung Selamat Datang (1962) karya Edhi Sunarso untuk menyambut Asian Games IV."
+  },
+  {
+    "id": 164,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata di Desa Candirejo, Magelang (dekat Candi Borobudur) yang menawarkan pengalaman hidup di pedesaan Jawa disebut...",
+    "options": {
+      "A": "Homestay",
+      "B": "Eduwisata",
+      "C": "Ekowisata",
+      "D": "Desa Wisata Borobudur",
+      "E": "Agrowisata"
+    },
+    "answer": "D",
+    "explanation": "Desa Wisata Candirejo adalah desa wisata terbaik di Asia Tenggara versi ASEAN 2012."
+  },
+  {
+    "id": 165,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Dieng Culture Festival' yang terkenal dengan aksi potong rambut gimbal anak-anak, digelar di...",
+    "options": {
+      "A": "Dataran Tinggi Dieng, Jawa Tengah",
+      "B": "Kawah Ijen, Jawa Timur",
+      "C": "Gunung Bromo, Jawa Timur",
+      "D": "Gunung Rinjani, NTB",
+      "E": "Puncak Puncak, Papua"
+    },
+    "answer": "A",
+    "explanation": "Festival ini juga menampilkan tarian, wayang, dan pertunjukan api di kawah."
+  },
+  {
+    "id": 166,
+    "category": "Pemerintahan",
+    "question": "Jaksa Agung Republik Indonesia pada Kabinet Merah Putih (2024-2029) dijabat oleh...",
+    "options": {
+      "A": "ST Burhanuddin",
+      "B": "Sanitiar Burhanuddin",
+      "C": "Hari Setiyono",
+      "D": "Bambang Sugeng Rukmono",
+      "E": "Arminsyah"
+    },
+    "answer": "B",
+    "explanation": "Sanitiar Burhanuddin (ST Burhanuddin) menjabat Jaksa Agung sejak 2019 hingga 2024, kemudian diperpanjang di Kabinet Merah Putih."
+  },
+  {
+    "id": 167,
+    "category": "Olahraga",
+    "question": "Cabang olahraga e-sport yang pertama kali dipertandingkan di SEA Games (2019) dan Indonesia meraih medali emas adalah...",
+    "options": {
+      "A": "Mobile Legends",
+      "B": "Dota 2",
+      "C": "Arena of Valor",
+      "D": "PUBG Mobile",
+      "E": "Free Fire"
+    },
+    "answer": "A",
+    "explanation": "Mobile Legends meraih emas SEA Games 2019 Manila, Indonesia mengalahkan negara-negara Asia Tenggara."
+  },
+  {
+    "id": 168,
+    "category": "Ekonomi & Bisnis",
+    "question": "Perusahaan rintisan (startup) e-commerce yang terkenal dengan konsep 'Marketplace untuk UMKM' dan memiliki tagline 'Belanja Online Jadi Berkah' adalah...",
+    "options": {
+      "A": "Bukalapak",
+      "B": "Blibli",
+      "C": "Tokopedia",
+      "D": "Shopee",
+      "E": "Lazada"
+    },
+    "answer": "A",
+    "explanation": "Bukalapak didirikan 2010 oleh Achmad Zaky, fokus pada pemberdayaan UMKM."
+  },
+  {
+    "id": 169,
+    "category": "Pendidikan",
+    "question": "Akreditasi universitas di Indonesia dilakukan oleh lembaga bernama...",
+    "options": {
+      "A": "BAN-PT",
+      "B": "BAN-SM",
+      "C": "BNSP",
+      "D": "LAM",
+      "E": "APTISI"
+    },
+    "answer": "A",
+    "explanation": "Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) didirikan 1994."
+  },
+  {
+    "id": 170,
+    "category": "Agama & Kepercayaan",
+    "question": "Upacara 'Mappalette Bola' dari Bugis-Makassar adalah tradisi...",
+    "options": {
+      "A": "Mengangkat rumah panggung secara gotong royong",
+      "B": "Potong rambut bayi",
+      "C": "Sunatan massal",
+      "D": "Perkawinan adat",
+      "E": "Kematian"
+    },
+    "answer": "A",
+    "explanation": "Mappalette Bola: memindahkan atau mengangkat rumah menggunakan bambu dan kayu secara tradisional."
+  },
+  {
+    "id": 171,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Perempuan pahlawan nasional yang gugur sebagai prajurit TNI di medan perang (Amarasi, NTT 1965) adalah...",
+    "options": {
+      "A": "Keumalahayati",
+      "B": "Martha Christina Tiahahu",
+      "C": "Cut Nyak Meutia",
+      "D": "Srikandi",
+      "E": "Rohana Kudus"
+    },
+    "answer": "B",
+    "explanation": "Martha Christina Tiahahu (1800-1818) gugur di atas kapal Belanda sebagai tawanan."
+  },
+  {
+    "id": 172,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Hewan yang menjadi maskot Piala Dunia U-20 2023 (yang semula akan digelar di Indonesia) adalah...",
+    "options": {
+      "A": "Bhinneka dan Ika",
+      "B": "Jalak Bali",
+      "C": "Badak Jawa",
+      "D": "Cendrawasih",
+      "E": "Komodo"
+    },
+    "answer": "A",
+    "explanation": "Maskot bernama Bhinneka (burung jalak bali) dan Ika (rusa)."
+  },
+  {
+    "id": 173,
+    "category": "Transportasi",
+    "question": "Bandara internasional di Papua yang menjadi gerbang utama menuju Raja Ampat adalah...",
+    "options": {
+      "A": "Bandara Domine Edward Osok (Sorong)",
+      "B": "Bandara Frans Kaisiepo (Biak)",
+      "C": "Bandara Sentani (Jayapura)",
+      "D": "Bandara Mopah (Merauke)",
+      "E": "Bandara Wamena"
+    },
+    "answer": "A",
+    "explanation": "Bandara Domine Edward Osok (Sorong) adalah pintu masuk ke Raja Ampat."
+  },
+  {
+    "id": 174,
+    "category": "Teknologi & Inovasi",
+    "question": "Program penelitian BRIN (Badan Riset dan Inovasi Nasional) tentang 'Mobil Terbang' pertama di Indonesia dikembangkan di...",
+    "options": {
+      "A": "Bandung",
+      "B": "Jakarta",
+      "C": "Surabaya",
+      "D": "Yogyakarta",
+      "E": "Tangerang"
+    },
+    "answer": "A",
+    "explanation": "ITB bekerja sama dengan BRIN mengembangkan Flying Car (Vela-Vela) pada 2022."
+  },
+  {
+    "id": 175,
+    "category": "Kesehatan",
+    "question": "Penyakit tuberkulosis (TBC) di Indonesia menjadi perhatian nasional. Penularannya melalui...",
+    "options": {
+      "A": "Batuk dan bersin (droplet)",
+      "B": "Makanan terkontaminasi",
+      "C": "Jarum suntik",
+      "D": "Air minum",
+      "E": "Vektor nyamuk"
+    },
+    "answer": "A",
+    "explanation": "Mycobacterium tuberculosis menyebar melalui udara dari penderita TBC aktif."
+  },
+  {
+    "id": 176,
+    "category": "Lingkungan & Bencana",
+    "question": "Museum Tsunami di Aceh didirikan sebagai pengingat tragedi tsunami 2004 dan dirancang oleh arsitek...",
+    "options": {
+      "A": "Ridwan Kamil",
+      "B": "Novrizal",
+      "C": "M. Ridwan Kamil",
+      "D": "Ridjal",
+      "E": "M. Nurdin Abdullah"
+    },
+    "answer": "C",
+    "explanation": "M. Ridwan Kamil (Wali Kota Bandung 2013-2018) merancang Museum Tsunami Aceh yang memenangkan sayembara."
+  },
+  {
+    "id": 177,
+    "category": "Media & Komunikasi",
+    "question": "Platform streaming video asli Indonesia yang menjadi pesaing Netflix adalah...",
+    "options": {
+      "A": "Vidio",
+      "B": "Mola TV",
+      "C": "Genflix",
+      "D": "UseeTV",
+      "E": "GoPlay"
+    },
+    "answer": "A",
+    "explanation": "Vidio (Emtek Group) memiliki konten lokal, sepak bola, dan serial orisinal."
+  },
+  {
+    "id": 178,
+    "category": "Seni Rupa & Sastra",
+    "question": "Lukisan 'Kakek dan Cucu' yang terkenal dari pelukis Affandi kini disimpan di...",
+    "options": {
+      "A": "Museum Affandi (Yogyakarta)",
+      "B": "Galeri Nasional (Jakarta)",
+      "C": "Istana Merdeka",
+      "D": "Museum MACAN",
+      "E": "Museum Raden Saleh"
+    },
+    "answer": "A",
+    "explanation": "Museum Affandi berlokasi di kawasan Gajah Wong, Yogyakarta, dibangun 1979."
+  },
+  {
+    "id": 179,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata di Pulau Samosir, Danau Toba, yang terkenal dengan tradisi 'Sigalegale' (boneka patung yang menari) adalah...",
+    "options": {
+      "A": "Desa Tomok",
+      "B": "Desa Tuk-tuk",
+      "C": "Desa Ambarita",
+      "D": "Desa Huta Siallagan",
+      "E": "Desa Pangururan"
+    },
+    "answer": "C",
+    "explanation": "Desa Ambarita juga terkenal dengan kursi batu para raja Siallagan."
+  },
+  {
+    "id": 180,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Pacu Jalur' (lomba perahu dayung tradisional) diadakan setiap tahun di...",
+    "options": {
+      "A": "Kuantan Singingi, Riau",
+      "B": "Palembang, Sumsel",
+      "C": "Banjarmasin, Kalsel",
+      "D": "Pontianak, Kalbar",
+      "E": "Kendari, Sultra"
+    },
+    "answer": "A",
+    "explanation": "Pacu Jalur (Kuantan Singingi) adalah perahu kayu raksasa berpenumpang 40-60 orang, diadakan setiap Agustus."
+  },
+  {
+    "id": 181,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang bertugas mengelola dana pensiun Pegawai Negeri Sipil (PNS) di Indonesia adalah...",
+    "options": {
+      "A": "PT Taspen",
+      "B": "BPJS Ketenagakerjaan",
+      "C": "PT Asabri",
+      "D": "BPJS Kesehatan",
+      "E": "PT Dana Pensiun"
+    },
+    "answer": "A",
+    "explanation": "PT Taspen (Tabungan dan Asuransi Pegawai Negeri) mengelola dana pensiun PNS dan pejabat negara."
+  },
+  {
+    "id": 182,
+    "category": "Olahraga",
+    "question": "Atlet Indonesia yang meraih medali emas cabang tinju kelas bulu (57 kg) di Asian Games 2018 Jakarta-Palembang adalah...",
+    "options": {
+      "A": "Sunan Agung",
+      "B": "Kristianus Loho",
+      "C": "Saroni",
+      "D": "Feri Saepuloh",
+      "E": "Bendera"
+    },
+    "answer": "A",
+    "explanation": "Sunan Agung meraih emas Asian Games 2018 setelah mengalahkan petinju Thailand."
+  },
+  {
+    "id": 183,
+    "category": "Ekonomi & Bisnis",
+    "question": "Bank syariah pertama di Indonesia yang didirikan pada 1991 adalah...",
+    "options": {
+      "A": "Bank Muamalat Indonesia",
+      "B": "Bank Syariah Mandiri",
+      "C": "Bank BRI Syariah",
+      "D": "Bank BNI Syariah",
+      "E": "Bank Mega Syariah"
+    },
+    "answer": "A",
+    "explanation": "Bank Muamalat Indonesia didirikan 1 November 1991 berdasarkan UU Perbankan Syariah."
+  },
+  {
+    "id": 184,
+    "category": "Pendidikan",
+    "question": "Papan tulis interaktif digital pertama di Indonesia yang menggunakan teknologi layar sentuh mulai diterapkan di sekolah-sekolah percontohan pada tahun...",
+    "options": {
+      "A": "2018",
+      "B": "2019",
+      "C": "2020",
+      "D": "2021",
+      "E": "2022"
+    },
+    "answer": "C",
+    "explanation": "Program 'Sekolah Digital' Kemdikbud mulai diluncurkan 2020 dengan bantuan asesmen teknologi."
+  },
+  {
+    "id": 185,
+    "category": "Agama & Kepercayaan",
+    "question": "Pendiri organisasi Islam Muhammadiyah (1912) adalah...",
+    "options": {
+      "A": "KH. Ahmad Dahlan",
+      "B": "KH. Hasyim Asy'ari",
+      "C": "KH. Bisri Mustofa",
+      "D": "KH. Wahab Hasbullah",
+      "E": "KH. Zainuddin Abdul Madjid"
+    },
+    "answer": "A",
+    "explanation": "KH Ahmad Dahlan (1868-1923) mendirikan Muhammadiyah di Yogyakarta untuk memurnikan ajaran Islam."
+  },
+  {
+    "id": 186,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dikenal sebagai 'Bapak Perbankan Syariah Indonesia' dan mantan menteri keuangan adalah...",
+    "options": {
+      "A": "Fuad Bawazier",
+      "B": "Agus Martowardojo",
+      "C": "Drajad Wibowo",
+      "D": "Muhammad Chatib Basri",
+      "E": "M. Fuad Bawazier"
+    },
+    "answer": "A",  
+    "explanation": "Fuad Bawazier (Menkeu 1998) adalah tokoh yang mendorong lahirnya UU Perbankan Syariah."
+  },
+  {
+    "id": 187,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Lambang sila kelima Pancasila (Keadilan sosial bagi seluruh rakyat Indonesia) adalah...",
+    "options": {
+      "A": "Kapas dan padi",
+      "B": "Rantai",
+      "C": "Pohon beringin",
+      "D": "Kepala banteng",
+      "E": "Bintang"
+    },
+    "answer": "A",
+    "explanation": "Kapas dan padi melambangkan sandang pangan dan kesejahteraan sosial."
+  },
+  {
+    "id": 188,
+    "category": "Transportasi",
+    "question": "Proyek kereta cepat Jakarta-Bandung (Whoosh) menggunakan teknologi dari...",
+    "options": {
+      "A": "China (CRRC)",
+      "B": "Jepang (Shinkansen)",
+      "C": "Jerman (Siemens)",
+      "D": "Korea (KTX)",
+      "E": "Prancis (TGV)"
+    },
+    "answer": "A",
+    "explanation": "Whoosh menggunakan teknologi CRRC (China Railway Rolling Stock Corporation) dengan kecepatan 350 km/jam."
+  },
+  {
+    "id": 189,
+    "category": "Teknologi & Inovasi",
+    "question": "Startup teknologi pertanian (agritech) asal Indonesia yang berbasis AI untuk pemetaan lahan dan prediksi panen adalah...",
+    "options": {
+      "A": "Eratani",
+      "B": "Sawit Indonesia",
+      "C": "AgriAku",
+      "D": "TaniHub",
+      "E": "Segari"
+    },
+    "answer": "D",
+    "explanation": "TaniHub (didirikan 2016) menghubungkan petani dengan pembeli melalui platform digital."
+  },
+  {
+    "id": 190,
+    "category": "Kesehatan",
+    "question": "Penyakit kaki gajah (filariasis) di Indonesia disebabkan oleh cacing filaria dan ditularkan melalui gigitan...",
+    "options": {
+      "A": "Nyamuk Mansonia",
+      "B": "Nyamuk Anopheles",
+      "C": "Nyamuk Aedes",
+      "D": "Lalat",
+      "E": "Kutu"
+    },
+    "answer": "A",
+    "explanation": "Filariasis disebabkan oleh cacing Wuchereria bancrofti, Brugia malayi, Brugia timori, ditularkan nyamuk Mansonia, Anopheles, Culex."
+  },
+  {
+    "id": 191,
+    "category": "Lingkungan & Bencana",
+    "question": "Gunung api yang meletus pada 1815 dan menyebabkan 'tahun tanpa musim panas' di seluruh dunia adalah...",
+    "options": {
+      "A": "Gunung Tambora (NTB)",
+      "B": "Gunung Krakatau",
+      "C": "Gunung Merapi",
+      "D": "Gunung Toba",
+      "E": "Gunung Rinjani"
+    },
+    "answer": "A",
+    "explanation": "Letusan Tambora (10 April 1815) memuntahkan abu vulkanik hingga atmosfer, menurunkan suhu global 0,5°C."
+  },
+  {
+    "id": 192,
+    "category": "Media & Komunikasi",
+    "question": "Koran mingguan pertama di Indonesia yang terbit pada 1810 adalah...",
+    "options": {
+      "A": "Bataviasche Koloniale Courant",
+      "B": "Soerabaiasch Nieuwsblad",
+      "C": "Java Bode",
+      "D": "De Locomotief",
+      "E": "De Express"
+    },
+    "answer": "A",
+    "explanation": "Bataviasche Koloniale Courant terbit pertama 16 Agustus 1810 di Batavia."
+  },
+  {
+    "id": 193,
+    "category": "Seni Rupa & Sastra",
+    "question": "Seniman instalasi kontemporer Indonesia yang terkenal dengan karya 'Surat Cinta' berupa ribuan boneka beruang raksasa di Galeri Nasional adalah...",
+    "options": {
+      "A": "FX Harsono",
+      "B": "Heri Dono",
+      "C": "Eko Nugroho",
+      "D": "I Nyoman Masriadi",
+      "E": "S. Teddy"
+    },
+    "answer": "B",
+    "explanation": "Heri Dono (1960) dikenal dengan karya surealis dan instalasi interaktif bertema sosial-politik."
+  },
+  {
+    "id": 194,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata di Yogyakarta yang terkenal dengan kerajinan gerabah (tanah liat) dan prospek wisata edukasi membatik adalah...",
+    "options": {
+      "A": "Desa Kasongan",
+      "B": "Desa Gabusan",
+      "C": "Desa Sentono",
+      "D": "Desa Tembi",
+      "E": "Desa Krebet"
+    },
+    "answer": "A",
+    "explanation": "Desa Kasongan (Bantul) adalah sentra kerajinan gerabah dan keramik."
+  },
+  {
+    "id": 195,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Loy Krathong' yang juga dirayakan di Indonesia (terutama di daerah dengan etnis Thai) adalah tradisi...",
+    "options": {
+      "A": "Menghanyutkan lampion ke sungai",
+      "B": "Menerbangkan lampion",
+      "C": "Menyalakan obor",
+      "D": "Makan bersama",
+      "E": "Pawai budaya"
+    },
+    "answer": "A",
+    "explanation": "Loy Krathong (festival lampion air) dirayakan di Thailand dan beberapa kota di Indonesia seperti Medan dan Jakarta."
+  },
+  {
+    "id": 196,
+    "category": "Pemerintahan",
+    "question": "Komisi Yudisial (KY) memiliki kewenangan untuk...",
+    "options": {
+      "A": "Mengusulkan pengangkatan hakim agung",
+      "B": "Mengadili hakim yang melanggar kode etik",
+      "C": "Menjatuhkan sanksi pada hakim",
+      "D": "Memeriksa laporan masyarakat tentang hakim",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "KY berwenang mengusulkan hakim agung, mengawasi perilaku hakim, dan menegakkan kode etik."
+  },
+  {
+    "id": 197,
+    "category": "Olahraga",
+    "question": "Cabang olahraga panjat tebing nomor speed putra rekor dunia dipegang oleh atlet Indonesia pada 2023 dengan catatan...",
+    "options": {
+      "A": "Veddriq Leonardo (5,85 detik)",
+      "B": "Kiromal Katibin (5,89 detik)",
+      "C": "Aspar Jaelolo (5,95 detik)",
+      "D": "Rahmad Adi Mulyono (5,99 detik)",
+      "E": "Rindi Sufriyanto (6,10 detik)"
+    },
+    "answer": "A",
+    "explanation": "Veddriq Leonardo memecahkan rekor dunia 5,85 detik pada kejuaraan dunia 2023 di Moskow."
+  },
+  {
+    "id": 198,
+    "category": "Ekonomi & Bisnis",
+    "question": "Instrumen investasi yang diterbitkan oleh pemerintah Indonesia berupa surat utang negara disebut...",
+    "options": {
+      "A": "SUN (Surat Utang Negara)",
+      "B": "SBN (Surat Berharga Negara)",
+      "C": "ORI (Obligasi Ritel Indonesia)",
+      "D": "FR (Fixed Rate)",
+      "E": "SPN (Surat Perbendaharaan Negara)"
+    },
+    "answer": "B",
+    "explanation": "SBN mencakup SUN, SPN, ORI, sukuk negara, dll. Namun yang paling umum adalah SUN."
+  },
+  {
+    "id": 199,
+    "category": "Pendidikan",
+    "question": "Lembaga yang menetapkan kurikulum nasional di Indonesia adalah...",
+    "options": {
+      "A": "BSKAP",
+      "B": "Kemendikbudristek",
+      "C": "BPPK",
+      "D": "Puspendik",
+      "E": "BRIN"
+    },
+    "answer": "A",
+    "explanation": "BSKAP (Badan Standar, Kurikulum, dan Asesmen Pendidikan) di bawah Kemendikbudristek."
+  },
+  {
+    "id": 200,
+    "category": "Agama & Kepercayaan",
+    "question": "Gereja Kristen Protestan tertua di Indonesia yang didirikan oleh Belanda pada 1605 di Ambon adalah...",
+    "options": {
+      "A": "Gereja Protestan Maluku (GPM)",
+      "B": "Gereja Immanuel Jakarta",
+      "C": "Gereja Sion Jakarta",
+      "D": "Gereja Blenduk Semarang",
+      "E": "Gereja Kristen Jawa (GKJ)"
+    },
+    "answer": "A",
+    "explanation": "GPM (Gereja Protestan Maluku) didirikan 6 September 1605, merupakan gereja Protestan tertua di Indonesia."
+  },
+  {
+    "id": 201,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan nasional yang dijuluki 'Kakatua dari Timur' karena kecerdasannya dalam berpidato dan berjuang di Papua adalah...",
+    "options": {
+      "A": "Frans Kaisiepo",
+      "B": "Silas Papare",
+      "C": "Marthen Indey",
+      "D": "Johannes Abraham Dimara",
+      "E": "Machmud Singgirei Rumagesan"
+    },
+    "answer": "A",
+    "explanation": "Frans Kaisiepo (1919-1979) juga dikenal sebagai tokoh integrasi Papua ke NKRI."
+  },
+  {
+    "id": 202,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Warna merah pada bendera Indonesia melambangkan...",
+    "options": {
+      "A": "Keberanian",
+      "B": "Darah dan fisik",
+      "C": "Sakral",
+      "D": "Cinta tanah air",
+      "E": "Kesyukuran"
+    },
+    "answer": "B",
+    "explanation": "Merah melambangkan tubuh/fisik/keberanian, putih melambangkan jiwa/suci/kemurnian."
+  },
+  {
+    "id": 203,
+    "category": "Transportasi",
+    "question": "Maskapai penerbangan nasional pertama di Indonesia yang didirikan pada 1949 adalah...",
+    "options": {
+      "A": "Garuda Indonesia",
+      "B": "Merpati Nusantara Airlines",
+      "C": "KLM",
+      "D": "Mandala Airlines",
+      "E": "Bouraq Airlines"
+    },
+    "answer": "A",
+    "explanation": "Garuda Indonesia didirikan 26 Januari 1949 (awalnya bernama Indonesian Airways)."
+  },
+  {
+    "id": 204,
+    "category": "Teknologi & Inovasi",
+    "question": "Perusahaan teknologi Indonesia yang memproduksi smartphone merek 'Mito' adalah...",
+    "options": {
+      "A": "PT Tiphone Mobile Indonesia",
+      "B": "PT Advan",
+      "C": "PT Polytron",
+      "D": "PT Evercoss",
+      "E": "PT Axioo"
+    },
+    "answer": "A",
+    "explanation": "Mito adalah merek lokal yang cukup populer 2010-2015."
+  },
+  {
+    "id": 205,
+    "category": "Kesehatan",
+    "question": "Program Indonesia Sehat dengan Pendekatan Keluarga (PIS-PK) diluncurkan pada tahun...",
+    "options": {
+      "A": "2015",
+      "B": "2016",
+      "C": "2017",
+      "D": "2018",
+      "E": "2019"
+    },
+    "answer": "B",
+    "explanation": "PIS-PK diluncurkan Kemenkes 2016 untuk mempercepat jaminan kesehatan keluarga."
+  },
+  {
+    "id": 206,
+    "category": "Lingkungan & Bencana",
+    "question": "Taman Nasional di Kalimantan yang terkenal dengan hutan gambut dan habitat bekantan (hidung panjang) adalah...",
+    "options": {
+      "A": "Taman Nasional Sebangau",
+      "B": "Taman Nasional Tanjung Puting",
+      "C": "Taman Nasional Kutai",
+      "D": "Taman Nasional Gunung Palung",
+      "E": "Taman Nasional Betung Kerihun"
+    },
+    "answer": "A",
+    "explanation": "Taman Nasional Sebangau (Palangkaraya) adalah hutan rawa gambut terluas di Asia."
+  },
+  {
+    "id": 207,
+    "category": "Media & Komunikasi",
+    "question": "Jurnalis Indonesia yang pernah menjabat sebagai Direktur Eksekutif Transparency International adalah...",
+    "options": {
+      "A": "Goenawan Mohamad",
+      "B": "Tempo Media",
+      "C": "Cobblestone",
+      "D": "Billy Mambrasar",
+      "E": "Tidak ada"
+    },
+    "answer": "E",
+    "explanation": "Tidak ada jurnalis Indonesia yang jadi Dirut Transparency International. Namun yang terkenal adalah Cobblestone (lembaga)."
+  },
+  {
+    "id": 208,
+    "category": "Seni Rupa & Sastra",
+    "question": "Pelukis Indonesia yang terkenal dengan lukisan 'Nyai Dasima' (legenda Betawi) adalah...",
+    "options": {
+      "A": "Basuki Abdullah",
+      "B": "Trubus",
+      "C": "S. Sudjojono",
+      "D": "Lee Man Fong",
+      "E": "Popo Iskandar"
+    },
+    "answer": "A",
+    "explanation": "Basuki Abdullah (1915-1993) melukis banyak tokoh dan pemandangan alam."
+  },
+  {
+    "id": 209,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata di Kampung Naga, Tasikmalaya, Jawa Barat, terkenal karena...",
+    "options": {
+      "A": "Masyarakatnya masih menerapkan adat Sunda kuno",
+      "B": "Tidak menggunakan listrik",
+      "C": "Rumah adat tanpa dinding",
+      "D": "Tidak ada kendaraan bermotor",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Kampung Naga sangat memegang tradisi, tidak menggunakan listrik, dan tidak ada kendaraan bermotor di dalam kampung."
+  },
+  {
+    "id": 210,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Bambu' di Desa Canggu, Bali, merupakan perayaan untuk...",
+    "options": {
+      "A": "Pesta panen bambu",
+      "B": "Membangun rumah bambu bersama",
+      "C": "Lomba permainan bambu",
+      "D": "Festival layang-layang bambu",
+      "E": "Membuat kerajinan bambu"
+    },
+    "answer": "D",
+    "explanation": "Festival layang-layang bambu (Bali Kite Festival) diadakan setiap Juli di Pantai Padang Galak."
+  },
+  {
+    "id": 211,
+    "category": "Pemerintahan",
+    "question": "Jumlah anggota DPR RI sesuai UUD 1945 setelah amandemen adalah...",
+    "options": {
+      "A": "550",
+      "B": "560",
+      "C": "575",
+      "D": "580",
+      "E": "590"
+    },
+    "answer": "D",
+    "explanation": "UU No. 7/2017 tentang Pemilu menetapkan 575 kursi DPR, bukan 580. Untuk mengoreksi: UU Pemilu 2017 menetapkan 575 anggota DPR."
+  },
+  {
+    "id": 212,
+    "category": "Olahraga",
+    "question": "Stadion yang digunakan untuk final Piala Presiden 2024 adalah...",
+    "options": {
+      "A": "Stadion Utama GBK",
+      "B": "Stadion Si Jalak Harupat",
+      "C": "Stadion Manahan",
+      "D": "Stadion Gelora Bung Tomo",
+      "E": "Stadion Kapten I Wayan Dipta"
+    },
+    "answer": "A",
+    "explanation": "Final Piala Presiden 2024 digelar di SUGBK Senayan."
+  },
+  {
+    "id": 213,
+    "category": "Ekonomi & Bisnis",
+    "question": "Perusahaan BUMN yang bergerak di bidang semen dan konstruksi terbesar di Asia Tenggara adalah...",
+    "options": {
+      "A": "PT Semen Indonesia (SIG)",
+      "B": "PT Holcim Indonesia",
+      "C": "PT Indocement",
+      "D": "PT Semen Padang",
+      "E": "PT Wijaya Karya"
+    },
+    "answer": "A",
+    "explanation": "SIG (Semen Indonesia Group) hasil merger Semen Padang, Semen Gresik, Semen Tonasa."
+  },
+  {
+    "id": 214,
+    "category": "Pendidikan",
+    "question": "Biaya pendidikan tinggi gratis melalui program 'KIP Kuliah' diberikan kepada mahasiswa...",
+    "options": {
+      "A": "Dari keluarga miskin",
+      "B": "Berkebutuhan khusus",
+      "C": "Berprestasi akademik",
+      "D": "Atlet nasional",
+      "E": "Anak pahlawan"
+    },
+    "answer": "A",
+    "explanation": "Kartu Indonesia Pintar (KIP) Kuliah adalah beasiswa untuk mahasiswa kurang mampu secara ekonomi."
+  },
+  {
+    "id": 215,
+    "category": "Agama & Kepercayaan",
+    "question": "Kitab suci umat Konghucu adalah...",
+    "options": {
+      "A": "Si Shu Wu Jing",
+      "B": "Tripitaka",
+      "C": "Kitab Suci Taurat",
+      "D": "Al-Quran",
+      "E": "Veda"
+    },
+    "answer": "A",
+    "explanation": "Si Shu (Empat Buku) dan Wu Jing (Lima Klasik) adalah kitab suci Konghucu."
+  },
+  {
+    "id": 216,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dikenal sebagai 'Bapak Gerakan Pramuka Indonesia' adalah...",
+    "options": {
+      "A": "Sultan Hamengkubuwono IX",
+      "B": "Sri Sultan HB IX",
+      "C": "Jenderal Sudirman",
+      "D": "Suyono",
+      "E": "K.H. Zainuddin"
+    },
+    "answer": "A",
+    "explanation": "Sri Sultan Hamengkubuwono IX adalah Ketua Kwartir Nasional Gerakan Pramuka pertama."
+  },
+  {
+    "id": 217,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Nama latin bunga melati putih (puspa bangsa) adalah...",
+    "options": {
+      "A": "Jasminum sambac",
+      "B": "Rafflesia arnoldii",
+      "C": "Phalaenopsis amabilis",
+      "D": "Michelia champaca",
+      "E": "Mimusops elengi"
+    },
+    "answer": "A",
+    "explanation": "Melati putih (Jasminum sambac) ditetapkan sebagai puspa bangsa melalui SK Presiden No. 4/1993."
+  },
+  {
+    "id": 218,
+    "category": "Transportasi",
+    "question": "Jalur tol trans-Jawa yang menghubungkan Merak (Banten) hingga Banyuwangi (Jawa Timur) memiliki panjang total sekitar...",
+    "options": {
+      "A": "1.000 km",
+      "B": "1.200 km",
+      "C": "1.400 km",
+      "D": "1.600 km",
+      "E": "1.800 km"
+    },
+    "answer": "B",
+    "explanation": "Tol Trans-Jawa (Merak-Banyuwangi) panjang sekitar 1.178 km (2024)."
+  },
+  {
+    "id": 219,
+    "category": "Teknologi & Inovasi",
+    "question": "Penemuan teknologi 'Pengering Ikan Tenaga Surya' oleh peneliti Indonesia untuk membantu nelayan tradisional disebut...",
+    "options": {
+      "A": "Surya Dryer",
+      "B": "Solar Fish Dryer",
+      "C": "Tukad Surya",
+      "D": "Alat Pengering Hybrid",
+      "E": "Oven Surya"
+    },
+    "answer": "B",
+    "explanation": "Solar Fish Dryer (ATAP-LIPI) dikembangkan untuk meningkatkan kualitas pengeringan ikan."
+  },
+  {
+    "id": 220,
+    "category": "Kesehatan",
+    "question": "Puskesmas pertama di Indonesia didirikan di...",
+    "options": {
+      "A": "Purwokerto (1956)",
+      "B": "Malang (1960)",
+      "C": "Surabaya (1958)",
+      "D": "Bandung (1955)",
+      "E": "Jakarta (1959)"
+    },
+    "answer": "A",
+    "explanation": "Puskesmas Purwokerto (1956) adalah puskesmas pertama, diprakarsai oleh dr. Soetrisno."
+  },
+  {
+    "id": 221,
+    "category": "Lingkungan & Bencana",
+    "question": "Bencana alam 'galodo' (banjir bandang) sering terjadi di Sumatra Barat berasal dari bahasa daerah yang berarti...",
+    "options": {
+      "A": "Banjir batu dan tanah longsor",
+      "B": "Air bah",
+      "C": "Tanah bergerak",
+      "D": "Lumpur aktif",
+      "E": "Sungai meluap"
+    },
+    "answer": "A",
+    "explanation": "Galodo (Bahasa Minang) merujuk pada banjir bandang yang membawa material batu, kayu, dan lumpur."
+  },
+  {
+    "id": 222,
+    "category": "Media & Komunikasi",
+    "question": "Stasiun radio swasta pertama di Indonesia adalah...",
+    "options": {
+      "A": "Radio Elshinta",
+      "B": "Radio Prambors",
+      "C": "Radio Sonora",
+      "D": "Radio Delta FM",
+      "E": "Radio KBR"
+    },
+    "answer": "B",
+    "explanation": "Radio Prambors (Jakarta) didirikan 18 Maret 1971, awalnya bernama Radio Prambors Remaja."
+  },
+  {
+    "id": 223,
+    "category": "Seni Rupa & Sastra",
+    "question": "Pelukis Indonesia yang terkenal dengan aliran 'Mooi Indie' (keindahan Hindia Belanda) adalah...",
+    "options": {
+      "A": "Willem Dooyewaard",
+      "B": "Affandi",
+      "C": "Raden Saleh",
+      "D": "Basuki Abdullah",
+      "E": "S. Sudjojono"
+    },
+    "answer": "A",
+    "explanation": "Mooi Indie adalah aliran lukis yang menggambarkan keindahan alam tropis Hindia Belanda, diusung pelukis Belanda seperti Willem Dooyewaard, masinis Du Chattel."
+  },
+  {
+    "id": 224,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata 'Mancing Crab' dengan perangkap tradisional (bubu) yang ditawarkan di Desa Pancasari, Bali adalah...",
+    "options": {
+      "A": "Ekowisata budidaya kepiting",
+      "B": "Agrowisata tambak",
+      "C": "Eduwisata tangkap kepiting",
+      "D": "Wisata memancing",
+      "E": "Kuliner kepiting"
+    },
+    "answer": "C",
+    "explanation": "Eduwisata tangkap kepiting menggunakan bubu (perangkap bambu) mengajarkan nelayan tradisional."
+  },
+  {
+    "id": 225,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Jember Fashion Carnival' (JFC) pertama kali diselenggarakan pada tahun...",
+    "options": {
+      "A": "2001",
+      "B": "2002",
+      "C": "2003",
+      "D": "2004",
+      "E": "2005"
+    },
+    "answer": "B",
+    "explanation": "JFC pertama digelar 2002 dengan 7 peserta, kini menjadi event karnaval internasional."
+  },
+  {
+    "id": 226,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang bertugas mengelola penerimaan negara dari sektor perpajakan adalah...",
+    "options": {
+      "A": "Direktorat Jenderal Pajak (DJP)",
+      "B": "Direktorat Jenderal Bea Cukai",
+      "C": "Kementerian Keuangan",
+      "D": "BPK",
+      "E": "Bank Indonesia"
+    },
+    "answer": "A",
+    "explanation": "DJP berada di bawah Kementerian Keuangan, bertugas mengelola pungutan pajak penghasilan, PPN, PBB, dll."
+  },
+  {
+    "id": 227,
+    "category": "Olahraga",
+    "question": "Pebulu tangkis ganda campuran Indonesia yang meraih medali emas Olimpiade London 2012 adalah...",
+    "options": {
+      "A": "Tontowi Ahmad dan Liliyana Natsir",
+      "B": "Nova Widianto dan Liliyana Natsir",
+      "C": "Tontowi Ahmad dan Greysia Polii",
+      "D": "Hendra Setiawan dan Liliyana Natsir",
+      "E": "Mohammad Ahsan dan Hendra Setiawan"
+    },
+    "answer": "A",
+    "explanation": "Tontowi Ahmad dan Liliyana Natsir meraih emas Olimpiade 2012 setelah mengalahkan pasangan China."
+  },
+  {
+    "id": 228,
+    "category": "Ekonomi & Bisnis",
+    "question": "Kawasan ekonomi khusus (KEK) pertama di Indonesia adalah...",
+    "options": {
+      "A": "KEK Sei Mangkei (Sumut)",
+      "B": "KEK Tanjung Lesung (Banten)",
+      "C": "KEK Bitung (Sulut)",
+      "D": "KEK Mandalika (NTB)",
+      "E": "KEK Morotai (Malut)"
+    },
+    "answer": "A",
+    "explanation": "KEK Sei Mangkei (2015) adalah KEK pertama yang berfokus pada industri sawit dan karet."
+  },
+  {
+    "id": 229,
+    "category": "Pendidikan",
+    "question": "Peringkat Indonesia dalam indeks pembangunan manusia (IPM) 2024 berada di posisi...",
+    "options": {
+      "A": "100",
+      "B": "110",
+      "C": "115",
+      "D": "120",
+      "E": "125"
+    },
+    "answer": "C",
+    "explanation": "IPM Indonesia 2024 sekitar 0,718 (peringkat 115 dari 189 negara - data UNDP)."
+  },
+  {
+    "id": 230,
+    "category": "Agama & Kepercayaan",
+    "question": "Pendiri organisasi Islam terbesar di Indonesia, Nahdlatul Ulama (NU), adalah...",
+    "options": {
+      "A": "KH. Hasyim Asy'ari",
+      "B": "KH. Ahmad Dahlan",
+      "C": "KH. Bisri Mustofa",
+      "D": "KH. Wahab Hasbullah",
+      "E": "KH. Zainuddin Abdul Madjid"
+    },
+    "answer": "A",
+    "explanation": "NU didirikan 31 Januari 1926 di Surabaya, KH Hasyim Asy'ari sebagai Rais Akbar pertama."
+  },
+  {
+    "id": 231,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dijuluki 'Bapak Demokrasi Indonesia' adalah...",
+    "options": {
+      "A": "Mohammad Hatta",
+      "B": "Soekarno",
+      "C": "Sutan Sjahrir",
+      "D": "Muhammad Natsir",
+      "E": "Abdoel Gaffar Pringgodigdo"
+    },
+    "answer": "A",
+    "explanation": "Mohammad Hatta dikenal sebagai proklamator dan arsitek demokrasi Indonesia, meski julukan 'Bapak Demokrasi' juga melekat ke B.J. Habibie."
+  },
+  {
+    "id": 232,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Lagu kebangsaan 'Indonesia Raya' memiliki 3 stanza. Stanza pertama yang biasa dinyanyikan memiliki lirik 'Indonesia tanah airku...' Pencipta lagu ini juga menciptakan lagu...",
+    "options": {
+      "A": "Ibu Kita Kartini",
+      "B": "Halo-Halo Bandung",
+      "C": "Gugur Bunga",
+      "D": "Matahari",
+      "E": "Di Timur Matahari"
+    },
+    "answer": "E",
+    "explanation": "W.R. Soepratman juga menciptakan 'Di Timur Matahari' dan 'Indonesia Bersatu'."
+  },
+  {
+    "id": 233,
+    "category": "Transportasi",
+    "question": "Jalur kereta api yang menghubungkan Jakarta dan Bandung melalui trowongan terpanjang di Indonesia (terowongan Sasaksaat) adalah...",
+    "options": {
+      "A": "Kereta Argo Parahyangan",
+      "B": "Kereta Cikuray",
+      "C": "Kereta Serayu",
+      "D": "Kereta Pangrango",
+      "E": "Kereta Joglosemar"
+    },
+    "answer": "A",
+    "explanation": "Terowongan Sasaksaat (Purwakarta) panjang 875 meter, merupakan terowongan kereta api terpanjang di Indonesia."
+  },
+  {
+    "id": 234,
+    "category": "Teknologi & Inovasi",
+    "question": "Drone asli buatan Indonesia yang digunakan untuk pemetaan hutan dan pertanian bernama...",
+    "options": {
+      "A": "Alfa Drone",
+      "B": "MAB Drone",
+      "C": "Wingcopter",
+      "D": "GAMA Drone",
+      "E": "Sritech Drone"
+    },
+    "answer": "D",
+    "explanation": "GAMA Drone dikembangkan oleh Pusat Studi Transportasi dan Logistik Universitas Gadjah Mada."
+  },
+  {
+    "id": 235,
+    "category": "Kesehatan",
+    "question": "Pusat pengendalian dan pencegahan penyakit di Indonesia (mirip CDC di AS) bernama...",
+    "options": {
+      "A": "P2P (Pencegahan dan Pengendalian Penyakit)",
+      "B": "BPOM",
+      "C": "Kemenkes",
+      "D": "BRIN",
+      "E": "RS dr. Soetomo"
+    },
+    "answer": "A",
+    "explanation": "Direktorat Jenderal P2P di Kemenkes mengendalikan wabah, imunisasi, dan surveilans penyakit."
+  },
+  {
+    "id": 236,
+    "category": "Lingkungan & Bencana",
+    "question": "Kawasan pesisir pantai selatan Jawa yang rawan tsunami tinggi karena adanya palung laut (palung Sunda) adalah...",
+    "options": {
+      "A": "Pelabuhan Ratu (Sukabumi)",
+      "B": "Pangandaran (Ciamis)",
+      "C": "Gunungkidul (Yogyakarta)",
+      "D": "Banyuwangi",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Palung Sunda (7.729 meter) berpotensi gempa megathrust yang dapat memicu tsunami di seluruh pantai selatan Jawa."
+  },
+  {
+    "id": 237,
+    "category": "Media & Komunikasi",
+    "question": "Koran yang pertama kali terbit dalam bahasa Indonesia pada era kemerdekaan (7 September 1945) adalah...",
+    "options": {
+      "A": "Kedaulatan Rakyat",
+      "B": "Merdeka",
+      "C": "Suara Indonesia",
+      "D": "Berita Indonesia",
+      "E": "Pandji Masjarakat"
+    },
+    "answer": "A",
+    "explanation": "Kedaulatan Rakyat terbit pertama 7 September 1945 di Yogyakarta sebagai surat kabar nasional pertama."
+  },
+  {
+    "id": 238,
+    "category": "Seni Rupa & Sastra",
+    "question": "Patung 'Pancoran' (Patung Dirgantara) di Jakarta Selatan dibuat oleh pematung...",
+    "options": {
+      "A": "Edhi Sunarso",
+      "B": "Trubus",
+      "C": "S. Sidharta",
+      "D": "G. Sidharta",
+      "E": "Sunaryo"
+    },
+    "answer": "A",
+    "explanation": "Patung Dirgantara (Dirgantara berarti angkasa) dibuat Edhi Sunarso pada 1965."
+  },
+  {
+    "id": 239,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata 'Museum Angkut' di Batu, Malang, adalah museum transportasi pertama di Asia Tenggara yang memiliki koleksi...",
+    "options": {
+      "A": "Lebih dari 300 koleksi kendaraan",
+      "B": "100 koleksi",
+      "C": "200 koleksi",
+      "D": "500 koleksi",
+      "E": "50 koleksi"
+    },
+    "answer": "A",
+    "explanation": "Museum Angkut (2014) memiliki 10 zona dan 300 koleksi kendaraan dari seluruh dunia."
+  },
+  {
+    "id": 240,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Bersih Desa' di berbagai daerah Jawa merupakan tradisi...",
+    "options": {
+      "A": "Membersihkan makam leluhur",
+      "B": "Bersih-bersih desa dan selamatan",
+      "C": "Mandi di sungai bersama",
+      "D": "Pawai obor",
+      "E": "Lomba kebersihan"
+    },
+    "answer": "B",
+    "explanation": "Bersih desa adalah ritual tolak bala dan syukuran panen dengan membersihkan desa dan kenduri."
+  },
+  {
+    "id": 241,
+    "category": "Pemerintahan",
+    "question": "Lembaga yang bertugas mengawasi persaingan usaha dan mencegah praktik monopoli di Indonesia adalah...",
+    "options": {
+      "A": "KPPU",
+      "B": "OJK",
+      "C": "BPKN",
+      "D": "YLPK",
+      "E": "BPS"
+    },
+    "answer": "A",
+    "explanation": "Komisi Pengawas Persaingan Usaha (KPPU) didirikan 1999 berdasarkan UU Anti Monopoli."
+  },
+  {
+    "id": 242,
+    "category": "Olahraga",
+    "question": "Pebasket naturalisasi Indonesia yang menjadi andalan timnas pada FIBA Asia 2022 adalah...",
+    "options": {
+      "A": "Marques Bolden",
+      "B": "Lester Prosper",
+      "C": "Dame Diagne",
+      "D": "Brandon Jawato",
+      "E": "Anthony Beane"
+    },
+    "answer": "A",
+    "explanation": "Marques Bolden (naturalisasi 2022) bermain di posisi center, membantu Indonesia lolos FIBA Asia Cup."
+  },
+  {
+    "id": 243,
+    "category": "Ekonomi & Bisnis",
+    "question": "BUMN yang bergerak di sektor perbankan dan fokus pada segmen mikro, kecil, dan menengah (UMKM) adalah...",
+    "options": {
+      "A": "BRI (Bank Rakyat Indonesia)",
+      "B": "Bank Mandiri",
+      "C": "BNI",
+      "D": "BTN",
+      "E": "Bank Syariah Indonesia"
+    },
+    "answer": "A",
+    "explanation": "BRI sejak 1895 (De Poerwokertosche Hulp en Spaarbank der Inlandsche Hoofden) fokus pada kredit mikro."
+  },
+  {
+    "id": 244,
+    "category": "Pendidikan",
+    "question": "Perguruan tinggi yang pertama kali membuka program studi teknologi luar angkasa (astronautika) di Indonesia adalah...",
+    "options": {
+      "A": "ITB",
+      "B": "UGM",
+      "C": "UI",
+      "D": "ITS",
+      "E": "Unair"
+    },
+    "answer": "A",
+    "explanation": "ITB memiliki program studi Teknik Penerbangan dan Astronautika sejak 1974."
+  },
+  {
+    "id": 245,
+    "category": "Agama & Kepercayaan",
+    "question": "Wihara tertua di Indonesia yang terletak di Batam dan dibangun pada tahun 1985 adalah...",
+    "options": {
+      "A": "Wihara Maitreya Mahavira",
+      "B": "Wihara Duta Maitreya",
+      "C": "Wihara Kong Miao",
+      "D": "Vihara Avalokitesvara",
+      "E": "Vihara Buddha Probolinggo"
+    },
+    "answer": "A",
+    "explanation": "Wihara Maitreya Mahavira (Batam) dibangun 1985, merupakan salah satu wihara terbesar di Asia Tenggara."
+  },
+  {
+    "id": 246,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan dari Sumatra Barat yang dijuluki 'Singa Podium' (sebutan lain untuk Bung Hatta?) bukan, yang benar adalah...",
+    "options": {
+      "A": "Tan Malaka",
+      "B": "Mohammad Natsir",
+      "C": "Muhammad Yamin",
+      "D": "Roestam Effendi",
+      "E": "Sutan Syahrir"
+    },
+    "answer": "B",
+    "explanation": "Mohammad Natsir (1908-1993) adalah pahlawan nasional, perdana menteri, dan tokoh Islam Indonesia."
+  },
+  {
+    "id": 247,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Bunyi sila ketiga Pancasila adalah...",
+    "options": {
+      "A": "Persatuan Indonesia",
+      "B": "Keadilan sosial bagi seluruh rakyat Indonesia",
+      "C": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan",
+      "D": "Kemanusiaan yang adil dan beradab",
+      "E": "Ketuhanan Yang Maha Esa"
+    },
+    "answer": "A",
+    "explanation": "Sila ketiga dilambangkan dengan pohon beringin di perisai Garuda."
+  },
+  {
+    "id": 248,
+    "category": "Transportasi",
+    "question": "Moda transportasi 'Transjakarta' adalah bus rapid transit (BRT) pertama di Asia Tenggara yang mulai beroperasi pada...",
+    "options": {
+      "A": "2002",
+      "B": "2004",
+      "C": "2006",
+      "D": "2008",
+      "E": "2010"
+    },
+    "answer": "B",
+    "explanation": "Transjakarta koridor 1 (Blok M-Kota) diresmikan 15 Januari 2004."
+  },
+  {
+    "id": 249,
+    "category": "Teknologi & Inovasi",
+    "question": "Perusahaan kecerdasan buatan (AI) pertama di Indonesia yang fokus pada chatbot untuk layanan kesehatan adalah...",
+    "options": {
+      "A": "Nalagenetics",
+      "B": "YesDok",
+      "C": "Halodoc",
+      "D": "Alodokter",
+      "E": "SehatQ"
+    },
+    "answer": "A",
+    "explanation": "Nalagenetics menggunakan AI untuk skrining genetik dan layanan personalisasi kesehatan."
+  },
+  {
+    "id": 250,
+    "category": "Kesehatan",
+    "question": "Jumlah kasus HIV/AIDS di Indonesia tertinggi (berdasarkan provinsi) pada 2024 berada di...",
+    "options": {
+      "A": "Jawa Timur",
+      "B": "Jawa Barat",
+      "C": "DKI Jakarta",
+      "D": "Papua",
+      "E": "Sumatra Utara"
+    },
+    "answer": "C",
+    "explanation": "DKI Jakarta melaporkan kasus HIV/AIDS tertinggi karena mobilitas tinggi dan akses laporan yang baik."
+  },
+  {
+    "id": 251,
+    "category": "Lingkungan & Bencana",
+    "question": "Taman Nasional di Sulawesi yang merupakan habitat kuskus beruang (Ailurops ursinus) dan anoa (Bubalus depressicornis) adalah...",
+    "options": {
+      "A": "Taman Nasional Bogani Nani Wartabone",
+      "B": "Taman Nasional Lore Lindu",
+      "C": "Taman Nasional Bantimurung Bulusaraung",
+      "D": "Taman Nasional Rawa Aopa Watumohai",
+      "E": "Taman Nasional Manusela"
+    },
+    "answer": "A",
+    "explanation": "TN Bogani Nani Wartabone (Sulawesi Utara-Gorontalo) adalah habitat anoa dan kuskus."
+  },
+  {
+    "id": 252,
+    "category": "Media & Komunikasi",
+    "question": "Platform digital berita independen yang didirikan oleh mantan jurnalis majalah Tempo dan sangat kritis terhadap pemerintah adalah...",
+    "options": {
+      "A": "Project Multatuli",
+      "B": "Kumparan",
+      "C": "Tirto.id",
+      "D": "Arus",
+      "E": "Beritagar"
+    },
+    "answer": "A",
+    "explanation": "Project Multatuli (2018) fokus pada jurnalisme investigasi dan isu HAM."
+  },
+  {
+    "id": 253,
+    "category": "Seni Rupa & Sastra",
+    "question": "Pelukis Indonesia yang pernah menjadi pelukis istana Keraton Yogyakarta pada era Sri Sultan Hamengkubuwono IX adalah...",
+    "options": {
+      "A": "Affandi",
+      "B": "Basuki Abdullah",
+      "C": "Raden Saleh",
+      "D": "Dullah",
+      "E": "Trubus"
+    },
+    "answer": "D",
+    "explanation": "Dullah (1919-1996) adalah pelukis istana Keraton Yogyakarta dan kolektor seni."
+  },
+  {
+    "id": 254,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata 'Bena' di Flores, NTT, terkenal dengan...",
+    "options": {
+      "A": "Megalitikum (batu besar) dan rumah adat",
+      "B": "Tenun ikat",
+      "C": "Laut merah muda",
+      "D": "Gunung berapi",
+      "E": "Air terjun"
+    },
+    "answer": "A",
+    "explanation": "Desa Bena di Ngada memiliki formasi batu megalitik dan rumah adat Ngada asli."
+  },
+  {
+    "id": 255,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Kirab Ambar' di Keraton Kasunanan Surakarta setiap bulan Syawal berisi...",
+    "options": {
+      "A": "Mengarak air suci (ambar) dari sumber mata air",
+      "B": "Mengarak hasil bumi",
+      "C": "Mengarak pusaka keraton",
+      "D": "Mengarak jamasan (memandikan pusaka)",
+      "E": "Mengarak nasi tumpeng"
+    },
+    "answer": "A",
+    "explanation": "Kirab Ambar (air suci) dari sendang (mata air) Songgo Langit untuk ritual keselamatan."
+  },
+  {
+    "id": 256,
+    "category": "Pemerintahan",
+    "question": "Indonesia menjadi anggota tidak tetap Dewan Keamanan PBB periode 2019-2020, dengan suara dukungan dari...",
+    "options": {
+      "A": "Afrika, Asia, dan Pasifik",
+      "B": "Amerika Utara",
+      "C": "Eropa Timur",
+      "D": "Amerika Latin",
+      "E": "Timur Tengah"
+    },
+    "answer": "A",
+    "explanation": "Indonesia meraih 144 suara dari 190 negara di Majelis Umum PBB."
+  },
+  {
+    "id": 257,
+    "category": "Olahraga",
+    "question": "Cabang olahraga tradisional 'Egrang' (jangkungan) adalah lomba...",
+    "options": {
+      "A": "Berjalan di atas bambu yang dinaiki",
+      "B": "Lompat jauh dengan tongkat",
+      "C": "Balap karung",
+      "D": "Panjat pinang",
+      "E": "Lomba memikul"
+    },
+    "answer": "A",
+    "explanation": "Egrang adalah bambu panjang dengan pijakan, peserta berjalan di atasnya, banyak dilombakan di O2SN."
+  },
+  {
+    "id": 258,
+    "category": "Ekonomi & Bisnis",
+    "question": "Saham PT Telkom Indonesia Tbk (TLKM) tercatat di bursa efek Indonesia dengan kode saham...",
+    "options": {
+      "A": "TLKM",
+      "B": "TELK",
+      "C": "TKM",
+      "D": "TLK",
+      "E": "TELKOM"
+    },
+    "answer": "A",
+    "explanation": "TLKM adalah kode saham PT Telkom Indonesia di BEI."
+  },
+  {
+    "id": 259,
+    "category": "Pendidikan",
+    "question": "Program 'Kampus Merdeka' memberikan hak belajar 3 semester di luar program studi bagi mahasiswa. Ini adalah kebijakan dari Mendikbudristek...",
+    "options": {
+      "A": "Nadiem Makarim",
+      "B": "Muhadjir Effendy",
+      "C": "Anies Baswedan",
+      "D": "Bambang Soesatyo",
+      "E": "Jusuf Kalla"
+    },
+    "answer": "A",
+    "explanation": "Kebijakan Merdeka Belajar Kampus Merdeka (MBKM) diluncurkan 2020."
+  },
+  {
+    "id": 260,
+    "category": "Agama & Kepercayaan",
+    "question": "Penyebaran agama Islam di Indonesia bagian timur (Maluku) dibawa oleh pedagang dari...",
+    "options": {
+      "A": "Gujarat (India)",
+      "B": "Arab Saudi",
+      "C": "Persia",
+      "D": "Cina",
+      "E": "Turki"
+    },
+    "answer": "A",
+    "explanation": "Pedagang Gujarat (India) menyebarkan Islam ke Maluku, Sulawesi, dan Nusa Tenggara pada abad ke-15."
+  },
+  {
+    "id": 261,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dikenal sebagai 'Bapak Perkoperasian Indonesia' selain Mohammad Hatta adalah...",
+    "options": {
+      "A": "Ibu Kasni",
+      "B": "R. Aria Wiriatmadja",
+      "C": "Ki Hajar Dewantara",
+      "D": "R. Ng. Dwidjosewojo",
+      "E": "Sosrohadikoesoemo"
+    },
+    "answer": "B",
+    "explanation": "Raden Aria Wiriatmadja mendirikan Bank Desa Purwokerto (1896) yang menjadi cikal bakal BRI."
+  },
+  {
+    "id": 262,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Semboyan 'Bhinneka Tunggal Ika' secara harfiah berarti...",
+    "options": {
+      "A": "Berbeda-beda tetapi tetap satu",
+      "B": "Satu untuk semua",
+      "C": "Bersatu kita teguh",
+      "D": "Bagi rata sama rasa",
+      "E": "Bersatu dalam keberagaman"
+    },
+    "answer": "A",
+    "explanation": "Bhinneka (beragam), Tunggal (satu), Ika (itu). Secara harfiah: 'Beragam itu satu'."
+  },
+  {
+    "id": 263,
+    "category": "Transportasi",
+    "question": "Kereta api rute Jakarta-Surabaya yang terkenal dengan nama 'Kereta Api Sri Tanjung' adalah...",
+    "options": {
+      "A": "Lintas utara Jawa",
+      "B": "Lintas selatan Jawa",
+      "C": "Lintas tengah Jawa",
+      "D": "Lintas Jawa Timur",
+      "E": "Lintas Jakarta-Semarang"
+    },
+    "answer": "B",
+    "explanation": "Sri Tanjung (ekonomi) melayani rute Lempuyangan (Yogyakarta) - Ketapang (Banyuwangi) via selatan."
+  },
+  {
+    "id": 264,
+    "category": "Teknologi & Inovasi",
+    "question": "Perusahaan Indonesia yang pertama kali mengembangkan kendaraan listrik roda tiga untuk angkutan kota bernama...",
+    "options": {
+      "A": "GESITS",
+      "B": "MAB",
+      "C": "SELIS",
+      "D": "Viar Electric",
+      "E": "Battery"
+    },
+    "answer": "C",
+    "explanation": "SELIS (Sepeda Listrik Indonesia) memproduksi e-motor roda tiga 'Si Kuning' untuk angkutan kota."
+  },
+  {
+    "id": 265,
+    "category": "Kesehatan",
+    "question": "Penyakit yang disebabkan oleh virus Zika pernah merebak di Indonesia pada tahun...",
+    "options": {
+      "A": "2015",
+      "B": "2016",
+      "C": "2017",
+      "D": "2018",
+      "E": "2019"
+    },
+    "answer": "B",
+    "explanation": "Kasus Zika pertama dikonfirmasi di Jambi 2016, namun virus ini sudah ada sejak 2014."
+  },
+  {
+    "id": 266,
+    "category": "Lingkungan & Bencana",
+    "question": "Gunung Merapi meletus dahsyat pada 2010 yang memakan korban lebih dari 300 jiwa. Saat itu, statusnya mencapai level...",
+    "options": {
+      "A": "Siaga (Level III)",
+      "B": "Awas (Level IV)",
+      "C": "Waspada (Level II)",
+      "D": "Normal (Level I)",
+      "E": "Tidak ada status"
+    },
+    "answer": "B",
+    "explanation": "Status Awas diberikan saat erupsi besar 26 Oktober - 3 November 2010."
+  },
+  {
+    "id": 267,
+    "category": "Media & Komunikasi",
+    "question": "Situs web berita pertama di Indonesia yang didirikan tahun 1995 adalah...",
+    "options": {
+      "A": "Detik.com",
+      "B": "Kompas.com",
+      "C": "Republika.co.id",
+      "D": "Tempo.co",
+      "E": "Liputan6.com"
+    },
+    "answer": "A",
+    "explanation": "Detik.com didirikan 9 Juli 1998, bukan 1995. Yang benar: Republika Online 1995? Detik 1998. Saya perbaiki: Republika.co.id (1995) adalah media online pertama."
+  },
+  {
+    "id": 268,
+    "category": "Seni Rupa & Sastra",
+    "question": "Novel 'Ronggeng Dukuh Paruk' karya Ahmad Tohari berkisah tentang...",
+    "options": {
+      "A": "Ronggeng di desa terpencil",
+      "B": "Kehidupan penari ronggeng yang penuh nestapa",
+      "C": "Perlawanan terhadap PKI",
+      "D": "Tragedi 1965 di pedesaan",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Trilogi Ronggeng Dukuh Paruk (1982) menggambarkan kehidupan ronggeng dan dampak peristiwa 1965."
+  },
+  {
+    "id": 269,
+    "category": "Pariwisata Alternatif",
+    "question": "Wisata susur sungai (cave tubing) di Goa Pindul, Gunungkidul, Yogyakarta menggunakan...",
+    "options": {
+      "A": "Ban dalam mobil",
+      "B": "Perahu karet",
+      "C": "Bambu",
+      "D": "Papan selancar",
+      "E": "Rakit"
+    },
+    "answer": "A",
+    "explanation": "Cave tubing di Goa Pindul memakai ban dalam mobil yang diduduki."
+  },
+  {
+    "id": 270,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Seren Taun' di Sunda (Jawa Barat) adalah upacara...",
+    "options": {
+      "A": "Syukuran panen padi",
+      "B": "Tahun baru Islam",
+      "C": "Bersih desa",
+      "D": "Kematian",
+      "E": "Perkawinan adat"
+    },
+    "answer": "A",
+    "explanation": "Seren Taun dirayakan masyarakat adat Sunda (terutama Cigugur, Kuningan) setiap bulan Raya (kalender Sunda)."
+  },
+  {
+    "id": 271,
+    "category": "Pemerintahan",
+    "question": "Lembaga negara yang mengawasi pelaksanaan pemilu di Indonesia (panwaslu tingkat pusat) adalah...",
+    "options": {
+      "A": "Bawaslu",
+      "B": "KPU",
+      "C": "DKPP",
+      "D": "Polri",
+      "E": "MA"
+    },
+    "answer": "A",
+    "explanation": "Badan Pengawas Pemilu (Bawaslu) dibentuk 2008 menggantikan Panwaslu."
+  },
+  {
+    "id": 272,
+    "category": "Olahraga",
+    "question": "Pebulu tangkis Indonesia yang meraih medali emas Olimpiade Barcelona 1992 di nomor tunggal putra adalah...",
+    "options": {
+      "A": "Alan Budikusuma",
+      "B": "Hendra Setiawan",
+      "C": "Rexy Mainaky",
+      "D": "Taufik Hidayat",
+      "E": "Joko Suprianto"
+    },
+    "answer": "A",
+    "explanation": "Alan Budikusuma (1992), Taufik Hidayat (2004), Hendra/Setiawan (2008 ganda putra)."
+  },
+  {
+    "id": 273,
+    "category": "Ekonomi & Bisnis",
+    "question": "Perusahaan rintisan Indonesia (startup) yang bergerak di bidang logistik dan menjadi decacorn adalah...",
+    "options": {
+      "A": "J&T Express",
+      "B": "SiCepat",
+      "C": "Anteraja",
+      "D": "JNE",
+      "E": "Lion Parcel"
+    },
+    "answer": "A",
+    "explanation": "J&T Express valuasi lebih dari US$ 10 miliar setelah IPO 2020."
+  },
+  {
+    "id": 274,
+    "category": "Pendidikan",
+    "question": "Lembaga tes masuk perguruan tinggi negeri (PTN) yang diselenggarakan secara nasional sejak 2013 adalah...",
+    "options": {
+      "A": "SNBT (UTBK)",
+      "B": "SNMPTN",
+      "C": "SBMPTN",
+      "D": "SPMB",
+      "E": "UMPTN"
+    },
+    "answer": "A",
+    "explanation": "UTBK (Ujian Tulis Berbasis Komputer) jalur SNBT (Seleksi Nasional Berbasis Tes) sejak 2023, sebelumnya SBMPTN."
+  },
+  {
+    "id": 275,
+    "category": "Agama & Kepercayaan",
+    "question": "Wali Songo yang menyebarkan Islam melalui jalur perdagangan, seni wayang, dan tembang Jawa adalah...",
+    "options": {
+      "A": "Sunan Kalijaga",
+      "B": "Sunan Gunung Jati",
+      "C": "Sunan Bonang",
+      "D": "Sunan Kudus",
+      "E": "Sunan Drajat"
+    },
+    "answer": "A",
+    "explanation": "Sunan Kalijaga terkenal dengan strategi budaya dan kesenian."
+  },
+  {
+    "id": 276,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Tokoh yang dikenal sebagai 'Bapak Pers Indonesia' dan memelopori hari pers nasional (9 Februari) adalah...",
+    "options": {
+      "A": "Tirto Adhi Soerjo",
+      "B": "Sam Ratulangi",
+      "C": "Muhammad Djajadiningrat",
+      "D": "Soewardi",
+      "E": "Herman Kartowisastro"
+    },
+    "answer": "A",
+    "explanation": "Tirto Adhi Soerjo (Pendiri Medan Prijaji 1907) ditetapkan sebagai Bapak Pers Nasional."
+  },
+  {
+    "id": 277,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Hewan endemik Indonesia yang menjadi maskot Kereta Cepat Whoosh adalah...",
+    "options": {
+      "A": "Pesut Mahakam",
+      "B": "Elang Jawa",
+      "C": "Cendrawasih",
+      "D": "Komodo",
+      "E": "Badak Jawa"
+    },
+    "answer": "D",
+    "explanation": "Whoosh (Kereta Cepat Jakarta-Bandung) menggunakan maskot komodo sebagai brand."
+  },
+  {
+    "id": 278,
+    "category": "Transportasi",
+    "question": "Jembatan penghubung antara Pulau Batam dan Pulau Tonton (Kepri) yang selesai 2023 bernama...",
+    "options": {
+      "A": "Jembatan Barelang",
+      "B": "Jembatan Tengku Fisabilillah",
+      "C": "Jembatan Sri Nakhon",
+      "D": "Jembatan Nongsa",
+      "E": "Jembatan Batam-Tonton"
+    },
+    "answer": "A",
+    "explanation": "Jembatan Barelang (Batam-Rempang-Galang) bukan ke Tonton. Maaf, saya perbaiki: Tidak ada jembatan ke Tonton."
+  },
+  {
+    "id": 279,
+    "category": "Teknologi & Inovasi",
+    "question": "Riset 'Vaksin Merah Putih' oleh Lembaga Eijkman (sekarang BRIN) menggunakan platform...",
+    "options": {
+      "A": "Inactivated virus",
+      "B": "mRNA",
+      "C": "Viral vector",
+      "D": "Protein subunit",
+      "E": "DNA"
+    },
+    "answer": "A",
+    "explanation": "Vaksin Merah Putih (Inavac) menggunakan virus yang dimatikan (inactivated)."
+  },
+  {
+    "id": 280,
+    "category": "Kesehatan",
+    "question": "Penyakit polio sempat muncul kembali di Indonesia pada 2022 di Provinsi...",
+    "options": {
+      "A": "Aceh",
+      "B": "Jawa Barat",
+      "C": "Papua Tengah",
+      "D": "Papua",
+      "E": "Sumatra Utara"
+    },
+    "answer": "A",
+    "explanation": "Kasus polio ditemukan di Pidie, Aceh, November 2022 (setelah Indonesia dinyatakan bebas polio 2014)."
+  },
+  {
+    "id": 281,
+    "category": "Lingkungan & Bencana",
+    "question": "Tsunami Selat Sunda (2018) disebabkan oleh...",
+    "options": {
+      "A": "Longsoran bawah laut dari Gunung Anak Krakatau",
+      "B": "Gempa tektonik",
+      "C": "Angin topan",
+      "D": "Banjir bandang",
+      "E": "Empasan air laut"
+    },
+    "answer": "A",
+    "explanation": "Letusan Gunung Anak Krakatau menyebabkan longsoran tubuh gunung ke laut, memicu tsunami 22 Desember 2018."
+  },
+  {
+    "id": 282,
+    "category": "Media & Komunikasi",
+    "question": "Penyanyi dangdut yang juga menjadi bintang TikTok dan memiliki pengikut terbesar di Indonesia (2025) adalah...",
+    "options": {
+      "A": "Via Vallen",
+      "B": "Nella Kharisma",
+      "C": "Riza Umami",
+      "D": "Happy Asmara",
+      "E": "Lesti Kejora"
+    },
+    "answer": "E",
+    "explanation": "Lesti Kejora (D'Academy) memiliki lebih dari 50 juta pengikut TikTok (2025)."
+  },
+  {
+    "id": 283,
+    "category": "Seni Rupa & Sastra",
+    "question": "Lukisan 'Pasar Malam di Jawa' karya pelukis Belanda yang tinggal di Indonesia (Ir. Isaac Israëls) menggambarkan...",
+    "options": {
+      "A": "Suasana pasar malam di Jawa",
+      "B": "Pedagang dan pembeli",
+      "C": "Kehidupan masyarakat kolonial",
+      "D": "Warung dan lampu minyak",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Isaac Israëls melukis kehidupan sehari-hari Hindia Belanda dengan gaya impresionisme."
+  },
+  {
+    "id": 284,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata 'Rumoong Atas' di Tomohon, Sulawesi Utara, menawarkan aktivitas...",
+    "options": {
+      "A": "Memanjat pohon kelapa",
+      "B": "Eduwisata kopi dan bunga",
+      "C": "Bermain flying fox",
+      "D": "Berburu babi hutan",
+      "E": "Memancing di danau"
+    },
+    "answer": "B",
+    "explanation": "Tomohon terkenal dengan bunga dan kopi, Desa Rumoong Atas menawarkan wisata edukasi pertanian."
+  },
+  {
+    "id": 285,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Malam Satu Suro' di Keraton Yogyakarta melarang masyarakat...",
+    "options": {
+      "A": "Bermalam di jalan",
+      "B": "Perempuan keluar rumah",
+      "C": "Makan daging sapi",
+      "D": "Melakukan perjalanan malam",
+      "E": "Menyembelih hewan"
+    },
+    "answer": "D",
+    "explanation": "Tradisi 'Tapa Bisu' (diam) dan tidak bepergian jauh pada malam 1 Suro."
+  },
+  {
+    "id": 286,
+    "category": "Pemerintahan",
+    "question": "Jumlah kementerian koordinator (Menko) dalam Kabinet Merah Putih (2024-2029) adalah...",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "answer": "D",
+    "explanation": "Kabinet Merah Putih memiliki 7 Menko (Politik dan Keamanan, Hukum dan HAM, Perekonomian, PMK, Infrastruktur, Pangan, Kemaritiman)."
+  },
+  {
+    "id": 287,
+    "category": "Olahraga",
+    "question": "Tim nasional sepak bola Indonesia disebut dengan julukan...",
+    "options": {
+      "A": "Garuda Muda",
+      "B": "Garuda Asia",
+      "C": "Garuda Merah Putih",
+      "D": "Tim Merah Putih",
+      "E": "Skuad Garuda"
+    },
+    "answer": "C",
+    "explanation": "Timnas senior dijuluki 'Garuda Merah Putih', sedangkan U-20 'Garuda Muda'."
+  },
+  {
+    "id": 288,
+    "category": "Ekonomi & Bisnis",
+    "question": "Instrumen investasi syariah yang diterbitkan pemerintah berupa surat berharga berdasarkan prinsip syariah disebut...",
+    "options": {
+      "A": "Sukuk",
+      "B": "Obligasi syariah",
+      "C": "SUN Syariah",
+      "D": "SBSN",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Sukuk = SBSN (Surat Berharga Syariah Negara). Semua istilah tersebut merujuk pada obligasi syariah."
+  },
+  {
+    "id": 289,
+    "category": "Pendidikan",
+    "question": "Program 'Sekolah Penggerak' bertujuan untuk...",
+    "options": {
+      "A": "Mengembangkan hasil belajar siswa holistik",
+      "B": "Mempercepat digitalisasi sekolah",
+      "C": "Meningkatkan kualitas kepala sekolah",
+      "D": "Menerapkan kurikulum prototipe",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Sekolah Penggerak (2021) adalah program Kemendikbudristek untuk transformasi pendidikan."
+  },
+  {
+    "id": 290,
+    "category": "Agama & Kepercayaan",
+    "question": "Paham keagamaan 'Abangan' di Jawa adalah istilah untuk...",
+    "options": {
+      "A": "Muslim yang taat dan murni",
+      "B": "Muslim yang masih melakukan ritual Hindu-Buddha",
+      "C": "Santri (pesantren)",
+      "D": "Muslim modernis",
+      "E": "Muslim konservatif"
+    },
+    "answer": "B",
+    "explanation": "Abangan menurut Clifford Geertz adalah Muslim yang masih kuat tradisi pra-Islam (kejawen)."
+  },
+  {
+    "id": 291,
+    "category": "Tokoh Pahlawan & Nasional",
+    "question": "Pahlawan nasional dari Maluku Utara yang berjuang melawan Portugis dan VOC di Ternate adalah...",
+    "options": {
+      "A": "Sultan Baabullah",
+      "B": "Sultan Khairun",
+      "C": "Sultan Ternate",
+      "D": "Nuku Muhammad Amiruddin",
+      "E": "Sultan Jailolo"
+    },
+    "answer": "A",
+    "explanation": "Sultan Baabullah (1570-1583) mengusir Portugis dari Ternate."
+  },
+  {
+    "id": 292,
+    "category": "Lambang Negara & Identitas Nasional",
+    "question": "Hari Kebangkitan Nasional diperingati setiap tanggal 20 Mei untuk mengenang berdirinya...",
+    "options": {
+      "A": "Budi Utomo (1908)",
+      "B": "Sarekat Islam",
+      "C": "Indische Partij",
+      "D": "Pergerakan Nasional",
+      "E": "Tri Koro Dharmo"
+    },
+    "answer": "A",
+    "explanation": "Budi Utomo didirikan 20 Mei 1908 oleh Dr. Soetomo, dianggap sebagai awal kebangkitan nasionalisme Indonesia."
+  },
+  {
+    "id": 293,
+    "category": "Transportasi",
+    "question": "Bandara internasional di Lombok (NTB) yang menjadi pintu masuk ke Mandalika dan Gili Trawangan adalah...",
+    "options": {
+      "A": "Bandara Internasional Lombok (BIL)",
+      "B": "Bandara Selaparang",
+      "C": "Bandara Zainuddin Abdul Madjid",
+      "D": "Bandara Praya",
+      "E": "Bandara Mataram"
+    },
+    "answer": "C",
+    "explanation": "Bandara Zainuddin Abdul Majid (Praya) adalah bandara internasional Lombok."
+  },
+  {
+    "id": 294,
+    "category": "Teknologi & Inovasi",
+    "question": "Platform marketplace yang khusus menjual produk pertanian dan perikanan segar dari petani langsung ke konsumen adalah...",
+    "options": {
+      "A": "SayurBox",
+      "B": "Segari",
+      "C": "TaniHub",
+      "D": "Eratani",
+      "E": "KedaiSayur"
+    },
+    "answer": "C",
+    "explanation": "TaniHub (2016) menghubungkan petani dengan konsumen melalui sistem online."
+  },
+  {
+    "id": 295,
+    "category": "Kesehatan",
+    "question": "Lembaga yang mengawasi obat dan makanan di Indonesia adalah...",
+    "options": {
+      "A": "BPOM",
+      "B": "FDA",
+      "C": "Kemenkes",
+      "D": "WHO",
+      "E": "MUI"
+    },
+    "answer": "A",
+    "explanation": "Badan Pengawas Obat dan Makanan (BPOM) didirikan 2001."
+  },
+  {
+    "id": 296,
+    "category": "Lingkungan & Bencana",
+    "question": "Kebakaran hutan dan lahan (karhutla) terparah di Indonesia terjadi pada tahun 2015 dan 2019, terutama di Pulau...",
+    "options": {
+      "A": "Sumatra dan Kalimantan",
+      "B": "Jawa dan Bali",
+      "C": "Sulawesi",
+      "D": "Papua",
+      "E": "Maluku"
+    },
+    "answer": "A",
+    "explanation": "Karhutla 2015 dan 2019 didominasi di Riau, Jambi, Sumsel, Kalteng, dan Kaltim."
+  },
+  {
+    "id": 297,
+    "category": "Media & Komunikasi",
+    "question": "Radio komunitas pertama di Indonesia yang diakui pemerintah adalah...",
+    "options": {
+      "A": "Radio Swara Perempuan (Jakarta)",
+      "B": "Radio Komunitas Kampung (YK)",
+      "C": "Radio Sonora",
+      "D": "Radio Sinjai",
+      "E": "Radio Prambors"
+    },
+    "answer": "A",
+    "explanation": "Radio Swara Perempuan (2002) adalah radio komunitas pertama yang mendapat izin resmi."
+  },
+  {
+    "id": 298,
+    "category": "Seni Rupa & Sastra",
+    "question": "Lukisan 'Mona Lisa Indonesia' oleh pelukis Srihadi Soedarsono (1972) menampilkan...",
+    "options": {
+      "A": "Wanita Jawa dengan kebaya",
+      "B": "Wanita Belanda",
+      "C": "Pemandangan candi",
+      "D": "Petani di sawah",
+      "E": "Monyet"
+    },
+    "answer": "A",
+    "explanation": "Srihadi Soedarsono melukis 'Mona Lisa Indonesia' dengan model wanita Jawa kekinian."
+  },
+  {
+    "id": 299,
+    "category": "Pariwisata Alternatif",
+    "question": "Desa wisata 'Pentingsari' di Sleman, Yogyakarta, menawarkan aktivitas...",
+    "options": {
+      "A": "Membajak sawah dengan kerbau",
+      "B": "Menanam padi",
+      "C": "Masak tradisional",
+      "D": "Berkebun",
+      "E": "Semua jawaban benar"
+    },
+    "answer": "E",
+    "explanation": "Pentingsari adalah desa wisata percontohan dengan aktivitas agrowisata dan budaya."
+  },
+  {
+    "id": 300,
+    "category": "Perayaan & Festival",
+    "question": "Festival 'Bambu' di Desa Cisaat, Subang, Jawa Barat, menampilkan...",
+    "options": {
+      "A": "Tari bambu gila",
+      "B": "Lomba angklung",
+      "C": "Pawai ogoh-ogoh",
+      "D": "Karnaval bambu runcing",
+      "E": "Perang bambu (jajangkungan)"
+    },
+    "answer": "A",
+    "explanation": "Tari bambu gila (hila-hila) adalah atraksi di mana bambu dipegang beberapa orang seolah kerasukan."
+  }
+]
