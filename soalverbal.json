@@ -541,5 +541,1125 @@
     },
     "answer": "C",
     "explanation": "Pensil untuk menulis, gunting untuk memotong."
+  },
+  {
+    "id": 41,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'abstrak' adalah...",
+    "options": {
+      "A": "Nyata",
+      "B": "Konseptual",
+      "C": "Benda",
+      "D": "Kasat mata",
+      "E": "Fisik"
+    },
+    "answer": "B",
+    "explanation": "Abstrak berarti tidak konkret, sinonim paling dekat adalah konseptual."
+  },
+  {
+    "id": 42,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'resisten' adalah...",
+    "options": {
+      "A": "Lemah",
+      "B": "Tahan",
+      "C": "Cepat",
+      "D": "Ringan",
+      "E": "Rusak"
+    },
+    "answer": "B",
+    "explanation": "Resisten berarti tahan terhadap sesuatu."
+  },
+  {
+    "id": 43,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'fundamental' adalah...",
+    "options": {
+      "A": "Dasar",
+      "B": "Tambahan",
+      "C": "Ringan",
+      "D": "Sementara",
+      "E": "Acak"
+    },
+    "answer": "A",
+    "explanation": "Fundamental berarti dasar."
+  },
+  {
+    "id": 44,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'dinamis' adalah...",
+    "options": {
+      "A": "Diam",
+      "B": "Aktif",
+      "C": "Pasif",
+      "D": "Lambat",
+      "E": "Statis"
+    },
+    "answer": "B",
+    "explanation": "Dinamis berarti aktif dan terus bergerak."
+  },
+  {
+    "id": 45,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'kompleks' adalah...",
+    "options": {
+      "A": "Rumit",
+      "B": "Sederhana",
+      "C": "Lurus",
+      "D": "Mudah",
+      "E": "Cepat"
+    },
+    "answer": "A",
+    "explanation": "Kompleks berarti rumit."
+  },
+  {
+    "id": 46,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'stabil' adalah...",
+    "options": {
+      "A": "Kokoh",
+      "B": "Tetap",
+      "C": "Tidak stabil",
+      "D": "Kuat",
+      "E": "Mantap"
+    },
+    "answer": "C",
+    "explanation": "Stabil berarti tetap, lawannya tidak stabil."
+  },
+  {
+    "id": 47,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'optimis' adalah...",
+    "options": {
+      "A": "Pesimis",
+      "B": "Semangat",
+      "C": "Yakin",
+      "D": "Percaya",
+      "E": "Berani"
+    },
+    "answer": "A",
+    "explanation": "Optimis lawannya pesimis."
+  },
+  {
+    "id": 48,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'aktif' adalah...",
+    "options": {
+      "A": "Gerak",
+      "B": "Pasif",
+      "C": "Cepat",
+      "D": "Dinamis",
+      "E": "Responsif"
+    },
+    "answer": "B",
+    "explanation": "Aktif lawannya pasif."
+  },
+  {
+    "id": 49,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'formal' adalah...",
+    "options": {
+      "A": "Resmi",
+      "B": "Santai",
+      "C": "Kaku",
+      "D": "Tertib",
+      "E": "Sopan"
+    },
+    "answer": "B",
+    "explanation": "Formal lawannya santai/informal."
+  },
+  {
+    "id": 50,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'konservatif' adalah...",
+    "options": {
+      "A": "Tradisional",
+      "B": "Maju",
+      "C": "Progresif",
+      "D": "Kuno",
+      "E": "Lambat"
+    },
+    "answer": "C",
+    "explanation": "Konservatif lawannya progresif."
+  },
+  {
+    "id": 51,
+    "category": "Analogi",
+    "question": "Mata : Melihat = Telinga : ...",
+    "options": {
+      "A": "Bersuara",
+      "B": "Mendengar",
+      "C": "Berbicara",
+      "D": "Menangis",
+      "E": "Berpikir"
+    },
+    "answer": "B",
+    "explanation": "Mata untuk melihat, telinga untuk mendengar."
+  },
+  {
+    "id": 52,
+    "category": "Analogi",
+    "question": "Buku : Pengetahuan = Makanan : ...",
+    "options": {
+      "A": "Rasa",
+      "B": "Energi",
+      "C": "Kenikmatan",
+      "D": "Kenyang",
+      "E": "Sehat"
+    },
+    "answer": "B",
+    "explanation": "Buku memberi pengetahuan, makanan memberi energi."
+  },
+  {
+    "id": 53,
+    "category": "Analogi",
+    "question": "Petani : Sawah = Nelayan : ...",
+    "options": {
+      "A": "Laut",
+      "B": "Kapal",
+      "C": "Ikan",
+      "D": "Pantai",
+      "E": "Jaring"
+    },
+    "answer": "A",
+    "explanation": "Petani bekerja di sawah, nelayan di laut."
+  },
+  {
+    "id": 54,
+    "category": "Analogi",
+    "question": "Mobil : Ban = Sepeda : ...",
+    "options": {
+      "A": "Setang",
+      "B": "Roda",
+      "C": "Pedal",
+      "D": "Rem",
+      "E": "Rantai"
+    },
+    "answer": "B",
+    "explanation": "Mobil punya ban, sepeda punya roda."
+  },
+  {
+    "id": 55,
+    "category": "Analogi",
+    "question": "Dokter : Rumah Sakit = Guru : ...",
+    "options": {
+      "A": "Kantor",
+      "B": "Sekolah",
+      "C": "Perpustakaan",
+      "D": "Laboratorium",
+      "E": "Kelas"
+    },
+    "answer": "B",
+    "explanation": "Dokter bekerja di rumah sakit, guru di sekolah."
+  },
+  {
+    "id": 56,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Merdeka",
+      "B": "Bebas",
+      "C": "Lepas",
+      "D": "Terikat",
+      "E": "Mandiri"
+    },
+    "answer": "D",
+    "explanation": "Terikat berlawanan dengan bebas."
+  },
+  {
+    "id": 57,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Senin",
+      "B": "Selasa",
+      "C": "Rabu",
+      "D": "Januari",
+      "E": "Kamis"
+    },
+    "answer": "D",
+    "explanation": "Januari adalah bulan, lainnya hari."
+  },
+  {
+    "id": 58,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Kucing",
+      "B": "Harimau",
+      "C": "Singa",
+      "D": "Gajah",
+      "E": "Macan"
+    },
+    "answer": "D",
+    "explanation": "Gajah bukan kucing besar."
+  },
+  {
+    "id": 59,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Lingkaran",
+      "D": "Balok",
+      "E": "Persegi panjang"
+    },
+    "answer": "D",
+    "explanation": "Balok adalah bangun ruang."
+  },
+  {
+    "id": 60,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Air",
+      "B": "Es",
+      "C": "Uap",
+      "D": "Oksigen",
+      "E": "Cairan"
+    },
+    "answer": "D",
+    "explanation": "Oksigen bukan bentuk air."
+  },
+  {
+    "id": 61,
+    "category": "Analogi",
+    "question": "Api : Panas = Es : ...",
+    "options": {
+      "A": "Beku",
+      "B": "Dingin",
+      "C": "Air",
+      "D": "Salju",
+      "E": "Cair"
+    },
+    "answer": "B",
+    "explanation": "Api identik panas, es identik dingin."
+  },
+  {
+    "id": 62,
+    "category": "Analogi",
+    "question": "Pelukis : Kanvas = Penulis : ...",
+    "options": {
+      "A": "Buku",
+      "B": "Kertas",
+      "C": "Pulpen",
+      "D": "Novel",
+      "E": "Tinta"
+    },
+    "answer": "B",
+    "explanation": "Pelukis memakai kanvas, penulis memakai kertas."
+  },
+  {
+    "id": 63,
+    "category": "Analogi",
+    "question": "Air : Sungai = Mobil : ...",
+    "options": {
+      "A": "Jalan",
+      "B": "Bensin",
+      "C": "Ban",
+      "D": "Mesin",
+      "E": "Kota"
+    },
+    "answer": "A",
+    "explanation": "Air mengalir di sungai, mobil di jalan."
+  },
+  {
+    "id": 64,
+    "category": "Analogi",
+    "question": "Lampu : Cahaya = Speaker : ...",
+    "options": {
+      "A": "Suara",
+      "B": "Musik",
+      "C": "Getaran",
+      "D": "Baterai",
+      "E": "Volume"
+    },
+    "answer": "A",
+    "explanation": "Lampu menghasilkan cahaya, speaker menghasilkan suara."
+  },
+  {
+    "id": 65,
+    "category": "Analogi",
+    "question": "Matahari : Siang = Lampu : ...",
+    "options": {
+      "A": "Gelap",
+      "B": "Malam",
+      "C": "Terang",
+      "D": "Cahaya",
+      "E": "Listrik"
+    },
+    "answer": "B",
+    "explanation": "Matahari identik siang, lampu identik malam."
+  },
+  {
+    "id": 66,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'konvergen' adalah...",
+    "options": {
+      "A": "Menyebar",
+      "B": "Bertemu",
+      "C": "Berpisah",
+      "D": "Membesar",
+      "E": "Menghilang"
+    },
+    "answer": "B",
+    "explanation": "Konvergen berarti menuju satu titik atau bertemu."
+  },
+  {
+    "id": 67,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'reduksi' adalah...",
+    "options": {
+      "A": "Penambahan",
+      "B": "Pengurangan",
+      "C": "Perluasan",
+      "D": "Peningkatan",
+      "E": "Perkalian"
+    },
+    "answer": "B",
+    "explanation": "Reduksi berarti pengurangan."
+  },
+  {
+    "id": 68,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'krusial' adalah...",
+    "options": {
+      "A": "Penting",
+      "B": "Kecil",
+      "C": "Ringan",
+      "D": "Lambat",
+      "E": "Biasa"
+    },
+    "answer": "A",
+    "explanation": "Krusial berarti sangat penting."
+  },
+  {
+    "id": 69,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'valid' adalah...",
+    "options": {
+      "A": "Salah",
+      "B": "Tidak sah",
+      "C": "Sahih",
+      "D": "Kabur",
+      "E": "Lemah"
+    },
+    "answer": "C",
+    "explanation": "Valid berarti sah atau sahih."
+  },
+  {
+    "id": 70,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'inovasi' adalah...",
+    "options": {
+      "A": "Peniruan",
+      "B": "Pembaharuan",
+      "C": "Pengulangan",
+      "D": "Penghapusan",
+      "E": "Penurunan"
+    },
+    "answer": "B",
+    "explanation": "Inovasi berarti pembaruan atau hal baru."
+  },
+  {
+    "id": 71,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'asimetris' adalah...",
+    "options": {
+      "A": "Seimbang",
+      "B": "Berantakan",
+      "C": "Miring",
+      "D": "Tidak rata",
+      "E": "Acak"
+    },
+    "answer": "A",
+    "explanation": "Asimetris berarti tidak seimbang, lawannya seimbang."
+  },
+  {
+    "id": 72,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'konkrit' adalah...",
+    "options": {
+      "A": "Nyata",
+      "B": "Abstrak",
+      "C": "Padat",
+      "D": "Fisik",
+      "E": "Kasat mata"
+    },
+    "answer": "B",
+    "explanation": "Konkrit berarti nyata, lawannya abstrak."
+  },
+  {
+    "id": 73,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'eksklusif' adalah...",
+    "options": {
+      "A": "Terbuka",
+      "B": "Tertutup",
+      "C": "Mahal",
+      "D": "Langka",
+      "E": "Terbatas"
+    },
+    "answer": "A",
+    "explanation": "Eksklusif berarti terbatas, lawannya terbuka."
+  },
+  {
+    "id": 74,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'evolusi' adalah...",
+    "options": {
+      "A": "Kemajuan",
+      "B": "Perubahan",
+      "C": "Kemunduran",
+      "D": "Perkembangan",
+      "E": "Adaptasi"
+    },
+    "answer": "C",
+    "explanation": "Evolusi berarti perkembangan, lawannya kemunduran."
+  },
+  {
+    "id": 75,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'rasional' adalah...",
+    "options": {
+      "A": "Logis",
+      "B": "Masuk akal",
+      "C": "Irasional",
+      "D": "Bijak",
+      "E": "Tepat"
+    },
+    "answer": "C",
+    "explanation": "Rasional berarti logis, lawannya irasional."
+  },
+  {
+    "id": 76,
+    "category": "Analogi",
+    "question": "Air : Haus = Makanan : ...",
+    "options": {
+      "A": "Lapar",
+      "B": "Energi",
+      "C": "Rasa",
+      "D": "Sehat",
+      "E": "Kenyang"
+    },
+    "answer": "A",
+    "explanation": "Air menghilangkan haus, makanan menghilangkan lapar."
+  },
+  {
+    "id": 77,
+    "category": "Analogi",
+    "question": "Buku : Ilmu = Film : ...",
+    "options": {
+      "A": "Cerita",
+      "B": "Hiburan",
+      "C": "Gambar",
+      "D": "Suara",
+      "E": "Waktu"
+    },
+    "answer": "B",
+    "explanation": "Buku memberi ilmu, film memberi hiburan."
+  },
+  {
+    "id": 78,
+    "category": "Analogi",
+    "question": "Padi : Beras = Anggur : ...",
+    "options": {
+      "A": "Minuman",
+      "B": "Buah",
+      "C": "Wine",
+      "D": "Jus",
+      "E": "Daun"
+    },
+    "answer": "C",
+    "explanation": "Padi menjadi beras, anggur menjadi wine."
+  },
+  {
+    "id": 79,
+    "category": "Analogi",
+    "question": "Guru : Mengajar = Polisi : ...",
+    "options": {
+      "A": "Menilang",
+      "B": "Menjaga",
+      "C": "Menangkap",
+      "D": "Menegakkan hukum",
+      "E": "Berpatroli"
+    },
+    "answer": "D",
+    "explanation": "Guru mengajar, polisi menegakkan hukum."
+  },
+  {
+    "id": 80,
+    "category": "Analogi",
+    "question": "Mata : Cahaya = Telinga : ...",
+    "options": {
+      "A": "Suara",
+      "B": "Getaran",
+      "C": "Gelombang",
+      "D": "Bisikan",
+      "E": "Nada"
+    },
+    "answer": "A",
+    "explanation": "Mata menerima cahaya, telinga menerima suara."
+  },
+  {
+    "id": 81,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Teh",
+      "B": "Kopi",
+      "C": "Susu",
+      "D": "Air",
+      "E": "Jus"
+    },
+    "answer": "D",
+    "explanation": "Air bukan minuman olahan."
+  },
+  {
+    "id": 82,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Lingkaran",
+      "D": "Kubus",
+      "E": "Persegi panjang"
+    },
+    "answer": "D",
+    "explanation": "Kubus adalah bangun ruang."
+  },
+  {
+    "id": 83,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Merah",
+      "B": "Biru",
+      "C": "Hijau",
+      "D": "Hitam",
+      "E": "Cahaya"
+    },
+    "answer": "E",
+    "explanation": "Cahaya bukan warna."
+  },
+  {
+    "id": 84,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Mobil",
+      "B": "Motor",
+      "C": "Sepeda",
+      "D": "Kereta",
+      "E": "Pesawat"
+    },
+    "answer": "E",
+    "explanation": "Pesawat bukan kendaraan darat."
+  },
+  {
+    "id": 85,
+    "category": "Pengelompokan Kata",
+    "question": "Manakah yang berbeda?",
+    "options": {
+      "A": "Indonesia",
+      "B": "Malaysia",
+      "C": "Thailand",
+      "D": "Jakarta",
+      "E": "Vietnam"
+    },
+    "answer": "D",
+    "explanation": "Jakarta adalah kota, lainnya negara."
+  },
+  {
+    "id": 86,
+    "category": "Analogi",
+    "question": "Pisau : Memotong = Pena : ...",
+    "options": {
+      "A": "Menulis",
+      "B": "Menggambar",
+      "C": "Mewarnai",
+      "D": "Menghapus",
+      "E": "Mencetak"
+    },
+    "answer": "A",
+    "explanation": "Pisau untuk memotong, pena untuk menulis."
+  },
+  {
+    "id": 87,
+    "category": "Analogi",
+    "question": "Kepala : Pikiran = Hati : ...",
+    "options": {
+      "A": "Darah",
+      "B": "Perasaan",
+      "C": "Tubuh",
+      "D": "Emosi",
+      "E": "Nadi"
+    },
+    "answer": "B",
+    "explanation": "Kepala berkaitan pikiran, hati berkaitan perasaan."
+  },
+  {
+    "id": 88,
+    "category": "Analogi",
+    "question": "Mobil : Bensin = Manusia : ...",
+    "options": {
+      "A": "Makanan",
+      "B": "Air",
+      "C": "Udara",
+      "D": "Energi",
+      "E": "Oksigen"
+    },
+    "answer": "A",
+    "explanation": "Mobil butuh bensin, manusia butuh makanan."
+  },
+  {
+    "id": 89,
+    "category": "Analogi",
+    "question": "Bunga : Taman = Ikan : ...",
+    "options": {
+      "A": "Air",
+      "B": "Akuarium",
+      "C": "Laut",
+      "D": "Sungai",
+      "E": "Kolam"
+    },
+    "answer": "B",
+    "explanation": "Bunga di taman, ikan di akuarium."
+  },
+  {
+    "id": 90,
+    "category": "Analogi",
+    "question": "Guru : Ilmu = Petani : ...",
+    "options": {
+      "A": "Sawah",
+      "B": "Hasil",
+      "C": "Padi",
+      "D": "Tanah",
+      "E": "Panen"
+    },
+    "answer": "E",
+    "explanation": "Guru memberi ilmu, petani menghasilkan panen."
+  },
+  {
+    "id": 91,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'konsekuen' adalah...",
+    "options": {
+      "A": "Konsisten",
+      "B": "Labil",
+      "C": "Ragu",
+      "D": "Bingung",
+      "E": "Cepat"
+    },
+    "answer": "A",
+    "explanation": "Konsekuen berarti konsisten."
+  },
+  {
+    "id": 92,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'kompeten' adalah...",
+    "options": {
+      "A": "Mampu",
+      "B": "Lemah",
+      "C": "Tidak tahu",
+      "D": "Biasa",
+      "E": "Acuh"
+    },
+    "answer": "A",
+    "explanation": "Kompeten berarti mampu."
+  },
+  {
+    "id": 93,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'kredibel' adalah...",
+    "options": {
+      "A": "Terpercaya",
+      "B": "Sah",
+      "C": "Tidak dapat dipercaya",
+      "D": "Valid",
+      "E": "Akurat"
+    },
+    "answer": "C",
+    "explanation": "Kredibel berarti dapat dipercaya."
+  },
+  {
+    "id": 94,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'efisien' adalah...",
+    "options": {
+      "A": "Hemat",
+      "B": "Borosan",
+      "C": "Cepat",
+      "D": "Baik",
+      "E": "Cerdas"
+    },
+    "answer": "B",
+    "explanation": "Efisien berarti hemat."
+  },
+  {
+    "id": 95,
+    "category": "Analogi",
+    "question": "Laptop : Komputer = Motor : ...",
+    "options": {
+      "A": "Mobil",
+      "B": "Kendaraan",
+      "C": "Mesin",
+      "D": "Sepeda",
+      "E": "Transportasi"
+    },
+    "answer": "B",
+    "explanation": "Laptop bagian dari komputer, motor bagian dari kendaraan."
+  },
+  {
+    "id": 96,
+    "category": "Analogi",
+    "question": "Air : Minum = Sabun : ...",
+    "options": {
+      "A": "Mandi",
+      "B": "Bersih",
+      "C": "Cuci",
+      "D": "Busa",
+      "E": "Bau"
+    },
+    "answer": "C",
+    "explanation": "Air untuk minum, sabun untuk mencuci."
+  },
+  {
+    "id": 97,
+    "category": "Analogi",
+    "question": "Lampu : Terang = Hujan : ...",
+    "options": {
+      "A": "Banjir",
+      "B": "Basah",
+      "C": "Awan",
+      "D": "Air",
+      "E": "Petir"
+    },
+    "answer": "B",
+    "explanation": "Lampu menghasilkan terang, hujan menghasilkan basah."
+  },
+  {
+    "id": 98,
+    "category": "Analogi",
+    "question": "Kapal : Laut = Pesawat : ...",
+    "options": {
+      "A": "Angkasa",
+      "B": "Bandara",
+      "C": "Langit",
+      "D": "Awan",
+      "E": "Udara"
+    },
+    "answer": "C",
+    "explanation": "Kapal di laut, pesawat di langit."
+  },
+  {
+    "id": 99,
+    "category": "Analogi",
+    "question": "Buku : Membaca = Musik : ...",
+    "options": {
+      "A": "Mendengar",
+      "B": "Menulis",
+      "C": "Bernyanyi",
+      "D": "Menari",
+      "E": "Bermain"
+    },
+    "answer": "A",
+    "explanation": "Buku untuk membaca, musik untuk didengar."
+  },
+  {
+    "id": 100,
+    "category": "Analogi HOTS Final",
+    "question": "Jantung : Darah = Pompa : ...",
+    "options": {
+      "A": "Air",
+      "B": "Minyak",
+      "C": "Cairan",
+      "D": "Gas",
+      "E": "Energi"
+    },
+    "answer": "C",
+    "explanation": "Jantung memompa darah, pompa memompa cairan."
+  },
+  {
+    "id": 101,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'transparan' adalah...",
+    "options": {
+      "A": "Jelas",
+      "B": "Tertutup",
+      "C": "Gelap",
+      "D": "Kabur",
+      "E": "Samar"
+    },
+    "answer": "A",
+    "explanation": "Transparan berarti jelas atau mudah dipahami."
+  },
+  {
+    "id": 102,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'eksplisit' adalah...",
+    "options": {
+      "A": "Tersirat",
+      "B": "Terang",
+      "C": "Tegas dan jelas",
+      "D": "Ragu-ragu",
+      "E": "Kabur"
+    },
+    "answer": "C",
+    "explanation": "Eksplisit berarti dinyatakan secara jelas."
+  },
+  {
+    "id": 103,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'kolaborasi' adalah...",
+    "options": {
+      "A": "Persaingan",
+      "B": "Kerja sama",
+      "C": "Perpecahan",
+      "D": "Penolakan",
+      "E": "Penghindaran"
+    },
+    "answer": "B",
+    "explanation": "Kolaborasi berarti kerja sama."
+  },
+  {
+    "id": 104,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'konsisten' adalah...",
+    "options": {
+      "A": "Tetap",
+      "B": "Stabil",
+      "C": "Berubah-ubah",
+      "D": "Kuat",
+      "E": "Teguh"
+    },
+    "answer": "C",
+    "explanation": "Konsisten berarti tetap, lawannya berubah-ubah."
+  },
+  {
+    "id": 105,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'integritas' adalah...",
+    "options": {
+      "A": "Kejujuran",
+      "B": "Konsistensi",
+      "C": "Kecurangan",
+      "D": "Tanggung jawab",
+      "E": "Etika"
+    },
+    "answer": "C",
+    "explanation": "Integritas berkaitan dengan kejujuran."
+  },
+  {
+    "id": 106,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'harmonis' adalah...",
+    "options": {
+      "A": "Damai",
+      "B": "Seimbang",
+      "C": "Ribut",
+      "D": "Selaras",
+      "E": "Serasi"
+    },
+    "answer": "C",
+    "explanation": "Harmonis berarti damai, lawannya ribut."
+  },
+  {
+    "id": 107,
+    "category": "Analogi",
+    "question": "Kaki : Berjalan = Tangan : ...",
+    "options": {
+      "A": "Menulis",
+      "B": "Berbicara",
+      "C": "Mendengar",
+      "D": "Melihat",
+      "E": "Berpikir"
+    },
+    "answer": "A",
+    "explanation": "Kaki untuk berjalan, tangan untuk menulis."
+  },
+  {
+    "id": 108,
+    "category": "Analogi",
+    "question": "Matahari : Energi = Makanan : ...",
+    "options": {
+      "A": "Rasa",
+      "B": "Tenaga",
+      "C": "Kenyang",
+      "D": "Lapar",
+      "E": "Air"
+    },
+    "answer": "B",
+    "explanation": "Matahari menghasilkan energi, makanan menghasilkan tenaga."
+  },
+  {
+    "id": 109,
+    "category": "Analogi",
+    "question": "Kapal : Pelabuhan = Pesawat : ...",
+    "options": {
+      "A": "Bandara",
+      "B": "Landasan",
+      "C": "Terminal",
+      "D": "Langit",
+      "E": "Hanggar"
+    },
+    "answer": "A",
+    "explanation": "Kapal berlabuh di pelabuhan, pesawat di bandara."
+  },
+  {
+    "id": 110,
+    "category": "Analogi",
+    "question": "Buku : Halaman = Pohon : ...",
+    "options": {
+      "A": "Akar",
+      "B": "Batang",
+      "C": "Daun",
+      "D": "Cabang",
+      "E": "Buah"
+    },
+    "answer": "C",
+    "explanation": "Buku terdiri dari halaman, pohon terdiri dari daun."
+  },
+  {
+    "id": 111,
+    "category": "Pengelompokan Kata",
+    "question": "Mana yang berbeda?",
+    "options": {
+      "A": "Jujur",
+      "B": "Adil",
+      "C": "Amanah",
+      "D": "Korupsi",
+      "E": "Integritas"
+    },
+    "answer": "D",
+    "explanation": "Korupsi bertentangan dengan nilai integritas."
+  },
+  {
+    "id": 112,
+    "category": "Pengelompokan Kata",
+    "question": "Mana yang berbeda?",
+    "options": {
+      "A": "Senang",
+      "B": "Bahagia",
+      "C": "Gembira",
+      "D": "Sedih",
+      "E": "Sukacita"
+    },
+    "answer": "D",
+    "explanation": "Sedih berlawanan dengan lainnya."
+  },
+  {
+    "id": 113,
+    "category": "Pengelompokan Kata",
+    "question": "Mana yang berbeda?",
+    "options": {
+      "A": "Singa",
+      "B": "Harimau",
+      "C": "Kucing",
+      "D": "Serigala",
+      "E": "Gajah"
+    },
+    "answer": "E",
+    "explanation": "Gajah bukan keluarga kucing besar."
+  },
+  {
+    "id": 114,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'relevan' adalah...",
+    "options": {
+      "A": "Tidak penting",
+      "B": "Sesuai",
+      "C": "Berbeda",
+      "D": "Acak",
+      "E": "Kabur"
+    },
+    "answer": "B",
+    "explanation": "Relevan berarti sesuai konteks."
+  },
+  {
+    "id": 115,
+    "category": "Sinonim",
+    "question": "Sinonim dari kata 'signifikan' adalah...",
+    "options": {
+      "A": "Besar pengaruhnya",
+      "B": "Kecil",
+      "C": "Tidak berarti",
+      "D": "Lemah",
+      "E": "Samar"
+    },
+    "answer": "A",
+    "explanation": "Signifikan berarti berpengaruh besar."
+  },
+  {
+    "id": 116,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'efektif' adalah...",
+    "options": {
+      "A": "Tepat",
+      "B": "Berhasil",
+      "C": "Tidak efektif",
+      "D": "Baik",
+      "E": "Cepat"
+    },
+    "answer": "C",
+    "explanation": "Efektif berarti berhasil mencapai tujuan."
+  },
+  {
+    "id": 117,
+    "category": "Antonim",
+    "question": "Antonim dari kata 'adaptif' adalah...",
+    "options": {
+      "A": "Menyesuaikan",
+      "B": "Fleksibel",
+      "C": "Kaku",
+      "D": "Lunak",
+      "E": "Cepat"
+    },
+    "answer": "C",
+    "explanation": "Adaptif berarti mudah menyesuaikan, lawannya kaku."
+  },
+  {
+    "id": 118,
+    "category": "Analogi",
+    "question": "Air : Sungai = Darah : ...",
+    "options": {
+      "A": "Jantung",
+      "B": "Pembuluh",
+      "C": "Tubuh",
+      "D": "Otot",
+      "E": "Nadi"
+    },
+    "answer": "B",
+    "explanation": "Air mengalir di sungai, darah di pembuluh."
+  },
+  {
+    "id": 119,
+    "category": "Analogi",
+    "question": "Lampu : Terang = Api : ...",
+    "options": {
+      "A": "Asap",
+      "B": "Panas",
+      "C": "Abu",
+      "D": "Cahaya",
+      "E": "Lilin"
+    },
+    "answer": "B",
+    "explanation": "Lampu menghasilkan terang, api menghasilkan panas."
+  },
+  {
+    "id": 120,
+    "category": "Analogi HOTS",
+    "question": "Kepala : Berpikir = Jantung : ...",
+    "options": {
+      "A": "Memompa",
+      "B": "Merasakan",
+      "C": "Mengalir",
+      "D": "Menyimpan",
+      "E": "Mengatur"
+    },
+    "answer": "A",
+    "explanation": "Kepala untuk berpikir, jantung untuk memompa darah."
   }
 ]
