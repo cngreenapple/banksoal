@@ -25,7 +25,7 @@
       "E": "Rp66.500"
     },
     "answer": "B",
-    "explanation": "Sisa uang = 100.000 - 32.500 = 67.500."
+    "explanation": "Pinjaman + bunga = 2.150.000. Sisa = 2.250.000 - 2.150.000 - 32.500 = 67.500."
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
       "E": "Rp150.000"
     },
     "answer": "C",
-    "explanation": "Suci = 90.000, selisih = 120.000."
+    "explanation": "Suci = (3/7) × 210.000 = 90.000, selisih = 210.000 - 90.000 = 120.000."
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
       "E": "7,75 meter"
     },
     "answer": "C",
-    "explanation": "3,15 kg = 31,5 ons → 31,5 ÷ 4,5 = 7 meter."
+    "explanation": "3,15 kg = 31,5 ons → 31,5 ÷ (18/4) = 31,5 ÷ 4,5 = 7 meter."
   },
   {
     "id": 5,
@@ -80,7 +80,7 @@
       "D": "400",
       "E": "450"
     },
-    "answer": "C",
+    "answer": "D",
     "explanation": "Dipinjam 100, sisa 400."
   },
   {
@@ -139,7 +139,6 @@
     "answer": "C",
     "explanation": "360 ÷ 6 = 60 km/jam."
   },
-
   {
     "id": 11,
     "category": "Aljabar",
@@ -280,7 +279,6 @@
     "answer": "D",
     "explanation": "2x = 16 → x = 8."
   },
-
   {
     "id": 21,
     "category": "Pola Huruf",
@@ -307,7 +305,7 @@
       "E": "abx dan abd"
     },
     "answer": "A",
-    "explanation": "Pola huruf tengah naik berurutan."
+    "explanation": "Pola huruf tengah naik berurutan (a,e,i,m,q)."
   },
   {
     "id": 23,
@@ -321,7 +319,7 @@
       "E": "O dan R"
     },
     "answer": "C",
-    "explanation": "Pola loncat huruf tertentu menghasilkan M dan Y."
+    "explanation": "Pola loncat +6, +6, +6 → A, G, M, S, Y."
   },
   {
     "id": 24,
@@ -335,7 +333,7 @@
       "E": "OKH"
     },
     "answer": "B",
-    "explanation": "Pola kombinasi penurunan dan kenaikan huruf."
+    "explanation": "Pola tiga kelompok: (C,B,A) turun 1, (G,E,C) turun 2, (K,H,E) turun 3, berikutnya (O,K,G) turun 4."
   },
   {
     "id": 25,
@@ -349,7 +347,7 @@
       "E": "R"
     },
     "answer": "B",
-    "explanation": "Pola loncat +1, +2, +3, +4, +5 menghasilkan Q."
+    "explanation": "Pola loncat +1, +2, +3, +4, +5 → M+5 = Q."
   },
   {
     "id": 26,
@@ -405,7 +403,7 @@
       "E": "7,75 meter"
     },
     "answer": "C",
-    "explanation": "4 meter = 18 ons → 1 meter = 4,5 ons. 3,15 kg = 315 ons. Panjang = 315 ÷ 4,5 = 7 meter."
+    "explanation": "4 meter = 18 ons → 1 meter = 4,5 ons. 3,15 kg = 315 ons? (koreksi: 3,15 kg = 31,5 ons). Panjang = 31,5 ÷ 4,5 = 7 meter."
   },
   {
     "id": 30,
@@ -432,7 +430,7 @@
       "D": "18",
       "E": "20"
     },
-    "answer": "E",
+    "answer": "C",
     "explanation": "Perempuan = 60% × 40 = 24. Laki-laki = 40 - 24 = 16."
   },
   {
@@ -570,10 +568,10 @@
       "B": "34",
       "C": "36",
       "D": "38",
-      "E": "40"
+      "E": "44"
     },
-    "answer": "D",
-    "explanation": "8×3=24, 240÷24=10, 17×2=34, total 44 → (recheck) 10+34=44 (opsi tidak ada, koreksi soal → jawaban benar 44)"
+    "answer": "E",
+    "explanation": "8×3=24, 240÷24=10, 17×2=34, 10+34=44."
   },
   {
     "id": 42,
@@ -581,13 +579,13 @@
     "question": "Harga barang Rp800.000 naik 15% lalu turun 10%. Harga akhir adalah?",
     "options": {
       "A": "Rp820.000",
-      "B": "Rp840.000",
-      "C": "Rp844.000",
-      "D": "Rp846.000",
+      "B": "Rp828.000",
+      "C": "Rp840.000",
+      "D": "Rp844.000",
       "E": "Rp850.000"
     },
-    "answer": "C",
-    "explanation": "800.000×1,15=920.000; 920.000×0,9=828.000 → (koreksi) jawaban benar 828.000"
+    "answer": "B",
+    "explanation": "800.000×1,15=920.000; 920.000×0,9=828.000."
   },
   {
     "id": 43,
@@ -600,8 +598,8 @@
       "D": "90",
       "E": "100"
     },
-    "answer": "C",
-    "explanation": "Selisih 2 bagian = 36 → 1 bagian = 18 → A = 5×18 = 90 (jawaban benar D)"
+    "answer": "D",
+    "explanation": "Selisih 2 bagian = 36 → 1 bagian = 18 → A = 5×18 = 90."
   },
   {
     "id": 44,
@@ -615,7 +613,7 @@
       "E": "75 km/jam"
     },
     "answer": "B",
-    "explanation": "270 ÷ 4,5 = 60 km/jam"
+    "explanation": "270 ÷ 4,5 = 60 km/jam."
   },
   {
     "id": 45,
@@ -629,7 +627,7 @@
       "E": "193"
     },
     "answer": "D",
-    "explanation": "×2 +1 → 95×2+1 = 191"
+    "explanation": "×2 +1 → 95×2+1 = 191."
   },
   {
     "id": 46,
@@ -643,7 +641,7 @@
       "E": "46"
     },
     "answer": "C",
-    "explanation": "Selisih +4,+6,+8,+10,+12 → 42"
+    "explanation": "Selisih +4,+6,+8,+10,+12 → 42."
   },
   {
     "id": 47,
@@ -657,7 +655,7 @@
       "E": "Rp100.000"
     },
     "answer": "C",
-    "explanation": "18% × 500.000 = 90.000"
+    "explanation": "18% × 500.000 = 90.000."
   },
   {
     "id": 48,
@@ -671,7 +669,7 @@
       "E": "12 hari"
     },
     "answer": "B",
-    "explanation": "6×15=90 → 90÷10=9 hari"
+    "explanation": "6×15=90 → 90÷10=9 hari."
   },
   {
     "id": 49,
@@ -680,12 +678,12 @@
     "options": {
       "A": "1",
       "B": "1 1/10",
-      "C": "1 1/5",
+      "C": "1 3/10",
       "D": "1 1/2",
       "E": "1 3/5"
     },
-    "answer": "B",
-    "explanation": "6/10 + 7/10 = 13/10 = 1 3/10 (jawaban benar tidak ada opsi)"
+    "answer": "C",
+    "explanation": "6/10 + 7/10 = 13/10 = 1 3/10."
   },
   {
     "id": 50,
@@ -699,7 +697,7 @@
       "E": "−120"
     },
     "answer": "B",
-    "explanation": "225 - 300 = -75"
+    "explanation": "225 - 300 = -75."
   },
   {
     "id": 51,
@@ -713,7 +711,7 @@
       "E": "Rp150.000"
     },
     "answer": "C",
-    "explanation": "1 buku = 15.000 → 9×15.000=135.000"
+    "explanation": "1 buku = 15.000 → 9×15.000=135.000."
   },
   {
     "id": 52,
@@ -727,7 +725,7 @@
       "E": "21"
     },
     "answer": "B",
-    "explanation": "Jumlah 90 ÷ 5 = 18"
+    "explanation": "Jumlah 90 ÷ 5 = 18."
   },
   {
     "id": 53,
@@ -741,7 +739,7 @@
       "E": "10"
     },
     "answer": "A",
-    "explanation": "9×3=27 → 45-27=18 → 18÷3=6"
+    "explanation": "9×3=27 → 45-27=18 → 18÷3=6."
   },
   {
     "id": 54,
@@ -755,7 +753,7 @@
       "E": "70 km/jam"
     },
     "answer": "C",
-    "explanation": "360 ÷ 6 = 60"
+    "explanation": "360 ÷ 6 = 60."
   },
   {
     "id": 55,
@@ -769,7 +767,7 @@
       "E": "Rp260.000"
     },
     "answer": "C",
-    "explanation": "2.000.000 × 6% × 2 = 240.000"
+    "explanation": "2.000.000 × 6% × 2 = 240.000."
   },
   {
     "id": 56,
@@ -783,7 +781,7 @@
       "E": "90"
     },
     "answer": "D",
-    "explanation": "9² = 81"
+    "explanation": "9² = 81."
   },
   {
     "id": 57,
@@ -797,7 +795,7 @@
       "E": "45"
     },
     "answer": "C",
-    "explanation": "Kuadrat: 6² = 36"
+    "explanation": "Kuadrat: 6² = 36."
   },
   {
     "id": 58,
@@ -810,8 +808,8 @@
       "D": "80",
       "E": "88"
     },
-    "answer": "A",
-    "explanation": "11 bagian → 1=10 → B=80 (jawaban D benar)"
+    "answer": "D",
+    "explanation": "11 bagian → 1=10 → B=80."
   },
   {
     "id": 59,
@@ -824,8 +822,8 @@
       "D": "300",
       "E": "310"
     },
-    "answer": "C",
-    "explanation": "180 + 120 = 300 (jawaban D benar)"
+    "answer": "D",
+    "explanation": "180 + 120 = 300."
   },
   {
     "id": 60,
@@ -839,7 +837,7 @@
       "E": "70"
     },
     "answer": "C",
-    "explanation": "150 ÷ 2,5 = 60"
+    "explanation": "150 ÷ 2,5 = 60."
   },
   {
     "id": 71,
@@ -852,8 +850,8 @@
       "D": "138",
       "E": "144"
     },
-    "answer": "D",
-    "explanation": "420÷7=60, 18×4=72, total 132 (jawaban benar C)"
+    "answer": "C",
+    "explanation": "420÷7=60, 18×4=72, total 132."
   },
   {
     "id": 72,
@@ -867,7 +865,7 @@
       "E": "Rp600.000"
     },
     "answer": "B",
-    "explanation": "500k×1.2=600k, 600k×0.9=540k"
+    "explanation": "500k×1,2=600k, 600k×0,9=540k."
   },
   {
     "id": 73,
@@ -881,7 +879,7 @@
       "E": "200"
     },
     "answer": "C",
-    "explanation": "Selisih 2 bagian = 40 → 1=20 → B=9×20=180"
+    "explanation": "Selisih 2 bagian = 40 → 1=20 → B=9×20=180."
   },
   {
     "id": 74,
@@ -895,7 +893,7 @@
       "E": "5 jam"
     },
     "answer": "B",
-    "explanation": "Kecepatan relatif 100 km/jam → 200÷100=2 jam"
+    "explanation": "Kecepatan relatif 100 km/jam → 200÷100=2 jam."
   },
   {
     "id": 75,
@@ -909,7 +907,7 @@
       "E": "46"
     },
     "answer": "C",
-    "explanation": "Selisih +4,+6,+8,+10,+12 → 42"
+    "explanation": "Selisih +4,+6,+8,+10,+12 → 42."
   },
   {
     "id": 76,
@@ -923,7 +921,7 @@
       "E": "9"
     },
     "answer": "C",
-    "explanation": "(x+1/x)² = 9 → x²+1/x²+2=9 → hasil 7"
+    "explanation": "(x+1/x)² = 9 → x²+1/x²+2=9 → hasil 7."
   },
   {
     "id": 77,
@@ -937,7 +935,7 @@
       "E": "10 hari"
     },
     "answer": "C",
-    "explanation": "12×10=120 → 120÷15=8 hari"
+    "explanation": "12×10=120 → 120÷15=8 hari."
   },
   {
     "id": 78,
@@ -951,7 +949,7 @@
       "E": "78"
     },
     "answer": "C",
-    "explanation": "(40×70 + 60×80)/100 = 7600/100 = 76"
+    "explanation": "(40×70 + 60×80)/100 = 7600/100 = 76."
   },
   {
     "id": 79,
@@ -965,7 +963,7 @@
       "E": "5/6"
     },
     "answer": "C",
-    "explanation": "Angka genap 2,4,6 → 3/6 = 1/2"
+    "explanation": "Angka genap 2,4,6 → 3/6 = 1/2."
   },
   {
     "id": 80,
@@ -973,27 +971,27 @@
     "question": "3, 10, 21, 36, 55, ?",
     "options": {
       "A": "70",
-      "B": "80",
-      "C": "85",
-      "D": "90",
-      "E": "91"
+      "B": "76",
+      "C": "78",
+      "D": "80",
+      "E": "82"
     },
-    "answer": "E",
-    "explanation": "Selisih +7,+11,+15,+19,+23 → 55+36=91"
+    "answer": "C",
+    "explanation": "Pola selisih: +7, +11, +15, +19, +23 (bertambah 4 setiap kali). Maka 55 + 23 = 78."
   },
   {
     "id": 81,
     "category": "Matematika - Campuran",
     "question": "(150 - 3² × 10) ÷ 5 = ?",
     "options": {
-      "A": "18",
-      "B": "20",
-      "C": "22",
-      "D": "24",
-      "E": "26"
+      "A": "12",
+      "B": "18",
+      "C": "20",
+      "D": "22",
+      "E": "24"
     },
-    "answer": "B",
-    "explanation": "3²=9 → 9×10=90 → 150-90=60 → 60÷5=12 (jawaban benar tidak ada)"
+    "answer": "A",
+    "explanation": "3²=9 → 9×10=90 → 150-90=60 → 60÷5=12."
   },
   {
     "id": 82,
@@ -1001,13 +999,13 @@
     "question": "Sebuah kereta menempuh 480 km dalam 6 jam. Jika kecepatannya naik 20%, waktu tempuh baru adalah?",
     "options": {
       "A": "4 jam",
-      "B": "4.5 jam",
+      "B": "4,5 jam",
       "C": "5 jam",
-      "D": "5.5 jam",
+      "D": "5,5 jam",
       "E": "6 jam"
     },
-    "answer": "B",
-    "explanation": "v awal 80 km/jam → naik 20% = 96 → 480/96=5 jam (jawaban C benar)"
+    "answer": "C",
+    "explanation": "v awal 80 km/jam → naik 20% = 96 km/jam → 480/96=5 jam."
   },
   {
     "id": 83,
@@ -1021,7 +1019,7 @@
       "E": "260"
     },
     "answer": "D",
-    "explanation": "10 bagian → 1=50 → C=5×50=250"
+    "explanation": "10 bagian → 1=50 → C=5×50=250."
   },
   {
     "id": 84,
@@ -1035,7 +1033,7 @@
       "E": "45"
     },
     "answer": "C",
-    "explanation": "16+25=41"
+    "explanation": "16+25=41."
   },
   {
     "id": 85,
@@ -1049,7 +1047,7 @@
       "E": "14 hari"
     },
     "answer": "C",
-    "explanation": "8×18=144 → 144÷12=12 hari"
+    "explanation": "8×18=144 → 144÷12=12 hari."
   },
   {
     "id": 86,
@@ -1063,7 +1061,7 @@
       "E": "23"
     },
     "answer": "C",
-    "explanation": "Segitiga: +2,+3,+4,+5,+6 → 21"
+    "explanation": "Segitiga: +2,+3,+4,+5,+6 → 21."
   },
   {
     "id": 87,
@@ -1076,8 +1074,8 @@
       "D": "55",
       "E": "60"
     },
-    "answer": "C",
-    "explanation": "200/20=10 → 10+30=40 (jawaban A benar)"
+    "answer": "A",
+    "explanation": "200/20=10 → 10+30=40."
   },
   {
     "id": 88,
@@ -1088,24 +1086,24 @@
       "B": "Rp660.000",
       "C": "Rp670.000",
       "D": "Rp680.000",
-      "E": "Rp690.000"
+      "E": "Rp770.000"
     },
-    "answer": "B",
-    "explanation": "1.000.000×0.7=700.000 → ×1.1=770.000 (jawaban tidak ada)"
+    "answer": "E",
+    "explanation": "1.000.000×0,7=700.000 → ×1,1=770.000."
   },
   {
     "id": 89,
     "category": "Matematika - Kecepatan",
     "question": "300 km ditempuh 5 jam. Jika 20% lebih cepat, waktu baru?",
     "options": {
-      "A": "3.5 jam",
+      "A": "3,5 jam",
       "B": "4 jam",
-      "C": "4.2 jam",
-      "D": "4.5 jam",
+      "C": "4,2 jam",
+      "D": "4,5 jam",
       "E": "5 jam"
     },
-    "answer": "B",
-    "explanation": "60 km/jam → 72 km/jam → 300/72≈4.17 jam"
+    "answer": "C",
+    "explanation": "60 km/jam → 72 km/jam → 300/72 ≈ 4,17 jam ≈ 4,2 jam."
   },
   {
     "id": 90,
@@ -1119,7 +1117,7 @@
       "E": "83"
     },
     "answer": "C",
-    "explanation": "Selisih +5,+10,+15,+20,+25 → 81"
+    "explanation": "Selisih +5,+10,+15,+20,+25 → 56+25=81."
   },
   {
     "id": 91,
@@ -1132,8 +1130,8 @@
       "D": "46",
       "E": "48"
     },
-    "answer": "D",
-    "explanation": "15×2=30, 600÷30=20, 20+28=48 → jawaban E"
+    "answer": "E",
+    "explanation": "15×2=30, 600÷30=20, 20+28=48."
   },
   {
     "id": 92,
@@ -1144,10 +1142,10 @@
       "B": "Rp605.000",
       "C": "Rp615.000",
       "D": "Rp620.000",
-      "E": "Rp630.000"
+      "E": "Rp660.000"
     },
-    "answer": "A",
-    "explanation": "750.000×1,1=825.000; 825.000×0,8=660.000 → jawaban tidak ada"
+    "answer": "E",
+    "explanation": "750.000×1,1=825.000; 825.000×0,8=660.000."
   },
   {
     "id": 93,
@@ -1161,7 +1159,7 @@
       "E": "260"
     },
     "answer": "C",
-    "explanation": "17 bagian → 1=20 → B=11×20=220"
+    "explanation": "17 bagian → 1=20 → B=11×20=220."
   },
   {
     "id": 94,
@@ -1169,13 +1167,13 @@
     "question": "Dua kendaraan berjarak 360 km dan saling mendekat dengan kecepatan 80 km/jam dan 70 km/jam. Waktu bertemu adalah?",
     "options": {
       "A": "2 jam",
-      "B": "2.5 jam",
-      "C": "3 jam",
-      "D": "3.5 jam",
-      "E": "4 jam"
+      "B": "2,4 jam",
+      "C": "2,5 jam",
+      "D": "3 jam",
+      "E": "3,5 jam"
     },
-    "answer": "C",
-    "explanation": "150 km/jam → 360÷150=2,4 jam → ~2.5 jam (jawaban B benar)"
+    "answer": "B",
+    "explanation": "150 km/jam → 360÷150=2,4 jam."
   },
   {
     "id": 95,
@@ -1188,8 +1186,8 @@
       "D": "160",
       "E": "161"
     },
-    "answer": "E",
-    "explanation": "×2+1 → 79×2+1=159? (sebenarnya 159)"
+    "answer": "C",
+    "explanation": "×2+1 → 79×2+1=159."
   },
   {
     "id": 96,
@@ -1202,8 +1200,8 @@
       "D": "82",
       "E": "83"
     },
-    "answer": "C",
-    "explanation": "Selisih +7,+11,+15,+19,+23 → 80"
+    "answer": "B",
+    "explanation": "Selisih +7,+11,+15,+19,+23 → 57+23=80."
   },
   {
     "id": 97,
@@ -1217,21 +1215,21 @@
       "E": "10 hari"
     },
     "answer": "C",
-    "explanation": "10×12=120 → 120÷15=8 hari"
+    "explanation": "10×12=120 → 120÷15=8 hari."
   },
   {
     "id": 98,
     "category": "Matematika - Rata-rata",
     "question": "Rata-rata 8 bilangan adalah 50. Jika satu bilangan 90 dihapus, rata-rata baru adalah?",
     "options": {
-      "A": "45",
-      "B": "46",
-      "C": "47",
-      "D": "48",
-      "E": "49"
+      "A": "44",
+      "B": "45",
+      "C": "46",
+      "D": "47",
+      "E": "48"
     },
-    "answer": "D",
-    "explanation": "Total 400 − 90 = 310 → 310÷7 ≈ 44,3 (tidak ada opsi)"
+    "answer": "A",
+    "explanation": "Total 400 − 90 = 310 → 310÷7 ≈ 44,3 → dibulatkan 44."
   },
   {
     "id": 99,
@@ -1242,23 +1240,23 @@
       "B": "42",
       "C": "44",
       "D": "46",
-      "E": "48"
+      "E": "50"
     },
-    "answer": "A",
-    "explanation": "12×5=60 → 300-60=240 → 240÷6=40 → 40+10=50 (jawaban tidak ada)"
+    "answer": "E",
+    "explanation": "12×5=60 → 300-60=240 → 240÷6=40 → 40+10=50."
   },
   {
     "id": 100,
     "category": "Matematika - HOTS Final",
     "question": "Sebuah pekerjaan dapat diselesaikan oleh 8 orang dalam 15 hari. Setelah 5 hari bekerja, 4 orang keluar. Berapa total waktu penyelesaian?",
     "options": {
-      "A": "18 hari",
-      "B": "20 hari",
-      "C": "22 hari",
-      "D": "24 hari",
+      "A": "20 hari",
+      "B": "22 hari",
+      "C": "24 hari",
+      "D": "25 hari",
       "E": "26 hari"
     },
-    "answer": "B",
-    "explanation": "Total kerja = 120 orang-hari. Sudah 8×5=40 → sisa 80. Setelah 4 keluar jadi 4 orang → 80÷4=20 hari total bagian akhir → total 25 hari (jawaban tidak ada)"
+    "answer": "D",
+    "explanation": "Total kerja = 120 orang-hari. Sudah 8×5=40 → sisa 80. Setelah 4 keluar jadi 4 orang → 80÷4=20 hari. Total = 5 + 20 = 25 hari."
   }
 ]
