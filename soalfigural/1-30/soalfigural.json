@@ -4,209 +4,239 @@
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no1_ans_e.png",
-    "answer": "E"
+    "answer": "E",
+    "explanation": "Semua merupakan hasil perputaran suatu bangun, kecuali gambar E merupakan hasil pencerminan."
   },
   {
     "id": 2,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no2_ans_d.png",
-    "answer": "D"
+    "answer": "D",
+    "explanation": "Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar D merupakan hasil pencerminan."
   },
   {
     "id": 3,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no3_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": "Sebagai acuan lihat posisi bintang. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar B merupakan hasil pencerminan."
   },
   {
     "id": 4,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no4_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": "Sebagai acuan perhatikan gambar bintang. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar A merupakan hasil pencerminan."
   },
   {
     "id": 5,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no5_ans_c.png",
-    "answer": "C"
+    "answer": "C",
+    "explanation": "Sebagai acuan perhatikan lingkaran putih. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar C merupakan hasil pencerminan."
   },
   {
     "id": 6,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no6_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": "Perhatikan arah panah hitam. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar A merupakan hasil pencerminan."
   },
   {
     "id": 7,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no7_ans_d.png",
-    "answer": "D"
+    "answer": "D",
+    "explanation": "Sebagai acuan lihat posisi ujung lancip dan bagian yang berbentuk kotak. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar D merupakan hasil pencerminan."
   },
   {
     "id": 8,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no8_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": "Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar B merupakan hasil pencerminan."
   },
   {
     "id": 9,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no9_ans_c.png",
-    "answer": "C"
+    "answer": "C",
+    "explanation": "Perhatikan posisi bulatan hitam sebagai acuan. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar C merupakan hasil pencerminan."
   },
   {
     "id": 10,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no10_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": "Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar A merupakan hasil pencerminan."
   },
   {
     "id": 11,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no11_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": "Perhatikan posisi lingkaran hitam dan posisi kotak. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar A merupakan hasil pencerminan."
   },
   {
     "id": 12,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no12_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": "Perhatikan posisi lingkaran hitam dan guntingan kertas. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar A merupakan hasil pencerminan."
   },
   {
     "id": 13,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no13_ans_d.png",
-    "answer": "D"
+    "answer": "D",
+    "explanation": "Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar D merupakan hasil pencerminan."
   },
   {
     "id": 14,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no14_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": "Perhatikan posisi bintang dan kotak hitam. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar B merupakan hasil pencerminan."
   },
   {
     "id": 15,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no15_ans_e.png",
-    "answer": "E"
+    "answer": "E",
+    "explanation": "Perhatikan posisi lingkaran dan bangun bentuk oval. Semuanya merupakan hasil perputaran suatu bangun, kecuali gambar E merupakan hasil pencerminan."
   },
   {
     "id": 16,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no16_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": "Gambar B merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya rotasikan semua pilihan jawaban. Hanya gambar B yang bisa menepati posisi seperti gambar pertama."
   },
   {
     "id": 17,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no17_ans_e.png",
-    "answer": "E"
+    "answer": "E",
+    "explanation": "Gambar E merupakan hasil rotasi/perputaran gambar pertama. Sementara gambar lainnya merupakan hasil pencerminan dan perputaran sekaligus dari gambar pertama. Kuncinya ditukar gambar seperti gambar pertama sehingga bagian tutup ada di posisi yang sesuai. Perhatikan hanya gambar E yang sama, gambar lainnya posisi blok hitam berbeda."
   },
   {
     "id": 18,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no18_ans_e.png",
-    "answer": "E"
+    "answer": "E",
+    "explanation": "Gambar E merupakan hasil rotasi/perputaran gambar pertama. Perhatikan arah anak panah. Jika dirotasikan hanya pilihan E yang sesuai dengan posisi gambar pertama."
   },
   {
     "id": 19,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no19_ans_d.png",
-    "answer": "D"
+    "answer": "D",
+    "explanation": "Gambar D merupakan hasil rotasi/perputaran gambar pertama. Perhatikan posisi blok hitam, hanya D yang sesuai dengan gambar pertama."
   },
   {
     "id": 20,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no20_ans_c.png",
-    "answer": "C"
+    "answer": "C",
+    "explanation": "Gambar C merupakan hasil rotasi/perputaran gambar pertama. Putar setiap pilihan hingga posisi lingkaran hitam sama dengan gambar pertama."
   },
   {
     "id": 21,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no21_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": "Gambar B merupakan hasil rotasi/perputaran gambar pertama. Perhatikan posisi lingkaran kecil, hanya B yang sesuai."
   },
   {
     "id": 22,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no22_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": "Gambar A merupakan hasil rotasi/perputaran gambar pertama. Perhatikan posisi dan arah lingkaran, hanya A yang sama."
   },
   {
     "id": 23,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no23_ans_d.png",
-    "answer": "D"
+    "answer": "D",
+    "explanation": "Gambar D merupakan hasil rotasi/perputaran gambar pertama. Perhatikan arah hadap bintang, hanya D yang sesuai."
   },
   {
     "id": 24,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no24_ans_c.png",
-    "answer": "C"
+    "answer": "C",
+    "explanation": "Gambar C merupakan hasil rotasi/perputaran gambar pertama, sementara yang lain merupakan pencerminan."
   },
   {
     "id": 25,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no25_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": ""
   },
   {
     "id": 26,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no26_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": ""
   },
   {
     "id": 27,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no27_ans_d.png",
-    "answer": "D"
+    "answer": "D",
+    "explanation": ""
   },
   {
     "id": 28,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no28_ans_c.png",
-    "answer": "C"
+    "answer": "C",
+    "explanation": ""
   },
   {
     "id": 29,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no29_ans_b.png",
-    "answer": "B"
+    "answer": "B",
+    "explanation": ""
   },
   {
     "id": 30,
     "category": "Figural - Refleksi dan Rotasi",
     "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
     "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30/no30_ans_a.png",
-    "answer": "A"
+    "answer": "A",
+    "explanation": ""
   }
 ]
