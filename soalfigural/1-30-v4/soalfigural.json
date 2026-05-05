@@ -1,1 +1,242 @@
-a
+[
+  {
+    "id": 1,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no1_ans_e.png",
+    "answer": "E",
+    "explanation": "Pola melanjutkan gambar searah jarum jam."
+  },
+  {
+    "id": 2,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no2_ans_d.png",
+    "answer": "D",
+    "explanation": "Pergeseran kotak arsir searah jarum jam."
+  },
+  {
+    "id": 3,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no3_ans_c.png",
+    "answer": "C",
+    "explanation": "Pergeseran salah satu sisi segi enam searah jarum jam."
+  },
+  {
+    "id": 4,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no4_ans_a.png",
+    "answer": "A",
+    "explanation": "Lingkaran bergerak berlawanan jarum jam, segitiga bergerak searah jarum jam."
+  },
+  {
+    "id": 5,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no5_ans_c.png",
+    "answer": "C",
+    "explanation": "Perputaran garis lurus searah jarum jam."
+  },
+  {
+    "id": 6,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no6_ans_a.png",
+    "answer": "A",
+    "explanation": "Perputaran garis bertahap searah jarum jam: 2 sisi, 1 sisi, setengah sisi, seperempat sisi."
+  },
+  {
+    "id": 7,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no7_ans_a.png",
+    "answer": "A",
+    "explanation": "Bagian atas dan bawah berputar bergantian ke kiri (searah jarum jam)."
+  },
+  {
+    "id": 8,
+    "category": "Transformasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no8_ans_a.png",
+    "answer": "A",
+    "explanation": "Setiap gambar merupakan pasangan hasil pencerminan gambar lainnya."
+  },
+  {
+    "id": 9,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no9_ans_a.png",
+    "answer": "A",
+    "explanation": "Dua jarum jam berputar searah jarum jam dengan penambahan lingkaran kecil."
+  },
+  {
+    "id": 10,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no10_ans_c.png",
+    "answer": "C",
+    "explanation": "Gambar diputar searah jarum jam dengan jumlah jari-jari berkurang satu."
+  },
+  {
+    "id": 11,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no11_ans_c.png",
+    "answer": "C",
+    "explanation": "Gambar berputar searah jarum jam, selang-seling lingkaran kecil, garis kecil di ujung bergerak berlawanan jarum jam."
+  },
+  {
+    "id": 12,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no12_ans_a.png",
+    "answer": "A",
+    "explanation": "Bagian hitam pada lingkaran semakin lebar ke kanan."
+  },
+  {
+    "id": 13,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no13_ans_a.png",
+    "answer": "A",
+    "explanation": "Gambar mengalami rotasi searah jarum jam."
+  },
+  {
+    "id": 14,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no14_ans_e.png",
+    "answer": "E",
+    "explanation": "Urutan jumlah titik sudut: 3, 4, 5 → 6 titik sudut."
+  },
+  {
+    "id": 15,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no15_ans_b.png",
+    "answer": "B",
+    "explanation": "Pergeseran sekaligus penambahan bulatan lingkaran searah jarum jam."
+  },
+  {
+    "id": 16,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no16_ans_d.png",
+    "answer": "D",
+    "explanation": "Banyak sudut: 3, 4, 5 → 6 titik sudut."
+  },
+  {
+    "id": 17,
+    "category": "Rotasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no17_ans_c.png",
+    "answer": "C",
+    "explanation": "Gambar busur berputar 90 derajat dan gambar panah berputar 45 derajat."
+  },
+  {
+    "id": 18,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no18_ans_c.png",
+    "answer": "C",
+    "explanation": "Banyak kubus: 1, 2, 3 → 4 kubus."
+  },
+  {
+    "id": 19,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no19_ans_a.png",
+    "answer": "A",
+    "explanation": "Banyak garis: 2, 4, 6, 8 → 10 garis."
+  },
+  {
+    "id": 20,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no20_ans_d.png",
+    "answer": "D",
+    "explanation": "Jumlah ruangan: 1, 2, 3, 4 → 5 ruangan."
+  },
+  {
+    "id": 21,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no21_ans_d.png",
+    "answer": "D",
+    "explanation": "Jumlah ruangan: 2, 4, 8 → 16 ruangan."
+  },
+  {
+    "id": 22,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no22_ans_d.png",
+    "answer": "D",
+    "explanation": "Jumlah ruangan: 1, 2, 4 → 8 ruangan."
+  },
+  {
+    "id": 23,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no23_ans_b.png",
+    "answer": "B",
+    "explanation": "Mirip deret Fibonacci, penggabungan dua bentuk sebelumnya."
+  },
+  {
+    "id": 24,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no24_ans_c.png",
+    "answer": "C",
+    "explanation": "Pola penambahan gambar & selang-seling blok hitam."
+  },
+  {
+    "id": 25,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no25_ans_b.png",
+    "answer": "B",
+    "explanation": "Pengurangan garis tegak dan mendatar → 1 garis tegak, 0 garis mendatar."
+  },
+  {
+    "id": 26,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no26_ans_c.png",
+    "answer": "C",
+    "explanation": "Jumlah titik sudut: 2, 4, 6 → 8 titik sudut."
+  },
+  {
+    "id": 27,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no27_ans_d.png",
+    "answer": "D",
+    "explanation": "Masing-masing gambar dibentuk dari 4 garis lurus."
+  },
+  {
+    "id": 28,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no28_ans_e.png",
+    "answer": "E",
+    "explanation": "Bulatan hitam di sisi kiri berkurang 2, di sisi kanan bertambah 2."
+  },
+  {
+    "id": 29,
+    "category": "Transformasi",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no29_ans_a.png",
+    "answer": "A",
+    "explanation": "Kombinasi warna dan posisi lingkaran."
+  },
+  {
+    "id": 30,
+    "category": "Pola Bilangan",
+    "question": "Perhatikan gambar berikut dan tentukan jawaban yang benar.",
+    "image": "https://raw.githubusercontent.com/cngreenapple/banksoal/main/soalfigural/1-30-v4/no30_ans_b.png",
+    "answer": "B",
+    "explanation": "Urutan bentuk gambar."
+  }
+]
