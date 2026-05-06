@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "category": "Oseanografi",
+    "question": "Secara geografis, laut dan samudera memiliki beberapa persamaan. Manakah pernyataan berikut yang merupakan persamaan antara laut dan samudera?",
+    "options": {
+      "A": "Keduanya memiliki kedalaman yang sama rata-rata.",
+      "B": "Keduanya merupakan bagian dari perairan asin yang terhubung secara global.",
+      "C": "Keduanya terletak di tepi benua dan semi-tertutup oleh daratan.",
+      "D": "Keduanya tidak dipengaruhi oleh aktivitas pasang surut air laut.",
+      "E": "Keduanya selalu memiliki warna air biru tua yang pekat."
+    },
+    "answer": "B",
+    "explanation": "Laut dan samudera sama-sama terdiri dari air asin dan membentuk satu kesatuan sistem perairan dunia (World Ocean). Perbedaannya: samudera lebih luas, lebih dalam, dan tidak dikelilingi daratan, sedangkan laut lebih kecil, dangkal, dan biasanya berada di tepi benua."
+  },
+  {
+    "id": 2,
+    "category": "Biologi",
+    "question": "Berikut ini adalah persamaan antara tumbuhan C3 dan tumbuhan C4 dalam proses fotosintesis, kecuali...",
+    "options": {
+      "A": "Sama-sama menggunakan klorofil sebagai pigmen utama",
+      "B": "Sama-sama memerlukan cahaya matahari",
+      "C": "Sama-sama menghasilkan oksigen sebagai produk sampingan",
+      "D": "Sama-sama memiliki laju fotorespirasi yang tinggi",
+      "E": "Sama-sama mengubah CO2 menjadi senyawa organik"
+    },
+    "answer": "D",
+    "explanation": "Persamaan C3 dan C4: menggunakan klorofil, butuh cahaya, menghasilkan O2, fiksasi CO2. Perbedaan: C3 memiliki fotorespirasi tinggi, C4 rendah karena mekanisme pemekatan CO2."
+  },
+  {
+    "id": 3,
+    "category": "Ekonomi",
+    "question": "Manakah pernyataan yang merupakan persamaan antara pasar persaingan sempurna dan pasar persaingan monopolistik?",
+    "options": {
+      "A": "Keduanya memiliki produk yang homogen",
+      "B": "Keduanya memiliki hambatan masuk pasar yang sangat tinggi",
+      "C": "Keduanya terdiri atas banyak penjual dan pembeli",
+      "D": "Keduanya memiliki kekuatan menentukan harga",
+      "E": "Keduanya hanya menjual barang mewah"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: jumlah penjual dan pembeli banyak. Perbedaan: persaingan sempurna produk homogen, monopolistik produk terdiferensiasi."
+  },
+  {
+    "id": 4,
+    "category": "Fisika",
+    "question": "Persamaan antara gelombang transversal dan gelombang longitudinal adalah...",
+    "options": {
+      "A": "Keduanya dapat merambat dalam ruang hampa",
+      "B": "Keduanya memerlukan medium perambatan",
+      "C": "Keduanya dapat mengalami pemantulan dan pembiasan",
+      "D": "Keduanya memiliki arah getar sejajar dengan rambatan",
+      "E": "Keduanya tidak dapat dipolarisasikan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis gelombang mekanik dapat mengalami refleksi dan refraksi. Perbedaan: transversal (arah getar tegak lurus rambatan) bisa dipolarisasi, longitudinal (sejajar) tidak bisa."
+  },
+  {
+    "id": 5,
+    "category": "Kimia",
+    "question": "Persamaan antara ikatan ion dan ikatan kovalen adalah...",
+    "options": {
+      "A": "Keduanya melibatkan serah terima elektron",
+      "B": "Keduanya melibatkan penggunaan bersama pasangan elektron",
+      "C": "Keduanya terbentuk karena gaya tarik antar muatan",
+      "D": "Keduanya menghasilkan senyawa yang umumnya larut dalam air",
+      "E": "Keduanya bertujuan mencapai kestabilan oktet atau duplet"
+    },
+    "answer": "E",
+    "explanation": "Persamaan: ikatan ion dan kovalen sama-sama terjadi agar atom mencapai konfigurasi elektron stabil (oktet/duplet). Perbedaan: ion serah terima elektron, kovalen pemakaian bersama."
+  },
+  {
+    "id": 6,
+    "category": "Sejarah",
+    "question": "Persamaan antara Perang Dunia I dan Perang Dunia II adalah...",
+    "options": {
+      "A": "Keduanya dipicu oleh terbunuhnya seorang pangeran",
+      "B": "Keduanya melibatkan Jerman sebagai negara poros",
+      "C": "Keduanya diakhiri dengan perjanjian yang sama",
+      "D": "Keduanya menyebabkan jatuhnya kekaisaran di Eropa",
+      "E": "Keduanya tidak menggunakan senjata kimia"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: kedua perang dunia menyebabkan runtuhnya kekaisaran besar (Austria-Hongaria, Ottoman, Jerman, Rusia). Perbedaan: penyebab, aktor, dan teknologi perang berbeda."
+  },
+  {
+    "id": 7,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara pantun dan syair adalah...",
+    "options": {
+      "A": "Keduanya terdiri dari 4 baris dalam setiap bait",
+      "B": "Keduanya memiliki sampiran dan isi",
+      "C": "Keduanya memiliki rima akhir a-a-a-a",
+      "D": "Keduanya merupakan puisi lama yang terikat aturan",
+      "E": "Keduanya tidak memiliki makna tersirat"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: pantun dan syair sama-sama puisi lama dengan aturan bait, baris, rima. Perbedaan: pantun (4 baris, a-b-a-b, ada sampiran-isi), syair (4 baris, a-a-a-a, semua isi)."
+  },
+  {
+    "id": 8,
+    "category": "Geografi",
+    "question": "Persamaan antara gunung berapi strato dan gunung berapi perisai adalah...",
+    "options": {
+      "A": "Keduanya memiliki lereng yang curam",
+      "B": "Keduanya terbentuk dari lava yang sangat kental",
+      "C": "Keduanya merupakan hasil aktivitas vulkanisme",
+      "D": "Keduanya hanya meletus secara eksplosif",
+      "E": "Keduanya tidak pernah mengeluarkan abu vulkanik"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya adalah gunung api hasil erupsi magma ke permukaan. Perbedaan: strato (curam, eksplosif, komposit), perisai (landai, efusif, lava basaltik)."
+  },
+  {
+    "id": 9,
+    "category": "IPS",
+    "question": "Persamaan antara norma hukum dan norma kesusilaan adalah...",
+    "options": {
+      "A": "Keduanya tertulis dalam undang-undang",
+      "B": "Keduanya memiliki sanksi yang tegas dan nyata",
+      "C": "Keduanya bertujuan mengatur perilaku manusia",
+      "D": "Keduanya berasal dari Tuhan Yang Maha Esa",
+      "E": "Keduanya hanya berlaku di pengadilan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya berfungsi sebagai pedoman perilaku. Perbedaan: hukum (tertulis, sanksi resmi, negara), kesusilaan (tidak tertulis, sanksi rasa bersalah, hati nurani)."
+  },
+  {
+    "id": 10,
+    "category": "Astronomi",
+    "question": "Persamaan antara planet terestrial dan planet Jovian adalah...",
+    "options": {
+      "A": "Keduanya memiliki permukaan padat",
+      "B": "Keduanya memiliki atmosfer tebal",
+      "C": "Keduanya mengorbit Matahari",
+      "D": "Keduanya memiliki cincin",
+      "E": "Keduanya berukuran kecil"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: semua planet dalam tata surya mengorbit Matahari. Perbedaan: terestrial (padat, kecil, atmosfer tipis, dekat matahari), Jovian (gas, besar, atmosfer tebal, jauh)."
+  },
+  {
+    "id": 11,
+    "category": "Biologi",
+    "question": "Persamaan antara sel hewan dan sel tumbuhan adalah...",
+    "options": {
+      "A": "Keduanya memiliki dinding sel",
+      "B": "Keduanya memiliki kloroplas",
+      "C": "Keduanya memiliki membran sel",
+      "D": "Keduanya memiliki vakuola besar",
+      "E": "Keduanya memiliki sentriol"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya memiliki membran sel, sitoplasma, ribosom, dan materi genetik. Perbedaan: tumbuhan punya dinding sel, kloroplas, vakuola besar; hewan punya sentriol."
+  },
+  {
+    "id": 12,
+    "category": "Ekonomi",
+    "question": "Persamaan antara inflasi tarikan permintaan dan inflasi desakan biaya adalah...",
+    "options": {
+      "A": "Keduanya disebabkan oleh berkurangnya jumlah uang beredar",
+      "B": "Keduanya menyebabkan kenaikan harga barang secara umum",
+      "C": "Keduanya hanya terjadi di negara berkembang",
+      "D": "Keduanya disertai dengan peningkatan produksi",
+      "E": "Keduanya tidak berpengaruh pada daya beli masyarakat"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua jenis inflasi mengakibatkan kenaikan harga barang dan jasa secara umum. Perbedaan: penyebab (permintaan vs biaya produksi) dan dampak pada output."
+  },
+  {
+    "id": 13,
+    "category": "Fisika",
+    "question": "Persamaan antara cermin cekung dan cermin cembung adalah...",
+    "options": {
+      "A": "Keduanya bersifat mengumpulkan sinar",
+      "B": "Keduanya bersifat menyebarkan sinar",
+      "C": "Keduanya dapat membentuk bayangan nyata",
+      "D": "Keduanya memantulkan cahaya berdasarkan hukum pemantulan",
+      "E": "Keduanya hanya menghasilkan bayangan maya"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: keduanya mematuhi hukum pemantulan (sudut datang = sudut pantul). Perbedaan: cekung konvergen, cembung divergen."
+  },
+  {
+    "id": 14,
+    "category": "Kimia",
+    "question": "Persamaan antara reaksi eksoterm dan reaksi endoterm adalah...",
+    "options": {
+      "A": "Keduanya menyerap kalor dari lingkungan",
+      "B": "Keduanya melepaskan kalor ke lingkungan",
+      "C": "Keduanya melibatkan perubahan entalpi",
+      "D": "Keduanya memiliki ΔH positif",
+      "E": "Keduanya tidak memerlukan energi aktivasi"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya melibatkan perubahan entalpi (ΔH). Perbedaan: eksoterm melepas kalor (ΔH negatif), endoterm menyerap kalor (ΔH positif)."
+  },
+  {
+    "id": 15,
+    "category": "Sejarah Indonesia",
+    "question": "Persamaan antara Sumpah Pemuda (1928) dan Proklamasi Kemerdekaan (1945) adalah...",
+    "options": {
+      "A": "Keduanya dihadiri oleh tokoh asing",
+      "B": "Keduanya menghasilkan negara baru",
+      "C": "Keduanya menekankan persatuan bangsa Indonesia",
+      "D": "Keduanya terjadi di Jakarta",
+      "E": "Keduanya langsung diakui Belanda"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya memperkuat semangat persatuan dan kesatuan bangsa Indonesia. Perbedaan: Sumpah Pemuka ikrar pemuda, Proklamasi deklarasi kemerdekaan."
+  },
+  {
+    "id": 16,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara simple past tense dan present perfect tense adalah...",
+    "options": {
+      "A": "Keduanya menggunakan kata kerja bentuk ketiga (V3)",
+      "B": "Keduanya menyatakan kejadian di masa lampau",
+      "C": "Keduanya menggunakan auxiliary 'have'",
+      "D": "Keduanya tidak memerlukan subject",
+      "E": "Keduanya hanya untuk kejadian yang belum selesai"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua tenses merujuk pada aksi yang terjadi di masa lalu. Perbedaan: simple past waktu spesifik selesai, present perfect masih relevan sekarang."
+  },
+  {
+    "id": 17,
+    "category": "Geografi",
+    "question": "Persamaan antara hutan hujan tropis dan hutan musim adalah...",
+    "options": {
+      "A": "Keduanya memiliki curah hujan tinggi sepanjang tahun",
+      "B": "Keduanya menggugurkan daun saat musim kemarau",
+      "C": "Keduanya merupakan bioma hutan tropika",
+      "D": "Keduanya didominasi oleh pohon konifer",
+      "E": "Keduanya berada di daerah kutub"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya termasuk bioma hutan tropika di wilayah khatulistiwa. Perbedaan: hutan hujan (curah hujan >2000 mm/th, selalu hijau), musim (ada musim kering, pohon meranggas)."
+  },
+  {
+    "id": 18,
+    "category": "PKN",
+    "question": "Persamaan antara demokrasi liberal dan demokrasi terpimpin di Indonesia adalah...",
+    "options": {
+      "A": "Keduanya memberikan kekuasaan mutlak kepada presiden",
+      "B": "Keduanya menggunakan sistem multipartai",
+      "C": "Keduanya berlangsung pada periode yang sama",
+      "D": "Keduanya menjunjung tinggi kebebasan pers tanpa batas",
+      "E": "Keduanya diterapkan setelah kemerdekaan"
+    },
+    "answer": "E",
+    "explanation": "Persamaan: keduanya adalah sistem demokrasi yang pernah diterapkan di Indonesia pasca kemerdekaan. Perbedaan: liberal (1950-1959, parlementer), terpimpin (1959-1965, presidensial otoriter)."
+  },
+  {
+    "id": 19,
+    "category": "Biologi",
+    "question": "Persamaan antara fermentasi alkohol dan fermentasi asam laktat adalah...",
+    "options": {
+      "A": "Keduanya menghasilkan CO2",
+      "B": "Keduanya menggunakan oksigen sebagai akseptor elektron",
+      "C": "Keduanya berlangsung di mitokondria",
+      "D": "Keduanya merupakan proses anaerob",
+      "E": "Keduanya menghasilkan ATP dalam jumlah besar"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: keduanya berlangsung tanpa oksigen (anaerob). Perbedaan: alkohol (ragi, hasil etanol+CO2), laktat (bakteri/otot, hasil asam laktat)."
+  },
+  {
+    "id": 20,
+    "category": "Fisika",
+    "question": "Persamaan antara listrik arus searah (DC) dan arus bolak-balik (AC) adalah...",
+    "options": {
+      "A": "Keduanya mengalir dalam satu arah",
+      "B": "Keduanya dapat disimpan dalam baterai",
+      "C": "Keduanya memerlukan transformator untuk mengubah tegangan",
+      "D": "Keduanya merupakan gerakan muatan listrik",
+      "E": "Keduanya tidak menghasilkan medan magnet"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: keduanya adalah aliran muatan listrik (elektron). Perbedaan: DC arah tetap, AC arah berubah periodik."
+  },
+  {
+    "id": 21,
+    "category": "Kimia",
+    "question": "Persamaan antara asam kuat dan basa kuat adalah...",
+    "options": {
+      "A": "Keduanya terionisasi sempurna dalam air",
+      "B": "Keduanya memiliki pH 7",
+      "C": "Keduanya bersifat korosif terhadap logam",
+      "D": "Keduanya melepaskan ion H+",
+      "E": "Keduanya tidak berbahaya bagi kulit"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: asam kuat dan basa kuat sama-sama terdisosiasi sempurna (100%) dalam larutan air. Perbedaan: asam kuat melepas H+, basa kuat melepas OH-."
+  },
+  {
+    "id": 22,
+    "category": "Sejarah Dunia",
+    "question": "Persamaan antara Revolusi Prancis (1789) dan Revolusi Amerika (1776) adalah...",
+    "options": {
+      "A": "Keduanya dipicu oleh pajak yang tinggi",
+      "B": "Keduanya menggulingkan sistem monarki absolut",
+      "C": "Keduanya dipengaruhi oleh pemikiran Pencerahan",
+      "D": "Keduanya dipimpin oleh Napoleon Bonaparte",
+      "E": "Keduanya berakhir dengan pendirian republik dalam waktu singkat"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua revolusi terinspirasi oleh ide-ide Pencerahan (Locke, Rousseau, Montesquieu) tentang hak asasi dan kedaulatan rakyat."
+  },
+  {
+    "id": 23,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara majas metafora dan majas simile adalah...",
+    "options": {
+      "A": "Keduanya menggunakan kata penghubung 'seperti' atau 'bagai'",
+      "B": "Keduanya membandingkan dua hal yang berbeda",
+      "C": "Keduanya hanya digunakan dalam puisi",
+      "D": "Keduanya menyatakan sesuatu secara harfiah",
+      "E": "Keduanya tidak mengandung makna kias"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: keduanya adalah majas perbandingan (membandingkan dua hal berbeda). Perbedaan: simile menggunakan kata pembanding (seperti, bagai), metafora tidak."
+  },
+  {
+    "id": 24,
+    "category": "IPS",
+    "question": "Persamaan antara kerja rodi pada masa kolonial dan sistem tanam paksa adalah...",
+    "options": {
+      "A": "Keduanya memberikan keuntungan bagi rakyat",
+      "B": "Keduanya bersifat sukarela",
+      "C": "Keduanya merupakan bentuk eksploitasi oleh pemerintah kolonial Belanda",
+      "D": "Keduanya hanya berlaku di Pulau Jawa",
+      "E": "Keduanya dihapuskan pada abad ke-17"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya adalah kebijakan kolonial Belanda yang mengeksploitasi rakyat Indonesia secara paksa. Perbedaan: rodi (kerja paksa tanpa bayaran), tanam paksa (wajib tanam komoditas ekspor)."
+  },
+  {
+    "id": 25,
+    "category": "Astronomi",
+    "question": "Persamaan antara bintang dan planet adalah...",
+    "options": {
+      "A": "Keduanya memancarkan cahaya sendiri",
+      "B": "Keduanya mengorbit Matahari",
+      "C": "Keduanya berbentuk bulat karena gravitasi",
+      "D": "Keduanya tersusun dari gas hidrogen",
+      "E": "Keduanya memiliki suhu permukaan yang sama"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: baik bintang maupun planet memiliki bentuk hampir bulat akibat gaya gravitasi sendiri. Perbedaan: bintang memancarkan cahaya sendiri (fusi nuklir), planet memantulkan cahaya."
+  },
+  {
+    "id": 26,
+    "category": "Biologi",
+    "question": "Persamaan antara bakteri dan virus adalah...",
+    "options": {
+      "A": "Keduanya dapat bereproduksi sendiri tanpa inang",
+      "B": "Keduanya memiliki struktur sel",
+      "C": "Keduanya dapat menyebabkan penyakit pada manusia",
+      "D": "Keduanya dapat diobati dengan antibiotik",
+      "E": "Keduanya memiliki materi genetik DNA dan RNA"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: bakteri dan virus sama-sama dapat menjadi agen penyebab penyakit (patogen). Perbedaan: bakteri seluler, virus aseluler (hanya materi genetik+protein)."
+  },
+  {
+    "id": 27,
+    "category": "Ekonomi",
+    "question": "Persamaan antara bank konvensional dan bank syariah adalah...",
+    "options": {
+      "A": "Keduanya menerapkan sistem bunga",
+      "B": "Keduanya berfungsi sebagai lembaga intermediasi keuangan",
+      "C": "Keduanya melarang investasi haram",
+      "D": "Keduanya tidak boleh menarik biaya administrasi",
+      "E": "Keduanya hanya melayani umat Islam"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua jenis bank menghimpun dana dari masyarakat dan menyalurkannya kembali dalam bentuk pembiayaan. Perbedaan: konvensional pakai bunga, syariah pakai bagi hasil."
+  },
+  {
+    "id": 28,
+    "category": "Fisika",
+    "question": "Persamaan antara energi kinetik dan energi potensial gravitasi adalah...",
+    "options": {
+      "A": "Keduanya bergantung pada massa benda",
+      "B": "Keduanya tidak dapat berubah bentuk",
+      "C": "Keduanya hanya dimiliki benda bergerak",
+      "D": "Keduanya diukur dalam satuan watt",
+      "E": "Keduanya tidak dipengaruhi ketinggian"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: kedua bentuk energi mekanik ini bergantung pada massa (EK = 1/2 mv², EP = mgh). Perbedaan: EK karena gerak, EP karena posisi/ketinggian."
+  },
+  {
+    "id": 29,
+    "category": "Kimia",
+    "question": "Persamaan antara unsur logam dan nonlogam adalah...",
+    "options": {
+      "A": "Keduanya bersifat mengkilap",
+      "B": "Keduanya dapat menghantarkan listrik",
+      "C": "Keduanya merupakan zat murni",
+      "D": "Keduanya mudah ditempa",
+      "E": "Keduanya berwujud padat pada suhu kamar"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: logam dan nonlogam sama-sama termasuk zat murni (unsur kimia). Perbedaan: logam (mengkilap, konduktor, ditempa), nonlogam (tidak mengkilap, isolator, rapuh)."
+  },
+  {
+    "id": 30,
+    "category": "Sejarah",
+    "question": "Persamaan antara Kerajaan Majapahit dan Kerajaan Sriwijaya adalah...",
+    "options": {
+      "A": "Keduanya berpusat di Jawa Timur",
+      "B": "Keduanya bercorak Buddha",
+      "C": "Keduanya menguasai jalur perdagangan maritim",
+      "D": "Keduanya berdiri pada abad yang sama",
+      "E": "Keduanya tidak memiliki pengaruh di luar Nusantara"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua kerajaan maritim besar Nusantara menguasai perdagangan laut. Perbedaan: Sriwijaya (Buddha, Palembang, abad 7-13), Majapahit (Hindu-Buddha, abad 13-16)."
+  },
+  {
+    "id": 31,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara kalimat aktif dan kalimat pasif adalah...",
+    "options": {
+      "A": "Keduanya memiliki subjek yang melakukan tindakan",
+      "B": "Keduanya memiliki objek penderita",
+      "C": "Keduanya memiliki predikat berupa kata kerja",
+      "D": "Keduanya tidak memerlukan subjek",
+      "E": "Keduanya hanya digunakan dalam tulisan ilmiah"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis kalimat memiliki predikat yang berupa kata kerja (verba). Perbedaan: aktif (subjek pelaku), pasif (subjek penderita/objek)."
+  },
+  {
+    "id": 32,
+    "category": "Geografi",
+    "question": "Persamaan antara angin muson barat dan angin muson timur di Indonesia adalah...",
+    "options": {
+      "A": "Keduanya menyebabkan musim kemarau",
+      "B": "Keduanya berasal dari dataran Australia",
+      "C": "Keduanya merupakan angin periodik yang berubah setiap setengah tahun",
+      "D": "Keduanya membawa curah hujan tinggi",
+      "E": "Keduanya tidak mempengaruhi pelayaran"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya adalah angin muson yang berganti arah setiap 6 bulan. Perbedaan: barat (Desember-Maret, dari Asia, bawa hujan), timur (Juni-September, dari Australia, musim kemarau)."
+  },
+  {
+    "id": 33,
+    "category": "PKN",
+    "question": "Persamaan antara hak dan kewajiban warga negara adalah...",
+    "options": {
+      "A": "Keduanya dapat diabaikan tanpa sanksi",
+      "B": "Keduanya diberikan kepada warga negara asing",
+      "C": "Keduanya diatur dalam undang-undang",
+      "D": "Keduanya hanya dimiliki oleh pejabat negara",
+      "E": "Keduanya tidak terkait satu sama lain"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: hak dan kewajiban warga negara sama-sama tercantum dalam UUD 1945 dan peraturan perundang-undangan. Perbedaan: hak adalah sesuatu yang diterima, kewajiban adalah sesuatu yang harus dilakukan."
+  },
+  {
+    "id": 34,
+    "category": "Biologi",
+    "question": "Persamaan antara otot polos dan otot jantung adalah...",
+    "options": {
+      "A": "Keduanya bekerja di bawah kesadaran",
+      "B": "Keduanya memiliki garis melintang (striated)",
+      "C": "Keduanya bekerja secara tidak sadar (involunter)",
+      "D": "Keduanya memiliki banyak inti sel",
+      "E": "Keduanya melekat pada rangka"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: otot polos dan otot jantung sama-sama dikendalikan oleh sistem saraf otonom (involunter). Perbedaan: jantung ada di jantung, polos di organ dalam."
+  },
+  {
+    "id": 35,
+    "category": "Fisika",
+    "question": "Persamaan antara hukum I Newton dan hukum II Newton adalah...",
+    "options": {
+      "A": "Keduanya membahas tentang gaya yang bekerja pada benda",
+      "B": "Keduanya menyatakan bahwa percepatan selalu nol",
+      "C": "Keduanya hanya berlaku di permukaan bumi",
+      "D": "Keduanya tidak melibatkan massa benda",
+      "E": "Keduanya ditemukan oleh ilmuwan berbeda"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: kedua hukum Newton membahas hubungan antara gaya dan gerak benda. Perbedaan: Hukum I (kelembaman, ΣF=0), Hukum II (ΣF = m.a)."
+  },
+  {
+    "id": 36,
+    "category": "Kimia",
+    "question": "Persamaan antara larutan elektrolit dan nonelektrolit adalah...",
+    "options": {
+      "A": "Keduanya dapat menghantarkan listrik",
+      "B": "Keduanya menghasilkan gelembung gas saat dilarutkan",
+      "C": "Keduanya merupakan campuran homogen",
+      "D": "Keduanya terionisasi sempurna dalam air",
+      "E": "Keduanya hanya berupa cairan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya membentuk larutan (campuran homogen). Perbedaan: elektrolit terionisasi (konduktor), nonelektrolit tidak terionisasi (non-konduktor)."
+  },
+  {
+    "id": 37,
+    "category": "Sejarah",
+    "question": "Persamaan antara VOC dan Kongsi Dagang Hindia Timur Inggris (EIC) adalah...",
+    "options": {
+      "A": "Keduanya didirikan oleh Belanda",
+      "B": "Keduanya hanya berdagang rempah-rempah",
+      "C": "Keduanya memiliki hak istimewa seperti mencetak uang dan memiliki tentara",
+      "D": "Keduanya bubar pada abad ke-18",
+      "E": "Keduanya tidak pernah melakukan monopoli"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: VOC dan EIC sama-sama memiliki hak oktroi (hak istimewa) seperti mencetak uang, memiliki angkatan perang, dan mengadakan perjanjian."
+  },
+  {
+    "id": 38,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara 'will' dan 'going to' dalam expressing future adalah...",
+    "options": {
+      "A": "Keduanya digunakan untuk rencana yang sudah pasti",
+      "B": "Keduanya diikuti oleh kata kerja bentuk -ing",
+      "C": "Keduanya menyatakan aksi yang akan terjadi di masa depan",
+      "D": "Keduanya hanya untuk prediksi berdasarkan bukti",
+      "E": "Keduanya tidak dapat digunakan dalam kalimat negatif"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: will dan going to sama-sama digunakan untuk menyatakan masa depan. Perbedaan: going to (rencana sudah matang/ada bukti), will (keputusan spontan, prediksi umum)."
+  },
+  {
+    "id": 39,
+    "category": "IPS",
+    "question": "Persamaan antara koperasi simpan pinjam dan bank adalah...",
+    "options": {
+      "A": "Keduanya berbadan hukum koperasi",
+      "B": "Keduanya memberikan bunga kepada nasabah",
+      "C": "Keduanya menghimpun dana dari anggota/masyarakat",
+      "D": "Keduanya tidak boleh memberikan pinjaman",
+      "E": "Keduanya hanya melayani karyawan swasta"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya berfungsi menghimpun dana (simpanan) dan menyalurkan dana (pinjaman). Perbedaan: bank (berbadan hukum PT, bunga, untuk umum), koperasi (anggota, bagi hasil)."
+  },
+  {
+    "id": 40,
+    "category": "Astronomi",
+    "question": "Persamaan antara gerhana matahari dan gerhana bulan adalah...",
+    "options": {
+      "A": "Keduanya terjadi saat posisi Matahari, Bumi, Bulan segaris",
+      "B": "Keduanya dapat dilihat dari seluruh permukaan Bumi",
+      "C": "Keduanya terjadi setiap bulan",
+      "D": "Keduanya menyebabkan Bulan berwarna merah",
+      "E": "Keduanya berlangsung seharian penuh"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: kedua gerhana terjadi karena konfigurasi segaris (sizigi) Matahari-Bumi-Bulan. Perbedaan: gerhana matahari (Bulan di tengah, siang hari), gerhana bulan (Bumi di tengah, malam)."
+  },
+  {
+    "id": 41,
+    "category": "Biologi",
+    "question": "Persamaan antara respirasi aerob dan anaerob adalah...",
+    "options": {
+      "A": "Keduanya membutuhkan oksigen",
+      "B": "Keduanya menghasilkan ATP",
+      "C": "Keduanya berlangsung di mitokondria",
+      "D": "Keduanya menghasilkan air",
+      "E": "Keduanya menghasilkan 36 ATP"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua proses respirasi menghasilkan energi dalam bentuk ATP. Perbedaan: aerob (butuh O2, 36 ATP, air+CO2), anaerob (tanpa O2, 2 ATP, laktat/etanol)."
+  },
+  {
+    "id": 42,
+    "category": "Fisika",
+    "question": "Persamaan antara bunyi dan cahaya adalah...",
+    "options": {
+      "A": "Keduanya dapat merambat dalam ruang hampa",
+      "B": "Keduanya memiliki kecepatan rambat 3×10^8 m/s",
+      "C": "Keduanya merupakan gelombang transversal",
+      "D": "Keduanya dapat mengalami pemantulan dan pembiasan",
+      "E": "Keduanya tidak dapat didengar atau dilihat"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: bunyi dan cahaya sama-sama dapat dipantulkan (refleksi) dan dibiaskan (refraksi). Perbedaan: bunyi gelombang longitudinal (perlu medium), cahaya transversal (bisa di ruang hampa)."
+  },
+  {
+    "id": 43,
+    "category": "Kimia",
+    "question": "Persamaan antara senyawa organik dan anorganik adalah...",
+    "options": {
+      "A": "Keduanya selalu mengandung karbon",
+      "B": "Keduanya dapat berupa padat, cair, atau gas",
+      "C": "Keduanya hanya berasal dari makhluk hidup",
+      "D": "Keduanya mudah terbakar",
+      "E": "Keduanya tidak larut dalam air"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: senyawa organik dan anorganik dapat berwujud padat, cair, atau gas pada suhu kamar. Perbedaan: organik mengandung C dan H (umumnya), anorganik tidak selalu."
+  },
+  {
+    "id": 44,
+    "category": "Sejarah Indonesia",
+    "question": "Persamaan antara Perang Diponegoro (1825-1830) dan Perang Padri (1821-1837) adalah...",
+    "options": {
+      "A": "Keduanya dipimpin oleh seorang ulama",
+      "B": "Keduanya terjadi di Pulau Jawa",
+      "C": "Keduanya melawan kolonial Belanda",
+      "D": "Keduanya berakhir dengan kemenangan rakyat",
+      "E": "Keduanya menggunakan taktik perang gerilya modern"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua perang ini adalah perlawanan rakyat Indonesia terhadap pemerintahan kolonial Belanda. Perbedaan: lokasi (Jawa vs Sumatera Barat) dan tokoh (Pangeran Diponegoro vs Imam Bonjol)."
+  },
+  {
+    "id": 45,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara teks prosedur dan teks eksplanasi adalah...",
+    "options": {
+      "A": "Keduanya menjelaskan langkah-langkah melakukan sesuatu",
+      "B": "Keduanya berisi fakta dan informasi ilmiah",
+      "C": "Keduanya menggunakan konjungsi temporal",
+      "D": "Keduanya bertujuan menghibur pembaca",
+      "E": "Keduanya tidak memiliki struktur yang baku"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua teks menggunakan konjungsi temporal (pertama, kemudian, selanjutnya, akhirnya). Perbedaan: prosedur (langkah melakukan), eksplanasi (sebab-akibat fenomena)."
+  },
+  {
+    "id": 46,
+    "category": "Geografi",
+    "question": "Persamaan antara danau tektonik dan danau vulkanik adalah...",
+    "options": {
+      "A": "Keduanya terbentuk akibat pergerakan lempeng bumi",
+      "B": "Keduanya berada di kawah gunung berapi",
+      "C": "Keduanya merupakan danau alam",
+      "D": "Keduanya memiliki air yang panas",
+      "E": "Keduanya selalu berukuran kecil"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya termasuk danau yang terbentuk secara alami (bukan buatan manusia). Perbedaan: tektonik (gerakan patahan), vulkanik (letusan gunung/kaldera)."
+  },
+  {
+    "id": 47,
+    "category": "PKN",
+    "question": "Persamaan antara Pancasila sebagai pandangan hidup dan sebagai dasar negara adalah...",
+    "options": {
+      "A": "Keduanya hanya berlaku bagi umat beragama",
+      "B": "Keduanya merupakan pedoman dalam kehidupan bermasyarakat, berbangsa, dan bernegara",
+      "C": "Keduanya dapat diganti kapan saja",
+      "D": "Keduanya tidak mengikat secara hukum",
+      "E": "Keduanya berasal dari ideologi asing"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: baik sebagai pandangan hidup maupun dasar negara, Pancasila menjadi pedoman dan sumber nilai bagi seluruh rakyat Indonesia."
+  },
+  {
+    "id": 48,
+    "category": "Biologi",
+    "question": "Persamaan antara reproduksi vegetatif alami dan buatan pada tumbuhan adalah...",
+    "options": {
+      "A": "Keduanya melibatkan pertemuan sel kelamin jantan dan betina",
+      "B": "Keduanya menghasilkan keturunan yang identik dengan induk",
+      "C": "Keduanya memerlukan bantuan manusia",
+      "D": "Keduanya menghasilkan variasi genetik baru",
+      "E": "Keduanya hanya terjadi pada tumbuhan berbiji"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua jenis reproduksi vegetatif menghasilkan individu baru yang secara genetik identik dengan induknya (klon)."
+  },
+  {
+    "id": 49,
+    "category": "Fisika",
+    "question": "Persamaan antara trafo step-up dan trafo step-down adalah...",
+    "options": {
+      "A": "Keduanya menaikkan tegangan listrik",
+      "B": "Keduanya menurunkan tegangan listrik",
+      "C": "Keduanya bekerja berdasarkan prinsip induksi elektromagnetik",
+      "D": "Keduanya memiliki jumlah lilitan primer lebih banyak dari sekunder",
+      "E": "Keduanya mengubah arus searah menjadi bolak-balik"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: keduanya menggunakan prinsip induksi elektromagnetik Faraday (perubahan fluks magnet). Perbedaan: step-up (N_s > N_p, menaikkan V), step-down (N_s < N_p, menurunkan V)."
+  },
+  {
+    "id": 50,
+    "category": "Kimia",
+    "question": "Persamaan antara unsur golongan alkali dan alkali tanah adalah...",
+    "options": {
+      "A": "Keduanya sangat reaktif terhadap air",
+      "B": "Keduanya memiliki elektron valensi 2",
+      "C": "Keduanya berwujud gas pada suhu kamar",
+      "D": "Keduanya tidak ditemukan di alam dalam bentuk bebas",
+      "E": "Keduanya bersifat nonlogam"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: alkali (golongan 1) dan alkali tanah (golongan 2) tidak ditemukan dalam keadaan bebas di alam karena sangat reaktif. Perbedaan: alkali valensi 1, alkali tanah valensi 2."
+  },
+  {
+    "id": 51,
+    "category": "Sejarah",
+    "question": "Persamaan antara Perang Salib dan Perang Reconquista adalah...",
+    "options": {
+      "A": "Keduanya dilatarbelakangi oleh motif ekonomi",
+      "B": "Keduanya merupakan perang antara Kristen dan Muslim",
+      "C": "Keduanya terjadi di Asia Tenggara",
+      "D": "Keduanya dimenangkan oleh umat Islam",
+      "E": "Keduanya tidak melibatkan Paus"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua perang ini merupakan konflik antara umat Kristen dan umat Islam. Perbedaan: Perang Salib (arah Timur Tengah), Reconquista (arah Spanyol)."
+  },
+  {
+    "id": 52,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara 'some' dan 'any' dalam bahasa Inggris adalah...",
+    "options": {
+      "A": "Keduanya hanya digunakan untuk benda yang dapat dihitung",
+      "B": "Keduanya digunakan dalam kalimat negatif",
+      "C": "Keduanya digunakan untuk menyatakan jumlah yang tidak spesifik",
+      "D": "Keduanya selalu diikuti oleh kata benda tunggal",
+      "E": "Keduanya bermakna 'nol'"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: 'some' dan 'any' sama-sama digunakan untuk jumlah atau kuantitas yang tidak pasti/tidak spesifik. Perbedaan: some (kalimat positif/permintaan), any (negatif/pertanyaan)."
+  },
+  {
+    "id": 53,
+    "category": "IPS",
+    "question": "Persamaan antara globalisasi dan modernisasi adalah...",
+    "options": {
+      "A": "Keduanya hanya terjadi di negara maju",
+      "B": "Keduanya menyebabkan penurunan teknologi",
+      "C": "Keduanya mendorong perubahan sosial budaya",
+      "D": "Keduanya menghambat interaksi antarnegara",
+      "E": "Keduanya tidak mempengaruhi pola pikir masyarakat"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: globalisasi dan modernisasi sama-sama memicu perubahan di bidang sosial, budaya, ekonomi, dan teknologi. Perbedaan: globalisasi (cakupan dunia), modernisasi (pergeseran tradisional ke modern)."
+  },
+  {
+    "id": 54,
+    "category": "Astronomi",
+    "question": "Persamaan antara komet dan asteroid adalah...",
+    "options": {
+      "A": "Keduanya mengorbit Matahari",
+      "B": "Keduanya memiliki ekor saat mendekat Matahari",
+      "C": "Keduanya tersusun dari es dan debu",
+      "D": "Keduanya hanya ditemukan di sabuk asteroid",
+      "E": "Keduanya berukuran lebih besar dari planet"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: komet dan asteroid sama-sama merupakan benda langit yang mengorbit Matahari. Perbedaan: komet (es, debu, punya koma/ekor), asteroid (batuan/logam, tidak berekor)."
+  },
+  {
+    "id": 55,
+    "category": "Biologi",
+    "question": "Persamaan antara DNA dan RNA adalah...",
+    "options": {
+      "A": "Keduanya memiliki gula deoksiribosa",
+      "B": "Keduanya memiliki basa nitrogen timin",
+      "C": "Keduanya berupa rantai ganda (double helix)",
+      "D": "Keduanya tersusun dari nukleotida",
+      "E": "Keduanya hanya ditemukan di inti sel"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: DNA dan RNA sama-sama merupakan asam nukleat yang tersusun dari monomer nukleotida (fosfat+gula+basa N). Perbedaan: gula, basa, dan struktur berbeda."
+  },
+  {
+    "id": 56,
+    "category": "Fisika",
+    "question": "Persamaan antara lensa cembung dan lensa cekung adalah...",
+    "options": {
+      "A": "Keduanya bersifat mengumpulkan sinar",
+      "B": "Keduanya bersifat menyebarkan sinar",
+      "C": "Keduanya dapat membentuk bayangan nyata",
+      "D": "Keduanya membiaskan cahaya berdasarkan hukum Snellius",
+      "E": "Keduanya memiliki titik fokus di depan lensa"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: kedua jenis lensa membiaskan cahaya (refraksi) sesuai hukum Snellius. Perbedaan: cembung konvergen (mengumpulkan sinar), cekung divergen (menyebarkan)."
+  },
+  {
+    "id": 57,
+    "category": "Kimia",
+    "question": "Persamaan antara reaksi redoks dan reaksi non-redoks adalah...",
+    "options": {
+      "A": "Keduanya melibatkan perubahan bilangan oksidasi",
+      "B": "Keduanya melibatkan perpindahan elektron",
+      "C": "Keduanya menghasilkan perubahan energi",
+      "D": "Keduanya tidak pernah menghasilkan endapan",
+      "E": "Keduanya hanya terjadi pada logam"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis reaksi kimia melibatkan perubahan energi (eksoterm/endoterm). Perbedaan: redoks (ada perubahan biloks/pindah elektron), non-redoks (tidak)."
+  },
+  {
+    "id": 58,
+    "category": "Sejarah Indonesia",
+    "question": "Persamaan antara Organisasi Budi Utomo (1908) dan Sarekat Islam (1911) adalah...",
+    "options": {
+      "A": "Keduanya bersifat politik praktis",
+      "B": "Keduanya didirikan oleh pelajar STOVIA",
+      "C": "Keduanya menggunakan pendekatan agama",
+      "D": "Keduanya merupakan organisasi pergerakan nasional",
+      "E": "Keduanya hanya beranggotakan pria"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: Budi Utomo dan Sarekat Islam adalah organisasi awal yang menandai kebangkitan nasional Indonesia. Perbedaan: latar belakang (pendidikan vs ekonomi/agama)."
+  },
+  {
+    "id": 59,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara paragraf deduktif dan induktif adalah...",
+    "options": {
+      "A": "Keduanya memiliki gagasan utama di awal paragraf",
+      "B": "Keduanya memiliki gagasan utama di akhir paragraf",
+      "C": "Keduanya memiliki gagasan utama dan gagasan penjelas",
+      "D": "Keduanya tidak memiliki kalimat topik",
+      "E": "Keduanya hanya berisi opini penulis"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis paragraf memiliki struktur yang terdiri dari gagasan utama (ide pokok) dan gagasan penjelas (detail)."
+  },
+  {
+    "id": 60,
+    "category": "Geografi",
+    "question": "Persamaan antara peta umum dan peta tematik adalah...",
+    "options": {
+      "A": "Keduanya hanya menampilkan kenampakan alam",
+      "B": "Keduanya menggunakan skala yang sama",
+      "C": "Keduanya merupakan gambaran permukaan bumi pada bidang datar",
+      "D": "Keduanya tidak memiliki legenda",
+      "E": "Keduanya hanya dibuat secara digital"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: peta umum dan peta tematik sama-sama merupakan representasi (gambaran) permukaan bumi yang diperkecil pada bidang datar."
+  },
+  {
+    "id": 61,
+    "category": "PKN",
+    "question": "Persamaan antara UUD 1945 sebelum dan setelah amandemen adalah...",
+    "options": {
+      "A": "Keduanya memiliki 37 pasal",
+      "B": "Keduanya tidak mencantumkan hak asasi manusia",
+      "C": "Keduanya tetap mempertahankan Pancasila sebagai dasar negara",
+      "D": "Keduanya memberikan kekuasaan tak terbatas kepada presiden",
+      "E": "Keduanya tidak mengatur tentang MPR"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: baik sebelum maupun setelah amandemen, Pancasila tetap menjadi dasar dan ideologi negara Indonesia. Perubahan terjadi pada struktur kekuasaan dan HAM."
+  },
+  {
+    "id": 62,
+    "category": "Biologi",
+    "question": "Persamaan antara enzim dan hormon adalah...",
+    "options": {
+      "A": "Keduanya berupa protein",
+      "B": "Keduanya bekerja dalam jumlah sedikit",
+      "C": "Keduanya mengatur proses metabolisme",
+      "D": "Keduanya dihasilkan oleh kelenjar endokrin",
+      "E": "Keduanya tidak dipengaruhi suhu"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: enzim dan hormon sama-sama efektif dalam konsentrasi rendah (sedikit saja sudah berpengaruh). Perbedaan: enzim (biokatalis, mempercepat reaksi), hormon (pembawa pesan kimia)."
+  },
+  {
+    "id": 63,
+    "category": "Fisika",
+    "question": "Persamaan antara muatan listrik positif dan negatif adalah...",
+    "options": {
+      "A": "Keduanya menghasilkan medan listrik",
+      "B": "Keduanya tarik-menarik",
+      "C": "Keduanya tolak-menolak",
+      "D": "Keduanya hanya ada pada proton",
+      "E": "Keduanya tidak dapat dipindahkan"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: muatan positif dan negatif sama-sama menimbulkan medan listrik di sekitarnya. Perbedaan: positif (+), negatif (-), dan interaksinya: berbeda jenis tarik-menarik, sama jenis tolak-menolak."
+  },
+  {
+    "id": 64,
+    "category": "Kimia",
+    "question": "Persamaan antara larutan jenuh dan larutan lewat jenuh adalah...",
+    "options": {
+      "A": "Keduanya mengandung zat terlarut maksimal",
+      "B": "Keduanya tidak dapat melarutkan zat lebih banyak",
+      "C": "Keduanya merupakan larutan tidak stabil",
+      "D": "Keduanya dipengaruhi suhu",
+      "E": "Keduanya selalu berupa cairan bening"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: kelarutan larutan jenuh dan lewat jenuh dipengaruhi oleh suhu. Perbedaan: jenuh (maksimal stabil), lewat jenuh (melebihi batas, tidak stabil)."
+  },
+  {
+    "id": 65,
+    "category": "Sejarah",
+    "question": "Persamaan antara Perang Dingin dan Perang Teluk adalah...",
+    "options": {
+      "A": "Keduanya melibatkan Amerika Serikat dan Uni Soviet",
+      "B": "Keduanya merupakan perang ideologi",
+      "C": "Keduanya mempengaruhi kestabilan minyak dunia",
+      "D": "Keduanya terjadi di kawasan Timur Tengah",
+      "E": "Keduanya tidak menggunakan senjata"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua perang ini berdampak pada stabilitas pasokan minyak dunia. Perbedaan: Perang Dingin ideologi AS vs USSR (1947-1991), Perang Teluk invasi Irak ke Kuwait (1990-1991)."
+  },
+  {
+    "id": 66,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara 'much' dan 'many' adalah...",
+    "options": {
+      "A": "Keduanya digunakan untuk benda yang tidak dapat dihitung",
+      "B": "Keduanya digunakan untuk benda yang dapat dihitung",
+      "C": "Keduanya menyatakan jumlah yang banyak",
+      "D": "Keduanya hanya digunakan dalam kalimat positif",
+      "E": "Keduanya diikuti kata kerja tunggal"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: 'much' dan 'many' sama-sama berarti 'banyak'. Perbedaan: much (uncountable noun), many (countable noun)."
+  },
+  {
+    "id": 67,
+    "category": "IPS",
+    "question": "Persamaan antara stratifikasi sosial tertutup dan terbuka adalah...",
+    "options": {
+      "A": "Keduanya memungkinkan mobilitas vertikal",
+      "B": "Keduanya didasarkan pada faktor keturunan",
+      "C": "Keduanya mengelompokkan masyarakat ke dalam lapisan-lapisan",
+      "D": "Keduanya tidak dapat berubah",
+      "E": "Keduanya hanya ada di masyarakat tradisional"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua sistem stratifikasi membagi masyarakat ke dalam lapisan atau tingkatan. Perbedaan: tertutup (mobilitas sulit, berdasarkan kelahiran), terbuka (mobilitas mungkin, berdasarkan prestasi)."
+  },
+  {
+    "id": 68,
+    "category": "Astronomi",
+    "question": "Persamaan antara galaksi spiral dan galaksi elips adalah...",
+    "options": {
+      "A": "Keduanya memiliki lengan spiral",
+      "B": "Keduanya memiliki bentuk bulat sempurna",
+      "C": "Keduanya terdiri dari bintang, gas, dan debu",
+      "D": "Keduanya tidak memiliki pusat galaksi",
+      "E": "Keduanya hanya berisi bintang tua"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis galaksi tersusun dari bintang, medium antarbintang (gas dan debu), serta materi gelap. Perbedaan: bentuk dan komposisi bintang."
+  },
+  {
+    "id": 69,
+    "category": "Biologi",
+    "question": "Persamaan antara inbreeding dan outbreeding adalah...",
+    "options": {
+      "A": "Keduanya meningkatkan homozigositas",
+      "B": "Keduanya menurunkan heterozigositas",
+      "C": "Keduanya merupakan perkawinan antar individu dalam spesies yang sama",
+      "D": "Keduanya menghasilkan keturunan steril",
+      "E": "Keduanya hanya terjadi pada tumbuhan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: inbreeding dan outbreeding sama-sama merupakan perkawinan dalam satu spesies. Perbedaan: inbreeding (kerabat dekat), outbreeding (tidak ada hubungan kekerabatan)."
+  },
+  {
+    "id": 70,
+    "category": "Fisika",
+    "question": "Persamaan antara suhu dan kalor adalah...",
+    "options": {
+      "A": "Keduanya merupakan bentuk energi",
+      "B": "Keduanya diukur dengan termometer",
+      "C": "Keduanya dapat berpindah dari benda panas ke dingin",
+      "D": "Keduanya berkaitan dengan energi kinetik partikel",
+      "E": "Keduanya memiliki satuan yang sama"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: suhu dan kalor sama-sama terkait dengan gerakan partikel (energi kinetik). Perbedaan: suhu (ukuran rata-rata EK, satuan Kelvin/Celcius), kalor (energi yang berpindah, satuan Joule)."
+  },
+  {
+    "id": 71,
+    "category": "Kimia",
+    "question": "Persamaan antara orde reaksi nol dan orde reaksi satu adalah...",
+    "options": {
+      "A": "Keduanya memiliki laju reaksi yang bergantung pada konsentrasi reaktan",
+      "B": "Keduanya memiliki satuan laju reaksi yang sama",
+      "C": "Keduanya memiliki waktu paruh yang konstan",
+      "D": "Keduanya menggambarkan hubungan laju reaksi dengan konsentrasi",
+      "E": "Keduanya tidak dipengaruhi suhu"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: kedua orde reaksi menggambarkan bagaimana laju reaksi bergantung pada konsentrasi reaktan. Perbedaan: orde 0 (laju tetap), orde 1 (laju sebanding [reaktan])."
+  },
+  {
+    "id": 72,
+    "category": "Sejarah",
+    "question": "Persamaan antara Kerajaan Mataram Kuno dan Kerajaan Kediri adalah...",
+    "options": {
+      "A": "Keduanya berpusat di Jawa Timur",
+      "B": "Keduanya bercorak Hindu-Buddha",
+      "C": "Keduanya merupakan kerajaan maritim",
+      "D": "Keduanya berdiri pada abad ke-14",
+      "E": "Keduanya tidak meninggalkan prasasti"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua kerajaan di Jawa ini bercorak Hindu dan Buddha. Perbedaan: Mataram Kuno (Jawa Tengah, abad 8-10), Kediri (Jawa Timur, abad 11-13)."
+  },
+  {
+    "id": 73,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara imbuhan prefiks dan sufiks adalah...",
+    "options": {
+      "A": "Keduanya ditambahkan di tengah kata dasar",
+      "B": "Keduanya ditambahkan di akhir kata dasar",
+      "C": "Keduanya mengubah arti kata dasar",
+      "D": "Keduanya tidak mengubah kelas kata",
+      "E": "Keduanya hanya digunakan dalam ragam informal"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: prefiks (awalan) dan sufiks (akhiran) sama-sama mengubah makna kata dasar. Perbedaan: posisi penambahan (awal vs akhir)."
+  },
+  {
+    "id": 74,
+    "category": "Geografi",
+    "question": "Persamaan antara erosi angin dan erosi air adalah...",
+    "options": {
+      "A": "Keduanya hanya terjadi di daerah gurun",
+      "B": "Keduanya menyebabkan pengikisan permukaan bumi",
+      "C": "Keduanya membutuhkan vegetasi lebat",
+      "D": "Keduanya tidak dipengaruhi oleh gravitasi",
+      "E": "Keduanya menghasilkan bukit antiklinal"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: erosi angin dan erosi air sama-sama merupakan proses pengikisan (denudasi) permukaan bumi oleh agen alam. Perbedaan: agen (angin vs air)."
+  },
+  {
+    "id": 75,
+    "category": "PKN",
+    "question": "Persamaan antara lembaga eksekutif dan legislatif di Indonesia adalah...",
+    "options": {
+      "A": "Keduanya berwenang membuat undang-undang",
+      "B": "Keduanya dipimpin oleh presiden",
+      "C": "Keduanya bertanggung jawab kepada rakyat",
+      "D": "Keduanya tidak dapat dihentikan masa jabatannya",
+      "E": "Keduanya hanya beranggotakan partai penguasa"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: eksekutif (presiden, menteri) dan legislatif (DPR, DPD) sama-sama bertanggung jawab kepada rakyat melalui mekanisme demokrasi."
+  },
+  {
+    "id": 76,
+    "category": "Biologi",
+    "question": "Persamaan antara autotrof dan heterotrof adalah...",
+    "options": {
+      "A": "Keduanya dapat membuat makanan sendiri",
+      "B": "Keduanya membutuhkan senyawa organik dari luar",
+      "C": "Keduanya melakukan respirasi seluler",
+      "D": "Keduanya hanya hidup di darat",
+      "E": "Keduanya tidak memerlukan energi"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: autotrof dan heterotrof sama-sama melakukan respirasi seluler untuk menghasilkan ATP. Perbedaan: autotrof (bikin makanan sendiri dari anorganik), heterotrof (dari organik)."
+  },
+  {
+    "id": 77,
+    "category": "Fisika",
+    "question": "Persamaan antara gerak lurus beraturan (GLB) dan gerak lurus berubah beraturan (GLBB) adalah...",
+    "options": {
+      "A": "Keduanya memiliki percepatan tetap",
+      "B": "Keduanya memiliki kecepatan tetap",
+      "C": "Keduanya menempuh lintasan lurus",
+      "D": "Keduanya dipengaruhi gravitasi",
+      "E": "Keduanya memiliki percepatan nol"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: GLB dan GLBB sama-sama merupakan gerak pada lintasan lurus (linear). Perbedaan: GLB percepatan nol, GLBB percepatan konstan tidak nol."
+  },
+  {
+    "id": 78,
+    "category": "Kimia",
+    "question": "Persamaan antara unsur periode 2 dan periode 3 dalam tabel periodik adalah...",
+    "options": {
+      "A": "Keduanya memiliki jumlah kulit elektron yang sama",
+      "B": "Keduanya memiliki konfigurasi elektron valensi yang sama per golongan",
+      "C": "Keduanya hanya terdiri dari logam",
+      "D": "Keduanya bersifat radioaktif",
+      "E": "Keduanya tidak reaktif"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: unsur dalam periode berbeda tetapi golongan sama memiliki konfigurasi elektron valensi yang identik. Perbedaan: jumlah kulit (periode 2 punya 2 kulit, periode 3 punya 3 kulit)."
+  },
+  {
+    "id": 79,
+    "category": "Sejarah Indonesia",
+    "question": "Persamaan antara peristiwa Rengasdengklok dan proklamasi kemerdekaan adalah...",
+    "options": {
+      "A": "Keduanya terjadi pada tanggal 17 Agustus 1945",
+      "B": "Keduanya melibatkan tokoh Soekarno-Hatta",
+      "C": "Keduanya adalah peristiwa yang sama",
+      "D": "Keduanya terjadi di Jakarta",
+      "E": "Keduanya diprakarsai oleh Jepang"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua peristiwa melibatkan Soekarno dan Mohammad Hatta. Perbedaan: Rengasdengklok (16 Agustus, penculikan untuk memproklamasikan kemerdekaan tanpa Jepang)."
+  },
+  {
+    "id": 80,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara 'in', 'on', dan 'at' sebagai preposisi waktu adalah...",
+    "options": {
+      "A": "Keduanya digunakan untuk hari dan tanggal",
+      "B": "Keduanya digunakan untuk bulan dan tahun",
+      "C": "Keduanya digunakan untuk waktu yang spesifik",
+      "D": "Keduanya menunjukkan hubungan waktu antara kata benda dengan kata lain",
+      "E": "Keduanya selalu diikuti kata kerja"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: in, on, at sebagai preposisi waktu menunjukkan relasi temporal. Perbedaan: in (bulan/tahun/abad), on (hari/tanggal), at (jam/waktu spesifik)."
+  },
+  {
+    "id": 81,
+    "category": "IPS",
+    "question": "Persamaan antara ekonomi maritim dan ekonomi kelautan adalah...",
+    "options": {
+      "A": "Keduanya hanya berfokus pada perikanan",
+      "B": "Keduanya memanfaatkan sumber daya laut",
+      "C": "Keduanya tidak terkait transportasi laut",
+      "D": "Keduanya hanya berlaku di danau",
+      "E": "Keduanya tidak berdampak pada ekonomi nasional"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: keduanya mengoptimalkan potensi laut untuk kesejahteraan. Perbedaan: maritim (transportasi, logistik, pelabuhan), kelautan (sumber daya hayati/nonhayati)."
+  },
+  {
+    "id": 82,
+    "category": "Astronomi",
+    "question": "Persamaan antara matahari dan bintang lainnya adalah...",
+    "options": {
+      "A": "Keduanya berukuran sama",
+      "B": "Keduanya menghasilkan energi melalui fusi nuklir",
+      "C": "Keduanya mengorbit Bumi",
+      "D": "Keduanya tidak memancarkan cahaya",
+      "E": "Keduanya berwarna hijau"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: Matahari adalah bintang, sehingga sama seperti bintang lain yang menghasilkan energi dari reaksi fusi nuklir hidrogen menjadi helium."
+  },
+  {
+    "id": 83,
+    "category": "Biologi",
+    "question": "Persamaan antara adaptasi morfologi dan fisiologi adalah...",
+    "options": {
+      "A": "Keduanya berkaitan dengan bentuk tubuh",
+      "B": "Keduanya berkaitan dengan fungsi organ",
+      "C": "Keduanya membantu makhluk hidup bertahan hidup",
+      "D": "Keduanya hanya terjadi pada hewan",
+      "E": "Keduanya bersifat permanen tidak berubah"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis adaptasi bertujuan untuk kelangsungan hidup organisme. Perbedaan: morfologi (struktur tubuh), fisiologi (fungsi tubuh)."
+  },
+  {
+    "id": 84,
+    "category": "Fisika",
+    "question": "Persamaan antara tekanan hidrostatis dan tekanan atmosfer adalah...",
+    "options": {
+      "A": "Keduanya hanya bekerja di dalam air",
+      "B": "Keduanya disebabkan oleh berat zat",
+      "C": "Keduanya tidak dipengaruhi kedalaman",
+      "D": "Keduanya diukur dengan barometer",
+      "E": "Keduanya memiliki nilai yang sama di semua tempat"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: tekanan hidrostatis (berat zat cair) dan tekanan atmosfer (berat lapisan udara) sama-sama disebabkan oleh berat fluida di atasnya."
+  },
+  {
+    "id": 85,
+    "category": "Kimia",
+    "question": "Persamaan antara reaksi oksidasi dan reduksi adalah...",
+    "options": {
+      "A": "Keduanya melibatkan pelepasan oksigen",
+      "B": "Keduanya melibatkan pengikatan oksigen",
+      "C": "Keduanya melibatkan perubahan bilangan oksidasi",
+      "D": "Keduanya melepaskan elektron",
+      "E": "Keduanya mengikat elektron"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: oksidasi dan reduksi sama-sama melibatkan perubahan bilangan oksidasi. Perbedaan: oksidasi (biloks naik, lepas elektron), reduksi (biloks turun, terima elektron)."
+  },
+  {
+    "id": 86,
+    "category": "Sejarah Dunia",
+    "question": "Persamaan antara Revolusi Industri Inggris dan Revolusi Industri 4.0 adalah...",
+    "options": {
+      "A": "Keduanya menggunakan mesin uap",
+      "B": "Keduanya mengubah cara produksi dan kehidupan manusia",
+      "C": "Keduanya didorong oleh kecerdasan buatan",
+      "D": "Keduanya hanya terjadi di Eropa",
+      "E": "Keduanya tidak berdampak pada ketenagakerjaan"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua revolusi industri mengubah secara fundamental cara produksi, distribusi, dan gaya hidup manusia."
+  },
+  {
+    "id": 87,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara kalimat tunggal dan kalimat majemuk adalah...",
+    "options": {
+      "A": "Keduanya hanya memiliki satu klausa",
+      "B": "Keduanya memiliki lebih dari satu klausa",
+      "C": "Keduanya memiliki unsur subjek dan predikat",
+      "D": "Keduanya tidak memiliki objek",
+      "E": "Keduanya tidak memiliki keterangan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: setiap kalimat (tunggal/majemuk) minimal terdiri dari subjek dan predikat. Perbedaan: tunggal (1 klausa), majemuk (≥2 klausa)."
+  },
+  {
+    "id": 88,
+    "category": "Geografi",
+    "question": "Persamaan antara sabana dan stepa adalah...",
+    "options": {
+      "A": "Keduanya merupakan padang rumput dengan pohon jarang",
+      "B": "Keduanya terletak di daerah kutub",
+      "C": "Keduanya memiliki curah hujan sangat tinggi",
+      "D": "Keduanya didominasi hutan lebat",
+      "E": "Keduanya tidak memiliki musim kemarau"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: sabana dan stepa adalah bioma padang rumput dengan pepohonan yang jarang. Perbedaan: sabana (tropis, curah hujan lebih tinggi), stepa (sedang, musim dingin)."
+  },
+  {
+    "id": 89,
+    "category": "PKN",
+    "question": "Persamaan antara demokrasi langsung dan demokrasi perwakilan adalah...",
+    "options": {
+      "A": "Keduanya melibatkan rakyat dalam pengambilan keputusan",
+      "B": "Keduanya tidak memerlukan pemilihan umum",
+      "C": "Keduanya hanya cocok untuk negara kecil",
+      "D": "Keduanya memberikan kekuasaan mutlak kepada presiden",
+      "E": "Keduanya tidak mengakui hak asasi"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: kedua sistem demokrasi memberikan kedaulatan kepada rakyat. Perbedaan: langsung (rakyat memutuskan langsung), perwakilan (melalui wakil)."
+  },
+  {
+    "id": 90,
+    "category": "Biologi",
+    "question": "Persamaan antara simbiosis mutualisme dan komensalisme adalah...",
+    "options": {
+      "A": "Keduanya merugikan salah satu pihak",
+      "B": "Keduanya menguntungkan kedua pihak",
+      "C": "Keduanya merupakan interaksi antar makhluk hidup",
+      "D": "Keduanya tidak berdampak pada pihak lain",
+      "E": "Keduanya hanya terjadi pada tumbuhan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: mutualisme dan komensalisme adalah bentuk hubungan (interaksi) antar spesies. Perbedaan: mutualisme (menguntungkan kedua), komensalisme (satu untung, satu netral)."
+  },
+  {
+    "id": 91,
+    "category": "Fisika",
+    "question": "Persamaan antara induksi magnet oleh kawat lurus dan kawat melingkar adalah...",
+    "options": {
+      "A": "Keduanya menghasilkan medan magnet yang arahnya sama",
+      "B": "Keduanya tidak dipengaruhi arus listrik",
+      "C": "Keduanya dapat dihitung dengan kaidah tangan kanan",
+      "D": "Keduanya hanya terjadi di dalam ruang hampa",
+      "E": "Keduanya tidak menghasilkan kutub magnet"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: arah medan magnet di sekitar kawat berarus (lurus/melingkar) dapat ditentukan dengan kaidah tangan kanan (Ampere)."
+  },
+  {
+    "id": 92,
+    "category": "Kimia",
+    "question": "Persamaan antara gas mulia dan gas nitrogen adalah...",
+    "options": {
+      "A": "Keduanya sangat reaktif",
+      "B": "Keduanya berwarna",
+      "C": "Keduanya berupa gas pada suhu kamar",
+      "D": "Keduanya mudah meledak",
+      "E": "Keduanya beracun"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: gas mulia (He, Ne, Ar, dll) dan gas N2 sama-sama berwujud gas pada suhu 25°C dan tekanan 1 atm."
+  },
+  {
+    "id": 93,
+    "category": "Sejarah",
+    "question": "Persamaan antara kebijakan Tanam Paksa (Cultuurstelsel) dan Politik Etis adalah...",
+    "options": {
+      "A": "Keduanya bertujuan mensejahterakan rakyat Indonesia",
+      "B": "Keduanya diterapkan oleh pemerintah kolonial Belanda",
+      "C": "Keduanya tidak berdampak pada rakyat",
+      "D": "Keduanya hanya berlangsung 5 tahun",
+      "E": "Keduanya digagas oleh Van Deventer"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua kebijakan ini dikeluarkan oleh pemerintah Hindia Belanda. Perbedaan: Tanam Paksa (1830-1870, eksploitasi), Politik Etis (1901, balas budi)."
+  },
+  {
+    "id": 94,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara adjective dan adverb adalah...",
+    "options": {
+      "A": "Keduanya menerangkan kata benda",
+      "B": "Keduanya menerangkan kata kerja",
+      "C": "Keduanya dapat berfungsi sebagai kata keterangan",
+      "D": "Keduanya memiliki bentuk comparative dan superlative",
+      "E": "Keduanya tidak memiliki bentuk perbandingan"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: adjective (kata sifat) dan adverb (kata keterangan) dapat memiliki bentuk comparative (lebih) dan superlative (paling)."
+  },
+  {
+    "id": 95,
+    "category": "IPS",
+    "question": "Persamaan antara pranata sosial dan lembaga sosial adalah...",
+    "options": {
+      "A": "Keduanya memiliki arti yang berbeda",
+      "B": "Keduanya merupakan sistem norma yang mengatur perilaku",
+      "C": "Keduanya bersifat konkrit dan kasat mata",
+      "D": "Keduanya hanya ditemukan di masyarakat modern",
+      "E": "Keduanya tidak memiliki sanksi"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: pranata sosial (abstract) dan lembaga sosial (concrete) sama-sama mengatur perilaku anggota masyarakat melalui norma/nilai."
+  },
+  {
+    "id": 96,
+    "category": "Astronomi",
+    "question": "Persamaan antara planet inferior dan planet superior adalah...",
+    "options": {
+      "A": "Keduanya memiliki orbit di dalam orbit Bumi",
+      "B": "Keduanya memiliki orbit di luar orbit Bumi",
+      "C": "Keduanya mengelilingi Matahari",
+      "D": "Keduanya hanya terlihat pada malam hari",
+      "E": "Keduanya tidak pernah terlihat konjungsi"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: planet inferior (Merkurius, Venus) dan superior (Mars, Jupiter, Saturnus, dll) sama-sama mengorbit Matahari."
+  },
+  {
+    "id": 97,
+    "category": "Biologi",
+    "question": "Persamaan antara pembelahan mitosis dan meiosis adalah...",
+    "options": {
+      "A": "Keduanya menghasilkan 4 sel anak",
+      "B": "Keduanya menghasilkan sel anak yang identik dengan induk",
+      "C": "Keduanya melibatkan pembelahan inti sel",
+      "D": "Keduanya hanya terjadi pada sel gamet",
+      "E": "Keduanya tidak melibatkan kromosom"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: mitosis dan meiosis sama-sama merupakan proses pembelahan inti (kariokinesis). Perbedaan: mitosis (2 sel, diploid, identik), meiosis (4 sel, haploid, bervariasi)."
+  },
+  {
+    "id": 98,
+    "category": "Fisika",
+    "question": "Persamaan antara bunyi infrasonik dan ultrasonik adalah...",
+    "options": {
+      "A": "Keduanya dapat didengar oleh manusia",
+      "B": "Keduanya memiliki frekuensi di atas 20.000 Hz",
+      "C": "Keduanya tidak dapat didengar oleh manusia",
+      "D": "Keduanya hanya dihasilkan oleh kelelawar",
+      "E": "Keduanya memiliki frekuensi yang sama"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: infrasonik (<20 Hz) dan ultrasonik (>20.000 Hz) sama-sama tidak dapat didengar oleh pendengaran manusia. Perbedaan: frekuensi daerah bawah vs atas."
+  },
+  {
+    "id": 99,
+    "category": "Kimia",
+    "question": "Persamaan antara koloid dan larutan sejati adalah...",
+    "options": {
+      "A": "Keduanya bersifat homogen sempurna",
+      "B": "Keduanya tidak dapat disaring dengan kertas saring biasa",
+      "C": "Keduanya merupakan campuran dua zat atau lebih",
+      "D": "Keduanya memiliki partikel berukuran > 1 nm",
+      "E": "Keduanya menunjukkan efek Tyndall"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: koloid dan larutan adalah campuran (bukan zat tunggal). Perbedaan: larutan (homogen, <1 nm), koloid (heterogen, 1-100 nm, efek Tyndall)."
+  },
+  {
+    "id": 100,
+    "category": "Sejarah Indonesia",
+    "question": "Persamaan antara pemberontakan PKI Madiun 1948 dan G30S/PKI 1965 adalah...",
+    "options": {
+      "A": "Keduanya dipimpin oleh DN Aidit",
+      "B": "Keduanya terjadi di Jawa Barat",
+      "C": "Keduanya melibatkan Partai Komunis Indonesia",
+      "D": "Keduanya berhasil menggulingkan pemerintah",
+      "E": "Keduanya didukung Amerika Serikat"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua peristiwa tersebut melibatkan PKI sebagai aktor utama. Perbedaan: waktu, tokoh, lokasi, dan skala berbeda."
+  },
+  {
+    "id": 101,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara antonim dan sinonim adalah...",
+    "options": {
+      "A": "Keduanya menunjukkan makna sama",
+      "B": "Keduanya menunjukkan makna berlawanan",
+      "C": "Keduanya merupakan relasi makna antar kata",
+      "D": "Keduanya hanya ada dalam bahasa serapan",
+      "E": "Keduanya tidak memiliki contoh"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: sinonim (persamaan makna) dan antonim (lawan makna) adalah hubungan semantik antara kata atau leksem."
+  },
+  {
+    "id": 102,
+    "category": "Geografi",
+    "question": "Persamaan antara tsunami dan gelombang pasang (tidal wave) adalah...",
+    "options": {
+      "A": "Keduanya disebabkan oleh gempa bumi",
+      "B": "Keduanya merupakan gelombang laut besar",
+      "C": "Keduanya dipengaruhi gravitasi bulan",
+      "D": "Keduanya hanya terjadi di Samudera Pasifik",
+      "E": "Keduanya tidak merusak pemukiman"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: tsunami dan gelombang pasang sama-sama berupa gelombang laut yang besar. Perbedaan: tsunami (gempa/gunung api), pasang (gravitasi bulan-matahari)."
+  },
+  {
+    "id": 103,
+    "category": "PKN",
+    "question": "Persamaan antara kewarganegaraan asli dan kewarganegaraan turunan adalah...",
+    "options": {
+      "A": "Keduanya diperoleh berdasarkan tempat lahir",
+      "B": "Keduanya diperoleh berdasarkan keturunan",
+      "C": "Keduanya memberikan status sebagai warga negara",
+      "D": "Keduanya tidak memiliki hak pilih",
+      "E": "Keduanya mudah dicabut"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis kewarganegaraan menjadikan seseorang sebagai warga negara suatu negara. Perbedaan: asli (lahir di negara tersebut), turunan (orang tua warga negara)."
+  },
+  {
+    "id": 104,
+    "category": "Biologi",
+    "question": "Persamaan antara ovipar dan vivipar adalah...",
+    "options": {
+      "A": "Keduanya melahirkan anak",
+      "B": "Keduanya bertelur",
+      "C": "Keduanya merupakan cara perkembangbiakan hewan",
+      "D": "Keduanya tidak memiliki induk",
+      "E": "Keduanya hanya terjadi pada ikan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: ovipar (bertelur) dan vivipar (beranak/melahirkan) adalah strategi reproduksi pada hewan."
+  },
+  {
+    "id": 105,
+    "category": "Fisika",
+    "question": "Persamaan antara gaya sentripetal dan gaya sentrifugal adalah...",
+    "options": {
+      "A": "Keduanya merupakan gaya fiktif",
+      "B": "Keduanya bekerja pada benda bergerak melingkar",
+      "C": "Keduanya memiliki besar yang sama dalam kerangka acuan tertentu",
+      "D": "Keduanya arahnya keluar lingkaran",
+      "E": "Keduanya tidak terkait dengan massa"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: dalam kerangka acuan non-inersia, besar gaya sentripetal dan sentrifugal sama (m.v²/r) namun arah berlawanan."
+  },
+  {
+    "id": 106,
+    "category": "Kimia",
+    "question": "Persamaan antara senyawa polar dan nonpolar adalah...",
+    "options": {
+      "A": "Keduanya larut dalam air",
+      "B": "Keduanya larut dalam minyak",
+      "C": "Keduanya memiliki momen dipol",
+      "D": "Keduanya dapat berwujud padat, cair, gas",
+      "E": "Keduanya tidak berwujud"
+    },
+    "answer": "D",
+    "explanation": "Persamaan: senyawa polar (seperti air, alkohol) dan nonpolar (seperti minyak, CCl4) dapat berwujud padat, cair, atau gas pada suhu kamar."
+  },
+  {
+    "id": 107,
+    "category": "Sejarah",
+    "question": "Persamaan antara Zaman Paleolitikum dan Zaman Neolitikum adalah...",
+    "options": {
+      "A": "Keduanya menggunakan alat logam",
+      "B": "Keduanya bercocok tanam",
+      "C": "Keduanya merupakan zaman prasejarah",
+      "D": "Keduanya sudah mengenal tulisan",
+      "E": "Keduanya hidup menetap di kota"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: Paleolitikum dan Neolitikum termasuk dalam masa prasejarah (belum mengenal tulisan). Perbedaan: Paleolitikum (berburu, meramu), Neolitikum (bercocok tanam)."
+  },
+  {
+    "id": 108,
+    "category": "Bahasa Inggris",
+    "question": "Persamaan antara 'although' dan 'even though' adalah...",
+    "options": {
+      "A": "Keduanya menunjukkan sebab-akibat",
+      "B": "Keduanya menunjukkan pertentangan/konsesi",
+      "C": "Keduanya diikuti oleh klausa lengkap",
+      "D": "Keduanya hanya digunakan di akhir kalimat",
+      "E": "Keduanya bermakna 'karena'"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: 'although' dan 'even though' adalah konjungsi subordinatif yang menyatakan pertentangan (konsesi). Perbedaan: 'even though' lebih kuat/emfatik."
+  },
+  {
+    "id": 109,
+    "category": "IPS",
+    "question": "Persamaan antara mobilitas sosial horizontal dan vertikal adalah...",
+    "options": {
+      "A": "Keduanya mengubah status sosial",
+      "B": "Keduanya tidak mengubah status sosial",
+      "C": "Keduanya merupakan perpindahan posisi sosial",
+      "D": "Keduanya hanya terjadi ke bawah",
+      "E": "Keduanya hanya terjadi ke atas"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua jenis mobilitas adalah perpindahan individu/kelompok dalam struktur sosial. Perbedaan: horizontal (status sama), vertikal (naik/turun status)."
+  },
+  {
+    "id": 110,
+    "category": "Astronomi",
+    "question": "Persamaan antara bintang neutron dan lubang hitam adalah...",
+    "options": {
+      "A": "Keduanya merupakan sisa kematian bintang masif",
+      "B": "Keduanya memancarkan cahaya terang",
+      "C": "Keduanya memiliki gravitasi lemah",
+      "D": "Keduanya berukuran lebih besar dari Matahari",
+      "E": "Keduanya tidak dapat dideteksi"
+    },
+    "answer": "A",
+    "explanation": "Persamaan: bintang neutron dan lubang hitam adalah sisa dari ledakan supernova bintang dengan massa sangat besar (≥8 massa matahari)."
+  },
+  {
+    "id": 111,
+    "category": "Biologi",
+    "question": "Persamaan antara ekosistem alami dan buatan adalah...",
+    "options": {
+      "A": "Keduanya tidak memiliki komponen biotik",
+      "B": "Keduanya tidak memiliki komponen abiotik",
+      "C": "Keduanya terdiri dari komponen biotik dan abiotik",
+      "D": "Keduanya tidak terjadi interaksi",
+      "E": "Keduanya selalu stabil"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: baik ekosistem alami (hutan, laut) maupun buatan (sawah, akuarium) terdiri dari komponen hidup (biotik) dan tak hidup (abiotik)."
+  },
+  {
+    "id": 112,
+    "category": "Fisika",
+    "question": "Persamaan antara energi potensial pegas dan energi potensial listrik adalah...",
+    "options": {
+      "A": "Keduanya bergantung pada kuadrat jarak",
+      "B": "Keduanya tidak bergantung pada konstanta",
+      "C": "Keduanya merupakan energi yang tersimpan",
+      "D": "Keduanya termasuk energi kinetik",
+      "E": "Keduanya hanya berlaku di ruang hampa"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: EP pegas (1/2 k x²) dan EP listrik (k q1 q2/r) adalah bentuk energi potensial yang tersimpan karena konfigurasi atau posisi."
+  },
+  {
+    "id": 113,
+    "category": "Kimia",
+    "question": "Persamaan antara teori asam-basa Arrhenius dan Brønsted-Lowry adalah...",
+    "options": {
+      "A": "Keduanya mendefinisikan asam sebagai donor proton",
+      "B": "Keduanya mendefinisikan basa sebagai akseptor proton",
+      "C": "Keduanya melibatkan ion H+",
+      "D": "Keduanya tidak melibatkan pelarut",
+      "E": "Keduanya hanya berlaku dalam air"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua teori melibatkan ion hidrogen (H+). Perbedaan: Arrhenius (H+ dalam air), Brønsted-Lowry (transfer H+ tanpa pelarut air)."
+  },
+  {
+    "id": 114,
+    "category": "Sejarah",
+    "question": "Persamaan antara Dinasti Sanjaya dan Dinasti Syailendra adalah...",
+    "options": {
+      "A": "Keduanya bercorak Buddha",
+      "B": "Keduanya bercorak Hindu Syiwa",
+      "C": "Keduanya membangun candi di Jawa Tengah",
+      "D": "Keduanya berasal dari Sriwijaya",
+      "E": "Keduanya tidak meninggalkan candi"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: kedua dinasti pada masa Mataram Kuno membangun candi-candi megah di Jawa Tengah (Prambanan, Borobudur)."
+  },
+  {
+    "id": 115,
+    "category": "Bahasa Indonesia",
+    "question": "Persamaan antara puisi dan prosa adalah...",
+    "options": {
+      "A": "Keduanya terikat rima dan irama",
+      "B": "Keduanya bebas tanpa aturan",
+      "C": "Keduanya merupakan karya sastra",
+      "D": "Keduanya tidak memiliki makna",
+      "E": "Keduanya menggunakan bahasa sehari-hari"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: puisi dan prosa termasuk dalam genre karya sastra. Perbedaan: puisi (bait, rima, padat), prosa (paragraf, naratif, panjang)."
+  },
+  {
+    "id": 116,
+    "category": "Geografi",
+    "question": "Persamaan antara cuaca dan iklim adalah...",
+    "options": {
+      "A": "Keduanya menggambarkan kondisi atmosfer jangka panjang",
+      "B": "Keduanya menggambarkan kondisi atmosfer jangka pendek",
+      "C": "Keduanya berkaitan dengan unsur-unsur atmosfer (suhu, angin, dll)",
+      "D": "Keduanya tidak berubah sepanjang waktu",
+      "E": "Keduanya hanya terjadi di daratan"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: cuaca dan iklim sama-sama berkaitan dengan parameter fisika atmosfer. Perbedaan: cuaca (waktu pendek, sempit), iklim (waktu panjang, luas)."
+  },
+  {
+    "id": 117,
+    "category": "PKN",
+    "question": "Persamaan antara hak veto dan hak interpelasi adalah...",
+    "options": {
+      "A": "Keduanya dimiliki oleh presiden",
+      "B": "Keduanya dimiliki oleh DPR",
+      "C": "Keduanya merupakan hak politik dalam sistem ketatanegaraan",
+      "D": "Keduanya membatalkan undang-undang",
+      "E": "Keduanya tidak diatur dalam UUD"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: hak veto (presiden/menegaskan UU) dan hak interpelasi (DPR meminta keterangan pemerintah) adalah hak di bidang politik/ketatanegaraan."
+  },
+  {
+    "id": 118,
+    "category": "Biologi",
+    "question": "Persamaan antara alveolus pada paru-paru dan vili pada usus halus adalah...",
+    "options": {
+      "A": "Keduanya berfungsi menyaring darah",
+      "B": "Keduanya berfungsi memperluas permukaan untuk absorbsi",
+      "C": "Keduanya berfungsi memproduksi enzim",
+      "D": "Keduanya berfungsi menyimpan makanan",
+      "E": "Keduanya berfungsi menghasilkan hormon"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: alveolus (permukaan pertukaran gas) dan vili (penyerapan sari makanan) memiliki struktur lipatan untuk memperluas area penyerapan."
+  },
+  {
+    "id": 119,
+    "category": "Fisika",
+    "question": "Persamaan antara hukum kekekalan energi dan hukum kekekalan momentum adalah...",
+    "options": {
+      "A": "Keduanya hanya berlaku untuk tumbukan lenting sempurna",
+      "B": "Keduanya berlaku dalam sistem terisolasi",
+      "C": "Keduanya tidak berlaku dalam sistem tertutup",
+      "D": "Keduanya hanya berlaku di bumi",
+      "E": "Keduanya ditemukan oleh Newton"
+    },
+    "answer": "B",
+    "explanation": "Persamaan: kedua hukum kekekalan (energi mekanik dan momentum) berlaku dalam sistem terisolasi (tidak ada gaya luar)."
+  },
+  {
+    "id": 120,
+    "category": "Kimia",
+    "question": "Persamaan antara atom dan molekul adalah...",
+    "options": {
+      "A": "Keduanya merupakan partikel terkecil yang tidak dapat dibagi lagi",
+      "B": "Keduanya dapat berdiri sendiri sebagai zat murni",
+      "C": "Keduanya menyusun materi",
+      "D": "Keduanya memiliki muatan listrik",
+      "E": "Keduanya hanya berupa gas"
+    },
+    "answer": "C",
+    "explanation": "Persamaan: atom dan molekul adalah unit dasar yang menyusun semua materi (zat). Perbedaan: atom adalah unit terkecil unsur, molekul gabungan atom (bisa sama/beda)."
+  }
+]
