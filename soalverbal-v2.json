@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut dengan saksama!\n\n\"Hutan mangrove memiliki fungsi ekologis yang sangat penting. Akar pohon mangrove yang rapat mampu menahan abrasi air laut dan menjadi tempat berlindung berbagai biota laut. Selain itu, hutan mangrove juga berperan sebagai penyerap karbon dioksida yang lebih efektif dibandingkan hutan tropis di daratan.\"\n\nPertanyaan: Apa fungsi utama hutan mangrove yang disebutkan dalam teks?",
+    "options": {
+      "A": "Tempat wisata bahari",
+      "B": "Menahan abrasi dan menyerap karbon dioksida",
+      "C": "Menghasilkan kayu untuk bangunan",
+      "D": "Mengurangi polusi udara di perkotaan",
+      "E": "Habitat buaya air asin"
+    },
+    "answer": "B",
+    "explanation": "Teks secara eksplisit menyebutkan dua fungsi utama: menahan abrasi air laut dan menyerap karbon dioksida lebih efektif."
+  },
+  {
+    "id": 2,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Literasi digital bukan sekadar kemampuan menggunakan perangkat teknologi. Lebih dari itu, literasi digital mencakup kemampuan mencari, mengevaluasi, dan menggunakan informasi secara kritis serta bertanggung jawab. Di era banjir informasi seperti sekarang, literasi digital menjadi benteng utama melawan hoaks dan disinformasi.\"\n\nPertanyaan: Menurut teks, apa yang menjadi benteng utama melawan hoaks?",
+    "options": {
+      "A": "Perangkat teknologi canggih",
+      "B": "Kemampuan menggunakan media sosial",
+      "C": "Literasi digital",
+      "D": "Pemerintah yang tegas",
+      "E": "Kecerdasan buatan"
+    },
+    "answer": "C",
+    "explanation": "Kalimat terakhir teks menyatakan: 'literasi digital menjadi benteng utama melawan hoaks dan disinformasi'."
+  },
+  {
+    "id": 3,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Sampah plastik menjadi masalah global yang serius. Setiap tahun, jutaan ton plastik berakhir di lautan dan membunuh biota laut. Upaya daur ulang saja tidak cukup diperlukan pengurangan penggunaan plastik sekali pakai secara masif. Beberapa negara telah mulai menerapkan kebijakan kantong plastik berbayar dan pelarangan sedotan plastik.\"\n\nPertanyaan: Gagasan utama paragraf di atas adalah...",
+    "options": {
+      "A": "Negara-negara maju melarang plastik sekali pakai",
+      "B": "Sampah plastik membunuh biota laut",
+      "C": "Daur ulang plastik sudah cukup mengatasi masalah",
+      "D": "Sampah plastik adalah masalah serius yang perlu pengurangan penggunaan plastik sekali pakai",
+      "E": "Kantong plastik berbayar tidak efektif"
+    },
+    "answer": "D",
+    "explanation": "Paragraf dimulai dengan pernyataan masalah (sampah plastik serius), lalu diikuti solusi yang ditawarkan (pengurangan plastik sekali pakai)."
+  },
+  {
+    "id": 4,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika suatu daerah memiliki angka kemiskinan yang tinggi, biasanya tingkat pendidikan masyarakatnya juga rendah. Sebaliknya, daerah dengan angka kemiskinan rendah umumnya memiliki akses pendidikan yang baik. Namun, hubungan ini tidak selalu bersifat sebab-akibat karena faktor lain seperti ketersediaan lapangan kerja juga berperan penting.\"\n\nPertanyaan: Simpulan yang paling tepat berdasarkan teks adalah...",
+    "options": {
+      "A": "Kemiskinan selalu menyebabkan rendahnya pendidikan",
+      "B": "Pendidikan adalah satu-satunya faktor penentu kemiskinan",
+      "C": "Ada korelasi antara kemiskinan dan pendidikan, tetapi bukan hubungan sebab-akibat tunggal",
+      "D": "Daerah kaya pasti memiliki pendidikan tinggi",
+      "E": "Lapangan kerja tidak berpengaruh pada kemiskinan"
+    },
+    "answer": "C",
+    "explanation": "Teks menyatakan hubungan antara kemiskinan dan pendidikan, tetapi menegaskan bahwa itu tidak selalu sebab-akibat karena ada faktor lain."
+  },
+  {
+    "id": 5,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Sejak dua pekan terakhir, harga cabai rawit di pasar tradisional melonjak drastis. Para pedagang mengeluhkan pasokan yang menurun akibat gagal panen di sentra produksi. Sementara itu, permintaan masyarakat tetap tinggi menjelang hari raya.\"\n\nPertanyaan: Apa yang dapat disimpulkan secara logis dari teks di atas?",
+    "options": {
+      "A": "Petani cabai mendapatkan keuntungan besar",
+      "B": "Harga cabai akan segera turun dalam waktu dekat",
+      "C": "Kelangkaan pasokan dan tingginya permintaan menyebabkan kenaikan harga",
+      "D": "Masyarakat diminta tidak membeli cabai",
+      "E": "Pemerintah akan mengimpor cabai"
+    },
+    "answer": "C",
+    "explanation": "Dari informasi 'pasokan menurun' dan 'permintaan tetap tinggi', dapat diinferensi bahwa hukum ekonomi berlaku: harga naik. Tidak disebutkan tentang impor atau anjuran tidak membeli."
+  },
+  {
+    "id": 6,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Kebijakan pemerintah yang kontroversial itu menuai polemik di kalangan masyarakat, terutama dari kelompok aktivis.\"\n\nPertanyaan: Makna kata 'polemik' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Dukungan penuh",
+      "B": "Perdebatan atau pertentangan pendapat",
+      "C": "Kebijakan baru",
+      "D": "Ketenangan",
+      "E": "Kesepakatan bersama"
+    },
+    "answer": "B",
+    "explanation": "Polemik berarti perdebatan atau pertentangan pendapat yang tajam di publik."
+  },
+  {
+    "id": 7,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Gunung Merapi yang terletak di perbatasan Jawa Tengah dan DI Yogyakarta mengalami erupsi pada pukul 02.30 WIB dini hari tadi. Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) merekomendasikan radius bahaya sejauh 5 kilometer dari puncak. Masyarakat di sekitar lereng gunung diimbau untuk segera mengungsi ke tempat aman.\"\n\nPertanyaan: Berapa radius bahaya yang direkomendasikan PVMBG?",
+    "options": {
+      "A": "2 kilometer",
+      "B": "3 kilometer",
+      "C": "4 kilometer",
+      "D": "5 kilometer",
+      "E": "10 kilometer"
+    },
+    "answer": "D",
+    "explanation": "Teks secara eksplisit menyebutkan: 'radius bahaya sejauh 5 kilometer dari puncak'."
+  },
+  {
+    "id": 8,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Kopi dikenal memiliki banyak manfaat kesehatan jika dikonsumsi dalam jumlah wajar. Kandungan antioksidan dalam kopi dapat melindungi sel-sel tubuh dari kerusakan. Namun, konsumsi kopi berlebihan (lebih dari 4 cangkir per hari) dapat menyebabkan insomnia, gelisah, dan detak jantung tidak teratur.\"\n\nPertanyaan: Berapa batas konsumsi kopi yang disebutkan dalam teks agar tidak berdampak buruk?",
+    "options": {
+      "A": "1 cangkir per hari",
+      "B": "2 cangkir per hari",
+      "C": "3 cangkir per hari",
+      "D": "Maksimal 4 cangkir per hari",
+      "E": "Tidak boleh minum kopi sama sekali"
+    },
+    "answer": "D",
+    "explanation": "Teks menyatakan bahwa konsumsi 'lebih dari 4 cangkir per hari' berbahaya, berarti batas aman adalah maksimal 4 cangkir."
+  },
+  {
+    "id": 9,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Telemedicine atau layanan kesehatan jarak jauh semakin populer pasca pandemi. Pasien dapat berkonsultasi dengan dokter melalui video call tanpa harus datang ke rumah sakit. Namun, layanan ini memiliki keterbatasan karena dokter tidak dapat melakukan pemeriksaan fisik langsung seperti meraba atau mendengarkan detak jantung. Oleh karena itu, telemedicine lebih cocok untuk keluhan ringan atau kontrol penyakit kronis.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Telemedicine populer setelah pandemi",
+      "B": "Kelebihan dan keterbatasan telemedicine serta jenis keluhan yang cocok",
+      "C": "Dokter tidak bisa memeriksa fisik pasien melalui telemedicine",
+      "D": "Pasien lebih suka telemedicine daripada datang ke rumah sakit",
+      "E": "Telemedicine harus dihapus karena keterbatasannya"
+    },
+    "answer": "B",
+    "explanation": "Teks membahas kepopuleran (kelebihan), keterbatasan, dan rekomendasi kecocokan telemedicine untuk keluhan tertentu."
+  },
+  {
+    "id": 10,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Meskipun sudah diperingatkan berkali-kali, masih banyak pengendara yang menerobos palang pintu kereta api. Akibatnya, kecelakaan antara kereta api dan kendaraan masih sering terjadi. PT KAI telah memasang kamera pengawas di perlintasan sebidang untuk menjaring pelanggar.\"\n\nPertanyaan: Apa yang dapat disimpulkan dari pemasangan kamera pengawas oleh PT KAI?",
+    "options": {
+      "A": "PT KAI ingin menjual rekaman kamera",
+      "B": "PT KAI berupaya mengurangi pelanggaran dengan menindak pelanggar",
+      "C": "Kereta api akan dihentikan operasinya",
+      "D": "Semua pengendara sudah patuh",
+      "E": "Kamera tidak efektif mengurangi kecelakaan"
+    },
+    "answer": "B",
+    "explanation": "Tujuan pemasangan kamera adalah 'menjaring pelanggar' (menindak), sehingga secara logis PT KAI berupaya mengurangi pelanggaran dan kecelakaan."
+  },
+  {
+    "id": 11,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Tanaman lidah buaya atau aloe vera memiliki banyak manfaat. Gel dari daun lidah buaya dapat digunakan untuk mengobati luka bakar ringan, melembapkan kulit, dan menyuburkan rambut. Selain itu, lidah buaya juga dapat dikonsumsi sebagai minuman yang baik untuk pencernaan. Namun, tidak semua jenis lidah buaya aman dikonsumsi; hanya jenis Aloe vera barbadensis miller yang biasa digunakan untuk konsumsi.\"\n\nPertanyaan: Jenis lidah buaya apa yang aman untuk dikonsumsi menurut teks?",
+    "options": {
+      "A": "Semua jenis lidah buaya",
+      "B": "Aloe vera chinensis",
+      "C": "Aloe vera saponaria",
+      "D": "Aloe vera barbadensis miller",
+      "E": "Tidak ada yang aman"
+    },
+    "answer": "D",
+    "explanation": "Teks secara eksplisit menyebutkan: 'hanya jenis Aloe vera barbadensis miller yang biasa digunakan untuk konsumsi'."
+  },
+  {
+    "id": 12,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Studi menunjukkan bahwa anak-anak yang terbiasa membaca buku cetak memiliki daya ingat lebih baik dibandingkan yang membaca dari layar digital. Namun, buku digital lebih praktis karena dapat dibawa ribuan judul dalam satu perangkat. Keduanya memiliki kelebihan dan kekurangan masing-masing.\"\n\nPertanyaan: Simpulan yang tepat dari teks tersebut adalah...",
+    "options": {
+      "A": "Buku cetak lebih baik dari buku digital",
+      "B": "Buku digital harus ditinggalkan",
+      "C": "Buku cetak dan buku digital sama-sama memiliki kelebihan dan kekurangan",
+      "D": "Anak-anak tidak boleh membaca dari layar",
+      "E": "Buku digital merusak daya ingat"
+    },
+    "answer": "C",
+    "explanation": "Teks menyatakan kelebihan buku cetak (daya ingat lebih baik) dan kelebihan buku digital (praktis), lalu menyimpulkan bahwa keduanya punya kelebihan dan kekurangan."
+  },
+  {
+    "id": 13,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Penelitian tersebut dianggap valid karena metodologinya transparan dan dapat direplikasi oleh ilmuwan lain.\"\n\nPertanyaan: Makna kata 'direplikasi' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Dikritik",
+      "B": "Diubah",
+      "C": "Diulang atau ditiru dengan metode yang sama",
+      "D": "Dihapus",
+      "E": "Dibiayai"
+    },
+    "answer": "C",
+    "explanation": "Replikasi dalam penelitian berarti mengulang atau meniru penelitian dengan metode yang sama untuk memverifikasi hasil."
+  },
+  {
+    "id": 14,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Pendaftaran seleksi masuk perguruan tinggi negeri (SNPMB) tahun ini dibuka mulai 10 Januari hingga 15 Februari. Peserta diharapkan mengunggah dokumen seperti rapor, prestasi, dan portofolio sebelum batas waktu. Pengumuman hasil seleksi akan dilakukan pada 25 Maret.\"\n\nPertanyaan: Kapan batas akhir pendaftaran SNPMB?",
+    "options": {
+      "A": "10 Januari",
+      "B": "25 Januari",
+      "C": "10 Februari",
+      "D": "15 Februari",
+      "E": "25 Maret"
+    },
+    "answer": "D",
+    "explanation": "Teks menyebutkan pendaftaran dibuka '10 Januari hingga 15 Februari', sehingga batas akhir adalah 15 Februari."
+  },
+  {
+    "id": 15,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Banyak orang mengira bahwa gempa bumi hanya terjadi di daerah yang dekat dengan gunung berapi. Padahal, gempa bumi tektonik dapat terjadi di mana saja karena disebabkan oleh pergerakan lempeng bumi. Daerah seperti Jakarta yang tidak memiliki gunung api pun tetap berpotensi gempa karena berada di atas lempeng aktif.\"\n\nPertanyaan: Gagasan utama paragraf tersebut adalah...",
+    "options": {
+      "A": "Gempa bumi hanya terjadi di dekat gunung api",
+      "B": "Jakarta tidak berpotensi gempa",
+      "C": "Gempa bumi tektonik dapat terjadi di mana saja, tidak hanya di dekat gunung api",
+      "D": "Gunung api penyebab utama gempa",
+      "E": "Masyarakat tidak perlu waspada gempa"
+    },
+    "answer": "C",
+    "explanation": "Teks mengoreksi anggapan keliru bahwa gempa hanya di dekat gunung api, lalu menjelaskan bahwa gempa tektonik bisa terjadi di mana saja."
+  },
+  {
+    "id": 16,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Di sebuah desa terpencil, listrik baru bisa dinikmati warga pada tahun 2020. Sebelumnya, mereka menggunakan lampu minyak tanah untuk penerangan malam. Anak-anak kesulitan belajar karena gelap. Setelah listrik masuk, kegiatan belajar mengajar di desa itu meningkat pesat.\"\n\nPertanyaan: Apa yang dapat disimpulkan tentang kondisi sebelum ada listrik di desa tersebut?",
+    "options": {
+      "A": "Warga sangat kaya",
+      "B": "Anak-anak tidak pernah sekolah",
+      "C": "Penerangan menggunakan lampu minyak dan anak-anak kesulitan belajar",
+      "D": "Listrik sudah ada sejak lama",
+      "E": "Desa tersebut sangat maju"
+    },
+    "answer": "C",
+    "explanation": "Teks menyatakan secara tersurat 'sebelumnya menggunakan lampu minyak tanah' dan 'anak-anak kesulitan belajar karena gelap'."
+  },
+  {
+    "id": 17,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Fenomena El Nino ditandai dengan menghangatnya suhu permukaan laut di Samudera Pasifik bagian tengah dan timur. Dampaknya, Indonesia mengalami musim kemarau yang lebih panjang dan kering. Sebaliknya, La Nina membawa suhu laut yang lebih dingin dari biasanya dan menyebabkan peningkatan curah hujan di Indonesia.\"\n\nPertanyaan: Apa dampak El Nino bagi Indonesia?",
+    "options": {
+      "A": "Hujan meningkat",
+      "B": "Musim kemarau lebih panjang dan kering",
+      "C": "Suhu laut menjadi dingin",
+      "D": "Banjir di mana-mana",
+      "E": "Tidak ada dampak"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan: 'Dampaknya, Indonesia mengalami musim kemarau yang lebih panjang dan kering'."
+  },
+  {
+    "id": 18,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua mamalia bernapas dengan paru-paru. Paus adalah mamalia. Beberapa jenis paus hidup di laut. Ikan paus bukanlah ikan.\"\n\nPertanyaan: Simpulan yang paling tepat dari pernyataan di atas adalah...",
+    "options": {
+      "A": "Semua hewan laut bernapas dengan paru-paru",
+      "B": "Paus bernapas dengan paru-paru",
+      "C": "Ikan bernapas dengan insang",
+      "D": "Paus adalah ikan",
+      "E": "Mamalia tidak ada di laut"
+    },
+    "answer": "B",
+    "explanation": "Dari premis 'Semua mamalia bernapas dengan paru-paru' dan 'Paus adalah mamalia', maka secara logis paus bernapas dengan paru-paru."
+  },
+  {
+    "id": 19,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Pidato presiden tersebut mendapat apresiasi dari berbagai kalangan karena gagasannya yang visioner.\"\n\nPertanyaan: Makna kata 'visioner' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Masa lalu",
+      "B": "Pesimis",
+      "C": "Memiliki wawasan atau pandangan ke masa depan",
+      "D": "Tidak realistis",
+      "E": "Membosankan"
+    },
+    "answer": "C",
+    "explanation": "Visioner berarti memiliki pandangan atau gagasan tentang masa depan yang jauh ke depan."
+  },
+  {
+    "id": 20,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Timnas Indonesia U-22 berhasil meraih medali emas di SEA Games 2023 Kamboja setelah mengalahkan timnas Thailand dengan skor 5-2 pada babak final. Gol-gol Indonesia dicetak oleh Ramadhan Sananta (dua gol), Irfanjauhari, Fajar, dan Beckham. Ini adalah medali emas pertama bagi Indonesia di cabang olahraga sepak bola SEA Games sejak 1991.\"\n\nPertanyaan: Berapa gol yang dicetak oleh Ramadhan Sananta pada pertandingan final tersebut?",
+    "options": {
+      "A": "1 gol",
+      "B": "2 gol",
+      "C": "3 gol",
+      "D": "4 gol",
+      "E": "5 gol"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'Ramadhan Sananta (dua gol)' secara eksplisit."
+  },
+  {
+    "id": 21,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Borobudur adalah candi Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah. Candi ini dibangun pada abad ke-8 oleh Wangsa Syailendra. Borobudur memiliki 10 tingkat yang melambangkan sepuluh tingkatan bodhisattva yang harus dilalui untuk mencapai kesempurnaan. Relief di dinding candi menceritakan kisah kehidupan Buddha.\"\n\nPertanyaan: Apa yang dideskripsikan dalam teks di atas?",
+    "options": {
+      "A": "Kisah hidup Raja Syailendra",
+      "B": "Sejarah dan karakteristik Candi Borobudur",
+      "C": "Candi terbesar di dunia",
+      "D": "Agama Buddha di Jawa",
+      "E": "Letak geografis Magelang"
+    },
+    "answer": "B",
+    "explanation": "Teks menjelaskan tentang lokasi, pembangun, tingkatan, dan relief Candi Borobudur (sejarah dan karakteristiknya)."
+  },
+  {
+    "id": 22,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Setiap pagi, Ayu selalu sarapan dengan nasi dan lauk-pauk sebelum berangkat sekolah. Ibu pernah bilang bahwa sarapan penting untuk energi. Suatu hari, Ayu terburu-buru sehingga tidak sempat sarapan. Pada jam pelajaran kedua, Ayu merasa pusing dan tidak bisa berkonsentrasi.\"\n\nPertanyaan: Apa yang dapat disimpulkan tentang Ayu berdasarkan teks?",
+    "options": {
+      "A": "Ayu malas belajar",
+      "B": "Ayu tidak suka sarapan",
+      "C": "Tanpa sarapan, Ayu mengalami pusing dan sulit konsentrasi",
+      "D": "Ayu selalu sakit",
+      "E": "Guru Ayu tidak mengizinkan sarapan"
+    },
+    "answer": "C",
+    "explanation": "Teks menunjukkan bahwa ketika Ayu tidak sarapan (karena terburu-buru), ia merasakan dampak negatif: pusing dan tidak bisa konsentrasi."
+  },
+  {
+    "id": 23,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Tanaman paku (pteridophyta) bereproduksi melalui spora, bukan biji. Spora terletak di bagian bawah daun yang disebut sporofil. Ketika spora matang, ia akan jatuh dan tumbuh menjadi protalium (generasi gametofit) yang menghasilkan sel telur dan sperma.\"\n\nPertanyaan: Apa nama generasi yang dihasilkan dari spora yang tumbuh?",
+    "options": {
+      "A": "Sporofit",
+      "B": "Gametofit",
+      "C": "Sporofil",
+      "D": "Protalium",
+      "E": "Biji"
+    },
+    "answer": "D",
+    "explanation": "Teks menyebutkan: 'spora ... akan jatuh dan tumbuh menjadi protalium (generasi gametofit)'."
+  },
+  {
+    "id": 24,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika hujan turun, tanah akan basah. Saat ini tanah tidak basah. Padahal biasanya jika hujan deras, tanah di halaman rumah Andi selalu becek dan basah.\"\n\nPertanyaan: Simpulan yang paling logis adalah...",
+    "options": {
+      "A": "Hujan turun deras",
+      "B": "Tanah basah",
+      "C": "Hujan tidak turun",
+      "D": "Andi tidak di rumah",
+      "E": "Hujan sudah berhenti"
+    },
+    "answer": "C",
+    "explanation": "Logika: Jika hujan -> tanah basah. Kontraposisinya: Jika tanah tidak basah -> tidak hujan (modus tollens)."
+  },
+  {
+    "id": 25,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Korupsi telah menjadi problematika yang sulit diberantas karena melibatkan struktur kekuasaan yang rumit.\"\n\nPertanyaan: Makna kata 'problematika' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Solusi",
+      "B": "Permasalahan atau hal yang rumit",
+      "C": "Kemudahan",
+      "D": "Kebahagiaan",
+      "E": "Kemenangan"
+    },
+    "answer": "B",
+    "explanation": "Problematika berarti permasalahan atau hal-hal yang menimbulkan kesulitan."
+  },
+  {
+    "id": 26,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Untuk membuat kue bolu sederhana, siapkan 4 butir telur, 200 gram gula pasir, 200 gram tepung terigu, 1 sendok teh SP, dan 100 gram mentega cair. Kocok telur, gula, dan SP hingga mengembang. Masukkan tepung bergantian dengan mentega cair, aduk rata. Panggang selama 30 menit dengan suhu 180 derajat Celcius.\"\n\nPertanyaan: Berapa lama waktu memanggang kue bolu tersebut?",
+    "options": {
+      "A": "15 menit",
+      "B": "20 menit",
+      "C": "25 menit",
+      "D": "30 menit",
+      "E": "45 menit"
+    },
+    "answer": "D",
+    "explanation": "Teks menyebutkan: 'Panggang selama 30 menit dengan suhu 180 derajat Celcius'."
+  },
+  {
+    "id": 27,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Sampah elektronik atau e-waste menjadi ancaman lingkungan baru. Setiap tahun, puluhan juta ton handphone, laptop, dan TV bekas dibuang. Padahal komponen elektronik mengandung logam berat beracun seperti timbal dan merkuri yang dapat mencemari tanah dan air. Daur ulang yang tidak tepat justru membahayakan pekerja.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Handphone bekas tidak berbahaya",
+      "B": "Sampah elektronik adalah ancaman lingkungan karena mengandung logam beracun",
+      "C": "Daur ulang sampah elektronik mudah dilakukan",
+      "D": "TV bekas tidak perlu didaur ulang",
+      "E": "Logam berat aman bagi lingkungan"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebut sampah elektronik sebagai 'ancaman lingkungan' dan menjelaskan alasannya (logam berat beracun)."
+  },
+  {
+    "id": 28,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Rina memiliki kebiasaan bangun pagi pukul 04.30. Ia menggunakan waktu pagi untuk berolahraga ringan dan membaca buku. Selama 5 tahun terakhir, Rina tidak pernah sakit parah dan selalu segar saat bekerja. Teman-temannya yang sering begadang sering mengeluh lelah dan mudah sakit.\"\n\nPertanyaan: Apa yang dapat disimpulkan dari teks di atas?",
+    "options": {
+      "A": "Begadang baik untuk kesehatan",
+      "B": "Bangun pagi dan gaya hidup teratur berkorelasi dengan kesehatan yang lebih baik",
+      "C": "Rina tidak memiliki teman",
+      "D": "Olahraga tidak penting",
+      "E": "Semua orang yang bangun pagi pasti kaya"
+    },
+    "answer": "B",
+    "explanation": "Teks menunjukkan perbandingan: Rina (bangun pagi, teratur) sehat vs teman (begadang) sering sakit. Ini mengindikasikan korelasi pola hidup dengan kesehatan."
+  },
+  {
+    "id": 29,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Terumbu karang sering disebut sebagai 'hutan hujan laut' karena keanekaragaman hayatinya yang tinggi. Terumbu karang menyediakan rumah bagi ribuan spesies ikan, moluska, dan krustasea. Sayangnya, bleaching karang akibat pemanasan global mengancam ekosistem ini. Ketika suhu laut naik, karang akan mengeluarkan alga simbiotiknya dan berubah menjadi putih.\"\n\nPertanyaan: Penyebab terjadinya bleaching karang menurut teks adalah...",
+    "options": {
+      "A": "Polusi plastik",
+      "B": "Aktivitas penangkapan ikan",
+      "C": "Pemanasan global (kenaikan suhu laut)",
+      "D": "Pembangunan pesisir",
+      "E": "Hiu pemakan karang"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan: 'bleaching karang akibat pemanasan global' dan 'ketika suhu laut naik, karang akan mengeluarkan alga'."
+  },
+  {
+    "id": 30,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Air sangat penting bagi kehidupan manusia. Tanpa air, tubuh manusia hanya dapat bertahan 3-5 hari. Bencana kekeringan dapat menyebabkan krisis air bersih yang berdampak pada kesehatan dan pertanian. Oleh karena itu, menjaga sumber daya air adalah tanggung jawab bersama.\"\n\nPertanyaan: Simpulan yang paling tepat dari teks tersebut adalah...",
+    "options": {
+      "A": "Manusia bisa hidup tanpa air selama seminggu",
+      "B": "Kekeringan tidak berbahaya",
+      "C": "Air penting bagi kehidupan sehingga harus dijaga bersama",
+      "D": "Pertanian tidak membutuhkan air",
+      "E": "Hanya pemerintah yang harus menjaga air"
+    },
+    "answer": "C",
+    "explanation": "Teks menyatakan pentingnya air, dampak kekeringan, dan diakhiri dengan kesimpulan 'menjaga sumber daya air adalah tanggung jawab bersama'."
+  },
+  {
+    "id": 31,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Para pengungsi korban banjir itu tampak kalang kabut saat mencari tempat yang lebih aman.\"\n\nPertanyaan: Makna 'kalang kabut' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Tenang",
+      "B": "Sengaja",
+      "C": "Kacau dan panik",
+      "D": "Teratur",
+      "E": "Senang"
+    },
+    "answer": "C",
+    "explanation": "Kalang kabut berarti keadaan kacau, tidak teratur, dan panik."
+  },
+  {
+    "id": 32,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Bandara Soekarno-Hatta melayani 88 penerbangan internasional dan 512 penerbangan domestik setiap harinya. Terminal 1 melayani maskapai domestik, Terminal 2 melayani maskapai domestik dan internasional tertentu, sedangkan Terminal 3 khusus untuk maskapai internasional dan beberapa maskapai premium domestik.\"\n\nPertanyaan: Terminal mana yang khusus melayani maskapai internasional?",
+    "options": {
+      "A": "Terminal 1",
+      "B": "Terminal 2",
+      "C": "Terminal 3",
+      "D": "Terminal 1 dan 2",
+      "E": "Terminal 2 dan 3"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'Terminal 3 khusus untuk maskapai internasional'."
+  },
+  {
+    "id": 33,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Penggunaan kantong plastik sekali pakai telah dilarang di berbagai kota besar di Indonesia. Kebijakan ini bertujuan mengurangi sampah plastik yang sulit terurai. Sebagai gantinya, masyarakat dianjurkan membawa tas belanja sendiri atau menggunakan kantong ramah lingkungan. Namun, masih banyak pedagang yang enggan menerapkan karena alasan biaya.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Kantong plastik murah harganya",
+      "B": "Pelarangan kantong plastik sekali pakai dan tantangannya",
+      "C": "Semua pedagang mendukung larangan plastik",
+      "D": "Kantong ramah lingkungan tidak efektif",
+      "E": "Sampah plastik tidak menjadi masalah"
+    },
+    "answer": "B",
+    "explanation": "Teks menjelaskan tentang kebijakan pelarangan, tujuannya, alternatifnya, namun juga menyebutkan tantangan (pedagang enggan karena biaya)."
+  },
+  {
+    "id": 34,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Dari 100 siswa yang mengikuti ujian, hanya 30 yang dinyatakan lulus. Rata-rata nilai siswa lulus adalah 85, sedangkan rata-rata nilai siswa tidak lulus adalah 55. Nilai minimum kelulusan tidak diumumkan secara resmi.\"\n\nPertanyaan: Berdasarkan informasi tersebut, apa yang dapat disimpulkan?",
+    "options": {
+      "A": "Nilai kelulusan di atas 85",
+      "B": "Nilai kelulusan antara 56 dan 84",
+      "C": "Semua siswa mendapat nilai di bawah 50",
+      "D": "Tidak ada siswa yang mendapat nilai 100",
+      "E": "Ujian sangat mudah"
+    },
+    "answer": "B",
+    "explanation": "Rata-rata nilai lulus 85 (berarti nilai lulus minimal di bawah 85) dan rata-rata tidak lulus 55 (berarti nilai maksimal yang tidak lulus di atas 55). Maka batas kelulusan antara 56-84."
+  },
+  {
+    "id": 35,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Mata uang kripto seperti Bitcoin dan Ethereum menggunakan teknologi blockchain yang terdesentralisasi. Transaksi dicatat dalam blok-blok yang terhubung dan diverifikasi oleh banyak komputer. Teknologi ini membuatnya sulit untuk dipalsukan. Namun, volatilitas harga kripto sangat tinggi sehingga berisiko untuk investasi jangka pendek.\"\n\nPertanyaan: Apa keunggulan teknologi blockchain yang disebut dalam teks?",
+    "options": {
+      "A": "Harga stabil",
+      "B": "Mudah dipalsukan",
+      "C": "Sulit dipalsukan karena terdesentralisasi",
+      "D": "Hanya bisa digunakan pemerintah",
+      "E": "Transaksi sangat lambat"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan: 'Teknologi ini membuatnya sulit untuk dipalsukan'."
+  },
+  {
+    "id": 36,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Rumah makan Padang yang enak biasanya memiliki ciri: kuah gulai yang kental dan bumbu yang meresap, daging yang empuk, serta sambal hijau yang pedas segar. Rumah makan Sederhana memiliki kuah gulai yang encer dan daging yang alot. Sementara rumah makan Simpang Raya memiliki kuah kental, daging empuk, dan sambal hijau yang pedas.\"\n\nPertanyaan: Simpulan yang tepat berdasarkan teks adalah...",
+    "options": {
+      "A": "Rumah makan Simpang Raya termasuk rumah makan Padang yang enak",
+      "B": "Rumah makan Sederhana adalah yang terenak",
+      "C": "Kedua rumah makan sama-sama enak",
+      "D": "Sambal hijau tidak penting",
+      "E": "Tidak ada rumah makan Padang yang enak"
+    },
+    "answer": "A",
+    "explanation": "Kriteria rumah makan Padang enak: kuah kental, daging empuk, sambal pedas. Simpang Raya memenuhi semua kriteria, Sederhana tidak."
+  },
+  {
+    "id": 37,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Setelah skandal itu terungkap, reputasi perusahaan tersebut tercoreng di mata publik.\"\n\nPertanyaan: Makna 'tercoreng' dalam kalimat di atas adalah...",
+    "options": {
+      "A": "Meningkat",
+      "B": "Kotor atau rusak",
+      "C": "Bersih",
+      "D": "Dipuji",
+      "E": "Dihargai"
+    },
+    "answer": "B",
+    "explanation": "Tercoreng berarti menjadi kotor atau rusak (biasanya untuk nama baik atau reputasi)."
+  },
+  {
+    "id": 38,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Program Makan Siang Gratis untuk pelajar SD dan SMP akan dimulai pada bulan Juli 2025. Program ini menyasar 2.000 sekolah di 50 kota. Menu yang disediakan terdiri dari nasi, lauk (ayam atau ikan), sayur, buah, dan susu. Dana berasal dari anggaran pemerintah pusat dan provinsi.\"\n\nPertanyaan: Berapa target jumlah sekolah yang akan menerima program tersebut?",
+    "options": {
+      "A": "500 sekolah",
+      "B": "1.000 sekolah",
+      "C": "1.500 sekolah",
+      "D": "2.000 sekolah",
+      "E": "5.000 sekolah"
+    },
+    "answer": "D",
+    "explanation": "Teks menyebutkan: 'Program ini menyasar 2.000 sekolah'."
+  },
+  {
+    "id": 39,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Stres kerja yang berkepanjangan dapat menyebabkan burnout syndrome. Gejalanya meliputi kelelahan fisik dan emosional, penurunan kinerja, hingga perasaan sinis terhadap pekerjaan. Burnout tidak sama dengan stres biasa. Burnout adalah kondisi yang lebih parah dan membutuhkan penanganan khusus seperti konseling dan perubahan gaya hidup.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Stres kerja adalah hal biasa",
+      "B": "Burnout syndrome adalah kondisi parah akibat stres kerja berkepanjangan beserta gejalanya",
+      "C": "Konseling tidak berguna untuk burnout",
+      "D": "Semua pekerja pasti burnout",
+      "E": "Burnout sama dengan stres biasa"
+    },
+    "answer": "B",
+    "explanation": "Teks menjelaskan penyebab burnout (stres berkepanjangan), gejala, dan membedakannya dari stres biasa."
+  },
+  {
+    "id": 40,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Setiap akhir pekan, Joko selalu pergi ke sawah untuk membantu orang tuanya. Namun, minggu ini Joko tidak pergi ke sawah. Ibunya terlihat pergi sendiri dengan cangkul dan benih padi.\"\n\nPertanyaan: Apa yang paling mungkin terjadi pada Joko minggu ini?",
+    "options": {
+      "A": "Joko sedang liburan ke luar kota",
+      "B": "Joko sakit sehingga tidak bisa ke sawah",
+      "C": "Joko malas membantu",
+      "D": "Sawah sedang kering",
+      "E": "Tidak ada kemungkinan yang logis"
+    },
+    "answer": "B",
+    "explanation": "Teks memberi petunjuk: biasanya Joko membantu (setiap akhir pekan), tapi minggu ini tidak. Ibunya pergi sendiri. Kemungkinan logis: Joko berhalangan (sakit, ada urusan lain). Sakit adalah inferensi paling umum."
+  },
+  {
+    "id": 41,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Panen raya padi di Kabupaten Indramayu tahun ini diprediksi meningkat 15% dibanding tahun lalu. Faktor pendukungnya adalah curah hujan yang cukup dan penggunaan bibit unggul. Namun, petani masih mengeluhkan harga gabah yang rendah karena banyaknya impor beras.\"\n\nPertanyaan: Apa kendala yang dihadapi petani meskipun panen meningkat?",
+    "options": {
+      "A": "Curah hujan terlalu tinggi",
+      "B": "Bibit unggul tidak tersedia",
+      "C": "Harga gabah rendah karena impor beras",
+      "D": "Lahan sawah berkurang",
+      "E": "Pupuk mahal"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'namun, petani masih mengeluhkan harga gabah yang rendah karena banyaknya impor beras'."
+  },
+  {
+    "id": 42,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua dokter adalah sarjana medis. Beberapa sarjana medis bekerja di rumah sakit. Budi adalah seorang dokter.\"\n\nPertanyaan: Simpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Budi bukan sarjana medis",
+      "B": "Budi bekerja di rumah sakit",
+      "C": "Budi adalah sarjana medis",
+      "D": "Semua sarjana medis adalah dokter",
+      "E": "Budi tidak bekerja di rumah sakit"
+    },
+    "answer": "C",
+    "explanation": "Premis: Semua dokter adalah sarjana medis. Budi adalah dokter. Maka Budi adalah sarjana medis."
+  },
+  {
+    "id": 43,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Rencana pembangunan gedung 50 lantai itu menuai kontroversi karena dianggap akan merusak estetika kota.\"\n\nPertanyaan: Makna kata 'kontroversi' pada kalimat tersebut adalah...",
+    "options": {
+      "A": "Kesepakatan",
+      "B": "Perihal yang menimbulkan perdebatan",
+      "C": "Kebanggaan",
+      "D": "Kegagalan",
+      "E": "Kebencian"
+    },
+    "answer": "B",
+    "explanation": "Kontroversi berarti perdebatan atau pertentangan pendapat mengenai suatu hal."
+  },
+  {
+    "id": 44,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Pada tahun 2020, Indonesia mengalami resesi ekonomi akibat pandemi COVID-19. PDB Indonesia turun 2,07% dibanding tahun sebelumnya. Sektor pariwisata dan transportasi paling terpukul dengan penurunan hingga 30%. Namun, sektor teknologi informasi justru tumbuh 11%.\"\n\nPertanyaan: Berapa persen pertumbuhan sektor teknologi informasi pada tahun 2020?",
+    "options": {
+      "A": "2,07%",
+      "B": "11%",
+      "C": "30%",
+      "D": "15%",
+      "E": "0%"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan: 'sektor teknologi informasi justru tumbuh 11%'."
+  },
+  {
+    "id": 45,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Demam berdarah dengue (DBD) disebabkan oleh virus dengue yang ditularkan melalui gigitan nyamuk Aedes aegypti. Pencegahan utama adalah dengan 3M: menguras, menutup, dan mendaur ulang barang bekas. Selain itu, gerakan satu rumah satu jumantik (juru pemantau jentik) juga efektif memutus rantai penularan.\"\n\nPertanyaan: Gagasan utama teks tersebut adalah...",
+    "options": {
+      "A": "Gejala demam berdarah",
+      "B": "Penyebab dan cara pencegahan DBD",
+      "C": "Nyamuk Aedes aegypti tidak berbahaya",
+      "D": "Pengobatan demam berdarah",
+      "E": "Vaksin demam berdarah"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan penyebab (virus dengue lewat gigitan nyamuk) dan cara pencegahan (3M dan jumantik)."
+  },
+  {
+    "id": 46,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Di suatu desa, setiap kali musim kemarau tiba, sumur-sumur warga mulai mengering. Warga harus berjalan 2 kilometer ke sungai untuk mengambil air. Tahun ini musim kemarau lebih panjang dari biasanya. Beberapa warga mulai membeli air tangki.\"\n\nPertanyaan: Apa yang dapat disimpulkan tentang kondisi air di desa saat musim kemarau panjang?",
+    "options": {
+      "A": "Air sangat melimpah",
+      "B": "Air mudah didapat",
+      "C": "Sumber air bersih semakin sulit sehingga warga membeli air tangki",
+      "D": "Sungai juga mengering",
+      "E": "Warga tidak membutuhkan air"
+    },
+    "answer": "C",
+    "explanation": "Dari informasi sumur kering, harus ambil air jauh, dan musim kemarau lebih panjang, serta warga mulai beli air tangki, dapat disimpulkan sumber air bersih semakin sulit."
+  },
+  {
+    "id": 47,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Wayang kulit adalah seni pertunjukan tradisional Jawa yang telah diakui UNESCO sebagai Warisan Budaya Takbenda. Dalang memainkan wayang di balik layar dengan iringan gamelan. Cerita yang dibawakan biasanya bersumber dari Ramayana dan Mahabharata, tetapi dikemas dengan nilai-nilai lokal.\"\n\nPertanyaan: Dari manakah sumber cerita yang biasanya dibawakan dalam pertunjukan wayang kulit?",
+    "options": {
+      "A": "Cerita rakyat setempat",
+      "B": "Ramayana dan Mahabharata",
+      "C": "Kisah perjuangan pahlawan",
+      "D": "Alkitab",
+      "E": "Dongeng anak-anak"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'cerita yang dibawakan biasanya bersumber dari Ramayana dan Mahabharata'."
+  },
+  {
+    "id": 48,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Setiap hari Senin, sekolah mengadakan upacara bendera. Jika hari Senin adalah hari libur nasional, maka upacara ditiadakan. Besok adalah hari Senin. Hari libur nasional bulan ini hanya tanggal 17 Agustus.\"\n\nPertanyaan: Simpulan yang paling tepat berdasarkan informasi tersebut (pada hari biasa, bukan 17 Agustus) adalah...",
+    "options": {
+      "A": "Besok upacara ditiadakan",
+      "B": "Besok ada upacara bendera",
+      "C": "Besok libur nasional",
+      "D": "Besok tanggal 17 Agustus",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "B",
+    "explanation": "Karena besok Senin dan bukan tanggal 17 Agustus (bukan libur nasional), maka upacara tidak ditiadakan, artinya ada upacara."
+  },
+  {
+    "id": 49,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Pembangunan infrastruktur di daerah tertinggal diharapkan dapat mengakselerasi pertumbuhan ekonomi.\"\n\nPertanyaan: Makna kata 'mengakselerasi' dalam kalimat di atas adalah...",
+    "options": {
+      "A": "Memperlambat",
+      "B": "Menghentikan",
+      "C": "Mempercepat",
+      "D": "Mengabaikan",
+      "E": "Mengevaluasi"
+    },
+    "answer": "C",
+    "explanation": "Akselerasi berarti percepatan, sehingga mengakselerasi berarti mempercepat."
+  },
+  {
+    "id": 50,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Penelitian terbaru menunjukkan bahwa konsumsi kopi sebanyak 2-3 cangkir per hari dikaitkan dengan penurunan risiko penyakit jantung dan stroke. Penelitian ini melibatkan 500.000 responden selama 10 tahun. Namun, penambahan gula dan krimer dapat menghilangkan manfaat tersebut.\"\n\nPertanyaan: Berapa jumlah cangkir kopi per hari yang dikaitkan dengan penurunan risiko penyakit jantung?",
+    "options": {
+      "A": "1 cangkir",
+      "B": "2-3 cangkir",
+      "C": "4-5 cangkir",
+      "D": "Lebih dari 5 cangkir",
+      "E": "Tidak minum kopi"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'konsumsi kopi sebanyak 2-3 cangkir per hari dikaitkan dengan penurunan risiko'."
+  },
+  {
+    "id": 51,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Audiobook atau buku digital bersuara semakin diminati masyarakat perkotaan yang sibuk. Dengan audiobook, orang bisa 'membaca' sambil beraktivitas seperti mengemudi, olahraga, atau memasak. Meskipun praktis, beberapa penelitian menunjukkan bahwa pemahaman mendalam lebih baik diperoleh melalui membaca teks tertulis.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Audiobook lebih baik dari buku cetak",
+      "B": "Keuntungan audiobook untuk orang sibuk dan kekurangannya untuk pemahaman mendalam",
+      "C": "Semua orang suka audiobook",
+      "D": "Buku cetak sudah tidak berguna",
+      "E": "Audiobook hanya untuk mengemudi"
+    },
+    "answer": "B",
+    "explanation": "Teks membahas kelebihan audiobook (praktis untuk aktivitas) sekaligus kekurangan (pemahaman mendalam lebih baik dari teks tertulis)."
+  },
+  {
+    "id": 52,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Restoran A selalu ramai pengunjung setiap akhir pekan. Restoran B yang berada di seberangnya cenderung sepi. Restoran A menyediakan menu tradisional dengan harga terjangkau, sedangkan Restoran B menyajikan masakan fusion dengan harga mahal. Warga sekitar umumnya adalah karyawan pabrik dengan penghasilan menengah.\"\n\nPertanyaan: Apa penyebab paling mungkin Restoran A lebih ramai?",
+    "options": {
+      "A": "Dekorasi Restoran A lebih bagus",
+      "B": "Menu tradisional dengan harga terjangkau sesuai dengan daya beli warga sekitar",
+      "C": "Restoran B tutup",
+      "D": "Makanan Restoran A tidak enak",
+      "E": "Warga sekitar kaya raya"
+    },
+    "answer": "B",
+    "explanation": "Informasi: warga sekitar karyawan pabrik (penghasilan menengah), Restoran A menu tradisional harga terjangkau, B fusion mahal. Logis bahwa A lebih sesuai dengan daya beli warga."
+  },
+  {
+    "id": 53,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Tata surya kita terdiri dari Matahari sebagai pusat dan delapan planet yang mengelilinginya. Planet-planet tersebut terbagi menjadi planet dalam (Merkurius, Venus, Bumi, Mars) dan planet luar (Jupiter, Saturnus, Uranus, Neptunus). Planet dalam berukuran lebih kecil dan berbatu (terestrial), sedangkan planet luar berukuran raksasa dan bergas (Jovian).\"\n\nPertanyaan: Apa perbedaan utama antara planet dalam dan planet luar menurut teks?",
+    "options": {
+      "A": "Planet dalam lebih besar",
+      "B": "Planet dalam berbatu dan kecil, planet luar bergas dan besar",
+      "C": "Planet luar lebih dekat ke matahari",
+      "D": "Planet dalam bergas",
+      "E": "Tidak ada perbedaan"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'planet dalam berukuran lebih kecil dan berbatu, planet luar berukuran raksasa dan bergas'."
+  },
+  {
+    "id": 54,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika harga BBM naik, maka biaya transportasi akan naik. Jika biaya transportasi naik, maka harga bahan pokok akan naik. Akhir-akhir ini harga BBM mengalami kenaikan.\"\n\nPertanyaan: Simpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Harga bahan pokok tidak akan naik",
+      "B": "Biaya transportasi turun",
+      "C": "Harga bahan pokok akan naik",
+      "D": "BBM tidak berpengaruh terhadap transportasi",
+      "E": "Masyarakat tidak terdampak"
+    },
+    "answer": "C",
+    "explanation": "Premis: BBM naik -> transportasi naik -> harga pokok naik. Karena BBM naik (terjadi), maka harga pokok akan naik."
+  },
+  {
+    "id": 55,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Dia adalah seorang pekerja keras yang tekun dan pantang menyerah dalam menggapai cita-citanya.\"\n\nPertanyaan: Makna kata 'tekun' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Malas",
+      "B": "Ragu",
+      "C": "Rajin dan sungguh-sungguh",
+      "D": "Ceroboh",
+      "E": "Pemarah"
+    },
+    "answer": "C",
+    "explanation": "Tekun berarti rajin, sungguh-sungguh, dan tidak mudah putus asa dalam melakukan sesuatu."
+  },
+  {
+    "id": 56,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Calon presiden nomor urut 1, 2, dan 3 akan mengadakan debat terbuka di gedung Convention Hall pada tanggal 15 Desember pukul 19.00 WIB. Debat akan disiarkan langsung oleh 10 stasiun televisi dan platform streaming. Masing-masing kandidat diberikan waktu 5 menit untuk pemaparan visi, 10 menit sesi tanya jawab, dan 3 menit pernyataan penutup.\"\n\nPertanyaan: Berapa waktu yang diberikan untuk pernyataan penutup setiap kandidat?",
+    "options": {
+      "A": "3 menit",
+      "B": "5 menit",
+      "C": "10 menit",
+      "D": "15 menit",
+      "E": "20 menit"
+    },
+    "answer": "A",
+    "explanation": "Teks menyebutkan '3 menit pernyataan penutup'."
+  },
+  {
+    "id": 57,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Wisata halal menjadi tren pariwisata global. Destinasi wisata yang menyediakan fasilitas ramah Muslim seperti masjid, makanan halal, dan tempat wudhu semakin diminati. Indonesia sebagai negara dengan populasi Muslim terbesar berpotensi menjadi pusat wisata halal dunia. Namun, masih diperlukan standardisasi sertifikasi halal yang diakui internasional.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Wisata halal tidak penting",
+      "B": "Potensi Indonesia sebagai pusat wisata halal dan tantangan standardisasi",
+      "C": "Muslim tidak suka traveling",
+      "D": "Sertifikasi halal sudah sempurna",
+      "E": "Indonesia tidak memiliki potensi wisata"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan potensi Indonesia karena populasi Muslim terbesar, tetapi juga tantangan (standardisasi sertifikasi yang diakui internasional)."
+  },
+  {
+    "id": 58,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Tiga bulan terakhir, toko kelontong Pak Budi mengalami penurunan omset hingga 40%. Toko modern berskala besar berjarak 200 meter dari tokonya baru saja dibuka 4 bulan lalu. Toko modern itu buka 24 jam dan memiliki variasi produk lebih lengkap.\"\n\nPertanyaan: Apa penyebab paling mungkin penurunan omset toko Pak Budi?",
+    "options": {
+      "A": "Pak Budi tidak ramah",
+      "B": "Persaingan dari toko modern yang baru buka di dekat tokonya",
+      "C": "Produk Pak Budi mahal",
+      "D": "Pelanggan Pak Budi pindah kota",
+      "E": "Pak Budi tutup toko"
+    },
+    "answer": "B",
+    "explanation": "Kronologi: toko modern buka 4 bulan lalu, kemudian 3 bulan terakhir omset Pak Budi turun. Ini mengindikasikan korelasi sebab akibat: pelanggan beralih ke toko modern."
+  },
+  {
+    "id": 59,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Persatuan Ahli Farmasi Indonesia (PAFI) mengimbau masyarakat tidak membeli obat tanpa resep dokter. Obat keras seperti antibiotik hanya boleh dibeli dengan resep. Penggunaan antibiotik tanpa resep dapat menyebabkan resistensi bakteri. Resistensi adalah kondisi ketika bakteri kebal terhadap antibiotik sehingga pengobatan menjadi sulit.\"\n\nPertanyaan: Apa dampak dari penggunaan antibiotik tanpa resep dokter?",
+    "options": {
+      "A": "Penyembuhan lebih cepat",
+      "B": "Harga obat lebih murah",
+      "C": "Resistensi bakteri",
+      "D": "Tidak ada efek",
+      "E": "Meningkatkan daya tahan tubuh"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'Penggunaan antibiotik tanpa resep dapat menyebabkan resistensi bakteri'."
+  },
+  {
+    "id": 60,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Setiap hari Sabtu, Taman Kota ramai dikunjungi warga. Hari Sabtu ini hujan deras sejak pagi. Biasanya jika hujan, pengunjung taman menurun drastis.\"\n\nPertanyaan: Simpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Taman Kota tetap ramai",
+      "B": "Hujan tidak mempengaruhi taman",
+      "C": "Taman Kota sepi pengunjung hari Sabtu ini",
+      "D": "Pemerintah membangun atap di taman",
+      "E": "Warga tetap datang meskipun hujan"
+    },
+    "answer": "C",
+    "explanation": "Premis: jika hujan, pengunjung menurun drastis. Hari Sabtu ini hujan deras. Maka pengunjung menurun drastis (sepi)."
+  },
+  {
+    "id": 61,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Penjelasan tersangka di hadapan polisi sangat berbelit-belit dan sulit dipahami.\"\n\nPertanyaan: Makna kata 'berbelit-belit' adalah...",
+    "options": {
+      "A": "Jelas",
+      "B": "Lurus",
+      "C": "Tidak terus terang dan rumit",
+      "D": "Singkat",
+      "E": "Padat"
+    },
+    "answer": "C",
+    "explanation": "Berbelit-belit berarti tidak lurus, berliku-liku, atau tidak terus terang sehingga sulit dipahami."
+  },
+  {
+    "id": 62,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Olahraga jalan kaki 30 menit setiap hari dapat menurunkan risiko diabetes tipe 2 hingga 30%. Selain itu, jalan kaki juga memperkuat tulang dan meningkatkan suasana hati. American Diabetes Association merekomendasikan minimal 150 menit aktivitas fisik sedang per minggu.\"\n\nPertanyaan: Berapa durasi jalan kaki yang direkomendasikan per hari untuk menurunkan risiko diabetes?",
+    "options": {
+      "A": "10 menit",
+      "B": "20 menit",
+      "C": "30 menit",
+      "D": "60 menit",
+      "E": "120 menit"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'Olahraga jalan kaki 30 menit setiap hari dapat menurunkan risiko diabetes tipe 2 hingga 30%'."
+  },
+  {
+    "id": 63,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Sampah makanan menjadi masalah besar di Indonesia. Setiap tahun, 300 kg sampah makanan per kapita dihasilkan. Sampah ini sebagian besar berakhir di TPA (Tempat Pemrosesan Akhir) dan menghasilkan gas metana yang berkontribusi pada pemanasan global. Pengomposan dan bank sampah adalah solusi yang mulai diterapkan di beberapa kota.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Sampah makanan tidak berbahaya",
+      "B": "Masalah sampah makanan di Indonesia dan solusi pengomposan serta bank sampah",
+      "C": "Indonesia tidak memiliki sampah",
+      "D": "Metana tidak berbahaya",
+      "E": "TPA adalah solusi terbaik"
+    },
+    "answer": "B",
+    "explanation": "Teks menjelaskan masalah (sampah makanan besar, gas metana) dan solusi (pengomposan, bank sampah)."
+  },
+  {
+    "id": 64,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Ani adalah siswa yang selalu mendapatkan peringkat 1 di kelasnya. Ia belajar setiap malam minimal 2 jam. Teman sekelasnya, Budi, jarang belajar dan sering bermain game. Pada ujian semester lalu, nilai Budi jauh di bawah Ani.\"\n\nPertanyaan: Apa yang dapat disimpulkan tentang hubungan antara kebiasaan belajar dan prestasi?",
+    "options": {
+      "A": "Belajar tidak mempengaruhi prestasi",
+      "B": "Belajar yang tekun cenderung menghasilkan prestasi yang lebih baik",
+      "C": "Bermain game meningkatkan prestasi",
+      "D": "Ani tidak lebih pintar dari Budi",
+      "E": "Peringkat tidak penting"
+    },
+    "answer": "B",
+    "explanation": "Teks membandingkan Ani (belajar 2 jam/hari, peringkat 1) dan Budi (jarang belajar, nilai jauh di bawah). Ini mengindikasikan belajar tekun berkorelasi dengan prestasi baik."
+  },
+  {
+    "id": 65,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Revolusi Hijau pada tahun 1960-an mengenalkan varietas padi unggul (IR64, IR36), pupuk kimia, dan pestisida. Hasilnya, produktivitas padi meningkat drastis. Namun, dampak negatifnya adalah degradasi tanah, ketergantungan pada input kimia, dan hilangnya varietas padi lokal.\"\n\nPertanyaan: Apa dampak negatif Revolusi Hijau yang disebutkan dalam teks?",
+    "options": {
+      "A": "Produktivitas padi menurun",
+      "B": "Degradasi tanah dan hilangnya varietas lokal",
+      "C": "Petani menjadi kaya raya",
+      "D": "Padi lokal menjadi lebih unggul",
+      "E": "Tidak ada dampak negatif"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'dampak negatifnya adalah degradasi tanah, ketergantungan pada input kimia, dan hilangnya varietas padi lokal'."
+  },
+  {
+    "id": 66,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua kucing menyukai ikan. Kucing Persia adalah kucing. Makanan yang disukai kucing Persia adalah ikan salmon.\"\n\nPertanyaan: Simpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Kucing Persia menyukai ikan",
+      "B": "Ikan salmon tidak disukai kucing",
+      "C": "Kucing Persia tidak suka ikan",
+      "D": "Semua kucing tidak suka ikan",
+      "E": "Kucing Persia suka tikus"
+    },
+    "answer": "A",
+    "explanation": "Premis: Semua kucing suka ikan. Kucing Persia adalah kucing. Maka kucing Persia suka ikan."
+  },
+  {
+    "id": 67,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Usulan tersebut ditolak dengan alasan tidak relevan dengan kondisi lapangan.\"\n\nPertanyaan: Makna kata 'relevan' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Berhubungan atau sesuai",
+      "B": "Tidak berguna",
+      "C": "Terbaru",
+      "D": "Ketinggalan zaman",
+      "E": "Rumit"
+    },
+    "answer": "A",
+    "explanation": "Relevan berarti ada hubungannya, sesuai, atau berkaitan dengan hal yang sedang dibicarakan."
+  },
+  {
+    "id": 68,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Museum Nasional Indonesia yang terletak di Jakarta Pusat memiliki koleksi lebih dari 140.000 benda purbakala. Koleksi unggulan museum ini adalah Arca Prajnaparamita (Dewi Kebijaksanaan) dari abad ke-13, serta koleksi emas dan keramik kuno. Museum ini buka setiap Selasa-Minggu pukul 08.00-16.00.\"\n\nPertanyaan: Pada hari apa Museum Nasional Indonesia tutup?",
+    "options": {
+      "A": "Senin",
+      "B": "Selasa",
+      "C": "Rabu",
+      "D": "Kamis",
+      "E": "Jumat"
+    },
+    "answer": "A",
+    "explanation": "Teks menyebut buka 'Selasa-Minggu', artinya tutup pada hari Senin."
+  },
+  {
+    "id": 69,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Pemanfaatan energi surya di Indonesia masih rendah padahal Indonesia terletak di garis khatulistiwa dengan potensi sinar matahari melimpah. Hambatan utamanya adalah biaya panel surya yang mahal dan kurangnya insentif dari pemerintah. Padahal energi surya dapat mengurangi ketergantungan pada bahan bakar fosil.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Indonesia tidak memiliki sinar matahari",
+      "B": "Potensi energi surya besar tetapi terkendala biaya dan insentif",
+      "C": "Panel surya sudah murah",
+      "D": "Bahan bakar fosil lebih baik",
+      "E": "Pemerintah sudah memberi insentif besar"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebut potensi besar (khatulistiwa, sinar melimpah) tetapi rendah dimanfaatkan karena hambatan (biaya mahal, kurang insentif)."
+  },
+  {
+    "id": 70,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Inggris dikenal dengan cuacanya yang sering hujan. Ketika Budi pergi ke London, ia membawa payung dan jas hujan. Selama 7 hari di London, Budi tidak pernah menggunakan payung maupun jas hujannya.\"\n\nPertanyaan: Apa yang dapat disimpulkan tentang cuaca selama Budi di London?",
+    "options": {
+      "A": "Hujan setiap hari",
+      "B": "Tidak pernah hujan selama Budi di London",
+      "C": "Budi lupa membawa payung",
+      "D": "London selalu panas",
+      "E": "Payung Budi rusak"
+    },
+    "answer": "B",
+    "explanation": "Budi membawa perlengkapan hujan tetapi tidak pernah menggunakannya. Maka selama 7 hari itu, tidak turun hujan (atau tidak perlu menggunakan payung/jas hujan)."
+  },
+  {
+    "id": 71,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Cokelat hitam (dark chocolate) dengan kandungan kakao minimal 70% memiliki manfaat untuk kesehatan jantung. Flavonoid dalam cokelat hitam dapat menurunkan tekanan darah dan meningkatkan aliran darah. Namun, cokelat susu dan cokelat putih memiliki kandungan gula dan lemak yang lebih tinggi serta flavonoid lebih sedikit.\"\n\nPertanyaan: Jenis cokelat apa yang paling bermanfaat untuk kesehatan jantung menurut teks?",
+    "options": {
+      "A": "Cokelat putih",
+      "B": "Cokelat susu",
+      "C": "Cokelat hitam dengan kakao minimal 70%",
+      "D": "Cokelat merah muda",
+      "E": "Semua jenis cokelat sama"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebut 'Cokelat hitam dengan kandungan kakao minimal 70% memiliki manfaat untuk kesehatan jantung'."
+  },
+  {
+    "id": 72,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua buah-buahan mengandung vitamin C. Jeruk adalah buah-buahan. Apel juga buah-buahan. Namun, kadar vitamin C jeruk lebih tinggi daripada apel.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Jeruk tidak mengandung vitamin C",
+      "B": "Apel mengandung vitamin C",
+      "C": "Hanya jeruk yang mengandung vitamin C",
+      "D": "Buah-buahan tidak mengandung vitamin C",
+      "E": "Apel lebih tinggi vitamin C dari jeruk"
+    },
+    "answer": "B",
+    "explanation": "Dari premis 'Semua buah-buahan mengandung vitamin C' dan 'Apel adalah buah-buahan', maka apel mengandung vitamin C."
+  },
+  {
+    "id": 73,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Dia presentasi dengan sangat percaya diri dan fasih sehingga seluruh audiens terpukau.\"\n\nPertanyaan: Makna kata 'fasih' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Gagap",
+      "B": "Lancar dan mahir berbicara",
+      "C": "Tidak jelas",
+      "D": "Terbata-bata",
+      "E": "Pelan"
+    },
+    "answer": "B",
+    "explanation": "Fasih berarti lancar dan mahir dalam bertutur atau berbahasa."
+  },
+  {
+    "id": 74,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Pesawat terbang komersial umumnya terbang pada ketinggian 35.000-42.000 kaki. Pada ketinggian tersebut, suhu udara luar mencapai minus 50 derajat Celcius. Tekanan udara sangat rendah sehingga kabin pesawat harus diberi tekanan (pressurized) agar penumpang nyaman.\"\n\nPertanyaan: Berapa kisaran ketinggian terbang pesawat komersial?",
+    "options": {
+      "A": "10.000-20.000 kaki",
+      "B": "20.000-30.000 kaki",
+      "C": "35.000-42.000 kaki",
+      "D": "50.000-60.000 kaki",
+      "E": "5.000-10.000 kaki"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'terbang pada ketinggian 35.000-42.000 kaki'."
+  },
+  {
+    "id": 75,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Platform media sosial memiliki algoritma yang dirancang untuk membuat pengguna betah berlama-lama. Algoritma ini menampilkan konten yang sesuai dengan minat pengguna berdasarkan riwayat aktivitas. Akibatnya, pengguna dapat terjebak dalam filter bubble, yaitu kondisi di mana ia hanya melihat informasi yang sesuai dengan pandangannya dan jarang terpapar sudut pandang berbeda.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Media sosial aman untuk semua orang",
+      "B": "Algoritma media sosial menciptakan filter bubble yang membatasi paparan sudut pandang berbeda",
+      "C": "Algoritma tidak mempengaruhi pengguna",
+      "D": "Pengguna bebas memilih konten apapun",
+      "E": "Filter bubble tidak berbahaya"
+    },
+    "answer": "B",
+    "explanation": "Teks menjelaskan cara kerja algoritma membuat filter bubble dan dampaknya (jarang terpapar sudut pandang berbeda)."
+  },
+  {
+    "id": 76,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Last year, the company's profit increased by 20%. This year, they hired 50 new employees and expanded their factory. However, this year's profit only increased by 5%.\"\n\nPertanyaan: What can be inferred?",
+    "options": {
+      "A": "Hiring new employees always increases profit",
+      "B": "The expansion and hiring did not lead to a proportional profit increase",
+      "C": "The company will go bankrupt",
+      "D": "The employees are lazy",
+      "E": "Profit always increases every year"
+    },
+    "answer": "B",
+    "explanation": "Despite hiring and expansion, profit growth dropped from 20% to 5%, implying that additional investment didn't yield proportional returns."
+  },
+  {
+    "id": 77,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Deforestasi di Amazon telah mencapai titik tertinggi dalam 15 tahun terakhir. Lahan hutan dikonversi menjadi perkebunan kelapa sawit dan peternakan sapi. Para ilmuwan memperingatkan bahwa jika deforestasi terus berlanjut, Amazon bisa mencapai titik tanpa balik (tipping point) di mana hutan tidak mampu pulih dan berubah menjadi sabana.\"\n\nPertanyaan: Apa yang dimaksud dengan 'tipping point' dalam teks tersebut?",
+    "options": {
+      "A": "Titik di mana hutan bertambah luas",
+      "B": "Titik tanpa balik di mana hutan tidak mampu pulih",
+      "C": "Titik terendah deforestasi",
+      "D": "Titik tertinggi curah hujan",
+      "E": "Titik di mana hewan punah"
+    },
+    "answer": "B",
+    "explanation": "Teks mendefinisikan 'titik tanpa balik (tipping point) di mana hutan tidak mampu pulih dan berubah menjadi sabana'."
+  },
+  {
+    "id": 78,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika lampu merah menyala, semua kendaraan harus berhenti. Saat ini di persimpangan jalan, lampu merah menyala. Sebuah ambulans dengan sirine berbunyi mendekati persimpangan tersebut.\"\n\nPertanyaan: Simpulan yang paling tepat adalah...",
+    "options": {
+      "A": "Ambulans harus berhenti",
+      "B": "Ambulans boleh menerobos karena sirine",
+      "C": "Semua kendaraan termasuk ambulans harus berhenti secara hukum",
+      "D": "Lampu merah tidak berlaku untuk ambulans",
+      "E": "Ambulans tidak boleh lewat"
+    },
+    "answer": "C",
+    "explanation": "Premis: semua kendaraan harus berhenti saat lampu merah. Ambulans adalah kendaraan. Secara logika formal, ambulans harus berhenti. (Dalam praktik ada pengecualian, tetapi soal logika murni dari premis yang diberikan)."
+  },
+  {
+    "id": 79,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Perusahaan itu gulung tikar setelah dua tahun merugi terus-menerus.\"\n\nPertanyaan: Makna 'gulung tikar' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Pindah tempat",
+      "B": "Bangkrut atau tutup",
+      "C": "Mendapat untung besar",
+      "D": "Ekspansi bisnis",
+      "E": "Hiburan"
+    },
+    "answer": "B",
+    "explanation": "Ungkapan 'gulung tikar' berarti bangkrut atau berhenti beroperasi (biasanya karena rugi)."
+  },
+  {
+    "id": 80,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Pada tahun 2023, Indonesia memproduksi 31 juta ton beras. Konsumsi beras nasional mencapai 29 juta ton. Sisanya diekspor ke beberapa negara tetangga seperti Timor Leste dan Malaysia. Produksi ini meningkat 5% dari tahun sebelumnya.\"\n\nPertanyaan: Berapa ton beras yang diekspor Indonesia pada tahun 2023?",
+    "options": {
+      "A": "1 juta ton",
+      "B": "2 juta ton",
+      "C": "3 juta ton",
+      "D": "29 juta ton",
+      "E": "31 juta ton"
+    },
+    "answer": "B",
+    "explanation": "Produksi 31 juta ton, konsumsi 29 juta ton. Sisa = 31 - 29 = 2 juta ton (diekspor)."
+  },
+  {
+    "id": 81,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Suhu rata-rata global terus meningkat akibat emisi gas rumah kaca. Kenaikan suhu 1,5 derajat Celcius di atas pra-industri disebut sebagai ambang batas aman. Jika melewati ambang batas ini, dampak seperti naiknya permukaan laut, cuaca ekstrem, dan kepunahan spesies akan semakin parah.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Pemanasan global tidak berbahaya",
+      "B": "Ambang batas kenaikan suhu yang aman dan akibat jika dilewati",
+      "C": "Suhu akan terus turun",
+      "D": "Es di kutub mencair",
+      "E": "Spesies tidak terpengaruh"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan ambang batas aman (1,5°C) dan menjelaskan dampak jika melewatinya."
+  },
+  {
+    "id": 82,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Rudi adalah seorang pemilik toko. Setiap hari, ia membuka toko pukul 08.00. Hari ini, pukul 09.00 toko Rudi masih tutup.\"\n\nPertanyaan: Apa kesimpulan paling logis?",
+    "options": {
+      "A": "Rudi sedang libur",
+      "B": "Rudi lupa membuka toko",
+      "C": "Ada sesuatu yang berbeda dari kebiasaan Rudi hari ini",
+      "D": "Rudi pindah toko",
+      "E": "Semua pelanggan tidak datang"
+    },
+    "answer": "C",
+    "explanation": "Kebiasaan: buka 08.00. Hari ini pukul 09.00 masih tutup (sudah telat 1 jam). Artinya ada penyimpangan dari kebiasaan, meskipun alasan pastinya tidak diketahui."
+  },
+  {
+    "id": 83,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Air conditioner (AC) bekerja dengan prinsip memindahkan panas dari dalam ruangan ke luar ruangan. Refrigeran dalam AC menyerap panas saat menguap di evaporator (dalam ruangan) dan melepaskan panas saat mengembun di kondensor (luar ruangan). Proses ini membutuhkan kompresor dan listrik.\"\n\nPertanyaan: Di mana proses pelepasan panas terjadi pada AC?",
+    "options": {
+      "A": "Di evaporator",
+      "B": "Di kondensor",
+      "C": "Di kompresor",
+      "D": "Di dalam ruangan",
+      "E": "Di filter udara"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan: 'melepaskan panas saat mengembun di kondensor (luar ruangan)'."
+  },
+  {
+    "id": 84,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika hari hujan, maka jalanan licin. Jalanan tidak licin saat ini.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Hari hujan",
+      "B": "Hari tidak hujan",
+      "C": "Jalanan basah",
+      "D": "Ada genangan air",
+      "E": "Mobil sulit melaju"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: Jika hujan -> licin. Tidak licin, maka tidak hujan."
+  },
+  {
+    "id": 85,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Para relawan membantu korban bencana dengan penuh empati dan ketulusan.\"\n\nPertanyaan: Makna kata 'empati' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Ketidakpedulian",
+      "B": "Kemampuan merasakan apa yang dirasakan orang lain",
+      "C": "Kebencian",
+      "D": "Kebingungan",
+      "E": "Kesombongan"
+    },
+    "answer": "B",
+    "explanation": "Empati adalah kemampuan untuk memahami dan merasakan perasaan orang lain seolah-olah mengalaminya sendiri."
+  },
+  {
+    "id": 86,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Kota Tokyo memiliki sistem kereta bawah tanah terpadat di dunia dengan 9 juta penumpang per hari. Jalur kereta terpanjang adalah Jalur Oedo sepanjang 40,7 km. Stasiun Shinjuku adalah stasiun tersibuk dengan rata-rata 3,5 juta orang melewatinya setiap hari.\"\n\nPertanyaan: Berapa panjang Jalur Oedo?",
+    "options": {
+      "A": "9 km",
+      "B": "40,7 km",
+      "C": "3,5 km",
+      "D": "50 km",
+      "E": "100 km"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'Jalur Oedo sepanjang 40,7 km'."
+  },
+  {
+    "id": 87,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Bencana hidrometeorologi seperti banjir, tanah longsor, dan cuaca ekstrem mendominasi kejadian bencana di Indonesia sepanjang tahun 2023. Penyebab utamanya adalah perubahan iklim dan degradasi lingkungan seperti penggundulan hutan. Masyarakat diimbau untuk meningkatkan kewaspadaan dan melakukan adaptasi seperti penghijauan.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Bencana hidrometeorologi dominan di Indonesia, penyebabnya, dan imbauan adaptasi",
+      "B": "Tidak ada bencana di Indonesia",
+      "C": "Perubahan iklim tidak berdampak",
+      "D": "Masyarakat tidak perlu waspada",
+      "E": "Penghijauan tidak berguna"
+    },
+    "answer": "A",
+    "explanation": "Teks menyebut fakta bencana hidrometeorologi dominan, penyebab (perubahan iklim, deforestasi), dan imbauan (waspada, penghijauan)."
+  },
+  {
+    "id": 88,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Di kelas, guru bertanya, 'Siapa yang belum mengerjakan PR?' Tidak ada satu pun siswa yang mengangkat tangan. Guru kemudian berkata, 'Baiklah, saya akan memeriksa PR kalian satu per satu.' Beberapa siswa terlihat gelisah dan mulai membuka-buka buku.\"\n\nPertanyaan: Apa yang dapat disimpulkan?",
+    "options": {
+      "A": "Semua siswa sudah mengerjakan PR",
+      "B": "Beberapa siswa sebenarnya belum mengerjakan PR",
+      "C": "Guru tidak akan memeriksa",
+      "D": "Siswa sangat siap",
+      "E": "PR sangat mudah"
+    },
+    "answer": "B",
+    "explanation": "Siswa gelisah dan membuka-buka buku ketika guru akan memeriksa, mengindikasikan bahwa mereka sebenarnya belum mengerjakan (meskipun tidak mengangkat tangan saat ditanya)."
+  },
+  {
+    "id": 89,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Tulang manusia dewasa terdiri dari 206 tulang. Tulang terpanjang adalah tulang paha (femur), sedangkan tulang terkecil adalah tulang sanggurdi (stapes) di telinga tengah yang panjangnya hanya 2-3 mm. Tulang berfungsi sebagai penopang tubuh, pelindung organ vital, dan tempat produksi sel darah.\"\n\nPertanyaan: Berapa jumlah tulang manusia dewasa?",
+    "options": {
+      "A": "106",
+      "B": "156",
+      "C": "206",
+      "D": "256",
+      "E": "306"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'Tulang manusia dewasa terdiri dari 206 tulang'."
+  },
+  {
+    "id": 90,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua segitiga memiliki tiga sisi. Bangun datar X memiliki tiga sisi.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Bangun datar X bukan segitiga",
+      "B": "Bangun datar X adalah segitiga",
+      "C": "Bangun datar X memiliki empat sisi",
+      "D": "Bangun datar X adalah lingkaran",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "B",
+    "explanation": "Definisi segitiga adalah bangun datar dengan tiga sisi. Karena X memiliki tiga sisi, maka X adalah segitiga."
+  },
+  {
+    "id": 91,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Insiden itu membuat hubungan diplomatik kedua negara menjadi renggang.\"\n\nPertanyaan: Makna kata 'renggang' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Erat",
+      "B": "Jauh atau tidak harmonis",
+      "C": "Dekat",
+      "D": "Baik",
+      "E": "Mesra"
+    },
+    "answer": "B",
+    "explanation": "Renggang berarti longgar, tidak erat lagi, atau tidak harmonis (untuk hubungan)."
+  },
+  {
+    "id": 92,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Vaksin COVID-19 terdiri dari berbagai jenis, antara lain vaksin mRNA (Pfizer, Moderna), vaksin virus tidak aktif (Sinovac, Sinopharm), dan vaksin vektor adenovirus (AstraZeneca, Johnson & Johnson). Vaksin mRNA bekerja dengan menginstruksikan sel tubuh untuk membuat protein spike virus sehingga sistem imun mengenali dan melawannya.\"\n\nPertanyaan: Vaksin apa saja yang termasuk jenis vaksin mRNA menurut teks?",
+    "options": {
+      "A": "Sinovac dan Sinopharm",
+      "B": "Pfizer dan Moderna",
+      "C": "AstraZeneca dan Johnson & Johnson",
+      "D": "Semua vaksin",
+      "E": "Tidak ada"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebut 'vaksin mRNA (Pfizer, Moderna)' secara eksplisit."
+  },
+  {
+    "id": 93,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Transportasi umum berbasis listrik seperti kereta listrik, bus listrik, dan trem menjadi solusi mengurangi polusi udara di perkotaan. Selain lebih ramah lingkungan, biaya operasional listrik lebih murah dibanding bahan bakar fosil. Namun, tantangan utamanya adalah infrastruktur pengisian daya (charging station) yang belum merata.\"\n\nPertanyaan: Gagasan utama teks tersebut adalah...",
+    "options": {
+      "A": "Transportasi listrik mahal",
+      "B": "Kelebihan transportasi listrik dan tantangan infrastrukturnya",
+      "C": "Polusi udara tidak berbahaya",
+      "D": "Bahan bakar fosil lebih baik",
+      "E": "Charging station sudah merata"
+    },
+    "answer": "B",
+    "explanation": "Teks menjelaskan kelebihan (ramah lingkungan, biaya lebih murah) dan tantangan (charging station belum merata)."
+  },
+  {
+    "id": 94,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Sejak pabrik tekstil beroperasi di pinggiran desa, air sumur warga menjadi keruh dan berbau. Ikan-ikan di sungai mati secara massal. Daun-daun tanaman padi menguning dan tidak berbuah.\"\n\nPertanyaan: Apa yang paling mungkin terjadi?",
+    "options": {
+      "A": "Pabrik membuang limbah tanpa pengolahan ke sungai",
+      "B": "Pabrik memberi pupuk pada tanaman",
+      "C": "Warga senang dengan pabrik",
+      "D": "Air sumur menjadi lebih sehat",
+      "E": "Ikan berkembang biak"
+    },
+    "answer": "A",
+    "explanation": "Dampak: air sumur keruh, ikan mati, tanaman menguning. Ini adalah indikasi pencemaran air, kemungkinan besar limbah pabrik dibuang ke sungai."
+  },
+  {
+    "id": 95,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Kucing memiliki penglihatan yang sangat baik dalam cahaya redup karena adanya lapisan tapetum lucidum di belakang retina. Lapisan ini memantulkan cahaya kembali ke retina sehingga meningkatkan sensitivitas. Namun, kucing tidak dapat melihat warna dengan jelas seperti manusia; mereka hanya dapat melihat biru dan hijau.\"\n\nPertanyaan: Warna apa yang dapat dilihat oleh kucing?",
+    "options": {
+      "A": "Merah dan kuning",
+      "B": "Biru dan hijau",
+      "C": "Semua warna",
+      "D": "Hitam putih saja",
+      "E": "Ungu dan oranye"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'mereka hanya dapat melihat biru dan hijau'."
+  },
+  {
+    "id": 96,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika Budi rajin belajar, maka ia lulus ujian. Budi tidak lulus ujian.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Budi rajin belajar",
+      "B": "Budi tidak rajin belajar",
+      "C": "Budi pintar",
+      "D": "Ujian mudah",
+      "E": "Budi sakit"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: Jika rajin -> lulus. Tidak lulus, maka tidak rajin."
+  },
+  {
+    "id": 97,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Mobil mewah itu melaju dengan sangat kencang di jalan tol.\"\n\nPertanyaan: Makna kata 'kencang' dalam kalimat tersebut adalah...",
+    "options": {
+      "A": "Lambat",
+      "B": "Cepat",
+      "C": "Bising",
+      "D": "Berhenti",
+      "E": "Pelahan"
+    },
+    "answer": "B",
+    "explanation": "Kencang dalam konteks kecepatan berarti cepat."
+  },
+  {
+    "id": 98,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Hewan endemik Indonesia yang terkenal antara lain komodo (Nusa Tenggara Timur), burung cendrawasih (Papua), orangutan (Kalimantan dan Sumatera), dan anoa (Sulawesi). Komodo adalah kadal terbesar di dunia dengan panjang mencapai 3 meter.\"\n\nPertanyaan: Di pulau mana komodo dapat ditemukan?",
+    "options": {
+      "A": "Papua",
+      "B": "Kalimantan",
+      "C": "Sulawesi",
+      "D": "Nusa Tenggara Timur",
+      "E": "Jawa"
+    },
+    "answer": "D",
+    "explanation": "Teks menyebutkan 'komodo (Nusa Tenggara Timur)'."
+  },
+  {
+    "id": 99,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Sistem pembayaran digital seperti QRIS, e-wallet (GoPay, OVO, Dana), dan mobile banking mengubah kebiasaan bertransaksi masyarakat. Transaksi nontunai lebih cepat, praktis, dan tercatat secara digital. Namun, risiko kejahatan siber seperti phishing dan pencurian data juga meningkat.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Uang tunai lebih baik",
+      "B": "Kelebihan pembayaran digital sekaligus risiko kejahatan siber",
+      "C": "Semua orang menggunakan e-wallet",
+      "D": "Phishing tidak berbahaya",
+      "E": "Mobile banking lambat"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebut kelebihan (cepat, praktis) dan kekurangan/risiko (kejahatan siber)."
+  },
+  {
+    "id": 100,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Biasanya, Ayah pulang kerja pukul 17.00. Sekarang sudah pukul 19.00 dan Ayah belum pulang. Ibu mencoba menghubungi nomor Ayah tetapi tidak diangkat. Sepeda motor Ayah masih terparkir di kantor menurut pesan dari rekan kerjanya.\"\n\nPertanyaan: Apa yang paling mungkin terjadi?",
+    "options": {
+      "A": "Ayah sedang lembur",
+      "B": "Ayah lupa pulang",
+      "C": "Ayah mungkin sedang ada keperluan mendadak di kantor atau dalam perjalanan, tetapi motornya masih di kantor berarti ia belum meninggalkan kantor",
+      "D": "Ayah pergi tanpa motor",
+      "E": "Ayah sudah pensiun"
+    },
+    "answer": "C",
+    "explanation": "Motor masih di kantor, artinya Ayah belum meninggalkan kantor. Jam sudah telat 2 jam. Kemungkinan ada keperluan mendadak di kantor (rapat, kerja lembur)."
+  },
+  {
+    "id": 101,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Proses fotosintesis pada tumbuhan terjadi di kloroplas. Kloroplas mengandung pigmen klorofil yang menangkap energi cahaya matahari. Energi tersebut digunakan untuk mengubah karbon dioksida dan air menjadi glukosa dan oksigen. Oksigen dilepaskan ke udara sebagai produk sampingan.\"\n\nPertanyaan: Di mana fotosintesis terjadi?",
+    "options": {
+      "A": "Di mitokondria",
+      "B": "Di inti sel",
+      "C": "Di kloroplas",
+      "D": "Di vakuola",
+      "E": "Di dinding sel"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan 'Proses fotosintesis pada tumbuhan terjadi di kloroplas'."
+  },
+  {
+    "id": 102,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua artis adalah selebritas. Beberapa selebritas adalah penyanyi. Agnes adalah artis.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Agnes adalah penyanyi",
+      "B": "Agnes adalah selebritas",
+      "C": "Semua penyanyi adalah artis",
+      "D": "Agnes bukan selebritas",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Premis: Semua artis adalah selebritas. Agnes adalah artis. Maka Agnes adalah selebritas."
+  },
+  {
+    "id": 103,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Dia adalah seorang pemimpin yang karismatik sehingga bawahan sangat menghormatinya.\"\n\nPertanyaan: Makna kata 'karismatik' adalah...",
+    "options": {
+      "A": "Bosan",
+      "B": "Memiliki daya tarik dan kewibawaan yang luar biasa",
+      "C": "Lemah",
+      "D": "Tidak disukai",
+      "E": "Pendiam"
+    },
+    "answer": "B",
+    "explanation": "Karismatik berarti memiliki kepribadian yang menarik dan kemampuan untuk mempengaruhi orang lain dengan kewibawaan alami."
+  },
+  {
+    "id": 104,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Pada tahun 2024, Indonesia akan menyelenggarakan Pemilihan Umum (Pemilu) serentak untuk memilih presiden, wakil presiden, anggota DPR, DPD, dan DPRD. Pemilu akan diadakan pada tanggal 14 Februari 2024. Total daftar pemilih tetap mencapai 204 juta jiwa.\"\n\nPertanyaan: Kapan Pemilu 2024 akan diadakan?",
+    "options": {
+      "A": "14 Januari 2024",
+      "B": "14 Februari 2024",
+      "C": "14 Maret 2024",
+      "D": "14 April 2024",
+      "E": "14 Mei 2024"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'Pemilu akan diadakan pada tanggal 14 Februari 2024'."
+  },
+  {
+    "id": 105,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Artificial Intelligence (AI) atau kecerdasan buatan semakin banyak digunakan di berbagai bidang, mulai dari kesehatan (diagnosis penyakit), transportasi (mobil otonom), hingga pendidikan (tutor virtual). Namun, kekhawatiran muncul tentang hilangnya lapangan kerja manusia karena AI dapat menggantikan pekerjaan rutin. Diperlukan regulasi dan pelatihan ulang tenaga kerja.\"\n\nPertanyaan: Gagasan utama teks tersebut adalah...",
+    "options": {
+      "A": "AI tidak berguna",
+      "B": "Manfaat AI dan kekhawatiran tentang lapangan kerja serta solusinya",
+      "C": "AI akan menggantikan semua pekerjaan",
+      "D": "Tidak perlu regulasi",
+      "E": "AI hanya untuk kesehatan"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan penggunaan AI di berbagai bidang (manfaat) sekaligus kekhawatiran (hilangnya pekerjaan) dan solusi (regulasi, pelatihan)."
+  },
+  {
+    "id": 106,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Dalam suatu penelitian, 100 orang diminta memilih antara minuman A dan minuman B. 70 orang memilih A, 30 orang memilih B. Setelah itu, peneliti memberikan informasi bahwa minuman A mengandung gula 5x lebih tinggi dari B. Kemudian, 50 orang yang tadinya memilih A berubah pikiran dan memilih B.\"\n\nPertanyaan: Apa yang dapat disimpulkan tentang pengaruh informasi kandungan gula?",
+    "options": {
+      "A": "Informasi tidak berpengaruh",
+      "B": "Informasi membuat sebagian orang beralih dari A ke B karena B lebih sehat",
+      "C": "Semua orang tetap memilih A",
+      "D": "Informasi membuat orang bingung",
+      "E": "Minuman A lebih populer setelah informasi"
+    },
+    "answer": "B",
+    "explanation": "Sebelum info: 70 pilih A, 30 B. Setelah info gula A lebih tinggi: 50 dari A beralih ke B. Artinya informasi tentang kesehatan (gula tinggi) mempengaruhi pilihan."
+  },
+  {
+    "id": 107,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Bumi berputar pada porosnya (rotasi) yang menyebabkan terjadinya siang dan malam. Satu kali rotasi membutuhkan waktu 24 jam. Selain rotasi, Bumi juga bergerak mengelilingi Matahari (revolusi) yang membutuhkan waktu 365,25 hari. Revolusi menyebabkan terjadinya pergantian musim.\"\n\nPertanyaan: Berapa lama waktu yang dibutuhkan Bumi untuk satu kali rotasi?",
+    "options": {
+      "A": "12 jam",
+      "B": "24 jam",
+      "C": "30 hari",
+      "D": "365 hari",
+      "E": "365,25 hari"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'Satu kali rotasi membutuhkan waktu 24 jam'."
+  },
+  {
+    "id": 108,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Jika udara dingin, maka saya memakai jaket. Saat ini saya tidak memakai jaket.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Udara dingin",
+      "B": "Udara tidak dingin",
+      "C": "Saya di dalam ruangan",
+      "D": "Jaket saya basah",
+      "E": "Saya kedinginan"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: Jika dingin -> pakai jaket. Tidak pakai jaket, maka tidak dingin."
+  },
+  {
+    "id": 109,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Peraturan baru itu dinilai diskriminatif karena hanya menguntungkan kelompok tertentu.\"\n\nPertanyaan: Makna kata 'diskriminatif' adalah...",
+    "options": {
+      "A": "Adil",
+      "B": "Bersifat membedakan secara tidak adil",
+      "C": "Merata",
+      "D": "Menguntungkan semua",
+      "E": "Netral"
+    },
+    "answer": "B",
+    "explanation": "Diskriminatif berarti bersifat membedakan perlakuan terhadap seseorang atau kelompok secara tidak adil."
+  },
+  {
+    "id": 110,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Olahraga renang memiliki banyak manfaat, antara lain meningkatkan kapasitas paru-paru, membakar kalori (rata-rata 500 kalori per jam), melatih seluruh otot tubuh, dan mengurangi stres. Renang juga aman bagi penderita arthritis karena tidak membebani sendi.\"\n\nPertanyaan: Berapa rata-rata kalori yang terbakar dalam renang per jam?",
+    "options": {
+      "A": "200 kalori",
+      "B": "300 kalori",
+      "C": "400 kalori",
+      "D": "500 kalori",
+      "E": "600 kalori"
+    },
+    "answer": "D",
+    "explanation": "Teks menyebutkan 'membakar kalori (rata-rata 500 kalori per jam)'."
+  },
+  {
+    "id": 111,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Padi merupakan makanan pokok bagi sebagian besar penduduk Asia, termasuk Indonesia. Namun, ketergantungan pada beras menyebabkan kerentanan pangan jika terjadi gagal panen. Diversifikasi pangan dengan mengonsumsi sumber karbohidrat lain seperti jagung, singkong, dan sagu perlu digalakkan.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Beras adalah satu-satunya makanan pokok",
+      "B": "Ketergantungan pada beras berisiko, perlu diversifikasi pangan",
+      "C": "Jagung lebih enak dari beras",
+      "D": "Gagal panen tidak pernah terjadi",
+      "E": "Masyarakat tidak perlu makan"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan risiko ketergantungan beras (kerentanan pangan jika gagal panen) dan solusi (diversifikasi pangan)."
+  },
+  {
+    "id": 112,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Pak Ahmad setiap hari pergi ke kantor pukul 06.30 dan tiba pukul 07.15. Hari ini, Pak Ahmad berangkat pukul 07.00.\"\n\nPertanyaan: Apa yang paling mungkin terjadi?",
+    "options": {
+      "A": "Pak Ahmad akan tiba lebih lambat dari biasanya",
+      "B": "Pak Ahmad akan tiba lebih awal",
+      "C": "Pak Ahmad tidak pergi ke kantor",
+      "D": "Pak Ahmad pindah rumah",
+      "E": "Kantor tutup"
+    },
+    "answer": "A",
+    "explanation": "Biasanya berangkat 06.30, tiba 07.15 (waktu tempuh 45 menit). Hari ini berangkat 07.00 (terlambat 30 menit), kemungkinan besar tiba sekitar 07.45 (lebih lambat)."
+  },
+  {
+    "id": 113,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Sejarah manusia dibagi menjadi dua zaman besar: zaman prasejarah (sebelum mengenal tulisan) dan zaman sejarah (setelah mengenal tulisan). Zaman prasejarah meliputi Paleolitikum (batu tua), Mesolitikum (batu tengah), Neolitikum (batu muda), dan Megalitikum (batu besar). Zaman sejarah dimulai sekitar 3000 SM dengan ditemukannya tulisan bangsa Sumeria.\"\n\nPertanyaan: Apa yang menjadi pembeda antara zaman prasejarah dan zaman sejarah?",
+    "options": {
+      "A": "Penggunaan logam",
+      "B": "Pengenalan tulisan",
+      "C": "Pertanian",
+      "D": "Perdagangan",
+      "E": "Pembangunan candi"
+    },
+    "answer": "B",
+    "explanation": "Teks mendefinisikan: zaman prasejarah (sebelum mengenal tulisan) dan zaman sejarah (setelah mengenal tulisan)."
+  },
+  {
+    "id": 114,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Beberapa mahasiswa adalah atlet. Semua atlet rajin berlatih.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Semua mahasiswa rajin berlatih",
+      "B": "Beberapa mahasiswa rajin berlatih",
+      "C": "Tidak ada mahasiswa yang rajin",
+      "D": "Semua atlet adalah mahasiswa",
+      "E": "Mahasiswa malas berlatih"
+    },
+    "answer": "B",
+    "explanation": "Beberapa mahasiswa adalah atlet. Semua atlet rajin berlatih. Maka, beberapa mahasiswa (yang jadi atlet) rajin berlatih."
+  },
+  {
+    "id": 115,
+    "category": "Verbal - Makna Kata",
+    "question": "Bacalah kalimat berikut!\n\n\"Kita harus berpikir rasional dalam mengambil keputusan, bukan berdasarkan emosi semata.\"\n\nPertanyaan: Makna kata 'rasional' adalah...",
+    "options": {
+      "A": "Berdasarkan perasaan",
+      "B": "Berdasarkan akal sehat dan logika",
+      "C": "Berdasarkan kebiasaan",
+      "D": "Berdasarkan mimpi",
+      "E": "Berdasarkan asumsi"
+    },
+    "answer": "B",
+    "explanation": "Rasional berarti berdasarkan pikiran yang logis, akal sehat, dan dapat diterima secara nalar."
+  },
+  {
+    "id": 116,
+    "category": "Verbal - Informasi Tersurat",
+    "question": "Bacalah teks berikut!\n\n\"Kekayaan hayati Indonesia sangat melimpah. Terdapat lebih dari 30.000 spesies tumbuhan berbunga, 1.600 spesies burung, 700 spesies reptil, dan 500 spesies mamalia. Indonesia juga memiliki 20% spesies terumbu karang dunia.\"\n\nPertanyaan: Berapa spesies burung yang terdapat di Indonesia?",
+    "options": {
+      "A": "500",
+      "B": "700",
+      "C": "1.600",
+      "D": "30.000",
+      "E": "20%"
+    },
+    "answer": "C",
+    "explanation": "Teks menyebutkan '1.600 spesies burung'."
+  },
+  {
+    "id": 117,
+    "category": "Verbal - Gagasan Utama",
+    "question": "Bacalah teks berikut!\n\n\"Media sosial memiliki dampak ganda bagi remaja. Di satu sisi, media sosial membantu remaja terhubung dengan teman dan mengakses informasi. Di sisi lain, penggunaan berlebihan dapat menyebabkan kecemasan, depresi, dan gangguan tidur. Pengawasan orang tua dan batasan waktu layar penting untuk dilakukan.\"\n\nPertanyaan: Gagasan utama teks di atas adalah...",
+    "options": {
+      "A": "Media sosial tidak berdampak",
+      "B": "Dampak positif dan negatif media sosial bagi remaja serta perlunya pengawasan",
+      "C": "Remaja harus dilarang menggunakan media sosial",
+      "D": "Media sosial hanya negatif",
+      "E": "Orang tua tidak perlu peduli"
+    },
+    "answer": "B",
+    "explanation": "Teks membahas sisi positif (terhubung, informasi) dan negatif (kecemasan, depresi) serta solusi (pengawasan, batasan waktu)."
+  },
+  {
+    "id": 118,
+    "category": "Verbal - Inferensi",
+    "question": "Bacalah teks berikut!\n\n\"Sekolah X mengumumkan bahwa siswa yang tidak mengembalikan buku perpustakaan akan dikenai denda Rp5.000 per hari. Dina adalah siswa di sekolah X. Dua minggu yang lalu, Dina meminjam 3 buku. Hari ini, Dina belum juga mengembalikan buku-buku tersebut.\"\n\nPertanyaan: Berdasarkan informasi tersebut, apa yang paling mungkin akan terjadi pada Dina?",
+    "options": {
+      "A": "Dina akan mendapat hadiah",
+      "B": "Dina akan dikenai denda Rp5.000 per hari untuk setiap buku yang terlambat",
+      "C": "Dina tidak akan dikenai apa-apa",
+      "D": "Dina dipuji guru",
+      "E": "Buku akan hilang"
+    },
+    "answer": "B",
+    "explanation": "Aturan: terlambat mengembalikan buku kena denda Rp5.000 per hari. Dina terlambat (sudah 2 minggu). Maka ia akan dikenai denda."
+  },
+  {
+    "id": 119,
+    "category": "Verbal - Pemahaman Bacaan",
+    "question": "Bacalah teks berikut!\n\n\"Plastik biodegradable adalah plastik yang dapat diurai oleh mikroorganisme menjadi air, karbon dioksida, dan biomassa. Plastik ini biasanya terbuat dari bahan alami seperti pati jagung, singkong, atau tebu. Namun, proses penguraiannya membutuhkan kondisi khusus seperti suhu dan kelembaban tertentu, tidak bisa di sembarang tempat.\"\n\nPertanyaan: Dari bahan apakah plastik biodegradable biasanya dibuat?",
+    "options": {
+      "A": "Minyak bumi",
+      "B": "Bahan alami seperti pati jagung, singkong, tebu",
+      "C": "Logam",
+      "D": "Karet",
+      "E": "Kaca"
+    },
+    "answer": "B",
+    "explanation": "Teks menyebutkan 'biasanya terbuat dari bahan alami seperti pati jagung, singkong, atau tebu'."
+  },
+  {
+    "id": 120,
+    "category": "Verbal - Simpulan",
+    "question": "Bacalah teks berikut!\n\n\"Semua logam menghantarkan listrik. Besi adalah logam. Tembaga juga logam. Emas juga logam.\"\n\nPertanyaan: Simpulan yang tepat adalah...",
+    "options": {
+      "A": "Besi, tembaga, dan emas menghantarkan listrik",
+      "B": "Hanya emas yang menghantarkan listrik",
+      "C": "Besi tidak menghantarkan listrik",
+      "D": "Tembaga tidak menghantarkan listrik",
+      "E": "Logam tidak menghantarkan listrik"
+    },
+    "answer": "A",
+    "explanation": "Premis: semua logam menghantarkan listrik. Besi, tembaga, emas adalah logam. Maka ketiganya menghantarkan listrik."
+  }
+]
