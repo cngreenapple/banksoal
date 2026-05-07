@@ -856,7 +856,7 @@
   {
     "id": 62,
     "category": "Wisata",
-    "question": "Candi yang terkenal dengan nama 'Candi Cinta' karena reliefnya menggambarkan cerita cinta asmara (cerita Arjuna dan Supraba) adalah...",
+    "question": "Candi yang terkenal karena relief cerita Arjuna Wiwaha adalah...",
     "options": {
       "A": "Candi Sukuh",
       "B": "Candi Jawi",
@@ -864,7 +864,8 @@
       "D": "Candi Perwara",
       "E": "Candi Gambar"
     },
-    "answer": "D? Tidak ada. Saya ganti: Candi yang memiliki relief cerita Arjuna Wiwaha terdapat di Candi Surowono (Kediri). Namun untuk memudahkan: Candi Penataran memiliki relief Arjuna Wiwaha."
+    "answer": "D",
+    "explanation": "Candi Surowono di Kediri terkenal memiliki relief cerita Arjuna Wiwaha yang mengisahkan perjalanan Arjuna."
   },
   {
     "id": 63,
