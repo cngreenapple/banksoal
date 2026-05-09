@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "category": "Tes Verbal - Analogi",
+    "question": "RENTA : TUA = AUS : ?",
+    "options": {
+      "A": "Baru",
+      "B": "Usang",
+      "C": "Muda",
+      "D": "Kuat",
+      "E": "Segar"
+    },
+    "answer": "B",
+    "explanation": "Renta dan tua adalah sinonim. Aus sinonimnya usang."
+  },
+  {
+    "id": 2,
+    "category": "Tes Verbal - Analogi",
+    "question": "DOKTER : RUMAH SAKIT = PILOT : ?",
+    "options": {
+      "A": "Bandara",
+      "B": "Pesawat",
+      "C": "Kokpit",
+      "D": "Penerbangan",
+      "E": "Langit"
+    },
+    "answer": "A",
+    "explanation": "Hubungan profesi dengan tempat kerja utama. Dokter di rumah sakit, pilot di bandara."
+  },
+  {
+    "id": 3,
+    "category": "Tes Verbal - Analogi",
+    "question": "PENA : MENULIS = GERGAJI : ?",
+    "options": {
+      "A": "Kayu",
+      "B": "Memotong",
+      "C": "Tukang",
+      "D": "Tajam",
+      "E": "Alat"
+    },
+    "answer": "B",
+    "explanation": "Hubungan alat dengan fungsinya. Pena untuk menulis, gergaji untuk memotong."
+  },
+  {
+    "id": 4,
+    "category": "Tes Verbal - Analogi",
+    "question": "HAUS : MINUM = LELAH : ?",
+    "options": {
+      "A": "Tidur",
+      "B": "Bekerja",
+      "C": "Berjalan",
+      "D": "Olahraga",
+      "E": "Sakit"
+    },
+    "answer": "A",
+    "explanation": "Hubungan kebutuhan dengan solusinya. Haus diminum, lelah ditidur."
+  },
+  {
+    "id": 5,
+    "category": "Tes Verbal - Analogi",
+    "question": "BUKU : PERPUSTAKAAN = OBAT : ?",
+    "options": {
+      "A": "Rumah Sakit",
+      "B": "Apotek",
+      "C": "Dokter",
+      "D": "Penyakit",
+      "E": "Resep"
+    },
+    "answer": "B",
+    "explanation": "Hubungan benda dengan tempat penyimpanan/penjualan. Buku di perpustakaan, obat di apotek."
+  },
+  {
+    "id": 6,
+    "category": "Tes Verbal - Analogi",
+    "question": "GELAP : TERANG = BISING : ?",
+    "options": {
+      "A": "Ramai",
+      "B": "Sunyi",
+      "C": "Keras",
+      "D": "Pelan",
+      "E": "Tenang"
+    },
+    "answer": "B",
+    "explanation": "Hubungan antonim. Gelap lawan terang, bising lawan sunyi."
+  },
+  {
+    "id": 7,
+    "category": "Tes Verbal - Analogi",
+    "question": "AYAH : ANAK = POHON : ?",
+    "options": {
+      "A": "Daun",
+      "B": "Buah",
+      "C": "Akar",
+      "D": "Tunas",
+      "E": "Batang"
+    },
+    "answer": "D",
+    "explanation": "Hubungan induk dengan keturunan. Ayah punya anak, pohon punya tunas."
+  },
+  {
+    "id": 8,
+    "category": "Tes Verbal - Analogi",
+    "question": "KOMPOR : PANAS = KULKAS : ?",
+    "options": {
+      "A": "Beku",
+      "B": "Dingin",
+      "C": "Es",
+      "D": "Makanan",
+      "E": "Listrik"
+    },
+    "answer": "B",
+    "explanation": "Hubungan alat dengan sifat yang dihasilkan. Kompor menghasilkan panas, kulkas menghasilkan dingin."
+  },
+  {
+    "id": 9,
+    "category": "Tes Verbal - Analogi",
+    "question": "HAKIM : PENGADILAN = GURU : ?",
+    "options": {
+      "A": "Murid",
+      "B": "Sekolah",
+      "C": "Kelas",
+      "D": "Buku",
+      "E": "Mengajar"
+    },
+    "answer": "B",
+    "explanation": "Hubungan profesi dengan institusi tempat kerja. Hakim di pengadilan, guru di sekolah."
+  },
+  {
+    "id": 10,
+    "category": "Tes Verbal - Analogi",
+    "question": "LAPAR : KENYANG = KOSONG : ?",
+    "options": {
+      "A": "Penuh",
+      "B": "Isi",
+      "C": "Banyak",
+      "D": "Padat",
+      "E": "Sesak"
+    },
+    "answer": "A",
+    "explanation": "Antonim berpasangan. Lapar lawan kenyang, kosong lawan penuh."
+  },
+  {
+    "id": 11,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Semua mahasiswa harus mengikuti ujian. Budi adalah mahasiswa. Kesimpulan?",
+    "options": {
+      "A": "Tidak perlu ujian",
+      "B": "Harus mengikuti ujian",
+      "C": "Mungkin ikut ujian",
+      "D": "Ujian hanya mahasiswa",
+      "E": "Semua peserta mahasiswa"
+    },
+    "answer": "B",
+    "explanation": "Jika semua A adalah B, dan C adalah A, maka C adalah B."
+  },
+  {
+    "id": 12,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Tidak ada reptil yang menyusui. Semua ular adalah reptil. Kesimpulan?",
+    "options": {
+      "A": "Semua ular menyusui",
+      "B": "Tidak ada ular yang menyusui",
+      "C": "Sebagian ular menyusui",
+      "D": "Ular bukan reptil",
+      "E": "Reptil adalah ular"
+    },
+    "answer": "B",
+    "explanation": "Tidak ada reptil menyusui, ular reptil, maka tidak ada ular menyusui."
+  },
+  {
+    "id": 13,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Beberapa dokter adalah peneliti. Semua peneliti bergelar S2. Kesimpulan?",
+    "options": {
+      "A": "Semua dokter S2",
+      "B": "Sebagian dokter S2",
+      "C": "Tidak ada dokter S2",
+      "D": "Semua S2 adalah dokter",
+      "E": "Peneliti bukan dokter"
+    },
+    "answer": "B",
+    "explanation": "Sebagian dokter adalah peneliti, semua peneliti S2, maka sebagian dokter S2."
+  },
+  {
+    "id": 14,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Jika hujan maka jalan basah. Jalan basah. Kesimpulan?",
+    "options": {
+      "A": "Pasti hujan",
+      "B": "Tidak hujan",
+      "C": "Mungkin hujan",
+      "D": "Selalu basah",
+      "E": "Hujan tidak berpengaruh"
+    },
+    "answer": "C",
+    "explanation": "Affirming the consequent adalah fallacy. Jalan basah bisa karena sebab lain."
+  },
+  {
+    "id": 15,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Semua burung bersayap. Ayam bersayap. Kesimpulan?",
+    "options": {
+      "A": "Ayam adalah burung",
+      "B": "Ayam bukan burung",
+      "C": "Tidak dapat disimpulkan",
+      "D": "Semua bersayap adalah burung",
+      "E": "Burung adalah ayam"
+    },
+    "answer": "C",
+    "explanation": "Ayam bersayap tetapi belum tentu burung (kelelawar juga bersayap)."
+  },
+  {
+    "id": 16,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Tidak ada siswa terlambat yang boleh masuk kelas. Andi masuk kelas. Kesimpulan?",
+    "options": {
+      "A": "Andi terlambat",
+      "B": "Andi tidak terlambat",
+      "C": "Andi mungkin terlambat",
+      "D": "Semua siswa terlambat",
+      "E": "Tidak ada siswa masuk kelas"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: jika terlambat maka tidak boleh masuk. Andi masuk, berarti tidak terlambat."
+  },
+  {
+    "id": 17,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Semua pegawai negeri mendapat tunjangan. Sebagian pegawai negeri adalah guru. Kesimpulan?",
+    "options": {
+      "A": "Semua guru mendapat tunjangan",
+      "B": "Sebagian guru mendapat tunjangan",
+      "C": "Tidak ada guru yang mendapat tunjangan",
+      "D": "Semua penerima tunjangan adalah guru",
+      "E": "Guru bukan pegawai negeri"
+    },
+    "answer": "B",
+    "explanation": "Sebagian pegawai negeri adalah guru, dan semua pegawai negeri dapat tunjangan, maka sebagian guru dapat tunjangan."
+  },
+  {
+    "id": 18,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Jika rajin belajar maka nilai bagus. Nilai Siti tidak bagus. Kesimpulan?",
+    "options": {
+      "A": "Siti rajin belajar",
+      "B": "Siti tidak rajin belajar",
+      "C": "Siti mungkin rajin belajar",
+      "D": "Nilai bagus tidak perlu belajar",
+      "E": "Belajar tidak penting"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: jika P maka Q, tidak Q, maka tidak P."
+  },
+  {
+    "id": 19,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Semua tanaman membutuhkan air. Kaktus adalah tanaman. Kaktus tahan kekeringan. Kesimpulan?",
+    "options": {
+      "A": "Kaktus tidak membutuhkan air",
+      "B": "Kaktus membutuhkan air meskipun tahan kekeringan",
+      "C": "Tanaman tidak membutuhkan air",
+      "D": "Kaktus bukan tanaman",
+      "E": "Air tidak penting untuk kaktus"
+    },
+    "answer": "B",
+    "explanation": "Kaktus tetap butuh air, hanya lebih tahan kekeringan."
+  },
+  {
+    "id": 20,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Tidak ada politisi jujur yang dipercaya rakyat. Pak Budi adalah politisi yang dipercaya rakyat. Kesimpulan?",
+    "options": {
+      "A": "Pak Budi jujur",
+      "B": "Pak Budi tidak jujur",
+      "C": "Pak Budi mungkin jujur",
+      "D": "Semua politisi jujur",
+      "E": "Rakyat tidak percaya politisi"
+    },
+    "answer": "B",
+    "explanation": "Jika politisi jujur maka tidak dipercaya. Pak Budi dipercaya, maka tidak jujur."
+  },
+  {
+    "id": 21,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Premis: Jika A diterima maka B harus diterima. Jika A dan C diterima, siapa yang pasti diterima?",
+    "options": {
+      "A": "D",
+      "B": "B",
+      "C": "E",
+      "D": "F",
+      "E": "G"
+    },
+    "answer": "B",
+    "explanation": "Aturan: A → B. Karena A diterima, maka B pasti diterima."
+  },
+  {
+    "id": 22,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Premis: E hanya diterima jika F diterima. Jika E diterima dan D tidak diterima, mana yang benar?",
+    "options": {
+      "A": "A pasti diterima",
+      "B": "F pasti diterima",
+      "C": "C pasti tidak diterima",
+      "D": "G pasti diterima",
+      "E": "H pasti tidak diterima"
+    },
+    "answer": "B",
+    "explanation": "E → F. Karena E diterima, maka F pasti diterima."
+  },
+  {
+    "id": 23,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Premis: Jika C diterima maka D tidak boleh diterima. Mana kombinasi yang tidak mungkin?",
+    "options": {
+      "A": "A, B, C, E, F",
+      "B": "C, E, F, G, H",
+      "C": "A, B, D, G, H",
+      "D": "B, C, D, E, F",
+      "E": "A, B, C, G, H"
+    },
+    "answer": "D",
+    "explanation": "Aturan: C dan D tidak boleh bersama. Opsi D berisi C dan D bersamaan."
+  },
+  {
+    "id": 24,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Lima orang P, Q, R, S, T duduk berjajar. P selalu paling kiri. Siapa paling kiri?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "T"
+    },
+    "answer": "A",
+    "explanation": "Berdasarkan aturan, P selalu di posisi paling kiri."
+  },
+  {
+    "id": 25,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Lima orang duduk berjajar. S selalu di tengah. Siapa yang pasti di tengah?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "Tidak dapat ditentukan"
+    },
+    "answer": "D",
+    "explanation": "Aturan menyatakan S selalu di posisi tengah (urutan ke-3)."
+  },
+  {
+    "id": 26,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Lima orang: P kiri, S tengah, T di kanan S, Q tidak boleh di samping R. Jika R paling kanan, siapa di kanan Q?",
+    "options": {
+      "A": "P",
+      "B": "R",
+      "C": "S",
+      "D": "T",
+      "E": "Tidak ada"
+    },
+    "answer": "C",
+    "explanation": "Urutan: P - Q - S - T - R. Maka di kanan Q adalah S."
+  },
+  {
+    "id": 27,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Penjualan Novel = 2 kali Komik. Komik = 40. Berapa Novel?",
+    "options": {
+      "A": "20",
+      "B": "40",
+      "C": "60",
+      "D": "80",
+      "E": "100"
+    },
+    "answer": "D",
+    "explanation": "Novel = 2 × 40 = 80."
+  },
+  {
+    "id": 28,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Biografi + Komik = 120. Komik = 40. Berapa Biografi?",
+    "options": {
+      "A": "40",
+      "B": "60",
+      "C": "80",
+      "D": "100",
+      "E": "120"
+    },
+    "answer": "C",
+    "explanation": "Biografi = 120 - 40 = 80."
+  },
+  {
+    "id": 29,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Ensiklopedia = setengah Biografi. Biografi = 80. Berapa Ensiklopedia?",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50",
+      "E": "60"
+    },
+    "answer": "C",
+    "explanation": "Ensiklopedia = 80 ÷ 2 = 40."
+  },
+  {
+    "id": 30,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Total kemenangan 10. Merah 3, Biru 2, Hijau 1. Berapa kemenangan Kuning?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "answer": "C",
+    "explanation": "Kuning = 10 - (3+2+1) = 4."
+  },
+  {
+    "id": 31,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "3, 6, 11, 18, 27, ...",
+    "options": {
+      "A": "36",
+      "B": "37",
+      "C": "38",
+      "D": "39",
+      "E": "40"
+    },
+    "answer": "C",
+    "explanation": "Pola: +3, +5, +7, +9, +11. 27+11=38."
+  },
+  {
+    "id": 32,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "2, 5, 10, 17, 26, ...",
+    "options": {
+      "A": "35",
+      "B": "36",
+      "C": "37",
+      "D": "38",
+      "E": "39"
+    },
+    "answer": "C",
+    "explanation": "Pola: +3, +5, +7, +9, +11. 26+11=37."
+  },
+  {
+    "id": 33,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "50, 46, 41, 35, 28, ...",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23",
+      "E": "24"
+    },
+    "answer": "A",
+    "explanation": "Pengurangan: -4, -5, -6, -7, -8. 28-8=20."
+  },
+  {
+    "id": 34,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "1, 8, 27, 64, 125, ...",
+    "options": {
+      "A": "144",
+      "B": "169",
+      "C": "196",
+      "D": "216",
+      "E": "256"
+    },
+    "answer": "D",
+    "explanation": "Pola: 1³, 2³, 3³, 4³, 5³, 6³=216."
+  },
+  {
+    "id": 35,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "0, 1, 3, 6, 10, 15, ...",
+    "options": {
+      "A": "19",
+      "B": "20",
+      "C": "21",
+      "D": "22",
+      "E": "23"
+    },
+    "answer": "C",
+    "explanation": "Pola: +1, +2, +3, +4, +5, +6. 15+6=21."
+  },
+  {
+    "id": 36,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "4, 9, 16, 25, 36, ...",
+    "options": {
+      "A": "42",
+      "B": "44",
+      "C": "47",
+      "D": "49",
+      "E": "52"
+    },
+    "answer": "D",
+    "explanation": "Pola: 2², 3², 4², 5², 6², 7²=49."
+  },
+  {
+    "id": 37,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "7, 14, 28, 56, 112, ...",
+    "options": {
+      "A": "168",
+      "B": "196",
+      "C": "212",
+      "D": "224",
+      "E": "256"
+    },
+    "answer": "D",
+    "explanation": "Pola: dikali 2. 112×2=224."
+  },
+  {
+    "id": 38,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "90, 85, 75, 60, 40, ...",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "20",
+      "D": "25",
+      "E": "30"
+    },
+    "answer": "B",
+    "explanation": "Pengurangan: -5, -10, -15, -20, -25. 40-25=15."
+  },
+  {
+    "id": 39,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "2, 3, 5, 7, 11, 13, ...",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "answer": "D",
+    "explanation": "Pola: bilangan prima. Setelah 13 adalah 17."
+  },
+  {
+    "id": 40,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "1, 4, 9, 16, 25, ...",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "E": "38"
+    },
+    "answer": "D",
+    "explanation": "Pola: 1², 2², 3², 4², 5², 6²=36."
+  },
+  {
+    "id": 41,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "5 orang menyelesaikan pekerjaan dalam 10 hari. Jika ingin selesai dalam 2 hari, berapa orang?",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30",
+      "E": "35"
+    },
+    "answer": "C",
+    "explanation": "5 × 10 = x × 2 → x = 25."
+  },
+  {
+    "id": 42,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Harga setelah diskon 15% adalah Rp170.000. Harga awal?",
+    "options": {
+      "A": "180.000",
+      "B": "185.000",
+      "C": "190.000",
+      "D": "195.000",
+      "E": "200.000"
+    },
+    "answer": "E",
+    "explanation": "170.000 = 85% harga awal → harga awal = 170.000 ÷ 0,85 = 200.000."
+  },
+  {
+    "id": 43,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Kecepatan 80 km/jam, jarak 200 km. Waktu tempuh?",
+    "options": {
+      "A": "2 jam",
+      "B": "2,25 jam",
+      "C": "2,5 jam",
+      "D": "2,75 jam",
+      "E": "3 jam"
+    },
+    "answer": "C",
+    "explanation": "Waktu = 200 ÷ 80 = 2,5 jam."
+  },
+  {
+    "id": 44,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Perbandingan uang A:B:C = 2:3:5. Total uang Rp1.000.000. Berapa uang B?",
+    "options": {
+      "A": "200.000",
+      "B": "250.000",
+      "C": "300.000",
+      "D": "350.000",
+      "E": "400.000"
+    },
+    "answer": "C",
+    "explanation": "B = 3/10 × 1.000.000 = 300.000."
+  },
+  {
+    "id": 45,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Harga beli Rp5.000 per kg, untung 30%. Harga jual per kg?",
+    "options": {
+      "A": "5.500",
+      "B": "6.000",
+      "C": "6.300",
+      "D": "6.500",
+      "E": "7.000"
+    },
+    "answer": "D",
+    "explanation": "Harga jual = 5.000 × 1,3 = 6.500."
+  },
+  {
+    "id": 46,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Sebuah tangki diisi keran A dalam 3 jam, keran B dalam 5 jam. Bersamaan, berapa jam penuh?",
+    "options": {
+      "A": "1,5",
+      "B": "1,75",
+      "C": "1,875",
+      "D": "2",
+      "E": "2,125"
+    },
+    "answer": "C",
+    "explanation": "1/3 + 1/5 = 8/15 → waktu = 15/8 = 1,875 jam."
+  },
+  {
+    "id": 47,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Harga 4 buku dan 3 pensil = Rp36.000. Harga 2 buku dan 5 pensil = Rp32.000. Harga 1 buku?",
+    "options": {
+      "A": "5.000",
+      "B": "6.000",
+      "C": "7.000",
+      "D": "8.000",
+      "E": "9.000"
+    },
+    "answer": "B",
+    "explanation": "Eliminasi: 4b+3p=36.000, 2b+5p=32.000 → b=6.000."
+  },
+  {
+    "id": 48,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Diskon 25%, bayar Rp150.000. Harga awal?",
+    "options": {
+      "A": "175.000",
+      "B": "180.000",
+      "C": "185.000",
+      "D": "190.000",
+      "E": "200.000"
+    },
+    "answer": "E",
+    "explanation": "150.000 = 75% harga awal → harga awal = 150.000 ÷ 0,75 = 200.000."
+  },
+  {
+    "id": 49,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "75% lulus matematika, 65% lulus fisika, 45% keduanya. Persentase tidak lulus keduanya?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "20%",
+      "E": "25%"
+    },
+    "answer": "A",
+    "explanation": "100% = 75% + 65% - 45% + x → x = 5%."
+  },
+  {
+    "id": 50,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Harga jual Rp120.000 rugi 20%. Harga beli?",
+    "options": {
+      "A": "140.000",
+      "B": "144.000",
+      "C": "150.000",
+      "D": "155.000",
+      "E": "160.000"
+    },
+    "answer": "C",
+    "explanation": "120.000 = 80% harga beli → harga beli = 150.000."
+  },
+  {
+    "id": 51,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Segitiga, persegi, lingkaran, segitiga, persegi, ...",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Lingkaran",
+      "D": "Segi lima",
+      "E": "Belah ketupat"
+    },
+    "answer": "C",
+    "explanation": "Pola berulang setiap 3: segitiga-persegi-lingkaran."
+  },
+  {
+    "id": 52,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Arsiran di kiri, atas, kanan, bawah, ...",
+    "options": {
+      "A": "Kiri",
+      "B": "Atas",
+      "C": "Kanan",
+      "D": "Bawah",
+      "E": "Tengah"
+    },
+    "answer": "A",
+    "explanation": "Rotasi 90° searah jarum jam."
+  },
+  {
+    "id": 53,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Titik: 1, 3, 5, 7, ...",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "12"
+    },
+    "answer": "B",
+    "explanation": "Pola bilangan ganjil: 1,3,5,7,9."
+  },
+  {
+    "id": 54,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Persegi besar, sedang, kecil, ...",
+    "options": {
+      "A": "Besar",
+      "B": "Sedang",
+      "C": "Kecil",
+      "D": "Sangat kecil",
+      "E": "Tidak berubah"
+    },
+    "answer": "D",
+    "explanation": "Ukuran terus mengecil."
+  },
+  {
+    "id": 55,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Garis vertikal: 1,2,3, lalu horizontal: 1,2, ...",
+    "options": {
+      "A": "1 vertikal",
+      "B": "2 vertikal",
+      "C": "3 horizontal",
+      "D": "4 horizontal",
+      "E": "1 diagonal"
+    },
+    "answer": "C",
+    "explanation": "Pola bergantian vertikal lalu horizontal dengan jumlah bertambah."
+  },
+  {
+    "id": 56,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Lingkaran hitam, lingkaran putih, persegi hitam, persegi putih, segitiga hitam, ...",
+    "options": {
+      "A": "Segitiga putih",
+      "B": "Lingkaran hitam",
+      "C": "Persegi putih",
+      "D": "Segi lima hitam",
+      "E": "Segi lima putih"
+    },
+    "answer": "A",
+    "explanation": "Bentuk berubah: lingkaran-persegi-segitiga, warna bergantian hitam-putih."
+  },
+  {
+    "id": 57,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Panah ke atas, kanan, bawah, kiri, ...",
+    "options": {
+      "A": "Atas",
+      "B": "Kanan",
+      "C": "Bawah",
+      "D": "Kiri",
+      "E": "Diagonal"
+    },
+    "answer": "A",
+    "explanation": "Rotasi 90° searah jarum jam."
+  },
+  {
+    "id": 58,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "1 lingkaran, 2 segitiga, 3 persegi, 4 segi lima, ...",
+    "options": {
+      "A": "4 lingkaran",
+      "B": "5 segi enam",
+      "C": "5 segitiga",
+      "D": "6 lingkaran",
+      "E": "3 segi lima"
+    },
+    "answer": "B",
+    "explanation": "Jumlah bangun = n, bangun berikutnya segi-n."
+  },
+  {
+    "id": 59,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Garis diagonal kiri-atas, kiri-bawah, kanan-bawah, kanan-atas, ...",
+    "options": {
+      "A": "Kiri-atas",
+      "B": "Kiri-bawah",
+      "C": "Kanan-bawah",
+      "D": "Kanan-atas",
+      "E": "Tengah"
+    },
+    "answer": "A",
+    "explanation": "Rotasi 90° berlawanan jarum jam dari pojok."
+  },
+  {
+    "id": 60,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Warna: merah, biru, hijau, merah, biru, ...",
+    "options": {
+      "A": "Merah",
+      "B": "Biru",
+      "C": "Hijau",
+      "D": "Kuning",
+      "E": "Ungu"
+    },
+    "answer": "C",
+    "explanation": "Pola berulang setiap 3: merah-biru-hijau."
+  },
+  {
+    "id": 61,
+    "category": "Tes Verbal - Analogi",
+    "question": "KAKI : BERJALAN = TANGAN : ?",
+    "options": {
+      "A": "Menulis",
+      "B": "Memukul",
+      "C": "Memegang",
+      "D": "Menggapai",
+      "E": "Bekerja"
+    },
+    "answer": "C",
+    "explanation": "Fungsi utama kaki untuk berjalan, fungsi utama tangan untuk memegang."
+  },
+  {
+    "id": 62,
+    "category": "Tes Verbal - Analogi",
+    "question": "MATA : MELIHAT = HIDUNG : ?",
+    "options": {
+      "A": "Bernapas",
+      "B": "Mencium",
+      "C": "Bersin",
+      "D": "Mengecap",
+      "E": "Mendengar"
+    },
+    "answer": "B",
+    "explanation": "Mata untuk melihat, hidung untuk mencium."
+  },
+  {
+    "id": 63,
+    "category": "Tes Verbal - Analogi",
+    "question": "GURU : MENGAJAR = NELAYAN : ?",
+    "options": {
+      "A": "Berlayar",
+      "B": "Memancing",
+      "C": "Menjala",
+      "D": "Melaut",
+      "E": "Mencari ikan"
+    },
+    "answer": "C",
+    "explanation": "Guru mengajar, nelayan menjala (aktivitas utama)."
+  },
+  {
+    "id": 64,
+    "category": "Tes Verbal - Analogi",
+    "question": "SEMUT : KECIL = GAJAH : ?",
+    "options": {
+      "A": "Kuat",
+      "B": "Besar",
+      "C": "Belalai",
+      "D": "Berat",
+      "E": "Gading"
+    },
+    "answer": "B",
+    "explanation": "Semut identik kecil, gajah identik besar."
+  },
+  {
+    "id": 65,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Semua kucing suka ikan. Milo suka ikan. Kesimpulan?",
+    "options": {
+      "A": "Milo pasti kucing",
+      "B": "Milo mungkin kucing",
+      "C": "Milo bukan kucing",
+      "D": "Semua suka ikan adalah kucing",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Fallacy: suka ikan tidak berarti kucing, bisa hewan lain."
+  },
+  {
+    "id": 66,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Beberapa atlet adalah perenang. Semua perenang sehat. Kesimpulan?",
+    "options": {
+      "A": "Semua atlet sehat",
+      "B": "Sebagian atlet sehat",
+      "C": "Tidak ada atlet sehat",
+      "D": "Semua sehat adalah perenang",
+      "E": "Perenang bukan atlet"
+    },
+    "answer": "B",
+    "explanation": "Sebagian atlet adalah perenang, semua perenang sehat, maka sebagian atlet sehat."
+  },
+  {
+    "id": 67,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Jika malas maka mengantuk. Andi tidak mengantuk. Kesimpulan?",
+    "options": {
+      "A": "Andi malas",
+      "B": "Andi tidak malas",
+      "C": "Andi mungkin malas",
+      "D": "Malas tidak menyebabkan mengantuk",
+      "E": "Andi pasti mengantuk"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: malas → mengantuk, tidak mengantuk → tidak malas."
+  },
+  {
+    "id": 68,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "1, 2, 4, 7, 11, 16, ...",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23",
+      "E": "24"
+    },
+    "answer": "C",
+    "explanation": "Selisih: +1, +2, +3, +4, +5, +6. 16+6=22."
+  },
+  {
+    "id": 69,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "5, 7, 11, 17, 25, ...",
+    "options": {
+      "A": "32",
+      "B": "33",
+      "C": "34",
+      "D": "35",
+      "E": "36"
+    },
+    "answer": "D",
+    "explanation": "Selisih: +2, +4, +6, +8, +10. 25+10=35."
+  },
+  {
+    "id": 70,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "12 orang bekerja 15 hari. Jika 18 orang, berapa hari?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "12"
+    },
+    "answer": "C",
+    "explanation": "12 × 15 = 18 × x → x = 10 hari."
+  },
+  {
+    "id": 71,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Budi membeli 5 kg apel seharga Rp100.000. Jika harga naik 20%, harga 3 kg?",
+    "options": {
+      "A": "60.000",
+      "B": "65.000",
+      "C": "70.000",
+      "D": "72.000",
+      "E": "75.000"
+    },
+    "answer": "D",
+    "explanation": "Harga awal/kg = 20.000. Naik 20% = 24.000/kg. 3 kg = 72.000."
+  },
+  {
+    "id": 72,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Bentuk bintang, bulan, matahari, bintang, bulan, ...",
+    "options": {
+      "A": "Bintang",
+      "B": "Bulan",
+      "C": "Matahari",
+      "D": "Awan",
+      "E": "Pelangi"
+    },
+    "answer": "C",
+    "explanation": "Pola berulang setiap 3: bintang-bulan-matahari."
+  },
+  {
+    "id": 73,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Premis: Jika P maka Q. Jika Q maka R. P benar. Maka?",
+    "options": {
+      "A": "Q salah",
+      "B": "R benar",
+      "C": "R salah",
+      "D": "Q dan R salah",
+      "E": "Tidak bisa ditentukan"
+    },
+    "answer": "B",
+    "explanation": "P → Q, Q → R, maka P → R. Karena P benar, R benar."
+  },
+  {
+    "id": 74,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Semua A adalah B. Sebagian B adalah C. Kesimpulan?",
+    "options": {
+      "A": "Semua A adalah C",
+      "B": "Sebagian A adalah C",
+      "C": "Tidak ada A adalah C",
+      "D": "Semua C adalah A",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "E",
+    "explanation": "Tidak cukup informasi untuk menyimpulkan hubungan A dan C."
+  },
+  {
+    "id": 75,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "2, 3, 6, 15, 42, ...",
+    "options": {
+      "A": "85",
+      "B": "95",
+      "C": "105",
+      "D": "115",
+      "E": "123"
+    },
+    "answer": "E",
+    "explanation": "Pola: ×3 -3, ×3 -3, ×3 -3. 42×3=126-3=123."
+  },
+  {
+    "id": 76,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Modal Rp500.000, untung 15%. Harga jual?",
+    "options": {
+      "A": "525.000",
+      "B": "550.000",
+      "C": "560.000",
+      "D": "575.000",
+      "E": "600.000"
+    },
+    "answer": "D",
+    "explanation": "Harga jual = 500.000 × 1,15 = 575.000."
+  },
+  {
+    "id": 77,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Kotak dengan 1, 4, 9, 16 titik, ...",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23",
+      "E": "25"
+    },
+    "answer": "E",
+    "explanation": "Pola bilangan kuadrat: 1²,2²,3²,4²,5²=25."
+  },
+  {
+    "id": 78,
+    "category": "Tes Verbal - Analogi",
+    "question": "ELANG : TERBANG = IKAN : ?",
+    "options": {
+      "A": "Air",
+      "B": "Renang",
+      "C": "Sirip",
+      "D": "Bernapas",
+      "E": "Laut"
+    },
+    "answer": "B",
+    "explanation": "Elang terbang, ikan renang (aktivitas utama)."
+  },
+  {
+    "id": 79,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Tidak ada mamalia yang bertelur. Paus adalah mamalia. Kesimpulan?",
+    "options": {
+      "A": "Paus bertelur",
+      "B": "Paus tidak bertelur",
+      "C": "Beberapa paus bertelur",
+      "D": "Semua mamalia paus",
+      "E": "Bertelur adalah mamalia"
+    },
+    "answer": "B",
+    "explanation": "Tidak ada mamalia bertelur, paus mamalia, maka paus tidak bertelur."
+  },
+  {
+    "id": 80,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "3, 9, 27, 81, 243, ...",
+    "options": {
+      "A": "486",
+      "B": "567",
+      "C": "648",
+      "D": "729",
+      "E": "756"
+    },
+    "answer": "D",
+    "explanation": "Pola: dikali 3. 243×3=729."
+  },
+  {
+    "id": 81,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Jarak 360 km, kecepatan 90 km/jam. Berapa jam?",
+    "options": {
+      "A": "3",
+      "B": "3,5",
+      "C": "4",
+      "D": "4,5",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "Waktu = 360 ÷ 90 = 4 jam."
+  },
+  {
+    "id": 82,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Segitiga sama sisi, persegi, segi lima, segi enam, ...",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Segi lima",
+      "D": "Segi enam",
+      "E": "Segi tujuh"
+    },
+    "answer": "E",
+    "explanation": "Jumlah sisi bertambah: 3,4,5,6,7."
+  },
+  {
+    "id": 83,
+    "category": "Tes Verbal - Analogi",
+    "question": "BATU : KERAS = KAPAS : ?",
+    "options": {
+      "A": "Berat",
+      "B": "Lembut",
+      "C": "Tipis",
+      "D": "Ringan",
+      "E": "Putih"
+    },
+    "answer": "B",
+    "explanation": "Batu identik keras, kapas identik lembut."
+  },
+  {
+    "id": 84,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Enam orang duduk melingkar. A di seberang C. B di samping A. Siapa di seberang B?",
+    "options": {
+      "A": "A",
+      "B": "C",
+      "C": "D",
+      "D": "E",
+      "E": "Tidak diketahui"
+    },
+    "answer": "E",
+    "explanation": "Dengan info terbatas, posisi seberang B tidak bisa ditentukan."
+  },
+  {
+    "id": 85,
+    "category": "Tes Numerik - Deret Angka",
+    "question": "0, 3, 8, 15, 24, ...",
+    "options": {
+      "A": "32",
+      "B": "33",
+      "C": "34",
+      "D": "35",
+      "E": "36"
+    },
+    "answer": "D",
+    "explanation": "Pola: n²-1: 1²-1=0, 2²-1=3, 3²-1=8, dst. 6²-1=35."
+  },
+  {
+    "id": 86,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "40% dari 250 adalah?",
+    "options": {
+      "A": "80",
+      "B": "90",
+      "C": "100",
+      "D": "110",
+      "E": "120"
+    },
+    "answer": "C",
+    "explanation": "250 × 0,4 = 100."
+  },
+  {
+    "id": 87,
+    "category": "Tes Figural - Logika Gambar",
+    "question": "Garis vertikal, horizontal, diagonal kanan, diagonal kiri, ...",
+    "options": {
+      "A": "Vertikal",
+      "B": "Horizontal",
+      "C": "Diagonal kanan",
+      "D": "Diagonal kiri",
+      "E": "Lingkaran"
+    },
+    "answer": "A",
+    "explanation": "Pola berulang setiap 4 arah garis."
+  },
+  {
+    "id": 88,
+    "category": "Tes Verbal - Silogisme",
+    "question": "Semua siswa rajin datang pagi. Andi datang siang. Kesimpulan?",
+    "options": {
+      "A": "Andi rajin",
+      "B": "Andi tidak rajin",
+      "C": "Andi mungkin rajin",
+      "D": "Semua datang pagi",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Jika rajin maka datang pagi. Andi datang siang (tidak pagi), maka tidak rajin."
+  },
+  {
+    "id": 89,
+    "category": "Tes Numerik - Hitung Cepat",
+    "question": "Harga 2 buku dan 3 pensil = 26.000. Harga 1 buku = 2× harga pensil. Harga pensil?",
+    "options": {
+      "A": "2.000",
+      "B": "3.000",
+      "C": "3.500",
+      "D": "4.000",
+      "E": "4.500"
+    },
+    "answer": "D",
+    "explanation": "b=2p, 2(2p)+3p=4p+3p=7p=26.000 → p=4.000."
+  },
+  {
+    "id": 90,
+    "category": "Tes Verbal - Penalaran Analitis",
+    "question": "Lima orang: X lebih tinggi dari Y. Z lebih pendek dari W. V lebih tinggi dari W. Y lebih tinggi dari V. Siapa tertinggi?",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "W",
+      "E": "V"
+    },
+    "answer": "A",
+    "explanation": "Urutan: X > Y > V > W > Z. Maka X tertinggi."
+  }
+]
