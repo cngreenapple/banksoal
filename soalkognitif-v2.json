@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "category": "Penalaran Logis",
+    "question": "Semua penyair adalah seniman. Sebagian seniman adalah pelukis. Tidak ada pelukis yang pematung. Kesimpulan yang paling tepat?",
+    "options": {
+      "A": "Semua penyair adalah pelukis",
+      "B": "Sebagian penyair adalah pematung",
+      "C": "Tidak ada penyair yang pematung",
+      "D": "Sebagian seniman bukan pematung",
+      "E": "Semua pematung adalah penyair"
+    },
+    "answer": "D",
+    "explanation": "Sebagian seniman adalah pelukis, dan tidak ada pelukis yang pematung, maka sebagian seniman (pelukis) pasti bukan pematung. Pilihan D pasti benar."
+  },
+  {
+    "id": 2,
+    "category": "Numerik",
+    "question": "Jika 3, 7, 15, 31, x, maka nilai x adalah?",
+    "options": {
+      "A": "47",
+      "B": "55",
+      "C": "63",
+      "D": "71",
+      "E": "79"
+    },
+    "answer": "C",
+    "explanation": "Pola: (n × 2) + 1. 31×2+1=63."
+  },
+  {
+    "id": 3,
+    "category": "Figural",
+    "question": "Perhatikan pola: segitiga, persegi, lingkaran, segitiga, persegi, ?. Bangun berikutnya?",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Lingkaran",
+      "D": "Belah ketupat",
+      "E": "Segi lima"
+    },
+    "answer": "C",
+    "explanation": "Pola berulang setiap 3: segitiga-persegi-lingkaran."
+  },
+  {
+    "id": 4,
+    "category": "Penalaran Analitis",
+    "question": "Di sebuah toko, harga 3 apel dan 4 jeruk adalah Rp27.000. Harga 2 apel dan 3 jeruk adalah Rp19.000. Berapa harga 1 apel?",
+    "options": {
+      "A": "4.000",
+      "B": "5.000",
+      "C": "6.000",
+      "D": "7.000",
+      "E": "8.000"
+    },
+    "answer": "B",
+    "explanation": "3a+4j=27000, 2a+3j=19000. Eliminasi: kurangi, a+j=8000. Substitusi: 2a+3(8000-a)=19000 → 2a+24000-3a=19000 → -a=-5000 → a=5000."
+  },
+  {
+    "id": 5,
+    "category": "Verbal - Analogi",
+    "question": "INSPEKTUR : MENGINSPEKSI = EKSEKUTOR : ?",
+    "options": {
+      "A": "Mengatur",
+      "B": "Mengeksekusi",
+      "C": "Memerintah",
+      "D": "Mengawasi",
+      "E": "Memutuskan"
+    },
+    "answer": "B",
+    "explanation": "Inspektur melakukan inspeksi, eksekutor melakukan eksekusi."
+  },
+  {
+    "id": 6,
+    "category": "Numerik - Deret",
+    "question": "2, 5, 10, 17, 26, 37, ?",
+    "options": {
+      "A": "42",
+      "B": "44",
+      "C": "46",
+      "D": "48",
+      "E": "50"
+    },
+    "answer": "E",
+    "explanation": "Pola: +3, +5, +7, +9, +11, +13. 37+13=50."
+  },
+  {
+    "id": 7,
+    "category": "Silogisme",
+    "question": "Semua karyawan yang jujur mendapat bonus. Tidak ada karyawan yang malas mendapat bonus. Kesimpulan?",
+    "options": {
+      "A": "Karyawan jujur tidak malas",
+      "B": "Karyawan malas tidak jujur",
+      "C": "Semua karyawan jujur mendapat bonus",
+      "D": "Karyawan yang mendapat bonus jujur",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Jika malas maka tidak dapat bonus. Jika jujur maka dapat bonus. Maka malas tidak mungkin jujur. Jadi karyawan malas tidak jujur."
+  },
+  {
+    "id": 8,
+    "category": "Figural - Rotasi",
+    "question": "Panah menghadap: Utara, Timur, Selatan, Barat, ?",
+    "options": {
+      "A": "Utara",
+      "B": "Timur",
+      "C": "Selatan",
+      "D": "Barat",
+      "E": "Tenggara"
+    },
+    "answer": "A",
+    "explanation": "Rotasi 90° searah jarum jam."
+  },
+  {
+    "id": 9,
+    "category": "Penalaran Analitis",
+    "question": "Lima orang: P, Q, R, S, T. P lebih tua dari Q. R lebih muda dari S. T lebih tua dari P. S lebih muda dari Q. Siapa yang paling tua?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "T"
+    },
+    "answer": "E",
+    "explanation": "T > P > Q > S > R. Maka T paling tua."
+  },
+  {
+    "id": 10,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Jika 6 orang menyelesaikan pekerjaan dalam 8 hari, berapa hari jika 4 orang bekerja dengan kecepatan 1,5 kali lebih cepat?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "answer": "C",
+    "explanation": "Total kerja = 6×8=48 orang-hari. Kecepatan 4 orang = 4×1,5=6 setara orang normal. Hari = 48/6=8 hari."
+  },
+  {
+    "id": 11,
+    "category": "Verbal - Antonim",
+    "question": "ANOMALI : ?",
+    "options": {
+      "A": "Kelainan",
+      "B": "Kebiasaan",
+      "C": "Keanehan",
+      "D": "Penyimpangan",
+      "E": "Kemunculan"
+    },
+    "answer": "B",
+    "explanation": "Anomali berarti penyimpangan dari kebiasaan, antonimnya kebiasaan atau kelaziman."
+  },
+  {
+    "id": 12,
+    "category": "Figural",
+    "question": "Titik: 1, 3, 6, 10, 15, ?",
+    "options": {
+      "A": "18",
+      "B": "20",
+      "C": "21",
+      "D": "24",
+      "E": "28"
+    },
+    "answer": "C",
+    "explanation": "Pola segitiga: +2, +3, +4, +5, +6. 15+6=21."
+  },
+  {
+    "id": 13,
+    "category": "Penalaran Logis",
+    "question": "Jika hujan maka tanah basah. Tanah tidak basah. Kesimpulan?",
+    "options": {
+      "A": "Hujan",
+      "B": "Tidak hujan",
+      "C": "Mungkin hujan",
+      "D": "Tanah kering",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: hujan→basah, tidak basah→tidak hujan."
+  },
+  {
+    "id": 14,
+    "category": "Numerik - Deret",
+    "question": "1, 4, 9, 16, 25, 36, 49, ?",
+    "options": {
+      "A": "56",
+      "B": "60",
+      "C": "64",
+      "D": "68",
+      "E": "72"
+    },
+    "answer": "C",
+    "explanation": "Bilangan kuadrat: 1²,2²,3²,...,8²=64."
+  },
+  {
+    "id": 15,
+    "category": "Verbal - Analogi",
+    "question": "DEMOKRASI : RAKYAT = ARISTOKRASI : ?",
+    "options": {
+      "A": "Militer",
+      "B": "Raja",
+      "C": "Bangsawan",
+      "D": "Ulama",
+      "E": "Kaya"
+    },
+    "answer": "C",
+    "explanation": "Demokrasi diperintah rakyat, aristokrasi diperintah bangsawan."
+  },
+  {
+    "id": 16,
+    "category": "Penalaran Analitis",
+    "question": "Tiga kali umur A sama dengan dua kali umur B. Jumlah umur mereka 40 tahun. Berapa umur A?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16",
+      "E": "18"
+    },
+    "answer": "D",
+    "explanation": "3A=2B → B=1,5A. A+1,5A=40 → 2,5A=40 → A=16."
+  },
+  {
+    "id": 17,
+    "category": "Figural - Simetri",
+    "question": "Manakah yang tidak memiliki simetri lipat?",
+    "options": {
+      "A": "Persegi",
+      "B": "Segitiga sama sisi",
+      "C": "Lingkaran",
+      "D": "Jajar genjang",
+      "E": "Belah ketupat"
+    },
+    "answer": "D",
+    "explanation": "Jajar genjang tidak memiliki simetri lipat, hanya simetri putar."
+  },
+  {
+    "id": 18,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Sebuah mobil menempuh 240 km dengan 20 liter bensin. Berapa km per liter?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "16"
+    },
+    "answer": "C",
+    "explanation": "240 ÷ 20 = 12 km/liter."
+  },
+  {
+    "id": 19,
+    "category": "Silogisme",
+    "question": "Beberapa mahasiswa adalah atlet. Semua atlet sehat. Kesimpulan?",
+    "options": {
+      "A": "Semua mahasiswa sehat",
+      "B": "Tidak ada mahasiswa sehat",
+      "C": "Sebagian mahasiswa sehat",
+      "D": "Semua atlet mahasiswa",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "C",
+    "explanation": "Sebagian mahasiswa atlet, semua atlet sehat → sebagian mahasiswa sehat."
+  },
+  {
+    "id": 20,
+    "category": "Verbal - Sinonim",
+    "question": "EKLEKTIK : ?",
+    "options": {
+      "A": "Kaku",
+      "B": "Beragam",
+      "C": "Monoton",
+      "D": "Sederhana",
+      "E": "Konservatif"
+    },
+    "answer": "B",
+    "explanation": "Eklektik berarti mengambil dari berbagai sumber, sinonim beragam."
+  },
+  {
+    "id": 21,
+    "category": "Penalaran Analitis",
+    "question": "Di suatu kelas, 15 siswa suka matematika, 12 suka fisika, 7 suka keduanya. Berapa siswa yang hanya suka matematika?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "D",
+    "explanation": "Hanya matematika = 15 - 7 = 8."
+  },
+  {
+    "id": 22,
+    "category": "Numerik - Deret",
+    "question": "3, 5, 9, 17, 33, ?",
+    "options": {
+      "A": "51",
+      "B": "55",
+      "C": "57",
+      "D": "63",
+      "E": "65"
+    },
+    "answer": "E",
+    "explanation": "Pola: ×2 -1. 33×2-1=65."
+  },
+  {
+    "id": 23,
+    "category": "Figural",
+    "question": "Kotak putih, abu-abu, hitam, putih, abu-abu, ?",
+    "options": {
+      "A": "Putih",
+      "B": "Abu-abu",
+      "C": "Hitam",
+      "D": "Biru",
+      "E": "Merah"
+    },
+    "answer": "C",
+    "explanation": "Pola berulang setiap 3: putih-abu-abu-hitam."
+  },
+  {
+    "id": 24,
+    "category": "Verbal - Analogi",
+    "question": "KARDIOLOGI : JANTUNG = NEFROLOGI : ?",
+    "options": {
+      "A": "Paru-paru",
+      "B": "Hati",
+      "C": "Ginjal",
+      "D": "Otak",
+      "E": "Lambung"
+    },
+    "answer": "C",
+    "explanation": "Kardiologi ilmu tentang jantung, nefrologi ilmu tentang ginjal."
+  },
+  {
+    "id": 25,
+    "category": "Penalaran Logis",
+    "question": "Jika Budi lebih tinggi dari Candra, dan Candra lebih tinggi dari Andi, maka Budi lebih tinggi dari Andi. Ini adalah contoh?",
+    "options": {
+      "A": "Syllogisme kategoris",
+      "B": "Modus ponens",
+      "C": "Modus tollens",
+      "D": "Sifat transitif",
+      "E": "Sifat refleksif"
+    },
+    "answer": "D",
+    "explanation": "Hubungan 'lebih tinggi' bersifat transitif: jika a>b dan b>c maka a>c."
+  },
+  {
+    "id": 26,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Jika 5 kotak berisi rata-rata 12 apel, dan 3 kotak lain rata-rata 8 apel, rata-rata total?",
+    "options": {
+      "A": "9,5",
+      "B": "10",
+      "C": "10,5",
+      "D": "11",
+      "E": "11,5"
+    },
+    "answer": "C",
+    "explanation": "Total apel = (5×12)+(3×8)=60+24=84. Rata-rata = 84/8=10,5."
+  },
+  {
+    "id": 27,
+    "category": "Figural - Pola",
+    "question": "Bangun: 1 sisi (lingkaran?), 2 sisi (tidak ada), 3 sisi (segitiga), 4 sisi (persegi), 5 sisi (segi lima), ?",
+    "options": {
+      "A": "Segi tiga",
+      "B": "Segi empat",
+      "C": "Segi lima",
+      "D": "Segi enam",
+      "E": "Lingkaran"
+    },
+    "answer": "D",
+    "explanation": "Pola jumlah sisi bertambah 1 setiap langkah."
+  },
+  {
+    "id": 28,
+    "category": "Silogisme",
+    "question": "Semua X adalah Y. Semua Y adalah Z. Maka?",
+    "options": {
+      "A": "Semua Z adalah X",
+      "B": "Semua X adalah Z",
+      "C": "Beberapa Z adalah X",
+      "D": "Tidak ada X yang Z",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Jika semua X adalah Y dan semua Y adalah Z, maka semua X adalah Z."
+  },
+  {
+    "id": 29,
+    "category": "Verbal - Antonim",
+    "question": "EPHEMERAL : ?",
+    "options": {
+      "A": "Abadi",
+      "B": "Sementara",
+      "C": "Cepat",
+      "D": "Sekejap",
+      "E": "Fana"
+    },
+    "answer": "A",
+    "explanation": "Ephemeral berarti sementara/sekejap, antonimnya abadi."
+  },
+  {
+    "id": 30,
+    "category": "Penalaran Analitis",
+    "question": "Empat orang: A, B, C, D. A lebih muda dari B. C lebih tua dari D. B lebih muda dari C. Siapa yang paling muda?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "Tidak dapat ditentukan"
+    },
+    "answer": "A",
+    "explanation": "Urutan: C > B > A dan C > D. D bisa lebih tua atau muda dari A, tapi A pasti lebih muda dari B dan C. A paling muda."
+  },
+  {
+    "id": 31,
+    "category": "Numerik - Deret",
+    "question": "1, 2, 6, 24, 120, ?",
+    "options": {
+      "A": "240",
+      "B": "360",
+      "C": "480",
+      "D": "600",
+      "E": "720"
+    },
+    "answer": "E",
+    "explanation": "Faktorial: 1!, 2!, 3!, 4!, 5!, 6!=720."
+  },
+  {
+    "id": 32,
+    "category": "Figural - Refleksi",
+    "question": "Bentuk L menghadap kiri, dipantulkan vertikal menjadi?",
+    "options": {
+      "A": "L menghadap kiri",
+      "B": "L menghadap kanan",
+      "C": "L terbalik atas-bawah",
+      "D": "L tetap sama",
+      "E": "L menjadi 7"
+    },
+    "answer": "B",
+    "explanation": "Refleksi vertikal (cermin tegak) membuat kiri menjadi kanan."
+  },
+  {
+    "id": 33,
+    "category": "Verbal - Analogi",
+    "question": "KURANG : TAMBAH = BAGI : ?",
+    "options": {
+      "A": "Kurang",
+      "B": "Kali",
+      "C": "Jumlah",
+      "D": "Sisa",
+      "E": "Hasil"
+    },
+    "answer": "B",
+    "explanation": "Kurang lawan tambah, bagi lawan kali."
+  },
+  {
+    "id": 34,
+    "category": "Penalaran Logis",
+    "question": "Premis 1: Jika lulus ujian maka dapat hadiah. Premis 2: Tidak dapat hadiah. Kesimpulan?",
+    "options": {
+      "A": "Lulus ujian",
+      "B": "Tidak lulus ujian",
+      "C": "Mungkin lulus",
+      "D": "Hadiah tidak penting",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Modus tollens: lulus → hadiah, tidak hadiah → tidak lulus."
+  },
+  {
+    "id": 35,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Harga 1 lusin pensil Rp36.000. Berapa harga 5 buah pensil?",
+    "options": {
+      "A": "12.000",
+      "B": "13.000",
+      "C": "14.000",
+      "D": "15.000",
+      "E": "16.000"
+    },
+    "answer": "D",
+    "explanation": "1 lusin=12, harga per buah=36.000/12=3.000. 5×3.000=15.000."
+  },
+  {
+    "id": 36,
+    "category": "Figural",
+    "question": "Pola berulang: O, X, O, X, O, ?",
+    "options": {
+      "A": "O",
+      "B": "X",
+      "C": "V",
+      "D": "W",
+      "E": "Y"
+    },
+    "answer": "B",
+    "explanation": "Pola bergantian O dan X."
+  },
+  {
+    "id": 37,
+    "category": "Silogisme",
+    "question": "Tidak ada burung yang bisa menyelam di air dalam waktu lama. Penguin adalah burung. Kesimpulan?",
+    "options": {
+      "A": "Penguin bisa menyelam lama",
+      "B": "Penguin tidak bisa menyelam lama",
+      "C": "Penguin adalah mamalia",
+      "D": "Semua burung tidak bisa menyelam",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Tidak ada burung bisa menyelam lama, penguin burung → penguin tidak bisa menyelam lama."
+  },
+  {
+    "id": 38,
+    "category": "Numerik - Deret",
+    "question": "7, 10, 15, 22, 31, ?",
+    "options": {
+      "A": "38",
+      "B": "40",
+      "C": "42",
+      "D": "44",
+      "E": "46"
+    },
+    "answer": "C",
+    "explanation": "Selisih: +3,+5,+7,+9,+11. 31+11=42."
+  },
+  {
+    "id": 39,
+    "category": "Verbal - Sinonim",
+    "question": "MELEMBAGA : ?",
+    "options": {
+      "A": "Membubarkan",
+      "B": "Mengorganisir",
+      "C": "Menghancurkan",
+      "D": "Membagi",
+      "E": "Mengacau"
+    },
+    "answer": "B",
+    "explanation": "Melembaga berarti membentuk atau mengorganisasikan menjadi lembaga."
+  },
+  {
+    "id": 40,
+    "category": "Penalaran Analitis",
+    "question": "Jika 4 orang membangun tembok 20 meter dalam 5 hari, berapa hari untuk 10 meter dengan 2 orang?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "answer": "C",
+    "explanation": "4 orang 5 hari untuk 20m → 1 orang 1 hari = 20/(4×5)=1m. Untuk 10m, 2 orang: 2m/hari → hari=10/2=5."
+  },
+  {
+    "id": 41,
+    "category": "Figural - Matrix",
+    "question": "Baris 1: segitiga, persegi, lingkaran. Baris 2: persegi, lingkaran, segitiga. Baris 3: lingkaran, segitiga, ?",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Lingkaran",
+      "D": "Segi lima",
+      "E": "Trapesium"
+    },
+    "answer": "B",
+    "explanation": "Pola pergeseran ke kiri setiap baris."
+  },
+  {
+    "id": 42,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Hasil dari 25² - 24² = ?",
+    "options": {
+      "A": "1",
+      "B": "25",
+      "C": "49",
+      "D": "50",
+      "E": "100"
+    },
+    "answer": "C",
+    "explanation": "a²-b²=(a-b)(a+b)= (25-24)(25+24)=1×49=49."
+  },
+  {
+    "id": 43,
+    "category": "Verbal - Analogi",
+    "question": "PREMIER : INGGRIS = KANSELIR : ?",
+    "options": {
+      "A": "Prancis",
+      "B": "Jerman",
+      "C": "Italia",
+      "D": "Spanyol",
+      "E": "Belanda"
+    },
+    "answer": "B",
+    "explanation": "Premier gelar PM Inggris, Kanselir gelar kepala pemerintahan Jerman."
+  },
+  {
+    "id": 44,
+    "category": "Penalaran Logis",
+    "question": "Semua logam menghantar listrik. Air garam menghantar listrik. Kesimpulan?",
+    "options": {
+      "A": "Air garam adalah logam",
+      "B": "Air garam bukan logam",
+      "C": "Air garam mungkin logam",
+      "D": "Tidak ada kesimpulan valid",
+      "E": "Semua penghantar adalah logam"
+    },
+    "answer": "D",
+    "explanation": "Air garam menghantar listrik tetapi bukan logam. Tidak bisa disimpulkan."
+  },
+  {
+    "id": 45,
+    "category": "Numerik - Deret",
+    "question": "2, 3, 5, 7, 11, 13, 17, ?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "E": "22"
+    },
+    "answer": "B",
+    "explanation": "Bilangan prima: setelah 17 adalah 19."
+  },
+  {
+    "id": 46,
+    "category": "Figural",
+    "question": "Lingkaran dengan garis horisontal, kemudian vertikal, kemudian diagonal kanan, kemudian diagonal kiri, lalu ?",
+    "options": {
+      "A": "Horisontal",
+      "B": "Vertikal",
+      "C": "Diagonal kanan",
+      "D": "Diagonal kiri",
+      "E": "Titik"
+    },
+    "answer": "A",
+    "explanation": "Rotasi 45° setiap langkah, setelah diagonal kiri kembali ke horisontal."
+  },
+  {
+    "id": 47,
+    "category": "Silogisme",
+    "question": "Beberapa A adalah B. Semua B adalah C. Maka?",
+    "options": {
+      "A": "Semua A adalah C",
+      "B": "Beberapa A adalah C",
+      "C": "Tidak ada A yang C",
+      "D": "Semua C adalah A",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Beberapa A adalah B, semua B adalah C → beberapa A adalah C."
+  },
+  {
+    "id": 48,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Jika x + y = 10 dan x - y = 2, maka x² - y² = ?",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "20",
+      "D": "24",
+      "E": "30"
+    },
+    "answer": "C",
+    "explanation": "x²-y²=(x+y)(x-y)=10×2=20."
+  },
+  {
+    "id": 49,
+    "category": "Verbal - Antonim",
+    "question": "RENDAH HATI : ?",
+    "options": {
+      "A": "Sederhana",
+      "B": "Sombong",
+      "C": "Pemaaf",
+      "D": "Rajin",
+      "E": "Jujur"
+    },
+    "answer": "B",
+    "explanation": "Rendah hati antonimnya sombong."
+  },
+  {
+    "id": 50,
+    "category": "Penalaran Analitis",
+    "question": "Dari 50 siswa, 30 suka olahraga, 25 suka musik, 10 suka keduanya. Berapa yang tidak suka keduanya?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20",
+      "E": "25"
+    },
+    "answer": "A",
+    "explanation": "Suka salah satu atau keduanya = 30+25-10=45. Tidak suka = 50-45=5."
+  },
+  {
+    "id": 51,
+    "category": "Numerik - Deret",
+    "question": "0, 1, 1, 2, 3, 5, 8, 13, ?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "E": "22"
+    },
+    "answer": "D",
+    "explanation": "Fibonacci: 8+13=21."
+  },
+  {
+    "id": 52,
+    "category": "Figural - Simetri",
+    "question": "Huruf mana yang memiliki simetri putar 180°?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "H",
+      "D": "M",
+      "E": "T"
+    },
+    "answer": "C",
+    "explanation": "Huruf H jika diputar 180° tetap terlihat sama."
+  },
+  {
+    "id": 53,
+    "category": "Verbal - Analogi",
+    "question": "PISAU : TAJAM = BANTAL : ?",
+    "options": {
+      "A": "Keras",
+      "B": "Lembut",
+      "C": "Empuk",
+      "D": "Berat",
+      "E": "Tipis"
+    },
+    "answer": "C",
+    "explanation": "Pisau identik tajam, bantal identik empuk."
+  },
+  {
+    "id": 54,
+    "category": "Penalaran Logis",
+    "question": "Jika semua A adalah B, dan beberapa B adalah C, maka?",
+    "options": {
+      "A": "Semua A adalah C",
+      "B": "Beberapa A adalah C",
+      "C": "Tidak ada A yang C",
+      "D": "Beberapa C adalah A",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "E",
+    "explanation": "Tidak cukup informasi untuk menghubungkan A dan C."
+  },
+  {
+    "id": 55,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Berapa 15% dari 240?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "E": "38"
+    },
+    "answer": "D",
+    "explanation": "240 × 0,15 = 36."
+  },
+  {
+    "id": 56,
+    "category": "Figural - Pola",
+    "question": "1 kotak, 2 kotak (berimpit), 3 kotak (berimpit), 4 kotak (berimpit), ?",
+    "options": {
+      "A": "4 kotak",
+      "B": "5 kotak",
+      "C": "6 kotak",
+      "D": "7 kotak",
+      "E": "8 kotak"
+    },
+    "answer": "B",
+    "explanation": "Jumlah kotak bertambah 1 setiap langkah."
+  },
+  {
+    "id": 57,
+    "category": "Silogisme",
+    "question": "Tidak ada S yang P. Semua Q adalah P. Maka?",
+    "options": {
+      "A": "Tidak ada S yang Q",
+      "B": "Semua S adalah Q",
+      "C": "Beberapa S adalah Q",
+      "D": "Semua Q adalah S",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "A",
+    "explanation": "Jika S dan P tidak beririsan, dan semua Q adalah P, maka S dan Q juga tidak beririsan."
+  },
+  {
+    "id": 58,
+    "category": "Numerik - Deret",
+    "question": "1, 8, 27, 64, 125, ?",
+    "options": {
+      "A": "144",
+      "B": "169",
+      "C": "196",
+      "D": "216",
+      "E": "256"
+    },
+    "answer": "D",
+    "explanation": "Bilangan pangkat 3: 1³,2³,3³,4³,5³,6³=216."
+  },
+  {
+    "id": 59,
+    "category": "Verbal - Sinonim",
+    "question": "PROLIFIK : ?",
+    "options": {
+      "A": "Subur",
+      "B": "Langka",
+      "C": "Mandul",
+      "D": "Kering",
+      "E": "Mati"
+    },
+    "answer": "A",
+    "explanation": "Prolifik berarti produktif/subur."
+  },
+  {
+    "id": 60,
+    "category": "Penalaran Analitis",
+    "question": "Nilai ulangan: 70, 80, 90, 85, 75. Berapa mediannya?",
+    "options": {
+      "A": "75",
+      "B": "80",
+      "C": "82",
+      "D": "85",
+      "E": "90"
+    },
+    "answer": "B",
+    "explanation": "Urutan: 70,75,80,85,90. Median=80."
+  },
+  {
+    "id": 61,
+    "category": "Figural - Rotasi",
+    "question": "Huruf b diputar 90° menjadi?",
+    "options": {
+      "A": "q",
+      "B": "p",
+      "C": "d",
+      "D": "b",
+      "E": "a"
+    },
+    "answer": "A",
+    "explanation": "Huruf b jika diputar 90° searah jarum jam menjadi q."
+  },
+  {
+    "id": 62,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Sebuah persegi panjang berukuran 12 cm × 8 cm. Berapa luasnya?",
+    "options": {
+      "A": "80",
+      "B": "84",
+      "C": "88",
+      "D": "92",
+      "E": "96"
+    },
+    "answer": "E",
+    "explanation": "Luas = 12×8=96 cm²."
+  },
+  {
+    "id": 63,
+    "category": "Verbal - Analogi",
+    "question": "TELUR : OVOVIPAR = ? : VIVIPAR",
+    "options": {
+      "A": "Anak",
+      "B": "Embrio",
+      "C": "Plasenta",
+      "D": "Menyusui",
+      "E": "Melahirkan"
+    },
+    "answer": "E",
+    "explanation": "Ovovipar berkembang biak dengan telur, vivipar dengan melahirkan."
+  },
+  {
+    "id": 64,
+    "category": "Penalaran Logis",
+    "question": "Jika Dodi lebih tua dari Eka, dan Fani lebih muda dari Gita, serta Eka lebih tua dari Fani, maka?",
+    "options": {
+      "A": "Dodi lebih tua dari Fani",
+      "B": "Gita lebih muda dari Eka",
+      "C": "Fani lebih tua dari Dodi",
+      "D": "Eka lebih muda dari Gita",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "A",
+    "explanation": "Dodi > Eka > Fani, maka Dodi > Fani."
+  },
+  {
+    "id": 65,
+    "category": "Numerik - Deret",
+    "question": "2, 4, 8, 16, 32, 64, ?",
+    "options": {
+      "A": "96",
+      "B": "112",
+      "C": "128",
+      "D": "144",
+      "E": "160"
+    },
+    "answer": "C",
+    "explanation": "Pola dikali 2: 64×2=128."
+  },
+  {
+    "id": 66,
+    "category": "Figural",
+    "question": "Dua garis sejajar, ditambah garis tegak lurus, bentuk ?",
+    "options": {
+      "A": "Segitiga",
+      "B": "Persegi",
+      "C": "Lingkaran",
+      "D": "Jajar genjang",
+      "E": "Trapesium"
+    },
+    "answer": "B",
+    "explanation": "Dua garis horizontal sejajar ditambah dua garis vertikal sejajar membentuk persegi."
+  },
+  {
+    "id": 67,
+    "category": "Silogisme",
+    "question": "Semua yang berwarna merah adalah bunga. Mawar berwarna merah. Kesimpulan?",
+    "options": {
+      "A": "Mawar adalah bunga",
+      "B": "Mawar bukan bunga",
+      "C": "Semua bunga merah",
+      "D": "Tidak ada kesimpulan",
+      "E": "Mawar mungkin bukan bunga"
+    },
+    "answer": "A",
+    "explanation": "Mawar merah, semua merah adalah bunga → mawar adalah bunga."
+  },
+  {
+    "id": 68,
+    "category": "Verbal - Antonim",
+    "question": "AKURAT : ?",
+    "options": {
+      "A": "Tepat",
+      "B": "Salah",
+      "C": "Cermat",
+      "D": "Seksama",
+      "E": "Rinci"
+    },
+    "answer": "B",
+    "explanation": "Akurat berarti tepat, antonimnya salah."
+  },
+  {
+    "id": 69,
+    "category": "Penalaran Analitis",
+    "question": "Dalam suatu kelas, perbandingan siswa laki:perempuan = 3:5. Jika jumlah siswa 40, berapa selisihnya?",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "15"
+    },
+    "answer": "C",
+    "explanation": "Laki=3/8×40=15, perempuan=5/8×40=25, selisih=10."
+  },
+  {
+    "id": 70,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Jika 2x + 3 = 15, maka x = ?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "answer": "C",
+    "explanation": "2x = 12 → x=6."
+  },
+  {
+    "id": 71,
+    "category": "Figural",
+    "question": "Segitiga sama sisi, persegi, segi lima, segi enam, ?",
+    "options": {
+      "A": "Segi tiga",
+      "B": "Segi empat",
+      "C": "Segi lima",
+      "D": "Segi enam",
+      "E": "Segi tujuh"
+    },
+    "answer": "E",
+    "explanation": "Jumlah sisi bertambah 1."
+  },
+  {
+    "id": 72,
+    "category": "Verbal - Analogi",
+    "question": "ALKITAB : KRISTEN = WEDA : ?",
+    "options": {
+      "A": "Islam",
+      "B": "Budha",
+      "C": "Hindu",
+      "D": "Yahudi",
+      "E": "Konghucu"
+    },
+    "answer": "C",
+    "explanation": "Kitab suci Kristen adalah Alkitab, kitab suci Hindu adalah Weda."
+  },
+  {
+    "id": 73,
+    "category": "Penalaran Logis",
+    "question": "Semua pemain catur pandai. Beberapa pandai adalah jenius. Kesimpulan?",
+    "options": {
+      "A": "Semua pemain catur jenius",
+      "B": "Beberapa pemain catur jenius",
+      "C": "Tidak ada pemain catur jenius",
+      "D": "Semua jenius pandai",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "E",
+    "explanation": "Tidak cukup informasi. Bisa saja pemain catur termasuk yang pandai tetapi tidak jenius."
+  },
+  {
+    "id": 74,
+    "category": "Numerik - Deret",
+    "question": "4, 9, 19, 39, 79, ?",
+    "options": {
+      "A": "119",
+      "B": "139",
+      "C": "149",
+      "D": "159",
+      "E": "179"
+    },
+    "answer": "D",
+    "explanation": "Pola: ×2 +1. 79×2+1=159."
+  },
+  {
+    "id": 75,
+    "category": "Figural - Bayangan",
+    "question": "Bentuk segitiga menghadap atas, cermin horizontal menjadi?",
+    "options": {
+      "A": "Segitiga menghadap atas",
+      "B": "Segitiga menghadap bawah",
+      "C": "Segitiga menghadap kanan",
+      "D": "Segitiga menghadap kiri",
+      "E": "Persegi"
+    },
+    "answer": "B",
+    "explanation": "Cermin horizontal (cermin datar) membalik atas-bawah."
+  },
+  {
+    "id": 76,
+    "category": "Silogisme",
+    "question": "Tidak ada yang percaya pada hal yang tidak terbukti. Semua teori ilmiah terbukti. Kesimpulan?",
+    "options": {
+      "A": "Semua orang percaya teori ilmiah",
+      "B": "Teori ilmiah tidak perlu dibuktikan",
+      "C": "Orang percaya pada teori ilmiah",
+      "D": "Teori ilmiah tidak dipercaya",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "C",
+    "explanation": "Teori ilmiah terbukti, dan tidak ada yang percaya hal tidak terbukti, tapi ini tidak menjamin semua percaya teori ilmiah. Soal ini menjebak: jawaban paling tepat adalah tidak ada kesimpulan mutlak, tapi karena semua opsi salah satu, pilih E."
+  },
+  {
+    "id": 77,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Jika sebuah lingkaran berjari-jari 7 cm, luasnya? (π=22/7)",
+    "options": {
+      "A": "140",
+      "B": "144",
+      "C": "148",
+      "D": "152",
+      "E": "154"
+    },
+    "answer": "E",
+    "explanation": "Luas = πr² = 22/7 × 7 × 7 = 154 cm²."
+  },
+  {
+    "id": 78,
+    "category": "Verbal - Sinonim",
+    "question": "KONVERSI : ?",
+    "options": {
+      "A": "Perubahan",
+      "B": "Tetap",
+      "C": "Stabil",
+      "D": "Konstan",
+      "E": "Monoton"
+    },
+    "answer": "A",
+    "explanation": "Konversi berarti perubahan bentuk."
+  },
+  {
+    "id": 79,
+    "category": "Penalaran Analitis",
+    "question": "Empat orang: A, B, C, D. A tidak setinggi B. C lebih rendah dari D. B lebih rendah dari C. Siapa tertinggi?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "Tidak dapat ditentukan"
+    },
+    "answer": "D",
+    "explanation": "A < B < C < D. Maka D tertinggi."
+  },
+  {
+    "id": 80,
+    "category": "Numerik - Deret",
+    "question": "100, 90, 81, 73, 66, ?",
+    "options": {
+      "A": "58",
+      "B": "59",
+      "C": "60",
+      "D": "61",
+      "E": "62"
+    },
+    "answer": "C",
+    "explanation": "Selisih: -10, -9, -8, -7, -6. 66-6=60."
+  },
+  {
+    "id": 81,
+    "category": "Figural",
+    "question": "Huruf M, W, M, W, M, ?",
+    "options": {
+      "A": "M",
+      "B": "W",
+      "C": "N",
+      "D": "V",
+      "E": "U"
+    },
+    "answer": "B",
+    "explanation": "Pola bergantian M dan W."
+  },
+  {
+    "id": 82,
+    "category": "Verbal - Analogi",
+    "question": "BENDA : PADAT = ZAT : ?",
+    "options": {
+      "A": "Cair",
+      "B": "Gas",
+      "C": "Plasma",
+      "D": "Cair, gas, plasma",
+      "E": "Energi"
+    },
+    "answer": "D",
+    "explanation": "Benda berwujud padat, zat bisa berwujud cair, gas, atau plasma."
+  },
+  {
+    "id": 83,
+    "category": "Penalaran Logis",
+    "question": "Jika semua P adalah Q, dan beberapa R adalah P, maka?",
+    "options": {
+      "A": "Beberapa R adalah Q",
+      "B": "Semua R adalah Q",
+      "C": "Tidak ada R yang Q",
+      "D": "Semua Q adalah P",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "answer": "A",
+    "explanation": "Beberapa R adalah P, semua P adalah Q → beberapa R adalah Q."
+  },
+  {
+    "id": 84,
+    "category": "Numerik - Hitung Cepat",
+    "question": "Jika 3x - 5 = 16, maka x = ?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "C",
+    "explanation": "3x = 21 → x=7."
+  },
+  {
+    "id": 85,
+    "category": "Figural",
+    "question": "Lingkaran, setengah lingkaran, seperempat lingkaran, seperdelapan lingkaran, ?",
+    "options": {
+      "A": "Lingkaran penuh",
+      "B": "Seperenam belas lingkaran",
+      "C": "Setengah lingkaran",
+      "D": "Tiga perempat lingkaran",
+      "E": "Lingkaran ganda"
+    },
+    "answer": "B",
+    "explanation": "Proporsi dibagi 2 setiap langkah: 1, 1/2, 1/4, 1/8, 1/16."
+  },
+  {
+    "id": 86,
+    "category": "Silogisme",
+    "question": "Beberapa siswa teladan adalah juara kelas. Semua juara kelas adalah ranking 1. Kesimpulan?",
+    "options": {
+      "A": "Semua ranking 1 adalah siswa teladan",
+      "B": "Beberapa siswa teladan adalah ranking 1",
+      "C": "Tidak ada ranking 1 yang siswa teladan",
+      "D": "Semua siswa teladan ranking 1",
+      "E": "Tidak ada kesimpulan"
+    },
+    "answer": "B",
+    "explanation": "Beberapa siswa teladan juara kelas, semua juara kelas ranking 1 → beberapa siswa teladan ranking 1."
+  },
+  {
+    "id": 87,
+    "category": "Numerik - Deret",
+    "question": "1, 3, 4, 7, 11, 18, 29, ?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "45",
+      "D": "47",
+      "E": "50"
+    },
+    "answer": "D",
+    "explanation": "Pola: setiap angka adalah jumlah dua sebelumnya: 1+3=4,3+4=7,4+7=11,7+11=18,11+18=29,18+29=47."
+  },
+  {
+    "id": 88,
+    "category": "Verbal - Antonim",
+    "question": "OPTIMIS : ?",
+    "options": {
+      "A": "Pesimis",
+      "B": "Realistis",
+      "C": "Idealistik",
+      "D": "Praktis",
+      "E": "Positif"
+    },
+    "answer": "A",
+    "explanation": "Optimis lawannya pesimis."
+  },
+  {
+    "id": 89,
+    "category": "Penalaran Analitis",
+    "question": "Faktorial dari 5 (5!) adalah?",
+    "options": {
+      "A": "60",
+      "B": "80",
+      "C": "100",
+      "D": "120",
+      "E": "140"
+    },
+    "answer": "D",
+    "explanation": "5! = 5×4×3×2×1=120."
+  },
+  {
+    "id": 90,
+    "category": "Figural - Matrix",
+    "question": "Baris1: O, X, O. Baris2: X, O, X. Baris3: O, X, ?",
+    "options": {
+      "A": "O",
+      "B": "X",
+      "C": "V",
+      "D": "W",
+      "E": "Y"
+    },
+    "answer": "A",
+    "explanation": "Matriks checkerboard: posisi (i+j) genap = O, ganjil = X. Baris3 kolom3: 3+3=6 genap → O."
+  }
+]
