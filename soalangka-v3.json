@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "category": "Aljabar",
+    "topic": "Penyederhanaan Ekspresi",
+    "question": "Sederhanakan: 3(2x - 4) + 2(x + 5)",
+    "options": {
+      "A": "6x - 2",
+      "B": "8x - 2",
+      "C": "8x - 12",
+      "D": "6x + 2",
+      "E": "8x + 2"
+    },
+    "answer": "B",
+    "explanation": "3(2x-4)=6x-12, 2(x+5)=2x+10, jumlah=8x-2."
+  },
+  {
+    "id": 2,
+    "category": "Aljabar",
+    "topic": "Persamaan Linear",
+    "question": "Jika 5x - 7 = 3x + 9, maka nilai x adalah?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "answer": "C",
+    "explanation": "5x-3x=9+7 → 2x=16 → x=8."
+  },
+  {
+    "id": 3,
+    "category": "Aritmatika",
+    "topic": "Operasi Dasar",
+    "question": "Hasil dari 123 + 456 - 234 = ?",
+    "options": {
+      "A": "335",
+      "B": "345",
+      "C": "355",
+      "D": "365",
+      "E": "375"
+    },
+    "answer": "B",
+    "explanation": "123+456=579, 579-234=345."
+  },
+  {
+    "id": 4,
+    "category": "Geometri",
+    "topic": "Luas Bangun Datar",
+    "question": "Luas persegi panjang dengan panjang 12 cm dan lebar 8 cm adalah?",
+    "options": {
+      "A": "80 cm²",
+      "B": "84 cm²",
+      "C": "88 cm²",
+      "D": "92 cm²",
+      "E": "96 cm²"
+    },
+    "answer": "E",
+    "explanation": "Luas = p × l = 12 × 8 = 96 cm²."
+  },
+  {
+    "id": 5,
+    "category": "Statistika",
+    "topic": "Rata-rata",
+    "question": "Rata-rata dari 8, 12, 15, 20, 25 adalah?",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "answer": "C",
+    "explanation": "Jumlah=80, n=5, rata-rata=80/5=16."
+  },
+  {
+    "id": 6,
+    "category": "Soal Cerita",
+    "topic": "Aplikasi",
+    "question": "Budi membeli 3 buku seharga Rp15.000 per buku dan 2 pensil seharga Rp2.000 per pensil. Berapa total yang harus dibayar?",
+    "options": {
+      "A": "45.000",
+      "B": "46.000",
+      "C": "47.000",
+      "D": "48.000",
+      "E": "49.000"
+    },
+    "answer": "E",
+    "explanation": "3×15.000=45.000, 2×2.000=4.000, total=49.000."
+  },
+  {
+    "id": 7,
+    "category": "Aljabar",
+    "topic": "Pertidaksamaan Linear",
+    "question": "Penyelesaian dari 2x + 5 > 13 adalah?",
+    "options": {
+      "A": "x > 3",
+      "B": "x > 4",
+      "C": "x > 5",
+      "D": "x < 4",
+      "E": "x < 5"
+    },
+    "answer": "B",
+    "explanation": "2x > 13-5 → 2x > 8 → x > 4."
+  },
+  {
+    "id": 8,
+    "category": "Aritmatika",
+    "topic": "Pecahan",
+    "question": "Hasil dari 3/4 + 2/5 adalah?",
+    "options": {
+      "A": "1 1/20",
+      "B": "1 3/20",
+      "C": "1 5/20",
+      "D": "1 7/20",
+      "E": "1 9/20"
+    },
+    "answer": "B",
+    "explanation": "3/4=15/20, 2/5=8/20, jumlah=23/20=1 3/20."
+  },
+  {
+    "id": 9,
+    "category": "Geometri",
+    "topic": "Keliling Lingkaran",
+    "question": "Keliling lingkaran dengan jari-jari 14 cm (π=22/7) adalah?",
+    "options": {
+      "A": "44 cm",
+      "B": "66 cm",
+      "C": "88 cm",
+      "D": "110 cm",
+      "E": "132 cm"
+    },
+    "answer": "C",
+    "explanation": "K = 2πr = 2 × 22/7 × 14 = 88 cm."
+  },
+  {
+    "id": 10,
+    "category": "Statistika",
+    "topic": "Median",
+    "question": "Median dari data: 7, 9, 12, 15, 18, 20, 22 adalah?",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "answer": "B",
+    "explanation": "Data sudah urut, n=7 ganjil, median=data ke-4=15."
+  },
+  {
+    "id": 11,
+    "category": "Soal Cerita",
+    "topic": "Kecepatan",
+    "question": "Sebuah mobil menempuh jarak 180 km dalam 3 jam. Kecepatan rata-ratanya adalah?",
+    "options": {
+      "A": "50 km/jam",
+      "B": "55 km/jam",
+      "C": "60 km/jam",
+      "D": "65 km/jam",
+      "E": "70 km/jam"
+    },
+    "answer": "C",
+    "explanation": "v = s/t = 180/3 = 60 km/jam."
+  },
+  {
+    "id": 12,
+    "category": "Aljabar",
+    "topic": "Sistem Persamaan Linear",
+    "question": "Selesaikan: x + y = 10, x - y = 2. Nilai x dan y adalah?",
+    "options": {
+      "A": "x=5, y=5",
+      "B": "x=6, y=4",
+      "C": "x=7, y=3",
+      "D": "x=8, y=2",
+      "E": "x=9, y=1"
+    },
+    "answer": "B",
+    "explanation": "Jumlah persamaan: 2x=12 → x=6, y=10-6=4."
+  },
+  {
+    "id": 13,
+    "category": "Aritmatika",
+    "topic": "Persentase",
+    "question": "15% dari 240 adalah?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "E": "38"
+    },
+    "answer": "D",
+    "explanation": "240 × 15/100 = 36."
+  },
+  {
+    "id": 14,
+    "category": "Geometri",
+    "topic": "Volume Kubus",
+    "question": "Volume kubus dengan panjang sisi 9 cm adalah?",
+    "options": {
+      "A": "656 cm³",
+      "B": "679 cm³",
+      "C": "700 cm³",
+      "D": "721 cm³",
+      "E": "729 cm³"
+    },
+    "answer": "E",
+    "explanation": "V = s³ = 9³ = 729 cm³."
+  },
+  {
+    "id": 15,
+    "category": "Statistika",
+    "topic": "Modus",
+    "question": "Modus dari data: 5, 6, 7, 5, 8, 9, 5, 6 adalah?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "A",
+    "explanation": "Nilai 5 muncul 3 kali (terbanyak)."
+  },
+  {
+    "id": 16,
+    "category": "Soal Cerita",
+    "topic": "Diskon",
+    "question": "Harga baju Rp200.000 mendapat diskon 20%. Berapa harga setelah diskon?",
+    "options": {
+      "A": "140.000",
+      "B": "150.000",
+      "C": "160.000",
+      "D": "170.000",
+      "E": "180.000"
+    },
+    "answer": "C",
+    "explanation": "Diskon = 20% × 200.000 = 40.000. Harga = 200.000-40.000=160.000."
+  },
+  {
+    "id": 17,
+    "category": "Aljabar",
+    "topic": "Fungsi Linear",
+    "question": "Jika f(x) = 3x - 5, maka f(7) = ?",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "answer": "C",
+    "explanation": "f(7)=3×7-5=21-5=16."
+  },
+  {
+    "id": 18,
+    "category": "Aritmatika",
+    "topic": "Bilangan Prima",
+    "question": "Bilangan prima antara 20 dan 30 adalah?",
+    "options": {
+      "A": "21, 23, 29",
+      "B": "23, 27, 29",
+      "C": "23, 29",
+      "D": "23, 27",
+      "E": "23, 29, 31"
+    },
+    "answer": "C",
+    "explanation": "Bilangan prima: 23 dan 29 (21 habis dibagi 7, 27 habis dibagi 3)."
+  },
+  {
+    "id": 19,
+    "category": "Geometri",
+    "topic": "Luas Segitiga",
+    "question": "Luas segitiga dengan alas 10 cm dan tinggi 12 cm adalah?",
+    "options": {
+      "A": "50 cm²",
+      "B": "55 cm²",
+      "C": "60 cm²",
+      "D": "65 cm²",
+      "E": "70 cm²"
+    },
+    "answer": "C",
+    "explanation": "L = ½ × a × t = ½ × 10 × 12 = 60 cm²."
+  },
+  {
+    "id": 20,
+    "category": "Statistika",
+    "topic": "Interpretasi Grafik",
+    "question": "Jika rata-rata 5 angka adalah 12, dan 4 angka pertama adalah 10, 12, 14, 16, berapa angka ke-5?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "answer": "C",
+    "explanation": "Jumlah total = 5×12=60. Jumlah 4 angka = 10+12+14+16=52. Angka ke-5 = 60-52=8."
+  },
+  {
+    "id": 21,
+    "category": "Soal Cerita",
+    "topic": "Perbandingan",
+    "question": "Perbandingan uang A dan B adalah 3:5. Jika jumlah uang mereka Rp400.000, berapa uang B?",
+    "options": {
+      "A": "150.000",
+      "B": "200.000",
+      "C": "230.000",
+      "D": "250.000",
+      "E": "300.000"
+    },
+    "answer": "D",
+    "explanation": "B = 5/8 × 400.000 = 250.000."
+  },
+  {
+    "id": 22,
+    "category": "Aljabar",
+    "topic": "Penyederhanaan",
+    "question": "Sederhanakan: (x² - 9) / (x - 3) untuk x ≠ 3",
+    "options": {
+      "A": "x - 3",
+      "B": "x + 3",
+      "C": "x - 9",
+      "D": "x + 9",
+      "E": "x² + 3"
+    },
+    "answer": "B",
+    "explanation": "x²-9 = (x-3)(x+3), dibagi (x-3) = x+3."
+  },
+  {
+    "id": 23,
+    "category": "Aritmatika",
+    "topic": "Kelipatan",
+    "question": "Kelipatan persekutuan terkecil (KPK) dari 12 dan 18 adalah?",
+    "options": {
+      "A": "24",
+      "B": "30",
+      "C": "36",
+      "D": "42",
+      "E": "48"
+    },
+    "answer": "C",
+    "explanation": "12=2²×3, 18=2×3², KPK=2²×3²=36."
+  },
+  {
+    "id": 24,
+    "category": "Geometri",
+    "topic": "Teorema Pythagoras",
+    "question": "Panjang sisi miring segitiga siku-siku dengan sisi 6 cm dan 8 cm adalah?",
+    "options": {
+      "A": "8 cm",
+      "B": "9 cm",
+      "C": "10 cm",
+      "D": "11 cm",
+      "E": "12 cm"
+    },
+    "answer": "C",
+    "explanation": "c = √(6²+8²) = √(36+64)=√100=10 cm."
+  },
+  {
+    "id": 25,
+    "category": "Statistika",
+    "topic": "Rata-rata Gabungan",
+    "question": "Rata-rata 10 siswa adalah 70. Jika ditambah 5 siswa dengan rata-rata 80, rata-rata baru adalah?",
+    "options": {
+      "A": "71",
+      "B": "72",
+      "C": "73",
+      "D": "73,33",
+      "E": "75"
+    },
+    "answer": "D",
+    "explanation": "Total nilai=10×70=700, 5×80=400, total=1100, n=15, rata=1100/15=73,33."
+  },
+  {
+    "id": 26,
+    "category": "Soal Cerita",
+    "topic": "Kerja Bersama",
+    "question": "A dapat menyelesaikan pekerjaan dalam 4 jam, B dalam 6 jam. Jika bekerja bersama, berapa jam selesai?",
+    "options": {
+      "A": "2,0",
+      "B": "2,2",
+      "C": "2,4",
+      "D": "2,6",
+      "E": "2,8"
+    },
+    "answer": "C",
+    "explanation": "1/4 + 1/6 = 5/12, waktu = 12/5 = 2,4 jam."
+  },
+  {
+    "id": 27,
+    "category": "Aljabar",
+    "topic": "Persamaan Kuadrat",
+    "question": "Akar-akar dari x² - 7x + 12 = 0 adalah?",
+    "options": {
+      "A": "2 dan 5",
+      "B": "2 dan 6",
+      "C": "3 dan 4",
+      "D": "3 dan 5",
+      "E": "4 dan 5"
+    },
+    "answer": "C",
+    "explanation": "(x-3)(x-4)=0 → x=3 atau x=4."
+  },
+  {
+    "id": 28,
+    "category": "Aritmatika",
+    "topic": "FPB",
+    "question": "Faktor persekutuan terbesar (FPB) dari 24 dan 36 adalah?",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "18"
+    },
+    "answer": "D",
+    "explanation": "24=2³×3, 36=2²×3², FPB=2²×3=12."
+  },
+  {
+    "id": 29,
+    "category": "Geometri",
+    "topic": "Luas Lingkaran",
+    "question": "Luas lingkaran dengan diameter 14 cm (π=22/7) adalah?",
+    "options": {
+      "A": "144 cm²",
+      "B": "150 cm²",
+      "C": "154 cm²",
+      "D": "160 cm²",
+      "E": "168 cm²"
+    },
+    "answer": "C",
+    "explanation": "r=7 cm, L=πr²=22/7 × 7 × 7 = 154 cm²."
+  },
+  {
+    "id": 30,
+    "category": "Statistika",
+    "topic": "Jangkauan",
+    "question": "Jangkauan dari data: 15, 20, 18, 22, 25, 17 adalah?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "answer": "E",
+    "explanation": "Max=25, min=15, range=25-15=10."
+  },
+  {
+    "id": 31,
+    "category": "Soal Cerita",
+    "topic": "Bunga Bank",
+    "question": "Modal Rp1.000.000 dengan bunga 10% per tahun selama 2 tahun (bunga tunggal). Berapa total?",
+    "options": {
+      "A": "1.100.000",
+      "B": "1.150.000",
+      "C": "1.200.000",
+      "D": "1.250.000",
+      "E": "1.300.000"
+    },
+    "answer": "C",
+    "explanation": "Bunga=10%×2×1.000.000=200.000, total=1.200.000."
+  },
+  {
+    "id": 32,
+    "category": "Aljabar",
+    "topic": "Pertidaksamaan Kuadrat",
+    "question": "Himpunan penyelesaian x² - 4x < 0 adalah?",
+    "options": {
+      "A": "x < 0 atau x > 4",
+      "B": "0 < x < 4",
+      "C": "x ≤ 0 atau x ≥ 4",
+      "D": "0 ≤ x ≤ 4",
+      "E": "x > 4"
+    },
+    "answer": "B",
+    "explanation": "x(x-4)<0 → pembuat nol 0 dan 4, daerah antara 0 dan 4 memenuhi."
+  },
+  {
+    "id": 33,
+    "category": "Geometri",
+    "topic": "Volume Balok",
+    "question": "Volume balok dengan panjang 10 cm, lebar 6 cm, tinggi 5 cm adalah?",
+    "options": {
+      "A": "200 cm³",
+      "B": "250 cm³",
+      "C": "280 cm³",
+      "D": "300 cm³",
+      "E": "320 cm³"
+    },
+    "answer": "D",
+    "explanation": "V = p × l × t = 10 × 6 × 5 = 300 cm³."
+  },
+  {
+    "id": 34,
+    "category": "Aritmatika",
+    "topic": "Desimal",
+    "question": "Hasil dari 3,5 × 2,4 adalah?",
+    "options": {
+      "A": "7,2",
+      "B": "7,4",
+      "C": "7,6",
+      "D": "8,0",
+      "E": "8,4"
+    },
+    "answer": "E",
+    "explanation": "35×24=840, desimal: 3,5×2,4=8,40."
+  },
+  {
+    "id": 35,
+    "category": "Statistika",
+    "topic": "Diagram Batang",
+    "question": "Jika data: 10, 12, 12, 14, 15. Maka median dan modus adalah?",
+    "options": {
+      "A": "12 dan 12",
+      "B": "12 dan 14",
+      "C": "13 dan 12",
+      "D": "13 dan 14",
+      "E": "14 dan 12"
+    },
+    "answer": "A",
+    "explanation": "Urutan:10,12,12,14,15. Median=12, modus=12."
+  },
+  {
+    "id": 36,
+    "category": "Soal Cerita",
+    "topic": "Skala",
+    "question": "Pada peta dengan skala 1:200.000, jarak dua kota 5 cm. Jarak sebenarnya?",
+    "options": {
+      "A": "5 km",
+      "B": "8 km",
+      "C": "10 km",
+      "D": "12 km",
+      "E": "15 km"
+    },
+    "answer": "C",
+    "explanation": "Jarak sebenarnya = 5 × 200.000 = 1.000.000 cm = 10 km."
+  },
+  {
+    "id": 37,
+    "category": "Aljabar",
+    "topic": "Fungsi Komposisi",
+    "question": "Jika f(x)=2x+1 dan g(x)=x-3, maka (f∘g)(x)=?",
+    "options": {
+      "A": "2x-5",
+      "B": "2x-4",
+      "C": "2x-2",
+      "D": "2x+1",
+      "E": "2x+3"
+    },
+    "answer": "A",
+    "explanation": "(f∘g)(x)=f(g(x))=2(x-3)+1=2x-6+1=2x-5."
+  },
+  {
+    "id": 38,
+    "category": "Geometri",
+    "topic": "Sudut",
+    "question": "Dua sudut saling berpelurus (suplemen). Jika sudut pertama 65°, sudut kedua adalah?",
+    "options": {
+      "A": "90°",
+      "B": "95°",
+      "C": "105°",
+      "D": "115°",
+      "E": "125°"
+    },
+    "answer": "D",
+    "explanation": "Sudut berpelurus jumlah 180°, maka 180-65=115°."
+  },
+  {
+    "id": 39,
+    "category": "Aritmatika",
+    "topic": "Rasio",
+    "question": "Sederhanakan rasio 45:60",
+    "options": {
+      "A": "2:3",
+      "B": "3:4",
+      "C": "4:5",
+      "D": "5:6",
+      "E": "5:7"
+    },
+    "answer": "B",
+    "explanation": "45:60 dibagi 15 = 3:4."
+  },
+  {
+    "id": 40,
+    "category": "Statistika",
+    "topic": "Kuartil",
+    "question": "Kuartil bawah (Q1) dari data: 5,7,8,9,10,11,14 adalah?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "7,5",
+      "D": "8",
+      "E": "8,5"
+    },
+    "answer": "B",
+    "explanation": "n=7, Q1 posisi ke-(7+1)/4=2 → data ke-2=7."
+  },
+  {
+    "id": 41,
+    "category": "Soal Cerita",
+    "topic": "Usia",
+    "question": "Umur ayah 3 kali umur anak. 5 tahun lagi jumlah umur mereka 50 tahun. Umur anak sekarang?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "12"
+    },
+    "answer": "C",
+    "explanation": "A=3a, (3a+5)+(a+5)=50 → 4a+10=50 → 4a=40 → a=10."
+  },
+  {
+    "id": 42,
+    "category": "Aljabar",
+    "topic": "Eksponen",
+    "question": "Nilai dari 2³ × 2⁴ ÷ 2² = ?",
+    "options": {
+      "A": "16",
+      "B": "24",
+      "C": "28",
+      "D": "32",
+      "E": "36"
+    },
+    "answer": "D",
+    "explanation": "2^(3+4-2)=2⁵=32."
+  },
+  {
+    "id": 43,
+    "category": "Geometri",
+    "topic": "Luas Permukaan Kubus",
+    "question": "Luas permukaan kubus dengan sisi 6 cm adalah?",
+    "options": {
+      "A": "180 cm²",
+      "B": "196 cm²",
+      "C": "200 cm²",
+      "D": "210 cm²",
+      "E": "216 cm²"
+    },
+    "answer": "E",
+    "explanation": "Lp = 6 × s² = 6 × 36 = 216 cm²."
+  },
+  {
+    "id": 44,
+    "category": "Aritmatika",
+    "topic": "Persentase Keuntungan",
+    "question": "Harga beli Rp80.000, harga jual Rp100.000. Persentase keuntungan?",
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "30%",
+      "E": "35%"
+    },
+    "answer": "C",
+    "explanation": "Untung=20.000, persen=20.000/80.000×100%=25%."
+  },
+  {
+    "id": 45,
+    "category": "Statistika",
+    "topic": "Peluang",
+    "question": "Peluang muncul angka genap pada pelemparan dadu adalah?",
+    "options": {
+      "A": "1/6",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "2/3",
+      "E": "5/6"
+    },
+    "answer": "C",
+    "explanation": "Angka genap: 2,4,6 → 3 dari 6 → 3/6=1/2."
+  },
+  {
+    "id": 46,
+    "category": "Soal Cerita",
+    "topic": "Volume",
+    "question": "Sebuah akuarium berukuran 60 cm × 40 cm × 50 cm. Berapa liter air maksimal?",
+    "options": {
+      "A": "90 L",
+      "B": "100 L",
+      "C": "110 L",
+      "D": "120 L",
+      "E": "130 L"
+    },
+    "answer": "D",
+    "explanation": "V=60×40×50=120.000 cm³=120 L."
+  },
+  {
+    "id": 47,
+    "category": "Aljabar",
+    "topic": "Nilai Mutlak",
+    "question": "Nilai x yang memenuhi |x - 3| = 5 adalah?",
+    "options": {
+      "A": "2 dan 8",
+      "B": "-2 dan 8",
+      "C": "3 dan 5",
+      "D": "-2 dan 3",
+      "E": "-8 dan 2"
+    },
+    "answer": "B",
+    "explanation": "x-3=5 → x=8, atau x-3=-5 → x=-2."
+  },
+  {
+    "id": 48,
+    "category": "Geometri",
+    "topic": "Sudut Pusat",
+    "question": "Pada lingkaran, sudut pusat 72°, maka sudut keliling yang menghadap busur yang sama adalah?",
+    "options": {
+      "A": "18°",
+      "B": "24°",
+      "C": "30°",
+      "D": "36°",
+      "E": "45°"
+    },
+    "answer": "D",
+    "explanation": "Sudut keliling = 1/2 × sudut pusat = 36°."
+  },
+  {
+    "id": 49,
+    "category": "Aritmatika",
+    "topic": "Pembagian",
+    "question": "Hasil dari 234 ÷ 6 = ?",
+    "options": {
+      "A": "36",
+      "B": "37",
+      "C": "38",
+      "D": "39",
+      "E": "40"
+    },
+    "answer": "D",
+    "explanation": "6×39=234."
+  },
+  {
+    "id": 50,
+    "category": "Statistika",
+    "topic": "Grafik Garis",
+    "question": "Data penjualan: Jan=100, Feb=150, Mar=120, Apr=180. Kenaikan tertinggi terjadi antara bulan?",
+    "options": {
+      "A": "Jan-Feb",
+      "B": "Feb-Mar",
+      "C": "Mar-Apr",
+      "D": "Jan-Mar",
+      "E": "Feb-Apr"
+    },
+    "answer": "C",
+    "explanation": "Jan-Feb naik 50, Feb-Mar turun 30, Mar-Apr naik 60. Tertinggi Mar-Apr."
+  },
+  {
+    "id": 51,
+    "category": "Soal Cerita",
+    "topic": "Pencampuran",
+    "question": "20 liter larutan garam 10% dicampur 10 liter garam 25%. Konsentrasi campuran?",
+    "options": {
+      "A": "12%",
+      "B": "13%",
+      "C": "14%",
+      "D": "15%",
+      "E": "16%"
+    },
+    "answer": "D",
+    "explanation": "Garam total=20×0,1 + 10×0,25=2+2,5=4,5 liter. Volume total=30 L, persen=4,5/30×100%=15%."
+  },
+  {
+    "id": 52,
+    "category": "Aljabar",
+    "topic": "Sistem Persamaan 3 Variabel",
+    "question": "Diketahui x+y=8, y+z=12, x+z=10. Nilai x+y+z=?",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "15",
+      "D": "16",
+      "E": "18"
+    },
+    "answer": "C",
+    "explanation": "Jumlah semua persamaan: 2(x+y+z)=30 → x+y+z=15."
+  },
+  {
+    "id": 53,
+    "category": "Geometri",
+    "topic": "Keliling Segitiga",
+    "question": "Segitiga sama sisi dengan sisi 12 cm, kelilingnya?",
+    "options": {
+      "A": "30 cm",
+      "B": "32 cm",
+      "C": "34 cm",
+      "D": "36 cm",
+      "E": "38 cm"
+    },
+    "answer": "D",
+    "explanation": "K = 3 × 12 = 36 cm."
+  },
+  {
+    "id": 54,
+    "category": "Aritmatika",
+    "topic": "Faktor Bilangan",
+    "question": "Faktor dari 48 adalah?",
+    "options": {
+      "A": "1,2,3,4,6,8,12,16,24,48",
+      "B": "1,2,3,4,6,8,12,24,48",
+      "C": "1,2,3,4,6,8,12,16,48",
+      "D": "1,2,4,6,8,12,24,48",
+      "E": "1,2,3,4,6,8,12,18,24,48"
+    },
+    "answer": "A",
+    "explanation": "Faktor 48: 1,2,3,4,6,8,12,16,24,48."
+  },
+  {
+    "id": 55,
+    "category": "Statistika",
+    "topic": "Simpangan Rata-rata",
+    "question": "Simpangan rata-rata dari data 4,6,8,10 adalah?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "2,5",
+      "D": "3",
+      "E": "4"
+    },
+    "answer": "B",
+    "explanation": "Rata=7, deviasi:3,1,1,3, total deviasi=8, simpangan=8/4=2."
+  },
+  {
+    "id": 56,
+    "category": "Soal Cerita",
+    "topic": "Geometri Rumah",
+    "question": "Sebidang tanah berbentuk persegi panjang 20 m × 15 m. Di sekelilingnya akan dipasang pagar dengan biaya Rp50.000/m. Total biaya?",
+    "options": {
+      "A": "3,0 juta",
+      "B": "3,2 juta",
+      "C": "3,4 juta",
+      "D": "3,5 juta",
+      "E": "3,7 juta"
+    },
+    "answer": "D",
+    "explanation": "Keliling=2×(20+15)=70 m, biaya=70×50.000=3.500.000."
+  },
+  {
+    "id": 57,
+    "category": "Aljabar",
+    "topic": "Logaritma",
+    "question": "Nilai dari log 1000 (basis 10) adalah?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "10³=1000, maka log₁₀1000=3."
+  },
+  {
+    "id": 58,
+    "category": "Geometri",
+    "topic": "Lingkaran Dalam Segitiga",
+    "question": "Segitiga siku-siku dengan sisi 3,4,5. Jari-jari lingkaran dalamnya?",
+    "options": {
+      "A": "1",
+      "B": "1,5",
+      "C": "2",
+      "D": "2,5",
+      "E": "3"
+    },
+    "answer": "A",
+    "explanation": "r = (a+b-c)/2 = (3+4-5)/2 = 1."
+  },
+  {
+    "id": 59,
+    "category": "Aritmatika",
+    "topic": "Akar Kuadrat",
+    "question": "Hasil dari √144 + √64 = ?",
+    "options": {
+      "A": "16",
+      "B": "18",
+      "C": "20",
+      "D": "22",
+      "E": "24"
+    },
+    "answer": "C",
+    "explanation": "√144=12, √64=8, jumlah=20."
+  },
+  {
+    "id": 60,
+    "category": "Statistika",
+    "topic": "Probabilitas",
+    "question": "Dua dadu dilempar. Peluang jumlah mata dadu 7 adalah?",
+    "options": {
+      "A": "1/6",
+      "B": "5/36",
+      "C": "1/5",
+      "D": "1/4",
+      "E": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Kombinasi jumlah 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1)=6 dari 36=1/6."
+  },
+  {
+    "id": 61,
+    "category": "Soal Cerita",
+    "topic": "Investasi",
+    "question": "Andi menabung Rp2.000.000 dengan bunga majemuk 5% per tahun. Setelah 2 tahun, berapa uangnya?",
+    "options": {
+      "A": "2.100.000",
+      "B": "2.150.000",
+      "C": "2.200.000",
+      "D": "2.205.000",
+      "E": "2.250.000"
+    },
+    "answer": "D",
+    "explanation": "M=2.000.000×(1,05)²=2.000.000×1,1025=2.205.000."
+  },
+  {
+    "id": 62,
+    "category": "Aljabar",
+    "topic": "Barisan Aritmatika",
+    "question": "Suku ke-10 dari barisan 5, 9, 13, 17, ... adalah?",
+    "options": {
+      "A": "37",
+      "B": "39",
+      "C": "41",
+      "D": "43",
+      "E": "45"
+    },
+    "answer": "C",
+    "explanation": "a=5, b=4, Un=5+(n-1)×4, U10=5+36=41."
+  },
+  {
+    "id": 63,
+    "category": "Geometri",
+    "topic": "Transformasi",
+    "question": "Titik (3,4) dicerminkan terhadap garis y=x, bayangannya?",
+    "options": {
+      "A": "(3,4)",
+      "B": "(4,3)",
+      "C": "(-3,4)",
+      "D": "(3,-4)",
+      "E": "(-3,-4)"
+    },
+    "answer": "B",
+    "explanation": "Refleksi y=x: (a,b) → (b,a)."
+  },
+  {
+    "id": 64,
+    "category": "Aritmatika",
+    "topic": "Perpangkatan",
+    "question": "Nilai dari (8² × 2³) / 4³ = ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "8",
+      "E": "16"
+    },
+    "answer": "D",
+    "explanation": "8²=64, 2³=8, 64×8=512. 4³=64, 512/64=8. Atau: (2³)²×2³=2⁶×2³=2⁹, 4³=(2²)³=2⁶, 2⁹/2⁶=2³=8."
+  },
+  {
+    "id": 65,
+    "category": "Statistika",
+    "topic": "Tabel Distribusi",
+    "question": "Jika frekuensi: 5-9(3), 10-14(7), 15-19(10), 20-24(5). Jumlah data?",
+    "options": {
+      "A": "20",
+      "B": "23",
+      "C": "25",
+      "D": "27",
+      "E": "30"
+    },
+    "answer": "C",
+    "explanation": "3+7+10+5=25."
+  },
+  {
+    "id": 66,
+    "category": "Soal Cerita",
+    "topic": "Jarak Waktu",
+    "question": "Kereta A kecepatan 60 km/jam, kereta B 80 km/jam berangkat bersamaan berlawanan arah dari jarak 280 km. Kapan bertemu?",
+    "options": {
+      "A": "1 jam",
+      "B": "1,5 jam",
+      "C": "2 jam",
+      "D": "2,5 jam",
+      "E": "3 jam"
+    },
+    "answer": "C",
+    "explanation": "Kecepatan relatif=140 km/jam, waktu=280/140=2 jam."
+  },
+  {
+    "id": 67,
+    "category": "Aljabar",
+    "topic": "Deret Geometri",
+    "question": "Jumlah 4 suku pertama dari deret 3,6,12,24,... adalah?",
+    "options": {
+      "A": "42",
+      "B": "43",
+      "C": "44",
+      "D": "45",
+      "E": "46"
+    },
+    "answer": "D",
+    "explanation": "a=3, r=2, S4=3×(2⁴-1)/(2-1)=3×15=45."
+  },
+  {
+    "id": 68,
+    "category": "Geometri",
+    "topic": "Luas Juring",
+    "question": "Juring lingkaran dengan sudut 60°, jari-jari 14 cm (π=22/7). Luas juring?",
+    "options": {
+      "A": "92,4 cm²",
+      "B": "94,6 cm²",
+      "C": "96,8 cm²",
+      "D": "98,2 cm²",
+      "E": "102,7 cm²"
+    },
+    "answer": "E",
+    "explanation": "Luas juring = (60/360)×πr² = 1/6 × 22/7 × 14 × 14 = 1/6 × 616 = 102,67 cm²."
+  },
+  {
+    "id": 69,
+    "category": "Aritmatika",
+    "topic": "Bilangan Bulat",
+    "question": "Hasil dari (-4) × (-6) + (-15) ÷ 3 = ?",
+    "options": {
+      "A": "19",
+      "B": "21",
+      "C": "23",
+      "D": "25",
+      "E": "27"
+    },
+    "answer": "A",
+    "explanation": "(-4)×(-6)=24, (-15)÷3=-5, 24+(-5)=19."
+  },
+  {
+    "id": 70,
+    "category": "Statistika",
+    "topic": "Korelasi",
+    "question": "Jika nilai x naik, nilai y cenderung turun. Jenis korelasi?",
+    "options": {
+      "A": "Positif",
+      "B": "Negatif",
+      "C": "Tidak berkorelasi",
+      "D": "Nonlinear",
+      "E": "Kausal"
+    },
+    "answer": "B",
+    "explanation": "Korelasi negatif: satu naik, lain turun."
+  },
+  {
+    "id": 71,
+    "category": "Soal Cerita",
+    "topic": "Pekerjaan",
+    "question": "8 orang selesai dalam 6 hari. Jika dikerjakan 12 orang, berapa hari?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "answer": "B",
+    "explanation": "8×6=48, 48/12=4 hari."
+  },
+  {
+    "id": 72,
+    "category": "Aljabar",
+    "topic": "Fungsi Kuadrat",
+    "question": "Titik puncak dari y = x² - 4x + 3 adalah?",
+    "options": {
+      "A": "(-2,-1)",
+      "B": "(2,-1)",
+      "C": "(2,1)",
+      "D": "(-2,1)",
+      "E": "(1,-2)"
+    },
+    "answer": "B",
+    "explanation": "x=-b/2a=4/2=2, y=2²-8+3=-1."
+  },
+  {
+    "id": 73,
+    "category": "Geometri",
+    "topic": "Bangun Ruang Tabung",
+    "question": "Volume tabung dengan jari-jari 7 cm dan tinggi 10 cm (π=22/7) adalah?",
+    "options": {
+      "A": "1.440 cm³",
+      "B": "1.500 cm³",
+      "C": "1.540 cm³",
+      "D": "1.580 cm³",
+      "E": "1.620 cm³"
+    },
+    "answer": "C",
+    "explanation": "V=πr²t=22/7×7×7×10=154×10=1.540 cm³."
+  },
+  {
+    "id": 74,
+    "category": "Aritmatika",
+    "topic": "Persentase Kerugian",
+    "question": "Harga jual Rp60.000, rugi 25%. Harga beli?",
+    "options": {
+      "A": "70.000",
+      "B": "75.000",
+      "C": "80.000",
+      "D": "85.000",
+      "E": "90.000"
+    },
+    "answer": "C",
+    "explanation": "60.000 = 75% HB → HB = 60.000/0,75=80.000."
+  },
+  {
+    "id": 75,
+    "category": "Statistika",
+    "topic": "Ragam (Variansi)",
+    "question": "Variansi data 4,6,8,10 adalah?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "answer": "B",
+    "explanation": "Rata=7, selisih:-3,-1,1,3 kuadrat:9,1,1,9 jumlah=20, variansi=20/4=5."
+  },
+  {
+    "id": 76,
+    "category": "Soal Cerita",
+    "topic": "Kombinatorik Sederhana",
+    "question": "Dalam suatu kelas, 3 siswa akan dipilih menjadi pengurus. Jika ada 10 siswa, berapa cara?",
+    "options": {
+      "A": "100",
+      "B": "110",
+      "C": "115",
+      "D": "120",
+      "E": "125"
+    },
+    "answer": "D",
+    "explanation": "C(10,3)=10×9×8/3×2×1=120."
+  },
+  {
+    "id": 77,
+    "category": "Aljabar",
+    "topic": "Persamaan Linear 2 Variabel",
+    "question": "Dari 2x+3y=16 dan x-y=3, nilai x = ?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "answer": "A",
+    "explanation": "x=y+3, substitusi:2(y+3)+3y=16 → 2y+6+3y=16 → 5y=10 → y=2, x=5."
+  },
+  {
+    "id": 78,
+    "category": "Geometri",
+    "topic": "Luas Permukaan Tabung",
+    "question": "Luas permukaan tabung tanpa tutup (r=7 cm, t=10 cm, π=22/7) adalah?",
+    "options": {
+      "A": "528 cm²",
+      "B": "594 cm²",
+      "C": "660 cm²",
+      "D": "748 cm²",
+      "E": "814 cm²"
+    },
+    "answer": "B",
+    "explanation": "Lp (tanpa tutup)=πr²+2πrt = 154 + 2×22/7×7×10 = 154 + 440 = 594 cm²."
+  },
+  {
+    "id": 79,
+    "category": "Aritmatika",
+    "topic": "Urutan Bilangan",
+    "question": "Urutan dari terkecil: 0,45 ; 3/4 ; 0,7 ; 2/3",
+    "options": {
+      "A": "0,45 ; 0,7 ; 2/3 ; 3/4",
+      "B": "0,45 ; 2/3 ; 0,7 ; 3/4",
+      "C": "0,7 ; 0,45 ; 2/3 ; 3/4",
+      "D": "2/3 ; 0,45 ; 0,7 ; 3/4",
+      "E": "3/4 ; 0,7 ; 2/3 ; 0,45"
+    },
+    "answer": "B",
+    "explanation": "0,45=0,45, 3/4=0,75, 0,7=0,7, 2/3=0,666. Urutan:0,45 ; 0,666 ; 0,7 ; 0,75."
+  },
+  {
+    "id": 80,
+    "category": "Statistika",
+    "topic": "Histogram",
+    "question": "Jika kelas interval 0-10, 11-20, 21-30, titik tengah kelas pertama?",
+    "options": {
+      "A": "4",
+      "B": "4,5",
+      "C": "5",
+      "D": "5,5",
+      "E": "6"
+    },
+    "answer": "C",
+    "explanation": "Titik tengah = (0+10)/2=5."
+  },
+  {
+    "id": 81,
+    "category": "Soal Cerita",
+    "topic": "Perbandingan Senilai",
+    "question": "Harga 5 kg telur Rp60.000. Berapa harga 8 kg telur?",
+    "options": {
+      "A": "84.000",
+      "B": "88.000",
+      "C": "92.000",
+      "D": "96.000",
+      "E": "100.000"
+    },
+    "answer": "D",
+    "explanation": "Harga per kg=60.000/5=12.000, 8 kg=96.000."
+  },
+  {
+    "id": 82,
+    "category": "Aljabar",
+    "topic": "Pangkat Negatif",
+    "question": "Nilai dari 2⁻³ adalah?",
+    "options": {
+      "A": "1/4",
+      "B": "1/6",
+      "C": "1/8",
+      "D": "1/9",
+      "E": "1/12"
+    },
+    "answer": "C",
+    "explanation": "2⁻³ = 1/2³ = 1/8."
+  },
+  {
+    "id": 83,
+    "category": "Geometri",
+    "topic": "Sudut Segitiga",
+    "question": "Segitiga dengan sudut 2x, 3x, 4x. Nilai x?",
+    "options": {
+      "A": "15°",
+      "B": "18°",
+      "C": "20°",
+      "D": "24°",
+      "E": "30°"
+    },
+    "answer": "C",
+    "explanation": "2x+3x+4x=9x=180 → x=20°."
+  },
+  {
+    "id": 84,
+    "category": "Aritmatika",
+    "topic": "Pembulatan",
+    "question": "45,678 dibulatkan ke satu desimal menjadi?",
+    "options": {
+      "A": "45,6",
+      "B": "45,7",
+      "C": "45,8",
+      "D": "45,9",
+      "E": "46"
+    },
+    "answer": "B",
+    "explanation": "Angka desimal kedua=7 ≥5, maka 45,7."
+  },
+  {
+    "id": 85,
+    "category": "Statistika",
+    "topic": "Nilai Tengah",
+    "question": "Nilai tengah dari data berkelompok 10-19, 20-29, 30-39 adalah interval?",
+    "options": {
+      "A": "10-19",
+      "B": "20-29",
+      "C": "30-39",
+      "D": "15-24",
+      "E": "25-34"
+    },
+    "answer": "B",
+    "explanation": "Nilai tengah dari 3 interval adalah interval ke-2 yaitu 20-29."
+  },
+  {
+    "id": 86,
+    "category": "Soal Cerita",
+    "topic": "Bilangan Bulat",
+    "question": "Jumlah dua bilangan genap berurutan adalah 86. Bilangan terbesarnya?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "46",
+      "E": "48"
+    },
+    "answer": "C",
+    "explanation": "n+(n+2)=86 → 2n=84 → n=42, terbesar=44."
+  },
+  {
+    "id": 87,
+    "category": "Aljabar",
+    "topic": "Domain Fungsi",
+    "question": "Domain dari f(x)=√(x-3) adalah?",
+    "options": {
+      "A": "x ≥ 0",
+      "B": "x ≥ 3",
+      "C": "x > 3",
+      "D": "x ≤ 3",
+      "E": "x < 3"
+    },
+    "answer": "B",
+    "explanation": "Syarat dalam akar ≥0 → x-3 ≥0 → x ≥3."
+  },
+  {
+    "id": 88,
+    "category": "Geometri",
+    "topic": "Diagonal Persegi",
+    "question": "Panjang diagonal persegi dengan sisi 8 cm adalah?",
+    "options": {
+      "A": "8√2 cm",
+      "B": "8√3 cm",
+      "C": "10√2 cm",
+      "D": "12 cm",
+      "E": "16 cm"
+    },
+    "answer": "A",
+    "explanation": "Diagonal = s√2 = 8√2 cm."
+  },
+  {
+    "id": 89,
+    "category": "Aritmatika",
+    "topic": "Konversi Pecahan",
+    "question": "0,444... sebagai pecahan adalah?",
+    "options": {
+      "A": "2/5",
+      "B": "4/9",
+      "C": "4/10",
+      "D": "4/8",
+      "E": "4/11"
+    },
+    "answer": "B",
+    "explanation": "0,444... = 4/9."
+  },
+  {
+    "id": 90,
+    "category": "Soal Cerita",
+    "topic": "Sistem Persamaan",
+    "question": "Harga 2 kg jeruk dan 3 kg apel = Rp65.000. Harga 1 kg jeruk = 2/3 harga 1 kg apel. Berapa harga 1 kg apel?",
+    "options": {
+      "A": "10.000",
+      "B": "12.000",
+      "C": "13.000",
+      "D": "14.000",
+      "E": "15.000"
+    },
+    "answer": "E",
+    "explanation": "Misal J = harga jeruk/kg, A = harga apel/kg. J = 2/3 A. 2J + 3A = 65.000 → 2(2/3 A) + 3A = 4/3 A + 3A = 4/3 A + 9/3 A = 13/3 A = 65.000 → A = 65.000 × 3/13 = 195.000/13 = 15.000."
+  }
+]
