@@ -1,0 +1,139 @@
+{
+  "testType": "TOEFL iBT (Internet-Based Test)",
+  "totalScoreRange": "0–120",
+  "sections": [
+    {
+      "sectionName": "Reading",
+      "scoreContribution": 30,
+      "timeLimitMinutes": 54,
+      "instructions": "Baca teks berikut, lalu jawab pertanyaan berdasarkan informasi dalam teks.",
+      "passages": [
+        {
+          "title": "The Rise of Urban Farming",
+          "text": "Urban farming has gained popularity as cities face food security and environmental challenges. Rooftop gardens, vertical farms, and community plots allow residents to grow fresh produce locally. Studies show that urban agriculture can reduce food miles, lower carbon emissions, and improve access to nutritious food. However, challenges such as high startup costs and limited space remain significant barriers.",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "questionType": "multiple choice",
+              "questionText": "According to the passage, what is ONE benefit of urban farming?",
+              "options": [
+                "It eliminates all food transportation",
+                "It reduces carbon emissions",
+                "It requires no investment",
+                "It increases food miles"
+              ],
+              "correctAnswer": "It reduces carbon emissions"
+            },
+            {
+              "questionNumber": 2,
+              "questionType": "multiple choice",
+              "questionText": "What is mentioned as a barrier to urban farming?",
+              "options": [
+                "Too much sunlight",
+                "Lack of interest from residents",
+                "High startup costs",
+                "Excessive rainfall"
+              ],
+              "correctAnswer": "High startup costs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Listening",
+      "scoreContribution": 30,
+      "timeLimitMinutes": 41,
+      "instructions": "Dengarkan rekaman audio (transkrip disediakan untuk pengembangan simulasi). Lalu jawab pertanyaan.",
+      "audioTranscripts": [
+        {
+          "title": "Lecture on Marine Biology",
+          "transcript": "Professor: Today we're discussing the importance of coral reefs. Often called the 'rainforests of the sea,' coral reefs occupy less than 1% of the ocean floor but support over 25% of marine species. Unfortunately, rising sea temperatures cause coral bleaching, which can lead to reef death. Student: What happens after bleaching? Professor: If temperatures remain high, the coral expels algae living in its tissues, turning completely white and eventually dying.",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "questionType": "multiple choice",
+              "questionText": "What percentage of marine species do coral reefs support?",
+              "options": [
+                "Less than 1%",
+                "About 10%",
+                "Over 25%",
+                "Almost 50%"
+              ],
+              "correctAnswer": "Over 25%"
+            },
+            {
+              "questionNumber": 2,
+              "questionType": "multiple choice",
+              "questionText": "What causes coral bleaching according to the lecture?",
+              "options": [
+                "Pollution from ships",
+                "Rising sea temperatures",
+                "Overfishing",
+                "Increased sunlight"
+              ],
+              "correctAnswer": "Rising sea temperatures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Speaking",
+      "scoreContribution": 30,
+      "timeLimitMinutes": 17,
+      "instructions": "Rekam jawaban Anda untuk setiap pertanyaan. Usahakan berbicara dengan jelas dan terstruktur.",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "preparationSeconds": 15,
+          "responseSeconds": 45,
+          "questionText": "Describe a book that has influenced you greatly. Why did it have such an impact?",
+          "rubricCriteria": [
+            "Keterbacaan dan pengucapan",
+            "Kelancaran berbicara",
+            "Penggunaan tata bahasa dan kosakata",
+            "Relevansi dan pengembangan ide"
+          ]
+        },
+        {
+          "taskNumber": 2,
+          "preparationSeconds": 15,
+          "responseSeconds": 45,
+          "questionText": "Some people think that students should wear uniforms to school. Others believe in free dress codes. Which view do you agree with and why?",
+          "rubricCriteria": [
+            "Keterbacaan dan pengucapan",
+            "Kelancaran berbicara",
+            "Penggunaan tata bahasa dan kosakata",
+            "Relevansi dan pengembangan ide"
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Writing",
+      "scoreContribution": 30,
+      "timeLimitMinutes": 50,
+      "instructions": "Tulis jawaban Anda di lembar terpisah. Pastikan esai terstruktur dengan baik.",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "taskType": "Integrated Writing",
+          "timeLimitMinutes": 20,
+          "readingText": "Many schools are considering a four-day school week to reduce costs. Proponents argue that it saves money on utilities and transportation, and gives students an extra day for rest or work.",
+          "listeningSummary": "(Listening counter-argument - simulasi) The professor argues that a four-day week may not save significant money because schools are often used for other activities. Also, longer days can lead to student fatigue and lower learning outcomes.",
+          "questionText": "Summarize the points made in the lecture, explaining how they challenge the points made in the reading passage.",
+          "recommendedWordCount": "150–225 words"
+        },
+        {
+          "taskNumber": 2,
+          "taskType": "Independent Writing",
+          "timeLimitMinutes": 30,
+          "questionText": "Do you agree or disagree with the following statement? 'The best way to learn about a country is by traveling there.' Use specific reasons and examples to support your answer.",
+          "recommendedWordCount": "300–350 words"
+        }
+      ]
+    }
+  ],
+  "notes": "Format ini dapat dikembangkan lebih lanjut dengan menambahkan lebih banyak soal, audio file riil untuk listening, dan sistem timer otomatis. Untuk TOEFL ITP, cukup ambil bagian Listening, Structure, dan Reading. Untuk TOEFL Essentials dan Junior/Primary, sesuaikan tingkat kesulitan teks dan kosakata."
+}
